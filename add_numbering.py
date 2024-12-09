@@ -14,6 +14,10 @@ def _get_adj_sequence_numbering(sequence, scheme):
 
     adj_seq_numbering = []
     j = 0
+    l = [(a, b, c) for  ((a,b), c) in numbering if b != ' ']
+    if len(l):
+        pass
+
     for i, r1 in enumerate(sequence):
         while True:
             err_msg = ()
@@ -21,16 +25,17 @@ def _get_adj_sequence_numbering(sequence, scheme):
                     logger.warning(
                         f"Residue {r1} at position {i} is beyond the sequence "
                        "returned from ANARCI")
-                    adj_seq_numbering.append(None)
+                    adj_seq_numbering.append((None, None))
                     break
             (pos, ins), r2 = numbering[j]
             if ins != ' ' or r1 == r2:
-                adj_seq_numbering.append(pos - 1)
+                ins = ins.strip()
+                adj_seq_numbering.append((pos - 1, ins if len(ins) else None))
                 j += 1
                 break
             elif r2 != "-":
                 logger.warning(f"Unrecognized residue {r1} at position {i}")
-                adj_seq_numbering.append(None)
+                adj_seq_numbering.append((None, None))
                 break
             else:
                 j += 1
@@ -59,9 +64,9 @@ with engine.connect() as conn:
             if chain_type != chain:
                 raise Exception("ANARCI chain mismatch: {chain_type}  {row.chain}")
 
-            for seq_pos, anarci_pos in enumerate(adj_seq_numbering):
-                logger.debug(f"{row.iden_code}, {chain}, {seq_pos}, {anarci_pos}")
-                conn.execute(update_cmd, {"iden_code": row.iden_code, "chain": chain, "anarci_pos": anarci_pos, "seq_pos": seq_pos})
+            for seq_pos, (anarci_pos, anarci_ins) in enumerate(adj_seq_numbering):
+                logger.debug(f"{row.iden_code}, {chain}, {seq_pos}, {anarci_pos} {anarci_ins}")
+                conn.execute(update_cmd, {"iden_code": row.iden_code, "chain": chain, "anarci_pos": anarci_pos, "anarci_ins": anarci_ins, "seq_pos": seq_pos})
             conn.commit()
 
 
