@@ -50,10 +50,18 @@ logging.basicConfig(level=logging.INFO)
 
 engine = sqlalchemy.create_engine('sqlite:///vcab.db', echo=False)
 with engine.connect() as conn:
-    conn.execute(sqlalchemy.text("alter table mapping add column anarci_pos int"))
-    conn.execute(sqlalchemy.text("alter table mapping add anarci_ins char(1)"))
+    insp = sqlalchemy.inspect(engine)
+    columns = [c["name"] for c in insp.get_columns("mapping")]
+    if not "anarci_pos" in columns:
+        conn.execute(sqlalchemy.text("alter table mapping add column anarci_pos int"))
+    else:
+        conn.execute(sqlalchemy.text("update mapping set anarci_pos = NULL"))
 
-    #conn.execute(sqlalchemy.text("update mapping set anarci_pos = NULL"))
+    if not "anarci_ins" in columns:
+        conn.execute(sqlalchemy.text("alter table mapping add anarci_ins char(1)"))
+    else:
+        conn.execute(sqlalchemy.text("update mapping set anarci_ins = NULL"))
+
     conn.commit()
 
     update_cmd = sqlalchemy.text("update mapping set anarci_pos = :anarci_pos, anarci_ins = :anarci_ins where iden_code = :iden_code and chain = :chain and text_numbering = :seq_pos")
