@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO)
 
 # https://www.imgt.org/IMGTScientificChart/Nomenclature/IMGT-FRCDRdefinition.html
-CDR3_range = [105, 117]
+#CDR3_range = [105, 117]
 
 insert_missing_residues = True
 
@@ -120,7 +120,7 @@ duplicates = df['sequence_HL'].duplicated()
 logger.info(f"Removing duplicated sequences: {len(df[duplicates])}")
 df = df[~duplicates]
 
-df = df.reset_index()
+#df = df.reset_index()
 
 # Ignore rows having one or more null labels
 #df_filtered = df[~df['labels'].str.contains('NULL', case=False, na=False)]
