@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6pwc_HL-LA_A-6pwc_HL-LA_L.1" "ARG" "A" 7 "-" 8.3 0 8.29
+"6pwc_HL-LA_A-6pwc_HL-LA_L.381" "SER" "L" 31 "-" 0.9 3.07 3.97
+"6pwc_HL-LA_A-6pwc_HL-LA_L.382" "SER" "L" 32 "-" 1.21 0 1.21

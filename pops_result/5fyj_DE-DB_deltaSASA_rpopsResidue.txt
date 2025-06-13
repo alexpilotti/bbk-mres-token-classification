@@ -1,0 +1,27 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5fyj_DE-DB_B-5fyj_DE-DB_D.15" "ALA" "B" 526 "-" 0 0.1 0.1
+"5fyj_DE-DB_B-5fyj_DE-DB_D.16" "GLY" "B" 527 "-" 7.63 14.33 21.95
+"5fyj_DE-DB_B-5fyj_DE-DB_D.17" "SER" "B" 528 "-" 1.81 0.94 2.75
+"5fyj_DE-DB_B-5fyj_DE-DB_D.18" "THR" "B" 529 "-" 7.83 2.22 10.05
+"5fyj_DE-DB_B-5fyj_DE-DB_D.21" "ALA" "B" 532 "-" 1.25 0.01 1.26
+"5fyj_DE-DB_B-5fyj_DE-DB_D.109" "SER" "B" 620 "-" 4.62 7.07 11.67
+"5fyj_DE-DB_B-5fyj_DE-DB_D.110" "GLU" "B" 621 "-" 0.76 0.22 0.98
+"5fyj_DE-DB_B-5fyj_DE-DB_D.112" "TRP" "B" 623 "-" 0 0.07 0.06
+"5fyj_DE-DB_B-5fyj_DE-DB_D.113" "ASP" "B" 624 "-" 12.97 29.71 42.68
+"5fyj_DE-DB_B-5fyj_DE-DB_D.114" "ASN" "B" 625 "-" 8.13 30.96 39.09
+"5fyj_DE-DB_B-5fyj_DE-DB_D.115" "LEU" "B" 626 "-" 0.13 0.19 0.32
+"5fyj_DE-DB_B-5fyj_DE-DB_D.116" "THR" "B" 627 "-" 8.4 2.47 10.86
+"5fyj_DE-DB_B-5fyj_DE-DB_D.118" "VAL" "B" 629 "-" 20.95 0.7 21.66
+"5fyj_DE-DB_B-5fyj_DE-DB_D.119" "GLU" "B" 630 "-" 14.02 21.95 35.97
+"5fyj_DE-DB_B-5fyj_DE-DB_D.120" "TRP" "B" 631 "-" 0 0.01 0.01
+"5fyj_DE-DB_B-5fyj_DE-DB_D.122" "ARG" "B" 633 "-" 14.79 53.35 68.13
+"5fyj_DE-DB_B-5fyj_DE-DB_D.185" "PHE" "D" 31 "-" 7.41 0 7.41
+"5fyj_DE-DB_B-5fyj_DE-DB_D.186" "TYR" "D" 32 "-" 2.02 10.23 12.25
+"5fyj_DE-DB_B-5fyj_DE-DB_D.234" "SER" "D" 72 "G" 6.33 6.58 12.91
+"5fyj_DE-DB_B-5fyj_DE-DB_D.235" "PHE" "D" 72 "H" 85.02 0.06 85.08
+"5fyj_DE-DB_B-5fyj_DE-DB_D.260" "LYS" "D" 94 "-" 0 0.03 0.03
+"5fyj_DE-DB_B-5fyj_DE-DB_D.262" "LEU" "D" 96 "-" 0.04 0.79 0.83
+"5fyj_DE-DB_B-5fyj_DE-DB_D.263" "LEU" "D" 97 "-" 45.89 0.08 45.96
+"5fyj_DE-DB_B-5fyj_DE-DB_D.264" "ARG" "D" 98 "-" 18.65 32.91 51.57
+"5fyj_DE-DB_B-5fyj_DE-DB_D.265" "ASP" "D" 99 "-" 26.56 24.69 51.25
+"5fyj_DE-DB_B-5fyj_DE-DB_D.266" "GLY" "D" 100 "-" 3.04 0.94 3.98

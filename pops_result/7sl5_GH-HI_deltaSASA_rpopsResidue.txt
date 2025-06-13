@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7sl5_GH-HI_H-7sl5_GH-HI_I.94" "TYR" "H" 94 "-" 8.22 7.83 16.04
+"7sl5_GH-HI_H-7sl5_GH-HI_I.95" "PRO" "H" 95 "-" 54.3 0.77 55.07
+"7sl5_GH-HI_H-7sl5_GH-HI_I.226" "LEU" "I" 822 "-" 60.12 3.07 63.18
+"7sl5_GH-HI_H-7sl5_GH-HI_I.227" "PHE" "I" 823 "-" 44.51 0.99 45.5

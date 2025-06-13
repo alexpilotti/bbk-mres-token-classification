@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5hbt_DC-CB_B-5hbt_DC-CB_C.24" "GLU" "B" 23 "-" 0.99 3.94 4.93
+"5hbt_DC-CB_B-5hbt_DC-CB_C.64" "TYR" "B" 63 "-" 10.4 10.72 21.12
+"5hbt_DC-CB_B-5hbt_DC-CB_C.67" "LYS" "B" 66 "-" 24.01 10.76 34.77
+"5hbt_DC-CB_B-5hbt_DC-CB_C.68" "TRP" "B" 67 "-" 0.37 1.1 1.47
+"5hbt_DC-CB_B-5hbt_DC-CB_C.69" "ASN" "B" 68 "-" 12.33 46.23 58.56
+"5hbt_DC-CB_B-5hbt_DC-CB_C.70" "PRO" "B" 69 "-" 4.77 0.07 4.85
+"5hbt_DC-CB_B-5hbt_DC-CB_C.71" "ASP" "B" 70 "-" 17.45 34.15 51.6
+"5hbt_DC-CB_B-5hbt_DC-CB_C.72" "ASP" "B" 71 "-" 3.53 19.04 22.56
+"5hbt_DC-CB_B-5hbt_DC-CB_C.113" "TYR" "B" 112 "-" 5.88 4.25 10.13
+"5hbt_DC-CB_B-5hbt_DC-CB_C.213" "ASP" "C" 1 "-" 1.24 7.38 8.62
+"5hbt_DC-CB_B-5hbt_DC-CB_C.242" "ASP" "C" 30 "-" 3.79 12.68 16.47
+"5hbt_DC-CB_B-5hbt_DC-CB_C.244" "TYR" "C" 32 "-" 8.52 22.87 31.4
+"5hbt_DC-CB_B-5hbt_DC-CB_C.262" "LYS" "C" 50 "-" 1.51 10.29 11.79
+"5hbt_DC-CB_B-5hbt_DC-CB_C.302" "GLN" "C" 90 "-" 0 0.12 0.12
+"5hbt_DC-CB_B-5hbt_DC-CB_C.303" "TYR" "C" 91 "-" 0.86 3.64 4.5
+"5hbt_DC-CB_B-5hbt_DC-CB_C.304" "ILE" "C" 92 "-" 11.28 16.05 27.32
+"5hbt_DC-CB_B-5hbt_DC-CB_C.305" "ASN" "C" 93 "-" 8.09 17.73 25.82
+"5hbt_DC-CB_B-5hbt_DC-CB_C.306" "GLY" "C" 94 "-" 11.78 6.04 17.81
+"5hbt_DC-CB_B-5hbt_DC-CB_C.307" "TYR" "C" 95 "-" 37.25 26.95 64.21

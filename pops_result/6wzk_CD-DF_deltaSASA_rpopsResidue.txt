@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6wzk_CD-DF_D-6wzk_CD-DF_F.91" "ASN" "D" 91 "-" 3.24 10.47 13.71
+"6wzk_CD-DF_D-6wzk_CD-DF_F.92" "ASN" "D" 92 "-" 2.43 18.04 20.48
+"6wzk_CD-DF_D-6wzk_CD-DF_F.93" "GLU" "D" 93 "-" 15.72 10.29 26
+"6wzk_CD-DF_D-6wzk_CD-DF_F.94" "TRP" "D" 94 "-" 128.43 19.23 147.66
+"6wzk_CD-DF_D-6wzk_CD-DF_F.95" "PRO" "D" 95 "-" 4.89 0.31 5.2
+"6wzk_CD-DF_D-6wzk_CD-DF_F.96" "GLU" "D" 96 "-" 0 0.32 0.32
+"6wzk_CD-DF_D-6wzk_CD-DF_F.216" "LEU" "FALSE" 7 "-" 51.83 8.8 60.63
+"6wzk_CD-DF_D-6wzk_CD-DF_F.217" "ARG" "FALSE" 8 "-" 51.24 71.06 122.3
+"6wzk_CD-DF_D-6wzk_CD-DF_F.218" "CYS" "FALSE" 9 "-" 11.08 4.46 15.54
+"6wzk_CD-DF_D-6wzk_CD-DF_F.219" "GLN" "FALSE" 10 "-" 0 0.05 0.05
+"6wzk_CD-DF_D-6wzk_CD-DF_F.242" "PRO" "FALSE" 33 "-" 0.03 0.33 0.36
+"6wzk_CD-DF_D-6wzk_CD-DF_F.243" "HIS" "FALSE" 34 "-" 25.3 17.1 42.4
+"6wzk_CD-DF_D-6wzk_CD-DF_F.244" "CYS" "FALSE" 35 "-" 2.15 0.41 2.56

@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3mnz_BA-AP_P-3mnz_BA-AP_A.2" "ALA" "P" 657 "-" 0 0.19 0.19
+"3mnz_BA-AP_P-3mnz_BA-AP_A.5" "LEU" "P" 660 "-" 10.78 0.32 11.11
+"3mnz_BA-AP_P-3mnz_BA-AP_A.6" "LEU" "P" 661 "-" 70.1 0.74 70.84
+"3mnz_BA-AP_P-3mnz_BA-AP_A.7" "GLU" "P" 662 "-" 0 0.37 0.38
+"3mnz_BA-AP_P-3mnz_BA-AP_A.9" "ASP" "P" 664 "-" 15.55 26.93 42.48
+"3mnz_BA-AP_P-3mnz_BA-AP_A.10" "LYS" "P" 665 "-" 16.1 11.3 27.4
+"3mnz_BA-AP_P-3mnz_BA-AP_A.11" "TRP" "P" 666 "-" 0 0.02 0.02
+"3mnz_BA-AP_P-3mnz_BA-AP_A.12" "ALA" "P" 667 "-" 0.05 0 0.04
+"3mnz_BA-AP_P-3mnz_BA-AP_A.13" "SER" "P" 668 "-" 17.16 9.6 26.77
+"3mnz_BA-AP_P-3mnz_BA-AP_A.14" "LEU" "P" 669 "-" 4.99 0 5
+"3mnz_BA-AP_P-3mnz_BA-AP_A.51" "ASN" "A" 30 "D" 5.72 8.39 14.1
+"3mnz_BA-AP_P-3mnz_BA-AP_A.53" "ARG" "A" 30 "F" 6.98 57.87 64.86
+"3mnz_BA-AP_P-3mnz_BA-AP_A.55" "TYR" "A" 32 "-" 4.52 3.65 8.17
+"3mnz_BA-AP_P-3mnz_BA-AP_A.72" "TYR" "A" 49 "-" 8.96 15.1 24.07
+"3mnz_BA-AP_P-3mnz_BA-AP_A.73" "PHE" "A" 50 "-" 22.19 0 22.19
+"3mnz_BA-AP_P-3mnz_BA-AP_A.76" "ILE" "A" 53 "-" 9.13 0 9.12
+"3mnz_BA-AP_P-3mnz_BA-AP_A.78" "GLU" "A" 55 "-" 0.22 2.07 2.29
+"3mnz_BA-AP_P-3mnz_BA-AP_A.114" "HIS" "A" 91 "-" 1.28 0.66 1.93
+"3mnz_BA-AP_P-3mnz_BA-AP_A.119" "TRP" "A" 96 "-" 3.38 0 3.38

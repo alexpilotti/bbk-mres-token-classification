@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6utk_DE-ET_E-6utk_DE-ET_T.50" "TYR" "E" 49 "-" 0.81 9.38 10.19
+"6utk_DE-ET_E-6utk_DE-ET_T.51" "GLU" "E" 50 "-" 0 0.16 0.17
+"6utk_DE-ET_E-6utk_DE-ET_T.54" "GLU" "E" 53 "-" 0.15 1.18 1.34
+"6utk_DE-ET_E-6utk_DE-ET_T.55" "ARG" "E" 54 "-" 0.51 2.35 2.87
+"6utk_DE-ET_E-6utk_DE-ET_T.56" "ALA" "E" 55 "-" 0.11 0.27 0.37
+"6utk_DE-ET_E-6utk_DE-ET_T.57" "PRO" "E" 56 "-" 52.64 0.27 52.93
+"6utk_DE-ET_E-6utk_DE-ET_T.58" "GLY" "E" 57 "-" 0 0.4 0.4
+"6utk_DE-ET_E-6utk_DE-ET_T.299" "ASN" "TRUE" 616 "-" 0 0.26 0.26
+"6utk_DE-ET_E-6utk_DE-ET_T.300" "ARG" "TRUE" 617 "-" 0.47 0 0.46
+"6utk_DE-ET_E-6utk_DE-ET_T.301" "ASN" "TRUE" 618 "-" 4.99 21.96 26.95
+"6utk_DE-ET_E-6utk_DE-ET_T.302" "LEU" "TRUE" 619 "-" 0.08 1 1.08
+"6utk_DE-ET_E-6utk_DE-ET_T.303" "SER" "TRUE" 620 "-" 7.16 1.91 9.07
+"6utk_DE-ET_E-6utk_DE-ET_T.304" "GLU" "TRUE" 621 "-" 7.43 11.29 18.71

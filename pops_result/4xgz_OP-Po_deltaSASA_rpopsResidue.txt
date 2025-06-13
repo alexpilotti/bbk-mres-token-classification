@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4xgz_OP-Po_P-4xgz_OP-Po_o.26" "SER" "P" 30 "-" 0 0.47 0.47
+"4xgz_OP-Po_P-4xgz_OP-Po_o.27" "SER" "P" 31 "-" 0.13 0 0.13
+"4xgz_OP-Po_P-4xgz_OP-Po_o.28" "ALA" "P" 32 "-" 13.23 0.76 13.99
+"4xgz_OP-Po_P-4xgz_OP-Po_o.45" "TYR" "P" 49 "-" 0.58 0 0.59
+"4xgz_OP-Po_P-4xgz_OP-Po_o.46" "SER" "P" 50 "-" 1.91 3.59 5.48
+"4xgz_OP-Po_P-4xgz_OP-Po_o.87" "SER" "P" 91 "-" 7.93 3.54 11.47
+"4xgz_OP-Po_P-4xgz_OP-Po_o.88" "SER" "P" 92 "-" 3.89 10.7 14.59
+"4xgz_OP-Po_P-4xgz_OP-Po_o.89" "SER" "P" 93 "-" 37.59 28.59 66.18
+"4xgz_OP-Po_P-4xgz_OP-Po_o.90" "SER" "P" 94 "-" 7.95 5.28 13.23
+"4xgz_OP-Po_P-4xgz_OP-Po_o.91" "LEU" "P" 95 "-" 1.67 1.76 3.43
+"4xgz_OP-Po_P-4xgz_OP-Po_o.92" "ILE" "P" 96 "-" 15.05 0.54 15.59
+"4xgz_OP-Po_P-4xgz_OP-Po_o.211" "ASN" "o" 1 "-" 19.67 7.62 27.3
+"4xgz_OP-Po_P-4xgz_OP-Po_o.212" "LEU" "o" 2 "-" 94.07 1.96 96.03
+"4xgz_OP-Po_P-4xgz_OP-Po_o.213" "SER" "o" 3 "-" 30.51 16.07 46.58
+"4xgz_OP-Po_P-4xgz_OP-Po_o.214" "GLU" "o" 4 "-" 0 0 0.01
+"4xgz_OP-Po_P-4xgz_OP-Po_o.217" "ARG" "o" 7 "-" 0.99 12.58 13.57

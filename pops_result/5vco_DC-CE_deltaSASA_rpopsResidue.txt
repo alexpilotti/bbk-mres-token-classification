@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5vco_DC-CE_C-5vco_DC-CE_E.28" "ASP" "C" 28 "-" 0 0.48 0.48
+"5vco_DC-CE_C-5vco_DC-CE_E.30" "SER" "C" 30 "-" 10.18 11.64 21.82
+"5vco_DC-CE_C-5vco_DC-CE_E.32" "TYR" "C" 32 "-" 22.44 32.58 55.02
+"5vco_DC-CE_C-5vco_DC-CE_E.50" "TYR" "C" 50 "-" 1.85 0 1.85
+"5vco_DC-CE_C-5vco_DC-CE_E.53" "ARG" "C" 53 "-" 2.79 38.04 40.83
+"5vco_DC-CE_C-5vco_DC-CE_E.91" "GLY" "C" 91 "-" 0.49 3.42 3.9
+"5vco_DC-CE_C-5vco_DC-CE_E.92" "ASN" "C" 92 "-" 1.78 13.1 14.88
+"5vco_DC-CE_C-5vco_DC-CE_E.93" "THR" "C" 93 "-" 0.56 0.41 0.97
+"5vco_DC-CE_C-5vco_DC-CE_E.94" "LEU" "C" 94 "-" 0.04 0.03 0.07
+"5vco_DC-CE_C-5vco_DC-CE_E.96" "TYR" "C" 96 "-" 1.87 5.44 7.3
+"5vco_DC-CE_C-5vco_DC-CE_E.224" "GLU" "E" 13 "-" 0 1.05 1.04
+"5vco_DC-CE_C-5vco_DC-CE_E.226" "ASP" "E" 15 "-" 0.13 1.52 1.65
+"5vco_DC-CE_C-5vco_DC-CE_E.228" "ARG" "E" 17 "-" 3.55 2.87 6.42
+"5vco_DC-CE_C-5vco_DC-CE_E.229" "GLN" "E" 18 "-" 34.69 52.76 87.45
+"5vco_DC-CE_C-5vco_DC-CE_E.230" "MET" "E" 19 "-" 0.03 0.18 0.22
+"5vco_DC-CE_C-5vco_DC-CE_E.231" "ARG" "E" 20 "-" 16.86 22.77 39.63
+"5vco_DC-CE_C-5vco_DC-CE_E.409" "ASP" "E" 198 "-" 2.7 12.41 15.11
+"5vco_DC-CE_C-5vco_DC-CE_E.410" "ASN" "E" 199 "-" 4.26 15.56 19.82

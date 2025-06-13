@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7yms_FE-FA_A-7yms_FE-FA_F.82" "THR" "A" 97 "-" 1.44 4.7 6.14
+"7yms_FE-FA_A-7yms_FE-FA_F.83" "MET" "A" 98 "-" 47.73 2.73 50.46
+"7yms_FE-FA_A-7yms_FE-FA_F.84" "GLY" "A" 99 "-" 18.33 24.55 42.88
+"7yms_FE-FA_A-7yms_FE-FA_F.85" "THR" "A" 100 "-" 90.78 37.72 128.5
+"7yms_FE-FA_A-7yms_FE-FA_F.86" "GLN" "A" 101 "-" 0.91 1 1.91
+"7yms_FE-FA_A-7yms_FE-FA_F.88" "THR" "A" 103 "-" 3 6.28 9.28
+"7yms_FE-FA_A-7yms_FE-FA_F.89" "ASP" "A" 104 "-" 4.21 15.73 19.94
+"7yms_FE-FA_A-7yms_FE-FA_F.227" "LYS" "A" 242 "-" 3.4 6.6 10
+"7yms_FE-FA_A-7yms_FE-FA_F.315" "THR" "FALSE" 33 "-" 0.81 0.04 0.85
+"7yms_FE-FA_A-7yms_FE-FA_F.334" "TYR" "FALSE" 52 "-" 7.49 0.76 8.25
+"7yms_FE-FA_A-7yms_FE-FA_F.339" "ASP" "FALSE" 57 "-" 2.01 9.76 11.77
+"7yms_FE-FA_A-7yms_FE-FA_F.341" "LYS" "FALSE" 59 "-" 11.79 21.07 32.86
+"7yms_FE-FA_A-7yms_FE-FA_F.383" "TYR" "FALSE" 101 "-" 0 0 0.01
+"7yms_FE-FA_A-7yms_FE-FA_F.384" "GLU" "FALSE" 102 "-" 4.57 16.36 20.93
+"7yms_FE-FA_A-7yms_FE-FA_F.385" "ASN" "FALSE" 103 "-" 4.75 10.78 15.53
+"7yms_FE-FA_A-7yms_FE-FA_F.386" "TYR" "FALSE" 104 "-" 12.29 1.08 13.37
+"7yms_FE-FA_A-7yms_FE-FA_F.387" "PHE" "FALSE" 105 "-" 52.86 0.03 52.89

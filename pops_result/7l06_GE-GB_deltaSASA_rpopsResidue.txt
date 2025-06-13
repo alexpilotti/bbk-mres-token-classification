@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7l06_GE-GB_B-7l06_GE-GB_G.761" "ASP" "B" 936 "-" 8.32 11.16 19.47
+"7l06_GE-GB_B-7l06_GE-GB_G.762" "SER" "B" 937 "-" 3.28 1.99 5.25
+"7l06_GE-GB_B-7l06_GE-GB_G.763" "LEU" "B" 938 "-" 0 0 0.01
+"7l06_GE-GB_B-7l06_GE-GB_G.765" "SER" "B" 940 "-" 15.08 6.34 21.41
+"7l06_GE-GB_B-7l06_GE-GB_G.766" "THR" "B" 941 "-" 3 5.91 8.9
+"7l06_GE-GB_B-7l06_GE-GB_G.1075" "ARG" "G" 99 "-" 55.88 80.8 136.69
+"7l06_GE-GB_B-7l06_GE-GB_G.1076" "LEU" "G" 100 "-" 1.52 1.51 3.03

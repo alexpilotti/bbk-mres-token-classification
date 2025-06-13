@@ -1,0 +1,7 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5vod_HL-HC_C-5vod_HL-HC_H.73" "GLU" "C" 104 "-" 0 0.17 0.16
+"5vod_HL-HC_C-5vod_HL-HC_H.77" "ARG" "C" 108 "-" 3.23 17 20.22
+"5vod_HL-HC_C-5vod_HL-HC_H.79" "ARG" "C" 110 "-" 1.12 18.96 20.07
+"5vod_HL-HC_C-5vod_HL-HC_H.233" "THR" "H" 121 "-" 0 0.38 0.38
+"5vod_HL-HC_C-5vod_HL-HC_H.234" "GLY" "H" 122 "-" 3.55 0.72 4.27
+"5vod_HL-HC_C-5vod_HL-HC_H.235" "LEU" "H" 123 "-" 38.98 0.21 39.19

@@ -1,0 +1,12 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7rp3_HI-IA_A-7rp3_HI-IA_I.65" "SER" "A" 65 "-" 2.98 1.02 3.98
+"7rp3_HI-IA_A-7rp3_HI-IA_I.66" "ALA" "A" 66 "-" 0.41 0.12 0.53
+"7rp3_HI-IA_A-7rp3_HI-IA_I.67" "MET" "A" 67 "-" 64.04 0.64 64.68
+"7rp3_HI-IA_A-7rp3_HI-IA_I.68" "ARG" "A" 68 "-" 0 0.02 0.03
+"7rp3_HI-IA_A-7rp3_HI-IA_I.70" "GLN" "A" 70 "-" 1.12 5.96 7.08
+"7rp3_HI-IA_A-7rp3_HI-IA_I.213" "LEU" "I" 46 "-" 0.37 0 0.38
+"7rp3_HI-IA_A-7rp3_HI-IA_I.216" "TYR" "I" 49 "-" 2.33 5.5 7.83
+"7rp3_HI-IA_A-7rp3_HI-IA_I.220" "GLN" "I" 53 "-" 0.07 2.97 3.04
+"7rp3_HI-IA_A-7rp3_HI-IA_I.221" "ARG" "I" 54 "-" 0.19 1.83 2.03
+"7rp3_HI-IA_A-7rp3_HI-IA_I.222" "PRO" "I" 55 "-" 6.89 0.4 7.29
+"7rp3_HI-IA_A-7rp3_HI-IA_I.223" "SER" "I" 56 "-" 24.21 30.35 54.56

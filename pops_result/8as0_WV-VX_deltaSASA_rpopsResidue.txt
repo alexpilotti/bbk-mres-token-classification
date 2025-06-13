@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8as0_WV-VX_V-8as0_WV-VX_X.1" "ASP" "V" 1 "-" 0.82 5.62 6.43
+"8as0_WV-VX_V-8as0_WV-VX_X.2" "ILE" "V" 2 "-" 0.01 0 0.02
+"8as0_WV-VX_V-8as0_WV-VX_X.27" "GLN" "V" 27 "-" 0 0.05 0.05
+"8as0_WV-VX_V-8as0_WV-VX_X.32" "TYR" "V" 32 "-" 0.66 0 0.67
+"8as0_WV-VX_V-8as0_WV-VX_X.91" "ASP" "V" 91 "-" 1.05 5.15 6.2
+"8as0_WV-VX_V-8as0_WV-VX_X.92" "TYR" "V" 92 "-" 10.76 17.98 28.74
+"8as0_WV-VX_V-8as0_WV-VX_X.93" "GLY" "V" 93 "-" 13.22 2.45 15.67
+"8as0_WV-VX_V-8as0_WV-VX_X.94" "LEU" "V" 94 "-" 39.36 19.74 59.1
+"8as0_WV-VX_V-8as0_WV-VX_X.95" "PRO" "V" 95 "-" 9.92 0.35 10.27
+"8as0_WV-VX_V-8as0_WV-VX_X.96" "PHE" "V" 96 "-" 17.76 0 17.76
+"8as0_WV-VX_V-8as0_WV-VX_X.214" "ARG" "X" 30 "-" 38.55 49.33 87.88
+"8as0_WV-VX_V-8as0_WV-VX_X.215" "PRO" "X" 31 "-" 9.86 1.26 11.12
+"8as0_WV-VX_V-8as0_WV-VX_X.216" "TRP" "X" 32 "-" 44.31 8.4 52.72
+"8as0_WV-VX_V-8as0_WV-VX_X.217" "ASN" "X" 33 "-" 0.11 4.02 4.13
+"8as0_WV-VX_V-8as0_WV-VX_X.218" "PRO" "X" 34 "-" 0.19 0 0.2
+"8as0_WV-VX_V-8as0_WV-VX_X.319" "LYS" "X" 135 "-" 0.05 0 0.05

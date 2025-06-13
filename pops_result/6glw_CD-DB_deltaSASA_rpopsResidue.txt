@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6glw_CD-DB_B-6glw_CD-DB_D.45" "LYS" "B" 45 "-" 1.51 4.6 6.11
+"6glw_CD-DB_B-6glw_CD-DB_D.49" "ASP" "B" 49 "-" 0.12 1.16 1.29
+"6glw_CD-DB_B-6glw_CD-DB_D.68" "GLU" "B" 68 "-" 0.03 0.69 0.71
+"6glw_CD-DB_B-6glw_CD-DB_D.69" "TYR" "B" 69 "-" 74.59 19.4 93.99
+"6glw_CD-DB_B-6glw_CD-DB_D.70" "GLY" "B" 70 "-" 10.11 6.7 16.82
+"6glw_CD-DB_B-6glw_CD-DB_D.71" "ALA" "B" 71 "-" 12.95 0.62 13.57
+"6glw_CD-DB_B-6glw_CD-DB_D.73" "LYS" "B" 73 "-" 5.96 18.55 24.52
+"6glw_CD-DB_B-6glw_CD-DB_D.169" "TYR" "D" 31 "-" 9.83 19.71 29.54
+"6glw_CD-DB_B-6glw_CD-DB_D.172" "TYR" "D" 34 "-" 20.75 25.01 45.75
+"6glw_CD-DB_B-6glw_CD-DB_D.190" "GLU" "D" 52 "-" 0 0.29 0.29
+"6glw_CD-DB_B-6glw_CD-DB_D.193" "LYS" "D" 55 "-" 0.88 2.28 3.16
+"6glw_CD-DB_B-6glw_CD-DB_D.231" "TYR" "D" 93 "-" 14.85 4.19 19.04
+"6glw_CD-DB_B-6glw_CD-DB_D.233" "SER" "D" 95 "-" 0.04 0.42 0.46
+"6glw_CD-DB_B-6glw_CD-DB_D.234" "SER" "D" 96 "-" 2.13 3.09 5.23
+"6glw_CD-DB_B-6glw_CD-DB_D.235" "ASN" "D" 97 "-" 4.24 14.3 18.55

@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7jks_HL-LG_G-7jks_HL-LG_L.159" "ASN" "G" 276 "-" 4.13 16.7 20.83
+"7jks_HL-LG_G-7jks_HL-LG_L.161" "THR" "G" 278 "-" 10.48 17.51 27.98
+"7jks_HL-LG_G-7jks_HL-LG_L.162" "ASP" "G" 279 "-" 8.08 11.21 19.3
+"7jks_HL-LG_G-7jks_HL-LG_L.163" "ASN" "G" 280 "-" 1.94 14.85 16.8
+"7jks_HL-LG_G-7jks_HL-LG_L.165" "LYS" "G" 282 "-" 0 0 0.01
+"7jks_HL-LG_G-7jks_HL-LG_L.214" "GLU" "G" 357 "-" 0 0.04 0.03
+"7jks_HL-LG_G-7jks_HL-LG_L.301" "ARG" "G" 456 "-" 0.01 0.73 0.74
+"7jks_HL-LG_G-7jks_HL-LG_L.302" "ASP" "G" 457 "-" 0.08 0.27 0.35
+"7jks_HL-LG_G-7jks_HL-LG_L.303" "GLY" "G" 458 "-" 10.09 3.98 14.06
+"7jks_HL-LG_G-7jks_HL-LG_L.304" "GLY" "G" 459 "-" 26.81 19.74 46.54
+"7jks_HL-LG_G-7jks_HL-LG_L.305" "SER" "G" 460 "-" 27.74 25.55 53.29
+"7jks_HL-LG_G-7jks_HL-LG_L.306" "SER" "G" 461 "-" 16.87 18.01 34.88
+"7jks_HL-LG_G-7jks_HL-LG_L.339" "GLU" "L" 1 "-" 15.34 34.85 50.2
+"7jks_HL-LG_G-7jks_HL-LG_L.340" "ILE" "L" 2 "-" 0.04 0.09 0.13
+"7jks_HL-LG_G-7jks_HL-LG_L.365" "TYR" "L" 27 "-" 0.11 0 0.1
+"7jks_HL-LG_G-7jks_HL-LG_L.371" "TYR" "L" 32 "-" 5.59 9.37 14.95
+"7jks_HL-LG_G-7jks_HL-LG_L.430" "TYR" "L" 91 "-" 45.62 22.8 68.41
+"7jks_HL-LG_G-7jks_HL-LG_L.431" "GLU" "L" 96 "-" 14.05 22.06 36.11
+"7jks_HL-LG_G-7jks_HL-LG_L.432" "PHE" "L" 97 "-" 9.17 0 9.17

@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3moa_HL-LP_P-3moa_HL-LP_L.1" "GLU" "P" 659 "-" 21.34 13.52 34.86
+"3moa_HL-LP_P-3moa_HL-LP_L.2" "LEU" "P" 660 "-" 0 0 0.01
+"3moa_HL-LP_P-3moa_HL-LP_L.3" "LEU" "P" 661 "-" 63.89 5.25 69.14
+"3moa_HL-LP_P-3moa_HL-LP_L.4" "GLU" "P" 662 "-" 29.51 36.33 65.85
+"3moa_HL-LP_P-3moa_HL-LP_L.5" "LEU" "P" 663 "-" 54.5 8.66 63.16
+"3moa_HL-LP_P-3moa_HL-LP_L.6" "ASP" "P" 664 "-" 25.91 27.93 53.85
+"3moa_HL-LP_P-3moa_HL-LP_L.7" "LYS" "P" 665 "-" 6.71 1.32 8.02
+"3moa_HL-LP_P-3moa_HL-LP_L.8" "TRP" "P" 666 "-" 0 0.01 0.01
+"3moa_HL-LP_P-3moa_HL-LP_L.9" "ALA" "P" 667 "-" 12.8 5.42 18.21
+"3moa_HL-LP_P-3moa_HL-LP_L.10" "SER" "P" 668 "-" 0 0.06 0.07
+"3moa_HL-LP_P-3moa_HL-LP_L.13" "LEU" "L" 2 "-" 6.79 10.09 16.88
+"3moa_HL-LP_P-3moa_HL-LP_L.38" "GLN" "L" 27 "-" 5.66 31.21 36.86
+"3moa_HL-LP_P-3moa_HL-LP_L.41" "THR" "L" 30 "-" 0.44 0 0.45
+"3moa_HL-LP_P-3moa_HL-LP_L.43" "ALA" "L" 32 "-" 0.03 0 0.03
+"3moa_HL-LP_P-3moa_HL-LP_L.101" "GLN" "L" 90 "-" 0 0.03 0.03
+"3moa_HL-LP_P-3moa_HL-LP_L.102" "LEU" "L" 91 "-" 2.5 6.45 8.95
+"3moa_HL-LP_P-3moa_HL-LP_L.103" "HIS" "L" 92 "-" 11.84 14.85 26.69
+"3moa_HL-LP_P-3moa_HL-LP_L.104" "PHE" "L" 93 "-" 39.29 0.86 40.17
+"3moa_HL-LP_P-3moa_HL-LP_L.105" "TYR" "L" 94 "-" 82.13 48.65 130.78
+"3moa_HL-LP_P-3moa_HL-LP_L.106" "PRO" "L" 95 "-" 3.99 0.16 4.15
+"3moa_HL-LP_P-3moa_HL-LP_L.107" "HIS" "L" 96 "-" 5.57 3.34 8.91

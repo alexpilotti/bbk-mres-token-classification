@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5sx4_JI-IM_I-5sx4_JI-IM_M.27" "GLN" "I" 27 "-" 0.1 2.27 2.37
+"5sx4_JI-IM_I-5sx4_JI-IM_M.31" "ASN" "I" 31 "-" 0.04 0.78 0.82
+"5sx4_JI-IM_I-5sx4_JI-IM_M.32" "TYR" "I" 32 "-" 21.44 32.14 53.58
+"5sx4_JI-IM_I-5sx4_JI-IM_M.49" "TYR" "I" 49 "-" 0.46 0 0.46
+"5sx4_JI-IM_I-5sx4_JI-IM_M.50" "ASP" "I" 50 "-" 2.18 9.04 11.21
+"5sx4_JI-IM_I-5sx4_JI-IM_M.91" "PHE" "I" 91 "-" 14.03 4.8 18.82
+"5sx4_JI-IM_I-5sx4_JI-IM_M.92" "ASP" "I" 92 "-" 2.05 13.71 15.76
+"5sx4_JI-IM_I-5sx4_JI-IM_M.93" "HIS" "I" 93 "-" 24.62 5.54 30.16
+"5sx4_JI-IM_I-5sx4_JI-IM_M.94" "LEU" "I" 94 "-" 87.71 5.4 93.11
+"5sx4_JI-IM_I-5sx4_JI-IM_M.96" "LEU" "I" 96 "-" 9.67 0 9.66
+"5sx4_JI-IM_I-5sx4_JI-IM_M.343" "GLY" "M" 441 "-" 1.02 0.43 1.45
+"5sx4_JI-IM_I-5sx4_JI-IM_M.344" "ASN" "M" 442 "-" 0.08 0.3 0.39
+"5sx4_JI-IM_I-5sx4_JI-IM_M.345" "LYS" "M" 443 "-" 5.25 0.51 5.77
+"5sx4_JI-IM_I-5sx4_JI-IM_M.351" "ASN" "M" 449 "-" 0 0.01 0.01
+"5sx4_JI-IM_I-5sx4_JI-IM_M.366" "THR" "M" 464 "-" 0.66 6.89 7.55
+"5sx4_JI-IM_I-5sx4_JI-IM_M.367" "LYS" "M" 465 "-" 42.58 33.17 75.76
+"5sx4_JI-IM_I-5sx4_JI-IM_M.368" "ILE" "M" 466 "-" 2.59 11.35 13.94
+"5sx4_JI-IM_I-5sx4_JI-IM_M.369" "ILE" "M" 467 "-" 40.58 0.62 41.2
+"5sx4_JI-IM_I-5sx4_JI-IM_M.370" "SER" "M" 468 "-" 21.18 21.44 42.63
+"5sx4_JI-IM_I-5sx4_JI-IM_M.371" "ASN" "M" 469 "-" 4.03 17.14 21.17
+"5sx4_JI-IM_I-5sx4_JI-IM_M.372" "ARG" "M" 470 "-" 3.25 5.44 8.69
+"5sx4_JI-IM_I-5sx4_JI-IM_M.373" "GLY" "M" 471 "-" 13.55 4.1 17.65
+"5sx4_JI-IM_I-5sx4_JI-IM_M.374" "GLU" "M" 472 "-" 1.54 1.74 3.28
+"5sx4_JI-IM_I-5sx4_JI-IM_M.375" "ASN" "M" 473 "-" 0.09 4.32 4.41

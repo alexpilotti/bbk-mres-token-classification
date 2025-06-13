@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8gb5_FE-ED_D-8gb5_FE-ED_E.41" "SER" "D" 373 "-" 0.69 1.82 2.51
+"8gb5_FE-ED_D-8gb5_FE-ED_E.73" "ASP" "D" 405 "-" 0.2 2.43 2.63
+"8gb5_FE-ED_D-8gb5_FE-ED_E.105" "ASN" "D" 437 "-" 0 0.04 0.04
+"8gb5_FE-ED_D-8gb5_FE-ED_E.107" "ASN" "D" 439 "-" 0 0.15 0.15
+"8gb5_FE-ED_D-8gb5_FE-ED_E.168" "THR" "D" 500 "-" 1.21 6.07 7.27
+"8gb5_FE-ED_D-8gb5_FE-ED_E.169" "ASN" "D" 501 "-" 1.17 4.47 5.64
+"8gb5_FE-ED_D-8gb5_FE-ED_E.170" "GLY" "D" 502 "-" 14.28 2.92 17.21
+"8gb5_FE-ED_D-8gb5_FE-ED_E.171" "VAL" "D" 503 "-" 56.33 2.51 58.84
+"8gb5_FE-ED_D-8gb5_FE-ED_E.172" "GLY" "D" 504 "-" 4.73 2.36 7.09
+"8gb5_FE-ED_D-8gb5_FE-ED_E.173" "TYR" "D" 505 "-" 2.58 0.05 2.64
+"8gb5_FE-ED_D-8gb5_FE-ED_E.174" "GLN" "D" 506 "-" 0.42 6.34 6.76
+"8gb5_FE-ED_D-8gb5_FE-ED_E.226" "ALA" "E" 29 "-" 1.91 12.95 14.85
+"8gb5_FE-ED_D-8gb5_FE-ED_E.227" "GLY" "E" 30 "-" 14.14 9.83 23.97
+"8gb5_FE-ED_D-8gb5_FE-ED_E.228" "HIS" "E" 31 "-" 5.04 1.88 6.92
+"8gb5_FE-ED_D-8gb5_FE-ED_E.229" "TYR" "E" 32 "-" 27.26 31.73 59
+"8gb5_FE-ED_D-8gb5_FE-ED_E.263" "ARG" "E" 66 "-" 1.11 22.43 23.55
+"8gb5_FE-ED_D-8gb5_FE-ED_E.288" "TRP" "E" 91 "-" 0.13 0 0.14
+"8gb5_FE-ED_D-8gb5_FE-ED_E.290" "ARG" "E" 93 "-" 0 0.91 0.9

@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6xlq_BC-CA_A-6xlq_BC-CA_C.59" "ARG" "A" 59 "-" 1.38 24.31 25.68
+"6xlq_BC-CA_A-6xlq_BC-CA_C.103" "ASP" "A" 103 "-" 2.93 10.16 13.09
+"6xlq_BC-CA_A-6xlq_BC-CA_C.259" "TYR" "C" 49 "-" 4.24 4.65 8.91
+"6xlq_BC-CA_A-6xlq_BC-CA_C.263" "SER" "C" 53 "-" 1.05 1.29 2.34
+"6xlq_BC-CA_A-6xlq_BC-CA_C.304" "PHE" "C" 94 "-" 4.67 0 4.67

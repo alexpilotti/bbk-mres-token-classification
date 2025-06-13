@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.33" "GLY" "H" 33 "-" 0.04 0 0.04
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.49" "TRP" "H" 47 "-" 4.04 0.43 4.48
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.52" "HIS" "H" 50 "-" 3.08 0.96 4.05
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.54" "TRP" "H" 52 "-" 16.31 3.12 19.42
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.55" "TRP" "H" 53 "-" 3.64 0.45 4.09
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.56" "ASP" "H" 54 "-" 2.18 7.6 9.79
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.58" "ASP" "H" 56 "-" 5.73 12.43 18.16
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.60" "SER" "H" 58 "-" 6.95 8.68 15.63
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.100" "ARG" "H" 95 "-" 2.24 6.93 9.17
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.101" "ALA" "H" 96 "-" 0.01 0.33 0.33
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.102" "HIS" "H" 97 "-" 24.48 22.29 46.77
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.103" "THR" "H" 98 "-" 8.76 0.56 9.32
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.104" "THR" "H" 99 "-" 0 0.12 0.13
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.108" "ASP" "H" 100 "C" 2.77 15.64 18.4
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.110" "PHE" "H" 100 "E" 1.11 0 1.12
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.226" "PHE" "Q" 4 "-" 85.52 0 85.52
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.227" "ARG" "Q" 5 "-" 78.5 120.03 198.52
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.228" "HIS" "Q" 6 "-" 34.73 15.34 50.08
+"2ipu_HL-HQ_H-2ipu_HL-HQ_Q.229" "ASP" "Q" 7 "-" 38.28 52.61 90.89

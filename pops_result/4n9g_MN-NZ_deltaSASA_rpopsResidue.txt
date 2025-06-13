@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.30" "SER" "N" 30 "-" 8.64 12.2 20.85
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.32" "TYR" "N" 32 "-" 13.93 18.57 32.51
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.50" "TYR" "N" 50 "-" 3.81 7.33 11.15
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.91" "HIS" "N" 91 "-" 1.15 4.16 5.31
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.92" "ASN" "N" 92 "-" 5.36 33.43 38.78
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.93" "SER" "N" 93 "-" 5.48 5.21 10.7
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.94" "TYR" "N" 94 "-" 46.18 20.4 66.58
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.96" "ARG" "N" 96 "-" 0.05 4.33 4.38
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.225" "ASN" "Z" 72 "-" 0.01 0.55 0.55
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.226" "ASP" "Z" 73 "-" 0.19 2.38 2.56
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.227" "MET" "Z" 74 "-" 0.9 1.84 2.75
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.228" "PRO" "Z" 75 "-" 27.44 6.73 34.18
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.229" "ILE" "Z" 76 "-" 2.75 5.7 8.45
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.230" "THR" "Z" 77 "-" 20.87 23.39 44.26
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.231" "ASN" "Z" 78 "-" 31.02 57.99 89
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.232" "ASP" "Z" 79 "-" 14.65 11.73 26.38
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.233" "GLN" "Z" 80 "-" 0 0.01 0.02
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.234" "LYS" "Z" 81 "-" 1.43 2.97 4.4
+"4n9g_MN-NZ_N-4n9g_MN-NZ_Z.235" "LYS" "Z" 82 "-" 30.57 21.09 51.66

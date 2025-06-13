@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4rx4_AD-DE_E-4rx4_AD-DE_D.54" "LYS" "E" 97 "-" 0 0.98 0.99
+"4rx4_AD-DE_E-4rx4_AD-DE_D.152" "ASN" "E" 276 "-" 0.33 3.65 3.99
+"4rx4_AD-DE_E-4rx4_AD-DE_D.154" "THR" "E" 278 "-" 3.66 12.31 15.97
+"4rx4_AD-DE_E-4rx4_AD-DE_D.155" "ASN" "E" 279 "-" 5.42 19.79 25.2
+"4rx4_AD-DE_E-4rx4_AD-DE_D.156" "ASN" "E" 280 "-" 4.83 28.05 32.88
+"4rx4_AD-DE_E-4rx4_AD-DE_D.157" "ALA" "E" 281 "-" 15.42 0.34 15.76
+"4rx4_AD-DE_E-4rx4_AD-DE_D.289" "ARG" "E" 456 "-" 0.02 1.16 1.19
+"4rx4_AD-DE_E-4rx4_AD-DE_D.350" "ASN" "D" 31 "-" 0.28 6.68 6.95
+"4rx4_AD-DE_E-4rx4_AD-DE_D.370" "PRO" "D" 51 "-" 0.44 0 0.43
+"4rx4_AD-DE_E-4rx4_AD-DE_D.410" "TYR" "D" 91 "-" 0.5 3.04 3.54
+"4rx4_AD-DE_E-4rx4_AD-DE_D.411" "SER" "D" 92 "-" 3.87 16.56 20.42
+"4rx4_AD-DE_E-4rx4_AD-DE_D.412" "SER" "D" 93 "-" 19.26 25.12 44.38
+"4rx4_AD-DE_E-4rx4_AD-DE_D.413" "THR" "D" 94 "-" 11.3 8.23 19.52
+"4rx4_AD-DE_E-4rx4_AD-DE_D.414" "PRO" "D" 95 "-" 0 0.01 0.01
+"4rx4_AD-DE_E-4rx4_AD-DE_D.415" "TYR" "D" 96 "-" 3.83 12.11 15.94

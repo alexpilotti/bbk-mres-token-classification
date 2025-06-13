@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6ldv_HL-LP_L-6ldv_HL-LP_P.48" "ARG" "L" 48 "-" 0.98 22.42 23.39
+"6ldv_HL-LP_L-6ldv_HL-LP_P.51" "TYR" "L" 51 "-" 8.97 8.5 17.48
+"6ldv_HL-LP_L-6ldv_HL-LP_P.57" "ASP" "L" 57 "-" 0 0.25 0.25
+"6ldv_HL-LP_L-6ldv_HL-LP_P.100" "TRP" "L" 100 "-" 2.13 0 2.13
+"6ldv_HL-LP_L-6ldv_HL-LP_P.216" "GLY" "P" 10 "-" 2.17 2.74 4.91
+"6ldv_HL-LP_L-6ldv_HL-LP_P.219" "TYR" "P" 13 "-" 0.03 0 0.03
+"6ldv_HL-LP_L-6ldv_HL-LP_P.220" "PRO" "P" 14 "-" 60.41 36.04 96.45

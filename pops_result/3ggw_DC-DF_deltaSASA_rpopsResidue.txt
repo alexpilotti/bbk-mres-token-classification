@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3ggw_DC-DF_D-3ggw_DC-DF_F.31" "ASN" "D" 31 "-" 0.56 4.35 4.92
+"3ggw_DC-DF_D-3ggw_DC-DF_F.32" "TYR" "D" 32 "-" 20.92 6.75 27.66
+"3ggw_DC-DF_D-3ggw_DC-DF_F.33" "TRP" "D" 33 "-" 63.69 4.21 67.89
+"3ggw_DC-DF_D-3ggw_DC-DF_F.50" "GLU" "D" 50 "-" 0.07 2.05 2.11
+"3ggw_DC-DF_D-3ggw_DC-DF_F.52" "ARG" "D" 52 "-" 0.49 20.26 20.76
+"3ggw_DC-DF_D-3ggw_DC-DF_F.53" "LEU" "D" 52 "A" 6.89 0 6.9
+"3ggw_DC-DF_D-3ggw_DC-DF_F.56" "ASP" "D" 53 "-" 0 0.07 0.07
+"3ggw_DC-DF_D-3ggw_DC-DF_F.61" "TYR" "D" 58 "-" 0.19 0.38 0.57
+"3ggw_DC-DF_D-3ggw_DC-DF_F.101" "PRO" "D" 95 "-" 6.4 10.34 16.74
+"3ggw_DC-DF_D-3ggw_DC-DF_F.102" "MET" "D" 96 "-" 17.1 1.61 18.71
+"3ggw_DC-DF_D-3ggw_DC-DF_F.103" "ASP" "D" 101 "-" 1.7 4.93 6.63
+"3ggw_DC-DF_D-3ggw_DC-DF_F.104" "TYR" "D" 102 "-" 0.47 0 0.48
+"3ggw_DC-DF_D-3ggw_DC-DF_F.210" "TYR" "FALSE" 1 "-" 23.19 6.25 29.45
+"3ggw_DC-DF_D-3ggw_DC-DF_F.213" "ASP" "FALSE" 4 "-" 12.42 17.08 29.49
+"3ggw_DC-DF_D-3ggw_DC-DF_F.214" "TRP" "FALSE" 5 "-" 30.42 0.46 30.87
+"3ggw_DC-DF_D-3ggw_DC-DF_F.217" "TYR" "FALSE" 8 "-" 53.52 28.09 81.6
+"3ggw_DC-DF_D-3ggw_DC-DF_F.220" "GLN" "FALSE" 11 "-" 0.16 1.55 1.71
+"3ggw_DC-DF_D-3ggw_DC-DF_F.221" "LYS" "FALSE" 12 "-" 21.95 28.9 50.84

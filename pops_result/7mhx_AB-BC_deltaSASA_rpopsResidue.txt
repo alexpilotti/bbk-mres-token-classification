@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7mhx_AB-BC_B-7mhx_AB-BC_C.1" "ASP" "B" 1 "-" 2.42 9.81 12.23
+"7mhx_AB-BC_B-7mhx_AB-BC_C.28" "SER" "B" 28 "-" 0 0.11 0.11
+"7mhx_AB-BC_B-7mhx_AB-BC_C.32" "ASP" "B" 32 "-" 1.66 8.59 10.25
+"7mhx_AB-BC_B-7mhx_AB-BC_C.50" "TYR" "B" 50 "-" 2.32 2.28 4.61
+"7mhx_AB-BC_B-7mhx_AB-BC_C.91" "SER" "B" 91 "-" 1.61 6.71 8.32
+"7mhx_AB-BC_B-7mhx_AB-BC_C.92" "ASN" "B" 92 "-" 2.63 21.41 24.04
+"7mhx_AB-BC_B-7mhx_AB-BC_C.93" "ARG" "B" 93 "-" 29.11 50.21 79.32
+"7mhx_AB-BC_B-7mhx_AB-BC_C.94" "TRP" "B" 94 "-" 83.63 17.14 100.78
+"7mhx_AB-BC_B-7mhx_AB-BC_C.95" "PRO" "B" 95 "-" 3.38 0.1 3.48
+"7mhx_AB-BC_B-7mhx_AB-BC_C.96" "PHE" "B" 96 "-" 29.59 0.03 29.64
+"7mhx_AB-BC_B-7mhx_AB-BC_C.242" "GLU" "C" 51 "-" 0.05 1.08 1.13
+"7mhx_AB-BC_B-7mhx_AB-BC_C.243" "ARG" "C" 52 "-" 20.37 33.34 53.71
+"7mhx_AB-BC_B-7mhx_AB-BC_C.244" "GLY" "C" 53 "-" 29.58 22.09 51.67
+"7mhx_AB-BC_B-7mhx_AB-BC_C.245" "ALA" "C" 54 "-" 6.07 6.8 12.87
+"7mhx_AB-BC_B-7mhx_AB-BC_C.246" "PRO" "C" 55 "-" 62.31 2.41 64.72
+"7mhx_AB-BC_B-7mhx_AB-BC_C.247" "GLY" "C" 56 "-" 24.12 17.61 41.73
+"7mhx_AB-BC_B-7mhx_AB-BC_C.248" "ALA" "C" 57 "-" 4.72 10.52 15.24
+"7mhx_AB-BC_B-7mhx_AB-BC_C.249" "GLN" "C" 58 "-" 32.26 45.49 77.73
+"7mhx_AB-BC_B-7mhx_AB-BC_C.250" "LEU" "C" 59 "-" 0 0.02 0.03
+"7mhx_AB-BC_B-7mhx_AB-BC_C.251" "ILE" "C" 60 "-" 35.85 0.89 36.75
+"7mhx_AB-BC_B-7mhx_AB-BC_C.252" "THR" "C" 61 "-" 13.03 0.08 13.11
+"7mhx_AB-BC_B-7mhx_AB-BC_C.254" "PRO" "C" 63 "-" 0.61 0 0.61
+"7mhx_AB-BC_B-7mhx_AB-BC_C.255" "ARG" "C" 64 "-" 4.47 55.87 60.35

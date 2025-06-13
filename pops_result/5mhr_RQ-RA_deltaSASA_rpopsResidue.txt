@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mhr_RQ-RA_A-5mhr_RQ-RA_R.100" "THR" "A" 393 "-" 18.86 0.89 19.76
+"5mhr_RQ-RA_A-5mhr_RQ-RA_R.124" "TRP" "A" 417 "-" 0.02 0 0.02
+"5mhr_RQ-RA_A-5mhr_RQ-RA_R.267" "TYR" "R" 105 "-" 10.92 15.87 26.79

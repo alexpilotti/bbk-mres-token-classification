@@ -1,0 +1,27 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.29" "ARG" "D" 571 "-" 0 2.47 2.46
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.31" "ASN" "D" 596 "-" 0.03 0.72 0.75
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.32" "LYS" "D" 597 "-" 11.19 9.17 20.36
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.33" "LEU" "D" 598 "-" 0.82 1.55 2.37
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.34" "ALA" "D" 599 "-" 4.17 0.35 4.53
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.36" "PHE" "D" 602 "-" 4.66 0 4.66
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.46" "ARG" "D" 612 "-" 2.92 28.61 31.53
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.48" "ILE" "D" 614 "-" 0 0.05 0.05
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.49" "TYR" "D" 615 "-" 21.43 11.81 33.24
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.50" "SER" "D" 651 "-" 2.58 7.68 10.27
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.51" "ALA" "D" 694 "-" 0 0.04 0.03
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.55" "ASP" "D" 698 "-" 0 0.23 0.23
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.89" "LEU" "D" 751 "-" 7 0.45 7.44
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.90" "GLY" "D" 752 "-" 0.17 0.01 0.18
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.91" "TYR" "D" 753 "-" 37.78 42.74 80.51
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.99" "CYS" "D" 797 "-" 2.53 0.14 2.68
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.100" "VAL" "D" 798 "-" 15.24 0.07 15.32
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.102" "PHE" "D" 801 "-" 0.49 0 0.5
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.218" "VAL" "Z" 420 "-" 1.39 0 1.4
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.219" "ASP" "Z" 421 "-" 0 0.8 0.8
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.220" "PRO" "Z" 423 "-" 67.25 3.86 71.1
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.221" "GLN" "Z" 424 "-" 5.33 4.7 10.03
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.222" "LEU" "Z" 425 "-" 53.67 18.29 71.96
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.223" "ALA" "Z" 426 "-" 79.86 32.18 112.04
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.224" "THR" "Z" 427 "-" 50.65 20.98 71.64
+"5dmg_CD-DZ_D-5dmg_CD-DZ_Z.225" "LEU" "Z" 428 "-" 72.01 8.77 80.8

@@ -1,0 +1,27 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.1" "GLN" "D" 1 "-" 0.39 0 0.39
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.30" "SER" "D" 30 "-" 8.8 9.43 18.22
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.31" "TYR" "D" 31 "-" 27.82 32.96 60.78
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.48" "TYR" "D" 48 "-" 0.44 0 0.44
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.49" "ASP" "D" 49 "-" 1.63 7.68 9.3
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.52" "LYS" "D" 52 "-" 12.73 17.1 29.83
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.90" "ARG" "D" 90 "-" 28.41 16.29 44.7
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.91" "SER" "D" 91 "-" 5.1 11.17 16.27
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.92" "SER" "D" 92 "-" 0.13 0 0.14
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.93" "TYR" "D" 93 "-" 25.29 25.54 50.83
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.231" "GLU" "J" 22 "-" 0.1 1.25 1.35
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.245" "SER" "J" 39 "-" 0.41 1.85 2.25
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.246" "GLY" "J" 40 "-" 0.44 0.02 0.46
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.247" "SER" "J" 41 "-" 8.66 0.85 9.51
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.248" "LEU" "J" 42 "-" 41.37 0.71 42.09
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.249" "TYR" "J" 43 "-" 17.36 24.84 42.18
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.251" "LEU" "J" 45 "-" 15.47 0 15.48
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.253" "THR" "J" 47 "-" 23.55 14.08 37.63
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.254" "GLY" "J" 48 "-" 9.76 11.97 21.72
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.255" "ASN" "J" 49 "-" 3.75 3.51 7.26
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.256" "SER" "J" 50 "-" 0 0.22 0.23
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.258" "HIS" "J" 52 "-" 0 0.1 0.09
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.260" "SER" "J" 54 "-" 1.33 0.33 1.66
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.261" "TRP" "J" 55 "-" 0.02 0 0.01
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.262" "ASP" "J" 56 "-" 11.42 39.99 51.41
+"3iu3_CD-DJ_D-3iu3_CD-DJ_J.263" "ASN" "J" 57 "-" 2.26 22.36 24.62

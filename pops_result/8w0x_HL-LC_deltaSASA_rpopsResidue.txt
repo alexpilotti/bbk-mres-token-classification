@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8w0x_HL-LC_C-8w0x_HL-LC_L.213" "LYS" "C" 628 "-" 2.29 11.37 13.66
+"8w0x_HL-LC_C-8w0x_HL-LC_L.279" "TYR" "L" 49 "-" 0 0.91 0.91
+"8w0x_HL-LC_C-8w0x_HL-LC_L.285" "GLU" "L" 55 "-" 0.29 2.51 2.8
+"8w0x_HL-LC_C-8w0x_HL-LC_L.286" "SER" "L" 56 "-" 0.37 1.39 1.76

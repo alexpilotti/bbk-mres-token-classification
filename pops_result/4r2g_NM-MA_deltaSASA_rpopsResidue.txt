@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4r2g_NM-MA_M-4r2g_NM-MA_A.21" "ALA" "M" 27 "-" 0.06 0.52 0.57
+"4r2g_NM-MA_M-4r2g_NM-MA_A.22" "LEU" "M" 28 "-" 21.73 14.81 36.55
+"4r2g_NM-MA_M-4r2g_NM-MA_A.23" "GLY" "M" 29 "-" 9.02 1.47 10.48
+"4r2g_NM-MA_M-4r2g_NM-MA_A.24" "SER" "M" 30 "-" 15.23 22.61 37.85
+"4r2g_NM-MA_M-4r2g_NM-MA_A.64" "PHE" "M" 67 "-" 34.51 0 34.52
+"4r2g_NM-MA_M-4r2g_NM-MA_A.90" "SER" "M" 93 "-" 8.97 5.66 14.64
+"4r2g_NM-MA_M-4r2g_NM-MA_A.91" "ARG" "M" 94 "-" 21.04 42.91 63.95
+"4r2g_NM-MA_M-4r2g_NM-MA_A.347" "ASN" "A" 301 "-" 0.04 1.27 1.32
+"4r2g_NM-MA_M-4r2g_NM-MA_A.349" "ILE" "A" 323 "-" 99.13 11.23 110.36
+"4r2g_NM-MA_M-4r2g_NM-MA_A.350" "GLY" "A" 324 "-" 20.68 16.83 37.49
+"4r2g_NM-MA_M-4r2g_NM-MA_A.351" "ASP" "A" 325 "-" 25.49 57.1 82.6
+"4r2g_NM-MA_M-4r2g_NM-MA_A.352" "ILE" "A" 326 "-" 46.36 1.39 47.75

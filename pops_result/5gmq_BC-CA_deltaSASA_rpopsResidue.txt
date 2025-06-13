@@ -1,0 +1,9 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5gmq_BC-CA_A-5gmq_BC-CA_C.155" "TRP" "A" 535 "-" 83.41 7.14 90.55
+"5gmq_BC-CA_A-5gmq_BC-CA_C.156" "GLU" "A" 536 "-" 4.24 21.88 26.12
+"5gmq_BC-CA_A-5gmq_BC-CA_C.235" "SER" "C" 28 "-" 5.93 2.7 8.63
+"5gmq_BC-CA_A-5gmq_BC-CA_C.238" "TYR" "C" 31 "-" 24.1 27.15 51.24
+"5gmq_BC-CA_A-5gmq_BC-CA_C.297" "TYR" "C" 90 "-" 0.03 0.83 0.85
+"5gmq_BC-CA_A-5gmq_BC-CA_C.298" "GLY" "C" 91 "-" 7.07 16.3 23.37
+"5gmq_BC-CA_A-5gmq_BC-CA_C.299" "SER" "C" 92 "-" 0.7 0.55 1.26
+"5gmq_BC-CA_A-5gmq_BC-CA_C.300" "SER" "C" 93 "-" 8.23 5.1 13.33

@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2brr_YX-XP_P-2brr_YX-XP_X.9" "HIS" "P" 11 "-" 9.33 2.63 11.96
+"2brr_YX-XP_P-2brr_YX-XP_X.103" "TYR" "X" 94 "-" 0.79 6.75 7.53
+"2brr_YX-XP_P-2brr_YX-XP_X.105" "TYR" "X" 96 "-" 0 1.23 1.23

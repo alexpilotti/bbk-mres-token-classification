@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6sne_DC-CJ_C-6sne_DC-CJ_J.30" "THR" "C" 30 "-" 4.62 5.57 10.2
+"6sne_DC-CJ_C-6sne_DC-CJ_J.32" "TYR" "C" 32 "-" 19.76 35.33 55.09
+"6sne_DC-CJ_C-6sne_DC-CJ_J.91" "ALA" "C" 91 "-" 0.05 1.72 1.77
+"6sne_DC-CJ_C-6sne_DC-CJ_J.92" "HIS" "C" 92 "-" 7.59 9.78 17.37
+"6sne_DC-CJ_C-6sne_DC-CJ_J.93" "SER" "C" 93 "-" 1.25 0.81 2.06
+"6sne_DC-CJ_C-6sne_DC-CJ_J.94" "THR" "C" 94 "-" 34.79 14.49 49.28
+"6sne_DC-CJ_C-6sne_DC-CJ_J.95" "PRO" "C" 95 "-" 0.07 0.02 0.1
+"6sne_DC-CJ_C-6sne_DC-CJ_J.96" "TRP" "C" 96 "-" 53.26 0.27 53.54
+"6sne_DC-CJ_C-6sne_DC-CJ_J.215" "TRP" "J" 670 "-" 8.88 2.01 10.89
+"6sne_DC-CJ_C-6sne_DC-CJ_J.218" "PHE" "J" 673 "-" 63.41 0.33 63.73
+"6sne_DC-CJ_C-6sne_DC-CJ_J.219" "ASN" "J" 674 "-" 5.15 25.45 30.61
+"6sne_DC-CJ_C-6sne_DC-CJ_J.221" "THR" "J" 676 "-" 0.01 0.24 0.25
+"6sne_DC-CJ_C-6sne_DC-CJ_J.222" "ASN" "J" 677 "-" 8.07 39.23 47.29
+"6sne_DC-CJ_C-6sne_DC-CJ_J.225" "TRP" "J" 680 "-" 5.46 0.24 5.71
+"6sne_DC-CJ_C-6sne_DC-CJ_J.226" "TYR" "J" 681 "-" 7.02 19.1 26.11

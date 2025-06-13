@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"1n0x_KM-KR_K-1n0x_KM-KR_R.50" "TRP" "K" 50 "-" 3.02 0.05 3.07
+"1n0x_KM-KR_K-1n0x_KM-KR_R.55" "ASN" "K" 54 "-" 0 0.03 0.03
+"1n0x_KM-KR_K-1n0x_KM-KR_R.56" "GLY" "K" 55 "-" 0.02 0.13 0.14
+"1n0x_KM-KR_K-1n0x_KM-KR_R.57" "ASN" "K" 56 "-" 4.17 16.4 20.56
+"1n0x_KM-KR_K-1n0x_KM-KR_R.58" "LYS" "K" 57 "-" 0.06 3.36 3.42
+"1n0x_KM-KR_K-1n0x_KM-KR_R.59" "GLU" "K" 58 "-" 6.21 13.73 19.94
+"1n0x_KM-KR_K-1n0x_KM-KR_R.60" "PHE" "K" 59 "-" 0 0.09 0.09
+"1n0x_KM-KR_K-1n0x_KM-KR_R.107" "SER" "K" 100 "C" 1.59 0 1.59
+"1n0x_KM-KR_K-1n0x_KM-KR_R.108" "PRO" "K" 100 "D" 69.02 4.64 73.66
+"1n0x_KM-KR_K-1n0x_KM-KR_R.109" "GLN" "K" 100 "E" 7.3 17.49 24.8
+"1n0x_KM-KR_K-1n0x_KM-KR_R.228" "SER" "R" 4 "-" 13.93 8.08 22.01
+"1n0x_KM-KR_K-1n0x_KM-KR_R.229" "TYR" "R" 5 "-" 1.03 9.38 10.41
+"1n0x_KM-KR_K-1n0x_KM-KR_R.230" "MET" "R" 6 "-" 46.9 0.84 47.73
+"1n0x_KM-KR_K-1n0x_KM-KR_R.241" "ALA" "R" 17 "-" 7.39 0.01 7.39
+"1n0x_KM-KR_K-1n0x_KM-KR_R.242" "GLU" "R" 18 "-" 56.81 25.77 82.58
+"1n0x_KM-KR_K-1n0x_KM-KR_R.243" "LYS" "R" 20 "-" 55.03 22.67 77.7

@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.26" "SER" "D" 30 "-" 0 0.45 0.44
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.27" "SER" "D" 31 "-" 0.16 0 0.17
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.28" "ALA" "D" 32 "-" 13.67 0.85 14.52
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.45" "TYR" "D" 49 "-" 0.27 0 0.27
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.46" "SER" "D" 50 "-" 1.74 3.29 5.02
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.87" "SER" "D" 91 "-" 8.48 4.07 12.55
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.88" "SER" "D" 92 "-" 4 10.5 14.51
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.89" "SER" "D" 93 "-" 30.34 24.1 54.44
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.90" "SER" "D" 94 "-" 7.65 5.26 12.92
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.91" "LEU" "D" 95 "-" 1.61 1.8 3.41
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.92" "ILE" "D" 96 "-" 17.66 0.6 18.25
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.211" "ASN" "c" 1 "-" 8.39 5.95 14.34
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.212" "LEU" "c" 2 "-" 95.67 2.57 98.24
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.213" "SER" "c" 3 "-" 36.05 20.97 57.01
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.214" "GLU" "c" 4 "-" 0 0.05 0.05
+"4xgz_CD-Dc_D-4xgz_CD-Dc_c.217" "ARG" "c" 7 "-" 0.88 10.31 11.19

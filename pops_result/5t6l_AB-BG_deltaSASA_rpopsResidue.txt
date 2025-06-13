@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5t6l_AB-BG_B-5t6l_AB-BG_G.89" "ARG" "B" 91 "-" 0.09 8.44 8.53
+"5t6l_AB-BG_B-5t6l_AB-BG_G.95" "ARG" "B" 95 "B" 52.22 77.74 129.95
+"5t6l_AB-BG_B-5t6l_AB-BG_G.326" "TRP" "G" 120 "-" 0.66 0.43 1.08
+"5t6l_AB-BG_B-5t6l_AB-BG_G.327" "PHE" "G" 121 "-" 56.23 0 56.23

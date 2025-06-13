@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5kzp_EI-IB_I-5kzp_EI-IB_B.32" "TYR" "I" 32 "-" 0 0.36 0.36
+"5kzp_EI-IB_I-5kzp_EI-IB_B.91" "ARG" "I" 91 "-" 5.56 20.17 25.74
+"5kzp_EI-IB_I-5kzp_EI-IB_B.92" "SER" "I" 92 "-" 0.96 10.97 11.94
+"5kzp_EI-IB_I-5kzp_EI-IB_B.93" "ASN" "I" 93 "-" 8.11 20.55 28.66
+"5kzp_EI-IB_I-5kzp_EI-IB_B.94" "TRP" "I" 94 "-" 97.79 8.56 106.35
+"5kzp_EI-IB_I-5kzp_EI-IB_B.95" "ILE" "I" 96 "-" 34.91 0.27 35.17
+"5kzp_EI-IB_I-5kzp_EI-IB_B.217" "ASN" "B" 415 "-" 3.9 10.88 14.78
+"5kzp_EI-IB_I-5kzp_EI-IB_B.218" "THR" "B" 416 "-" 0 0.04 0.04
+"5kzp_EI-IB_I-5kzp_EI-IB_B.219" "ASN" "B" 417 "-" 3.56 9.09 12.65
+"5kzp_EI-IB_I-5kzp_EI-IB_B.220" "GLY" "B" 418 "-" 20.34 11.28 31.62
+"5kzp_EI-IB_I-5kzp_EI-IB_B.221" "SER" "B" 419 "-" 4.37 6.32 10.69
+"5kzp_EI-IB_I-5kzp_EI-IB_B.222" "TRP" "B" 420 "-" 59.66 12.58 72.24
+"5kzp_EI-IB_I-5kzp_EI-IB_B.223" "HIS" "B" 421 "-" 0.02 0.03 0.04

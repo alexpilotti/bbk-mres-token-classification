@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7qti_GH-HK_H-7qti_GH-HK_K.32" "TYR" "H" 32 "-" 3.07 9.27 12.34
+"7qti_GH-HK_H-7qti_GH-HK_K.92" "HIS" "H" 92 "-" 8.06 8.98 17.04
+"7qti_GH-HK_H-7qti_GH-HK_K.630" "VAL" "K" 442 "-" 47.55 0 47.55
+"7qti_GH-HK_H-7qti_GH-HK_K.684" "PRO" "K" 496 "-" 1.62 0 1.62

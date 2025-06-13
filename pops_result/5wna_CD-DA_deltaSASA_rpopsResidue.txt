@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5wna_CD-DA_D-5wna_CD-DA_A.32" "HIS" "D" 32 "-" 19.05 12.91 31.96
+"5wna_CD-DA_D-5wna_CD-DA_A.50" "GLU" "D" 50 "-" 2.46 5.44 7.9
+"5wna_CD-DA_D-5wna_CD-DA_A.90" "GLN" "D" 90 "-" 0 0.02 0.02
+"5wna_CD-DA_D-5wna_CD-DA_A.91" "ARG" "D" 91 "-" 5.59 14.07 19.66
+"5wna_CD-DA_D-5wna_CD-DA_A.92" "ASN" "D" 92 "-" 2.72 12.31 15.03
+"5wna_CD-DA_D-5wna_CD-DA_A.93" "ASN" "D" 93 "-" 6.39 9.04 15.43
+"5wna_CD-DA_D-5wna_CD-DA_A.94" "TRP" "D" 94 "-" 116.77 9.73 126.5
+"5wna_CD-DA_D-5wna_CD-DA_A.95" "TYR" "D" 95 "-" 14.77 15.64 30.4
+"5wna_CD-DA_D-5wna_CD-DA_A.212" "ASN" "A" 161 "-" 19.33 23.1 42.44
+"5wna_CD-DA_D-5wna_CD-DA_A.213" "ASP" "A" 162 "-" 2.73 4.35 7.08
+"5wna_CD-DA_D-5wna_CD-DA_A.214" "PHE" "A" 163 "-" 60.75 2.73 63.48
+"5wna_CD-DA_D-5wna_CD-DA_A.215" "HIS" "A" 164 "-" 0 0.01 0.02
+"5wna_CD-DA_D-5wna_CD-DA_A.216" "PHE" "A" 165 "-" 47.7 0.09 47.79
+"5wna_CD-DA_D-5wna_CD-DA_A.219" "PHE" "A" 168 "-" 41.58 1.04 42.63
+"5wna_CD-DA_D-5wna_CD-DA_A.220" "ASN" "A" 169 "-" 1.48 15.57 17.05

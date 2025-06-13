@@ -1,0 +1,12 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2i5y_RQ-QP_P-2i5y_RQ-QP_Q.37" "PRO" "P" 118 "-" 0.01 0.05 0.05
+"2i5y_RQ-QP_P-2i5y_RQ-QP_Q.38" "CYS" "P" 119 "-" 8.66 2.42 11.06
+"2i5y_RQ-QP_P-2i5y_RQ-QP_Q.39" "VAL" "P" 120 "-" 8.46 0.19 8.65
+"2i5y_RQ-QP_P-2i5y_RQ-QP_Q.57" "THR" "P" 202 "-" 35.14 7.91 43.05
+"2i5y_RQ-QP_P-2i5y_RQ-QP_Q.58" "GLN" "P" 203 "-" 7.34 5.74 13.09
+"2i5y_RQ-QP_P-2i5y_RQ-QP_Q.59" "ALA" "P" 204 "-" 25 6.43 31.43
+"2i5y_RQ-QP_P-2i5y_RQ-QP_Q.60" "CYS" "P" 205 "-" 7.46 1.11 8.57
+"2i5y_RQ-QP_P-2i5y_RQ-QP_Q.242" "MET" "P" 434 "-" 11.53 0 11.54
+"2i5y_RQ-QP_P-2i5y_RQ-QP_Q.394" "TRP" "Q" 94 "-" 46.31 17.8 64.11
+"2i5y_RQ-QP_P-2i5y_RQ-QP_Q.395" "PRO" "Q" 95 "-" 47.26 0.44 47.7
+"2i5y_RQ-QP_P-2i5y_RQ-QP_Q.396" "PRO" "Q" 95 "A" 1.37 0.01 1.38

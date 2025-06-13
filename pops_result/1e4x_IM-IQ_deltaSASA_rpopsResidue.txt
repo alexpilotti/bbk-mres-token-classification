@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.31" "ASN" "I" 31 "-" 0 0.73 0.73
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.33" "TRP" "I" 33 "-" 15.38 6.58 21.95
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.35" "HIS" "I" 35 "-" 3.56 2.12 5.68
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.50" "GLU" "I" 50 "-" 0.17 2.04 2.21
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.59" "ASN" "I" 58 "-" 0.68 4.48 5.16
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.98" "ARG" "I" 94 "-" 0 0.07 0.08
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.99" "SER" "I" 95 "-" 7.46 5.92 13.38
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.100" "PRO" "I" 96 "-" 43.87 0.26 44.13
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.101" "SER" "I" 97 "-" 0.11 0.65 0.76
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.102" "ASP" "I" 98 "-" 3.51 16.88 20.39
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.218" "VAL" "Q" 1 "-" 0.12 1.02 1.13
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.219" "VAL" "Q" 2 "-" 14.48 0.34 14.82
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.220" "SER" "Q" 3 "-" 13.98 9.46 23.44
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.221" "HIS" "Q" 4 "-" 24.18 12.62 36.8
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.222" "PHE" "Q" 5 "-" 0.12 0 0.12
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.223" "ASN" "Q" 6 "-" 8.28 40.27 48.54
+"1e4x_IM-IQ_I-1e4x_IM-IQ_Q.224" "ASP" "Q" 7 "-" 12.93 27.79 40.73

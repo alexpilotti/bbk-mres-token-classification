@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7eyc_AB-AQ_A-7eyc_AB-AQ_Q.33" "TYR" "A" 33 "-" 16.17 12.56 28.73
+"7eyc_AB-AQ_A-7eyc_AB-AQ_Q.50" "TYR" "A" 50 "-" 3.22 6.8 10.01
+"7eyc_AB-AQ_A-7eyc_AB-AQ_Q.52" "ARG" "A" 52 "-" 0.61 10.96 11.57
+"7eyc_AB-AQ_A-7eyc_AB-AQ_Q.98" "VAL" "A" 95 "-" 3.17 0 3.18
+"7eyc_AB-AQ_A-7eyc_AB-AQ_Q.99" "TYR" "A" 96 "-" 74.27 31.42 105.69
+"7eyc_AB-AQ_A-7eyc_AB-AQ_Q.100" "PHE" "A" 97 "-" 3.12 0.07 3.19
+"7eyc_AB-AQ_A-7eyc_AB-AQ_Q.101" "THR" "A" 98 "-" 0 0.1 0.1
+"7eyc_AB-AQ_A-7eyc_AB-AQ_Q.215" "ILE" "Q" 3 "-" 1.35 7.51 8.86
+"7eyc_AB-AQ_A-7eyc_AB-AQ_Q.216" "ILE" "Q" 4 "-" 72.34 2.58 74.92
+"7eyc_AB-AQ_A-7eyc_AB-AQ_Q.217" "ASN" "Q" 5 "-" 20.23 47.32 67.54
+"7eyc_AB-AQ_A-7eyc_AB-AQ_Q.218" "LYS" "Q" 7 "-" 0.37 1.35 1.72
+"7eyc_AB-AQ_A-7eyc_AB-AQ_Q.219" "LEU" "Q" 8 "-" 120.93 16.19 137.12
+"7eyc_AB-AQ_A-7eyc_AB-AQ_Q.220" "ASP" "Q" 9 "-" 13.42 9.09 22.51

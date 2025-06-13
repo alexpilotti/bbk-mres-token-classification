@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7vgr_DC-CA_C-7vgr_DC-CA_A.31" "SER" "C" 31 "-" 0.33 0.22 0.55
+"7vgr_DC-CA_C-7vgr_DC-CA_A.32" "PHE" "C" 32 "-" 44.87 1.32 46.19
+"7vgr_DC-CA_C-7vgr_DC-CA_A.34" "ASN" "C" 34 "-" 3.59 21.44 25.04
+"7vgr_DC-CA_C-7vgr_DC-CA_A.36" "PHE" "C" 36 "-" 20.91 0 20.9
+"7vgr_DC-CA_C-7vgr_DC-CA_A.54" "ARG" "C" 54 "-" 4.35 6.49 10.84
+"7vgr_DC-CA_C-7vgr_DC-CA_A.100" "TYR" "C" 100 "-" 0 0.24 0.24
+"7vgr_DC-CA_C-7vgr_DC-CA_A.348" "LEU" "A" 138 "-" 82.27 0.14 82.42
+"7vgr_DC-CA_C-7vgr_DC-CA_A.384" "ARG" "A" 174 "-" 0.3 0 0.29
+"7vgr_DC-CA_C-7vgr_DC-CA_A.385" "THR" "A" 175 "-" 1.62 4.65 6.26
+"7vgr_DC-CA_C-7vgr_DC-CA_A.408" "ARG" "A" 198 "-" 0.94 22.51 23.46
+"7vgr_DC-CA_C-7vgr_DC-CA_A.409" "TYR" "A" 199 "-" 0 0.11 0.12
+"7vgr_DC-CA_C-7vgr_DC-CA_A.411" "ILE" "A" 201 "-" 25.81 0.48 26.29
+"7vgr_DC-CA_C-7vgr_DC-CA_A.414" "TYR" "A" 204 "-" 0.06 2.89 2.95

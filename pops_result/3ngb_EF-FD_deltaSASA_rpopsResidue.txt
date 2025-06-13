@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3ngb_EF-FD_D-3ngb_EF-FD_F.160" "ASN" "D" 276 "-" 1.44 4.23 5.67
+"3ngb_EF-FD_D-3ngb_EF-FD_F.162" "THR" "D" 278 "-" 37.97 22.92 60.89
+"3ngb_EF-FD_D-3ngb_EF-FD_F.163" "ASN" "D" 279 "-" 5.53 7.65 13.18
+"3ngb_EF-FD_D-3ngb_EF-FD_F.164" "ASN" "D" 280 "-" 2.81 16.26 19.07
+"3ngb_EF-FD_D-3ngb_EF-FD_F.314" "ARG" "D" 456 "-" 0 0.48 0.48
+"3ngb_EF-FD_D-3ngb_EF-FD_F.315" "ASP" "D" 457 "-" 0 0 0.01
+"3ngb_EF-FD_D-3ngb_EF-FD_F.316" "GLY" "D" 458 "-" 13.16 7.18 20.36
+"3ngb_EF-FD_D-3ngb_EF-FD_F.317" "GLY" "D" 459 "-" 27.97 27.08 55.04
+"3ngb_EF-FD_D-3ngb_EF-FD_F.318" "ALA" "D" 460 "-" 4.11 4.28 8.39
+"3ngb_EF-FD_D-3ngb_EF-FD_F.319" "ASN" "D" 461 "-" 11.49 13.69 25.18
+"3ngb_EF-FD_D-3ngb_EF-FD_F.351" "VAL" "FALSE" 3 "-" 9.91 4.04 13.96
+"3ngb_EF-FD_D-3ngb_EF-FD_F.375" "GLN" "FALSE" 27 "-" 5.5 25.3 30.8
+"3ngb_EF-FD_D-3ngb_EF-FD_F.376" "TYR" "FALSE" 28 "-" 0 0.37 0.37
+"3ngb_EF-FD_D-3ngb_EF-FD_F.437" "TYR" "FALSE" 91 "-" 50.43 24.06 74.5
+"3ngb_EF-FD_D-3ngb_EF-FD_F.438" "GLU" "FALSE" 96 "-" 11.19 13.27 24.46
+"3ngb_EF-FD_D-3ngb_EF-FD_F.439" "PHE" "FALSE" 97 "-" 29.14 0 29.14

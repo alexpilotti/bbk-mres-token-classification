@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7pry_CD-DI_D-7pry_CD-DI_I.27" "GLN" "D" 27 "-" 7.32 11.03 18.35
+"7pry_CD-DI_D-7pry_CD-DI_I.28" "SER" "D" 28 "-" 0.38 0 0.39
+"7pry_CD-DI_D-7pry_CD-DI_I.29" "VAL" "D" 29 "-" 1.11 0 1.11
+"7pry_CD-DI_D-7pry_CD-DI_I.32" "TYR" "D" 32 "-" 0 0.02 0.03
+"7pry_CD-DI_D-7pry_CD-DI_I.91" "ARG" "D" 91 "-" 1.94 39.76 41.69
+"7pry_CD-DI_D-7pry_CD-DI_I.92" "SER" "D" 92 "-" 0 0.07 0.07
+"7pry_CD-DI_D-7pry_CD-DI_I.93" "ASN" "D" 93 "-" 13.22 27.27 40.49
+"7pry_CD-DI_D-7pry_CD-DI_I.94" "TRP" "D" 94 "-" 2.35 0 2.35
+"7pry_CD-DI_D-7pry_CD-DI_I.96" "PRO" "D" 96 "-" 0.22 0 0.22
+"7pry_CD-DI_D-7pry_CD-DI_I.327" "VAL" "I" 445 "-" 0.02 0.37 0.39
+"7pry_CD-DI_D-7pry_CD-DI_I.328" "GLY" "I" 446 "-" 2.88 6.59 9.47
+"7pry_CD-DI_D-7pry_CD-DI_I.329" "GLY" "I" 447 "-" 0.85 0.16 1.01
+"7pry_CD-DI_D-7pry_CD-DI_I.331" "TYR" "I" 449 "-" 25.16 8.25 33.42
+"7pry_CD-DI_D-7pry_CD-DI_I.365" "VAL" "I" 483 "-" 1.11 0 1.12
+"7pry_CD-DI_D-7pry_CD-DI_I.366" "LYS" "I" 484 "-" 1.5 2.62 4.13
+"7pry_CD-DI_D-7pry_CD-DI_I.367" "GLY" "I" 485 "-" 4.58 0.37 4.95
+"7pry_CD-DI_D-7pry_CD-DI_I.375" "GLN" "I" 493 "-" 0 1.16 1.15
+"7pry_CD-DI_D-7pry_CD-DI_I.380" "GLN" "I" 498 "-" 0.25 4.21 4.46
+"7pry_CD-DI_D-7pry_CD-DI_I.387" "TYR" "I" 505 "-" 0.01 0 0.01

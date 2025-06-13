@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mp1_CD-CB_C-5mp1_CD-CB_B.32" "VAL" "C" 33 "-" 2.26 0 2.26
+"5mp1_CD-CB_C-5mp1_CD-CB_B.49" "GLU" "C" 50 "-" 2.94 8.57 11.51
+"5mp1_CD-CB_C-5mp1_CD-CB_B.50" "ILE" "C" 51 "-" 0.2 0.25 0.44
+"5mp1_CD-CB_C-5mp1_CD-CB_B.51" "PHE" "C" 52 "-" 8.51 0.42 8.93
+"5mp1_CD-CB_C-5mp1_CD-CB_B.54" "SER" "C" 55 "-" 1.34 1.7 3.06
+"5mp1_CD-CB_C-5mp1_CD-CB_B.55" "GLY" "C" 56 "-" 0.01 0 0.01
+"5mp1_CD-CB_C-5mp1_CD-CB_B.56" "SER" "C" 57 "-" 12.62 8.33 20.96
+"5mp1_CD-CB_C-5mp1_CD-CB_B.57" "THR" "C" 58 "-" 0.53 1.82 2.36
+"5mp1_CD-CB_C-5mp1_CD-CB_B.58" "TYR" "C" 59 "-" 66.67 41.68 108.35
+"5mp1_CD-CB_C-5mp1_CD-CB_B.100" "TYR" "C" 101 "-" 30.41 36.93 67.34
+"5mp1_CD-CB_C-5mp1_CD-CB_B.101" "GLY" "C" 102 "-" 0.02 0 0.02
+"5mp1_CD-CB_C-5mp1_CD-CB_B.102" "THR" "C" 103 "-" 0 0.14 0.14
+"5mp1_CD-CB_C-5mp1_CD-CB_B.104" "PHE" "C" 105 "-" 22.08 0 22.08
+"5mp1_CD-CB_C-5mp1_CD-CB_B.215" "HIS" "B" 299 "-" 125.72 70.22 195.95
+"5mp1_CD-CB_C-5mp1_CD-CB_B.216" "VAL" "B" 300 "-" 44.23 13.91 58.13
+"5mp1_CD-CB_C-5mp1_CD-CB_B.217" "PRO" "B" 301 "-" 69.39 10.99 80.38
+"5mp1_CD-CB_C-5mp1_CD-CB_B.218" "GLY" "B" 302 "-" 19.95 9 28.95
+"5mp1_CD-CB_C-5mp1_CD-CB_B.219" "GLY" "B" 303 "-" 29.45 14.74 44.18
+"5mp1_CD-CB_C-5mp1_CD-CB_B.220" "GLY" "B" 304 "-" 0 1.06 1.06

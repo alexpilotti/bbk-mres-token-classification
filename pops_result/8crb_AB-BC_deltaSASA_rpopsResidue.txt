@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8crb_AB-BC_B-8crb_AB-BC_C.51" "ARG" "B" 51 "-" 9.12 37.86 46.97
+"8crb_AB-BC_B-8crb_AB-BC_C.322" "LYS" "C" 232 "-" 0 0.25 0.24
+"8crb_AB-BC_B-8crb_AB-BC_C.323" "ASP" "C" 233 "-" 11.21 18.83 30.04
+"8crb_AB-BC_B-8crb_AB-BC_C.324" "ASN" "C" 234 "-" 0.17 2.49 2.65

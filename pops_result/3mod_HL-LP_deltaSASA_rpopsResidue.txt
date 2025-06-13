@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3mod_HL-LP_P-3mod_HL-LP_L.1" "LEU" "P" 660 "-" 0.01 0 0.01
+"3mod_HL-LP_P-3mod_HL-LP_L.2" "LEU" "P" 661 "-" 128.05 5.03 133.09
+"3mod_HL-LP_P-3mod_HL-LP_L.3" "GLU" "P" 662 "-" 31.84 41.43 73.27
+"3mod_HL-LP_P-3mod_HL-LP_L.4" "LEU" "P" 663 "-" 49.41 8.85 58.25
+"3mod_HL-LP_P-3mod_HL-LP_L.5" "ASP" "P" 664 "-" 23.44 25.83 49.27
+"3mod_HL-LP_P-3mod_HL-LP_L.6" "LYS" "P" 665 "-" 7.32 1.31 8.64
+"3mod_HL-LP_P-3mod_HL-LP_L.7" "TRP" "P" 666 "-" 0.04 0.02 0.05
+"3mod_HL-LP_P-3mod_HL-LP_L.8" "ALA" "P" 667 "-" 12.29 3.79 16.08
+"3mod_HL-LP_P-3mod_HL-LP_L.12" "ALA" "L" 1 "-" 15.5 12.15 27.66
+"3mod_HL-LP_P-3mod_HL-LP_L.13" "LEU" "L" 2 "-" 3.56 2.49 6.05
+"3mod_HL-LP_P-3mod_HL-LP_L.38" "GLN" "L" 27 "-" 2.92 13.63 16.55
+"3mod_HL-LP_P-3mod_HL-LP_L.41" "THR" "L" 30 "-" 0.28 0 0.27
+"3mod_HL-LP_P-3mod_HL-LP_L.43" "ALA" "L" 32 "-" 0.03 0 0.02
+"3mod_HL-LP_P-3mod_HL-LP_L.102" "LEU" "L" 91 "-" 2.35 6.97 9.32
+"3mod_HL-LP_P-3mod_HL-LP_L.103" "HIS" "L" 92 "-" 11.38 15.15 26.53
+"3mod_HL-LP_P-3mod_HL-LP_L.104" "PHE" "L" 93 "-" 34.36 0.89 35.25
+"3mod_HL-LP_P-3mod_HL-LP_L.105" "TYR" "L" 94 "-" 85.39 48.27 133.66
+"3mod_HL-LP_P-3mod_HL-LP_L.106" "PRO" "L" 95 "-" 4.65 0.11 4.77
+"3mod_HL-LP_P-3mod_HL-LP_L.107" "HIS" "L" 96 "-" 5.19 3.13 8.32

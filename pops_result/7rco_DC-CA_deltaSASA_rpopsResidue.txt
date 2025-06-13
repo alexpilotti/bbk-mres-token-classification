@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7rco_DC-CA_A-7rco_DC-CA_C.23" "ASP" "A" 325 "-" 0.05 0 0.05
+"7rco_DC-CA_A-7rco_DC-CA_C.26" "ARG" "A" 328 "-" 27.89 39.89 67.78
+"7rco_DC-CA_A-7rco_DC-CA_C.27" "ASP" "A" 329 "-" 3.96 13.11 17.07
+"7rco_DC-CA_A-7rco_DC-CA_C.140" "TYR" "C" 30 "-" 26.77 29.55 56.33
+"7rco_DC-CA_A-7rco_DC-CA_C.141" "ASN" "C" 31 "-" 3.75 23.83 27.59

@@ -1,0 +1,21 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mu2_GH-GS_G-5mu2_GH-GS_S.31" "ASP" "G" 31 "-" 3.96 4.16 8.12
+"5mu2_GH-GS_G-5mu2_GH-GS_S.32" "ALA" "G" 32 "-" 1.83 0.58 2.41
+"5mu2_GH-GS_G-5mu2_GH-GS_S.33" "TRP" "G" 33 "-" 31.99 2.79 34.77
+"5mu2_GH-GS_G-5mu2_GH-GS_S.50" "GLU" "G" 50 "-" 0.13 1.7 1.83
+"5mu2_GH-GS_G-5mu2_GH-GS_S.52" "ARG" "G" 52 "-" 0.16 5.08 5.25
+"5mu2_GH-GS_G-5mu2_GH-GS_S.53" "ASN" "G" 53 "-" 0.07 1.98 2.06
+"5mu2_GH-GS_G-5mu2_GH-GS_S.56" "ASN" "G" 56 "-" 0.13 3.16 3.28
+"5mu2_GH-GS_G-5mu2_GH-GS_S.100" "GLY" "G" 100 "-" 0 0.01 0.01
+"5mu2_GH-GS_G-5mu2_GH-GS_S.101" "LEU" "G" 101 "-" 25.7 3.12 28.82
+"5mu2_GH-GS_G-5mu2_GH-GS_S.102" "THR" "G" 102 "-" 17.2 10.88 28.07
+"5mu2_GH-GS_G-5mu2_GH-GS_S.103" "PHE" "G" 103 "-" 9.79 2.63 12.43
+"5mu2_GH-GS_G-5mu2_GH-GS_S.104" "ASP" "G" 104 "-" 6.53 30.71 37.24
+"5mu2_GH-GS_G-5mu2_GH-GS_S.214" "GLY" "S" 13 "-" 2.94 7.71 10.65
+"5mu2_GH-GS_G-5mu2_GH-GS_S.215" "GLY" "S" 14 "-" 40.88 32.56 73.44
+"5mu2_GH-GS_G-5mu2_GH-GS_S.216" "ARG" "S" 15 "-" 37.77 42.36 80.13
+"5mu2_GH-GS_G-5mu2_GH-GS_S.217" "GLY" "S" 16 "-" 16.49 6 22.49
+"5mu2_GH-GS_G-5mu2_GH-GS_S.218" "LEU" "S" 17 "-" 32.15 3.37 35.51
+"5mu2_GH-GS_G-5mu2_GH-GS_S.219" "THR" "S" 18 "-" 63.22 34.88 98.11
+"5mu2_GH-GS_G-5mu2_GH-GS_S.220" "GLY" "S" 19 "-" 9.7 2.13 11.84
+"5mu2_GH-GS_G-5mu2_GH-GS_S.221" "PRO" "S" 20 "-" 39.99 1.35 41.34

@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7x26_HK-KI_I-7x26_HK-KI_K.155" "TRP" "I" 535 "-" 0.74 0.05 0.8
+"7x26_HK-KI_I-7x26_HK-KI_K.156" "GLU" "I" 536 "-" 4.57 13.02 17.59
+"7x26_HK-KI_I-7x26_HK-KI_K.301" "GLY" "K" 93 "-" 0 0.63 0.62
+"7x26_HK-KI_I-7x26_HK-KI_K.302" "SER" "K" 94 "-" 0.03 0.04 0.08
+"7x26_HK-KI_I-7x26_HK-KI_K.303" "SER" "K" 95 "-" 8.98 10.58 19.56

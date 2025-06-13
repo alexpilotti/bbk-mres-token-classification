@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6bpa_EF-FD_D-6bpa_EF-FD_F.169" "GLU" "D" 338 "-" 3 13.3 16.3
+"6bpa_EF-FD_D-6bpa_EF-FD_F.172" "ASP" "D" 341 "-" 0.17 2.77 2.94
+"6bpa_EF-FD_D-6bpa_EF-FD_F.173" "THR" "D" 342 "-" 0 0.43 0.44
+"6bpa_EF-FD_D-6bpa_EF-FD_F.176" "LYS" "D" 345 "-" 33.3 25.44 58.75
+"6bpa_EF-FD_D-6bpa_EF-FD_F.179" "LYS" "D" 348 "-" 0.36 0.85 1.22
+"6bpa_EF-FD_D-6bpa_EF-FD_F.180" "ASN" "D" 349 "-" 0 1.1 1.1
+"6bpa_EF-FD_D-6bpa_EF-FD_F.227" "LYS" "D" 396 "-" 5.69 6.16 11.86
+"6bpa_EF-FD_D-6bpa_EF-FD_F.324" "ASP" "FALSE" 50 "-" 0.27 0.37 0.64
+"6bpa_EF-FD_D-6bpa_EF-FD_F.325" "ILE" "FALSE" 51 "-" 0.04 0.22 0.25
+"6bpa_EF-FD_D-6bpa_EF-FD_F.326" "ASP" "FALSE" 52 "-" 2.49 13.26 15.74
+"6bpa_EF-FD_D-6bpa_EF-FD_F.328" "ASP" "FALSE" 54 "-" 0.97 6.65 7.62
+"6bpa_EF-FD_D-6bpa_EF-FD_F.346" "GLU" "FALSE" 72 "-" 1.02 6.34 7.36
+"6bpa_EF-FD_D-6bpa_EF-FD_F.363" "TYR" "FALSE" 89 "-" 0 0.97 0.98
+"6bpa_EF-FD_D-6bpa_EF-FD_F.387" "SER" "FALSE" 113 "-" 0.02 0.56 0.59
+"6bpa_EF-FD_D-6bpa_EF-FD_F.388" "ASP" "FALSE" 114 "-" 2.4 10.99 13.39
+"6bpa_EF-FD_D-6bpa_EF-FD_F.389" "ASN" "FALSE" 115 "-" 0 0.02 0.02
+"6bpa_EF-FD_D-6bpa_EF-FD_F.390" "LEU" "FALSE" 116 "-" 12.52 0 12.52

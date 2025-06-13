@@ -1,0 +1,9 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7sl5_DE-EF_E-7sl5_DE-EF_F.92" "ASN" "E" 92 "-" 0.07 1.58 1.65
+"7sl5_DE-EF_E-7sl5_DE-EF_F.93" "SER" "E" 93 "-" 0.27 0.09 0.36
+"7sl5_DE-EF_E-7sl5_DE-EF_F.94" "TYR" "E" 94 "-" 3.8 9.1 12.89
+"7sl5_DE-EF_E-7sl5_DE-EF_F.95" "PRO" "E" 95 "-" 53.71 0.78 54.5
+"7sl5_DE-EF_E-7sl5_DE-EF_F.223" "GLU" "FALSE" 819 "-" 0 0.04 0.04
+"7sl5_DE-EF_E-7sl5_DE-EF_F.226" "LEU" "FALSE" 822 "-" 16.72 2.98 19.7
+"7sl5_DE-EF_E-7sl5_DE-EF_F.227" "PHE" "FALSE" 823 "-" 45.09 1.26 46.36
+"7sl5_DE-EF_E-7sl5_DE-EF_F.229" "LYS" "FALSE" 825 "-" 3.37 11.96 15.33

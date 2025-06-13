@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6bzw_EF-FK_F-6bzw_EF-FK_K.31" "SER" "FALSE" 27 "D" 0.88 1.62 2.5
+"6bzw_EF-FK_F-6bzw_EF-FK_K.32" "TYR" "FALSE" 28 "-" 66.35 28.37 94.72
+"6bzw_EF-FK_F-6bzw_EF-FK_K.34" "ASN" "FALSE" 30 "-" 0.19 1.25 1.44
+"6bzw_EF-FK_F-6bzw_EF-FK_K.36" "PHE" "FALSE" 32 "-" 19.84 0 19.84
+"6bzw_EF-FK_F-6bzw_EF-FK_K.95" "ASN" "FALSE" 91 "-" 1.46 10.17 11.63
+"6bzw_EF-FK_F-6bzw_EF-FK_K.96" "ASN" "FALSE" 92 "-" 1.71 11.06 12.77
+"6bzw_EF-FK_F-6bzw_EF-FK_K.97" "GLU" "FALSE" 93 "-" 5.97 1.52 7.49
+"6bzw_EF-FK_F-6bzw_EF-FK_K.98" "ASP" "FALSE" 94 "-" 12.52 3.84 16.37
+"6bzw_EF-FK_F-6bzw_EF-FK_K.100" "TRP" "FALSE" 96 "-" 34.28 1.71 35.99
+"6bzw_EF-FK_F-6bzw_EF-FK_K.218" "LEU" "K" 413 "-" 46.27 0 46.27
+"6bzw_EF-FK_F-6bzw_EF-FK_K.220" "ASN" "K" 415 "-" 1.1 4.55 5.67
+"6bzw_EF-FK_F-6bzw_EF-FK_K.222" "ASN" "K" 417 "-" 1.58 9.82 11.4
+"6bzw_EF-FK_F-6bzw_EF-FK_K.223" "GLY" "K" 418 "-" 17.73 14.99 32.72
+"6bzw_EF-FK_F-6bzw_EF-FK_K.224" "SER" "K" 419 "-" 8.99 11.97 20.96
+"6bzw_EF-FK_F-6bzw_EF-FK_K.225" "TRP" "K" 420 "-" 44.89 19.16 64.06
+"6bzw_EF-FK_F-6bzw_EF-FK_K.226" "HIS" "K" 421 "-" 17.72 1.26 18.98

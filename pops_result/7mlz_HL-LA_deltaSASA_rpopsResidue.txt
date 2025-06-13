@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7mlz_HL-LA_A-7mlz_HL-LA_L.146" "SER" "A" 477 "-" 11.98 14.1 26.08
+"7mlz_HL-LA_A-7mlz_HL-LA_L.147" "THR" "A" 478 "-" 47.18 11.98 59.15
+"7mlz_HL-LA_A-7mlz_HL-LA_L.148" "PRO" "A" 479 "-" 0.86 0.37 1.22
+"7mlz_HL-LA_A-7mlz_HL-LA_L.149" "CYS" "A" 480 "-" 8.68 1.59 10.27
+"7mlz_HL-LA_A-7mlz_HL-LA_L.152" "VAL" "A" 483 "-" 0.66 0.52 1.18
+"7mlz_HL-LA_A-7mlz_HL-LA_L.153" "GLU" "A" 484 "-" 0.6 5.24 5.83
+"7mlz_HL-LA_A-7mlz_HL-LA_L.154" "GLY" "A" 485 "-" 19.55 6.35 25.89
+"7mlz_HL-LA_A-7mlz_HL-LA_L.155" "PHE" "A" 486 "-" 80.36 8.55 88.92
+"7mlz_HL-LA_A-7mlz_HL-LA_L.156" "ASN" "A" 487 "-" 0.3 0.41 0.71
+"7mlz_HL-LA_A-7mlz_HL-LA_L.157" "CYS" "A" 488 "-" 4.86 0.03 4.89
+"7mlz_HL-LA_A-7mlz_HL-LA_L.227" "SER" "L" 30 "-" 0.1 1.51 1.61
+"7mlz_HL-LA_A-7mlz_HL-LA_L.228" "SER" "L" 31 "-" 13.41 9.56 22.97
+"7mlz_HL-LA_A-7mlz_HL-LA_L.229" "TYR" "L" 32 "-" 67.12 42.48 109.6
+"7mlz_HL-LA_A-7mlz_HL-LA_L.246" "TYR" "L" 49 "-" 6.5 1.71 8.21
+"7mlz_HL-LA_A-7mlz_HL-LA_L.288" "TYR" "L" 91 "-" 12.16 1.23 13.4
+"7mlz_HL-LA_A-7mlz_HL-LA_L.289" "GLY" "L" 92 "-" 10.3 13.95 24.25
+"7mlz_HL-LA_A-7mlz_HL-LA_L.290" "ASN" "L" 93 "-" 0.18 0.26 0.44
+"7mlz_HL-LA_A-7mlz_HL-LA_L.293" "TRP" "L" 96 "-" 47.97 0.92 48.88

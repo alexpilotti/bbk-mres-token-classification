@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7pr0_GF-FD_D-7pr0_GF-FD_F.17" "THR" "D" 345 "-" 5.94 1.58 7.51
+"7pr0_GF-FD_D-7pr0_GF-FD_F.112" "ASN" "D" 440 "-" 0.37 5.07 5.43
+"7pr0_GF-FD_D-7pr0_GF-FD_F.113" "LEU" "D" 441 "-" 13.04 2.41 15.44
+"7pr0_GF-FD_D-7pr0_GF-FD_F.114" "ASP" "D" 442 "-" 0 0.03 0.04
+"7pr0_GF-FD_D-7pr0_GF-FD_F.115" "SER" "D" 443 "-" 0.04 0.85 0.88
+"7pr0_GF-FD_D-7pr0_GF-FD_F.116" "LYS" "D" 444 "-" 22.8 6.81 29.61
+"7pr0_GF-FD_D-7pr0_GF-FD_F.117" "VAL" "D" 445 "-" 82.91 7.18 90.09
+"7pr0_GF-FD_D-7pr0_GF-FD_F.118" "GLY" "D" 446 "-" 19.91 8.64 28.55
+"7pr0_GF-FD_D-7pr0_GF-FD_F.119" "GLY" "D" 447 "-" 0 0.07 0.07
+"7pr0_GF-FD_D-7pr0_GF-FD_F.171" "PRO" "D" 499 "-" 0.29 0 0.29
+"7pr0_GF-FD_D-7pr0_GF-FD_F.232" "TYR" "FALSE" 35 "-" 22.97 25.01 47.98
+"7pr0_GF-FD_D-7pr0_GF-FD_F.251" "TYR" "FALSE" 54 "-" 18.58 25.51 44.1
+"7pr0_GF-FD_D-7pr0_GF-FD_F.252" "LEU" "FALSE" 55 "-" 10.28 0.09 10.37
+"7pr0_GF-FD_D-7pr0_GF-FD_F.255" "ASN" "FALSE" 58 "-" 2.64 12.91 15.56
+"7pr0_GF-FD_D-7pr0_GF-FD_F.257" "ALA" "FALSE" 60 "-" 0.61 0 0.61
+"7pr0_GF-FD_D-7pr0_GF-FD_F.258" "SER" "FALSE" 61 "-" 42.83 22.68 65.5
+"7pr0_GF-FD_D-7pr0_GF-FD_F.259" "GLY" "FALSE" 62 "-" 2.01 1.6 3.62

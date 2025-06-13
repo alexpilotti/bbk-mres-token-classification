@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8d6z_CD-DK_D-8d6z_CD-DK_K.92" "GLY" "D" 92 "-" 0 0.17 0.17
+"8d6z_CD-DK_D-8d6z_CD-DK_K.94" "TRP" "D" 94 "-" 54 0.05 54.05
+"8d6z_CD-DK_D-8d6z_CD-DK_K.95" "PRO" "D" 95 "-" 34.53 1.95 36.49
+"8d6z_CD-DK_D-8d6z_CD-DK_K.217" "ARG" "K" 815 "-" 0 2.45 2.46
+"8d6z_CD-DK_D-8d6z_CD-DK_K.221" "GLU" "K" 819 "-" 6.31 10.8 17.12
+"8d6z_CD-DK_D-8d6z_CD-DK_K.224" "LEU" "K" 822 "-" 42.64 7.17 49.8
+"8d6z_CD-DK_D-8d6z_CD-DK_K.225" "PHE" "K" 823 "-" 64.35 2.99 67.34

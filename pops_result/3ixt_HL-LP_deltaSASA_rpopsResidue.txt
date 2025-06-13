@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3ixt_HL-LP_L-3ixt_HL-LP_P.29" "VAL" "L" 30 "-" 1.21 0.25 1.46
+"3ixt_HL-LP_L-3ixt_HL-LP_P.30" "GLY" "L" 31 "-" 7.49 2.45 9.94
+"3ixt_HL-LP_L-3ixt_HL-LP_P.31" "TYR" "L" 32 "-" 33.43 20.32 53.76
+"3ixt_HL-LP_L-3ixt_HL-LP_P.33" "HIS" "L" 34 "-" 3.25 1.39 4.64
+"3ixt_HL-LP_L-3ixt_HL-LP_P.48" "TYR" "L" 49 "-" 0.08 0 0.07
+"3ixt_HL-LP_L-3ixt_HL-LP_P.49" "ASP" "L" 50 "-" 1.37 6.43 7.8
+"3ixt_HL-LP_L-3ixt_HL-LP_P.90" "GLY" "L" 91 "-" 1.31 7.02 8.33
+"3ixt_HL-LP_L-3ixt_HL-LP_P.91" "SER" "L" 92 "-" 16.67 31.32 47.99
+"3ixt_HL-LP_L-3ixt_HL-LP_P.92" "GLY" "L" 93 "-" 4.5 1.61 6.11
+"3ixt_HL-LP_L-3ixt_HL-LP_P.93" "TYR" "L" 94 "-" 16.7 4.97 21.66
+"3ixt_HL-LP_L-3ixt_HL-LP_P.95" "PHE" "L" 96 "-" 3.08 0 3.08
+"3ixt_HL-LP_L-3ixt_HL-LP_P.225" "THR" "P" 267 "-" 2.7 0.12 2.82
+"3ixt_HL-LP_L-3ixt_HL-LP_P.226" "ASN" "P" 268 "-" 24.73 62.52 87.25
+"3ixt_HL-LP_L-3ixt_HL-LP_P.227" "ASP" "P" 269 "-" 20.16 58.01 78.17
+"3ixt_HL-LP_L-3ixt_HL-LP_P.229" "LYS" "P" 271 "-" 0 0.34 0.34
+"3ixt_HL-LP_L-3ixt_HL-LP_P.230" "LYS" "P" 272 "-" 48.78 45.49 94.26
+"3ixt_HL-LP_L-3ixt_HL-LP_P.231" "LEU" "P" 273 "-" 5.54 0.03 5.57
+"3ixt_HL-LP_L-3ixt_HL-LP_P.234" "ASN" "P" 276 "-" 0 1.18 1.18

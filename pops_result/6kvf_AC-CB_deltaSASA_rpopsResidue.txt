@@ -1,0 +1,11 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6kvf_AC-CB_C-6kvf_AC-CB_B.34" "TYR" "C" 36 "-" 5.86 2.93 8.79
+"6kvf_AC-CB_C-6kvf_AC-CB_B.36" "TYR" "C" 38 "-" 6.45 9.51 15.96
+"6kvf_AC-CB_C-6kvf_AC-CB_B.46" "PHE" "C" 48 "-" 8.14 0 8.15
+"6kvf_AC-CB_C-6kvf_AC-CB_B.49" "ARG" "C" 51 "-" 0 5.23 5.22
+"6kvf_AC-CB_C-6kvf_AC-CB_B.95" "ALA" "C" 97 "-" 0.03 0 0.03
+"6kvf_AC-CB_C-6kvf_AC-CB_B.97" "TRP" "C" 99 "-" 1.5 0 1.5
+"6kvf_AC-CB_C-6kvf_AC-CB_B.102" "TRP" "C" 104 "-" 20.66 4.25 24.92
+"6kvf_AC-CB_C-6kvf_AC-CB_B.104" "PHE" "C" 106 "-" 8.16 0 8.16
+"6kvf_AC-CB_C-6kvf_AC-CB_B.218" "PHE" "B" 14 "-" 60.98 12.11 73.09
+"6kvf_AC-CB_C-6kvf_AC-CB_B.219" "TRP" "B" 15 "-" 76.99 22.56 99.54

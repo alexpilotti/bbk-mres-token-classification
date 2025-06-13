@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5vyf_HL-LF_L-5vyf_HL-LF_F.32" "TRP" "L" 32 "-" 39.31 2.79 42.1
+"5vyf_HL-LF_L-5vyf_HL-LF_F.50" "LYS" "L" 50 "-" 4.23 4.82 9.05
+"5vyf_HL-LF_L-5vyf_HL-LF_F.91" "TYR" "L" 91 "-" 10.1 4.95 15.06
+"5vyf_HL-LF_L-5vyf_HL-LF_F.92" "ASN" "L" 92 "-" 2.31 10.58 12.9
+"5vyf_HL-LF_L-5vyf_HL-LF_F.93" "SER" "L" 93 "-" 4.01 0.85 4.85
+"5vyf_HL-LF_L-5vyf_HL-LF_F.94" "TYR" "L" 94 "-" 50.83 18.99 69.82
+"5vyf_HL-LF_L-5vyf_HL-LF_F.96" "LEU" "L" 96 "-" 0.9 0 0.9
+"5vyf_HL-LF_L-5vyf_HL-LF_F.217" "ILE" "FALSE" 9 "-" 8.7 0 8.69
+"5vyf_HL-LF_L-5vyf_HL-LF_F.231" "LEU" "FALSE" 23 "-" 62.42 0.94 63.35
+"5vyf_HL-LF_L-5vyf_HL-LF_F.232" "LEU" "FALSE" 24 "-" 17.63 0.08 17.73
+"5vyf_HL-LF_L-5vyf_HL-LF_F.235" "LEU" "FALSE" 27 "-" 57.37 0.11 57.48
+"5vyf_HL-LF_L-5vyf_HL-LF_F.238" "THR" "FALSE" 30 "-" 6.41 0.34 6.75
+"5vyf_HL-LF_L-5vyf_HL-LF_F.239" "LYS" "FALSE" 31 "-" 56.33 33.06 89.39
+"5vyf_HL-LF_L-5vyf_HL-LF_F.240" "VAL" "FALSE" 32 "-" 0.99 0.25 1.24
+"5vyf_HL-LF_L-5vyf_HL-LF_F.349" "LEU" "FALSE" 161 "-" 14.18 0 14.18

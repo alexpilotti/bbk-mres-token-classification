@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5kzp_GK-GD_G-5kzp_GK-GD_D.47" "TRP" "G" 47 "-" 3.66 0.05 3.71
+"5kzp_GK-GD_G-5kzp_GK-GD_D.50" "VAL" "G" 50 "-" 3.95 0 3.95
+"5kzp_GK-GD_G-5kzp_GK-GD_D.51" "ILE" "G" 51 "-" 0 0 0.01
+"5kzp_GK-GD_G-5kzp_GK-GD_D.52" "TRP" "G" 52 "-" 16.99 2.68 19.66
+"5kzp_GK-GD_G-5kzp_GK-GD_D.53" "PHE" "G" 53 "-" 13.82 0.02 13.84
+"5kzp_GK-GD_G-5kzp_GK-GD_D.54" "ASP" "G" 54 "-" 5.25 2.05 7.29
+"5kzp_GK-GD_G-5kzp_GK-GD_D.56" "ASN" "G" 56 "-" 0.06 0.53 0.58
+"5kzp_GK-GD_G-5kzp_GK-GD_D.57" "ASN" "G" 57 "-" 6.69 27.65 34.35
+"5kzp_GK-GD_G-5kzp_GK-GD_D.59" "TYR" "G" 59 "-" 70.66 38.07 108.73
+"5kzp_GK-GD_G-5kzp_GK-GD_D.102" "LEU" "G" 102 "-" 0.03 0.04 0.07
+"5kzp_GK-GD_G-5kzp_GK-GD_D.103" "VAL" "G" 103 "-" 22.86 1.11 23.98
+"5kzp_GK-GD_G-5kzp_GK-GD_D.107" "PHE" "G" 107 "-" 41.64 0 41.65
+"5kzp_GK-GD_G-5kzp_GK-GD_D.108" "ILE" "G" 108 "-" 39.26 0 39.25
+"5kzp_GK-GD_G-5kzp_GK-GD_D.227" "CYS" "D" 411 "-" 21.16 15.66 36.82
+"5kzp_GK-GD_G-5kzp_GK-GD_D.228" "GLN" "D" 412 "-" 16.67 44.06 60.73
+"5kzp_GK-GD_G-5kzp_GK-GD_D.229" "LEU" "D" 413 "-" 54.37 8.72 63.09
+"5kzp_GK-GD_G-5kzp_GK-GD_D.230" "ILE" "D" 414 "-" 7.28 0.6 7.88
+"5kzp_GK-GD_G-5kzp_GK-GD_D.231" "ASN" "D" 415 "-" 5.3 7.01 12.31
+"5kzp_GK-GD_G-5kzp_GK-GD_D.232" "THR" "D" 416 "-" 0 0.03 0.03
+"5kzp_GK-GD_G-5kzp_GK-GD_D.236" "TRP" "D" 420 "-" 53.12 7.74 60.87
+"5kzp_GK-GD_G-5kzp_GK-GD_D.237" "HIS" "D" 421 "-" 4.12 0.6 4.71
+"5kzp_GK-GD_G-5kzp_GK-GD_D.238" "ILE" "D" 422 "-" 59.68 0.97 60.65
+"5kzp_GK-GD_G-5kzp_GK-GD_D.240" "CYS" "D" 424 "-" 3.56 0 3.57

@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4xi5_DC-DB_B-4xi5_DC-DB_D.83" "VAL" "B" 111 "-" 0.03 0.8 0.82
+"4xi5_DC-DB_B-4xi5_DC-DB_D.84" "GLY" "B" 112 "-" 3.21 5.55 8.77
+"4xi5_DC-DB_B-4xi5_DC-DB_D.85" "GLU" "B" 113 "-" 0.34 1.49 1.83
+"4xi5_DC-DB_B-4xi5_DC-DB_D.86" "GLU" "B" 114 "-" 24.68 41.07 65.75
+"4xi5_DC-DB_B-4xi5_DC-DB_D.88" "LYS" "B" 116 "-" 0.06 0.72 0.79
+"4xi5_DC-DB_B-4xi5_DC-DB_D.89" "SER" "B" 117 "-" 0.15 0 0.14
+"4xi5_DC-DB_B-4xi5_DC-DB_D.93" "ARG" "B" 121 "-" 0.98 7.25 8.23
+"4xi5_DC-DB_B-4xi5_DC-DB_D.94" "ASP" "B" 122 "-" 0.07 2.72 2.78
+"4xi5_DC-DB_B-4xi5_DC-DB_D.97" "LEU" "B" 125 "-" 13.93 0.72 14.66
+"4xi5_DC-DB_B-4xi5_DC-DB_D.98" "ASP" "B" 126 "-" 0.41 7.19 7.6
+"4xi5_DC-DB_B-4xi5_DC-DB_D.100" "LEU" "B" 128 "-" 0.02 0 0.01
+"4xi5_DC-DB_B-4xi5_DC-DB_D.101" "SER" "B" 129 "-" 10.64 9.23 19.87
+"4xi5_DC-DB_B-4xi5_DC-DB_D.184" "SER" "D" 52 "-" 2.98 2.07 5.04
+"4xi5_DC-DB_B-4xi5_DC-DB_D.185" "ASP" "D" 53 "-" 1.48 5.26 6.73
+"4xi5_DC-DB_B-4xi5_DC-DB_D.186" "GLY" "D" 54 "-" 0.73 0.36 1.08
+"4xi5_DC-DB_B-4xi5_DC-DB_D.187" "GLY" "D" 55 "-" 3.62 16.42 20.04
+"4xi5_DC-DB_B-4xi5_DC-DB_D.188" "GLY" "D" 56 "-" 10.67 2.24 12.92
+"4xi5_DC-DB_B-4xi5_DC-DB_D.189" "ASN" "D" 57 "-" 23.43 67.65 91.08
+"4xi5_DC-DB_B-4xi5_DC-DB_D.190" "ARG" "D" 58 "-" 0 0.35 0.35
+"4xi5_DC-DB_B-4xi5_DC-DB_D.191" "TYR" "D" 59 "-" 41.41 24.99 66.41
+"4xi5_DC-DB_B-4xi5_DC-DB_D.192" "TYR" "D" 60 "-" 0.05 0.11 0.15

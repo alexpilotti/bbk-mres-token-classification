@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8kei_CE-EB_B-8kei_CE-EB_E.247" "GLY" "B" 252 "-" 0.55 9.32 9.87
+"8kei_CE-EB_B-8kei_CE-EB_E.248" "LYS" "B" 253 "-" 16.19 18.74 34.92
+"8kei_CE-EB_B-8kei_CE-EB_E.249" "ILE" "B" 254 "-" 24.43 2.23 26.65
+"8kei_CE-EB_B-8kei_CE-EB_E.250" "LYS" "B" 255 "-" 94.17 39.41 133.59
+"8kei_CE-EB_B-8kei_CE-EB_E.251" "GLU" "B" 256 "-" 11.81 20.43 32.24
+"8kei_CE-EB_B-8kei_CE-EB_E.536" "LEU" "E" 3 "-" 0.09 0 0.09
+"8kei_CE-EB_B-8kei_CE-EB_E.561" "GLU" "E" 28 "-" 1.53 9.99 11.52
+"8kei_CE-EB_B-8kei_CE-EB_E.564" "TYR" "E" 31 "-" 11.75 2.02 13.76
+"8kei_CE-EB_B-8kei_CE-EB_E.566" "ASN" "E" 33 "-" 1.92 11.99 13.91
+"8kei_CE-EB_B-8kei_CE-EB_E.625" "PHE" "E" 92 "-" 0.67 4.28 4.94
+"8kei_CE-EB_B-8kei_CE-EB_E.626" "TYR" "E" 93 "-" 26 22.79 48.79
+"8kei_CE-EB_B-8kei_CE-EB_E.627" "ASP" "E" 94 "-" 6.7 7.4 14.09
+"8kei_CE-EB_B-8kei_CE-EB_E.628" "SER" "E" 95 "-" 6.49 11 17.49
+"8kei_CE-EB_B-8kei_CE-EB_E.629" "LEU" "E" 96 "-" 29.3 0.19 29.48
+"8kei_CE-EB_B-8kei_CE-EB_E.630" "ASN" "E" 97 "-" 0.24 2.62 2.86

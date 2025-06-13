@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7mfr_BA-BP_B-7mfr_BA-BP_P.32" "TYR" "B" 32 "-" 5 0.08 5.09
+"7mfr_BA-BP_B-7mfr_BA-BP_P.34" "ASN" "B" 34 "-" 1.56 8.14 9.71
+"7mfr_BA-BP_B-7mfr_BA-BP_P.36" "VAL" "B" 36 "-" 1 0 1
+"7mfr_BA-BP_B-7mfr_BA-BP_P.46" "TRP" "B" 46 "-" 0.33 0 0.32
+"7mfr_BA-BP_B-7mfr_BA-BP_P.49" "ILE" "B" 49 "-" 2.36 0 2.36
+"7mfr_BA-BP_B-7mfr_BA-BP_P.93" "THR" "B" 93 "-" 2.39 2.77 5.16
+"7mfr_BA-BP_B-7mfr_BA-BP_P.94" "GLY" "B" 94 "-" 0.06 0.19 0.25
+"7mfr_BA-BP_B-7mfr_BA-BP_P.95" "ASP" "B" 95 "-" 7.57 20.83 28.4
+"7mfr_BA-BP_B-7mfr_BA-BP_P.96" "ASP" "B" 96 "-" 0.08 0.17 0.25
+"7mfr_BA-BP_B-7mfr_BA-BP_P.97" "SER" "B" 97 "-" 6.9 13.11 20.01
+"7mfr_BA-BP_B-7mfr_BA-BP_P.98" "GLY" "B" 98 "-" 5.49 6.16 11.65
+"7mfr_BA-BP_B-7mfr_BA-BP_P.99" "ASP" "B" 99 "-" 0.76 0.44 1.19
+"7mfr_BA-BP_B-7mfr_BA-BP_P.100" "VAL" "B" 100 "-" 0.1 0.39 0.48
+"7mfr_BA-BP_B-7mfr_BA-BP_P.101" "ASN" "B" 101 "-" 4.88 12.64 17.53
+"7mfr_BA-BP_B-7mfr_BA-BP_P.102" "ILE" "B" 102 "-" 0.02 0.16 0.18
+"7mfr_BA-BP_B-7mfr_BA-BP_P.103" "TRP" "B" 103 "-" 9.69 1.28 10.98
+"7mfr_BA-BP_B-7mfr_BA-BP_P.215" "GLY" "P" 1 "-" 44.13 49.5 93.62
+"7mfr_BA-BP_B-7mfr_BA-BP_P.216" "GLY" "P" 2 "-" 10.63 9.03 19.66
+"7mfr_BA-BP_B-7mfr_BA-BP_P.217" "MET" "P" 3 "-" 175.28 60.93 236.21

@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4ydj_AB-BI_I-4ydj_AB-BI_B.136" "ALA" "I" 281 "-" 1.47 0 1.47
+"4ydj_AB-BI_I-4ydj_AB-BI_B.258" "GLY" "I" 458 "-" 1.95 5.49 7.43
+"4ydj_AB-BI_I-4ydj_AB-BI_B.259" "GLY" "I" 459 "-" 3.96 0.85 4.81
+"4ydj_AB-BI_I-4ydj_AB-BI_B.320" "ARG" "B" 32 "-" 2 21.8 23.8
+"4ydj_AB-BI_I-4ydj_AB-BI_B.341" "ARG" "B" 53 "-" 0.05 1.82 1.88

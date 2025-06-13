@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5ghw_HL-LP_L-5ghw_HL-LP_P.89" "ARG" "L" 91 "-" 0.07 7.28 7.35
+"5ghw_HL-LP_L-5ghw_HL-LP_P.95" "ARG" "L" 95 "B" 48.12 81.44 129.56
+"5ghw_HL-LP_L-5ghw_HL-LP_P.214" "ASN" "P" 671 "-" 0.01 0.55 0.56
+"5ghw_HL-LP_L-5ghw_HL-LP_P.215" "TRP" "P" 672 "-" 0.36 0.3 0.67
+"5ghw_HL-LP_L-5ghw_HL-LP_P.216" "PHE" "P" 673 "-" 54.18 0.01 54.18

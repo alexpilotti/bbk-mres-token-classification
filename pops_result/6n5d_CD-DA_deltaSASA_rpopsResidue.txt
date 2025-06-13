@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6n5d_CD-DA_A-6n5d_CD-DA_D.182" "GLY" "A" 218 "-" 0.08 0 0.08
+"6n5d_CD-DA_A-6n5d_CD-DA_D.183" "SER" "A" 219 "-" 18.88 27.32 46.19
+"6n5d_CD-DA_A-6n5d_CD-DA_D.184" "ARG" "A" 220 "-" 8.34 7.68 16.02
+"6n5d_CD-DA_A-6n5d_CD-DA_D.185" "PRO" "A" 221 "-" 79.67 1.39 81.06
+"6n5d_CD-DA_A-6n5d_CD-DA_D.186" "TRP" "A" 222 "-" 80.35 2.78 83.13
+"6n5d_CD-DA_A-6n5d_CD-DA_D.191" "SER" "A" 227 "-" 1.17 1.42 2.58
+"6n5d_CD-DA_A-6n5d_CD-DA_D.193" "ARG" "A" 229 "-" 0.02 1.19 1.21
+"6n5d_CD-DA_A-6n5d_CD-DA_D.314" "SER" "D" 32 "-" 0.06 0.25 0.31
+"6n5d_CD-DA_A-6n5d_CD-DA_D.316" "TYR" "D" 34 "-" 21.59 21.13 42.72
+"6n5d_CD-DA_A-6n5d_CD-DA_D.375" "TRP" "D" 93 "-" 23.91 2.88 26.79
+"6n5d_CD-DA_A-6n5d_CD-DA_D.376" "TYR" "D" 94 "-" 0.01 0.04 0.05
+"6n5d_CD-DA_A-6n5d_CD-DA_D.377" "SER" "D" 95 "-" 18.06 20.33 38.4
+"6n5d_CD-DA_A-6n5d_CD-DA_D.378" "ASN" "D" 96 "-" 4.19 12.19 16.37
+"6n5d_CD-DA_A-6n5d_CD-DA_D.379" "HIS" "D" 97 "-" 0.87 0.3 1.17
+"6n5d_CD-DA_A-6n5d_CD-DA_D.380" "TRP" "D" 98 "-" 9.05 2.21 11.27

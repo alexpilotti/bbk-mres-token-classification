@@ -1,0 +1,26 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7ox2_AL-LT_L-7ox2_AL-LT_T.28" "TYR" "L" 30 "-" 13.6 15.88 29.48
+"7ox2_AL-LT_L-7ox2_AL-LT_T.29" "ASP" "L" 31 "-" 2.13 9.91 12.05
+"7ox2_AL-LT_L-7ox2_AL-LT_T.47" "ASP" "L" 49 "-" 8.61 27.62 36.24
+"7ox2_AL-LT_L-7ox2_AL-LT_T.49" "ASN" "L" 51 "-" 0 0.91 0.92
+"7ox2_AL-LT_L-7ox2_AL-LT_T.88" "TYR" "L" 90 "-" 13.22 10.23 23.45
+"7ox2_AL-LT_L-7ox2_AL-LT_T.89" "ASP" "L" 91 "-" 0.01 0.04 0.05
+"7ox2_AL-LT_L-7ox2_AL-LT_T.90" "SER" "L" 92 "-" 8.01 8.42 16.43
+"7ox2_AL-LT_L-7ox2_AL-LT_T.91" "THR" "L" 93 "-" 0.07 0.25 0.31
+"7ox2_AL-LT_L-7ox2_AL-LT_T.93" "ASP" "L" 95 "-" 15.34 44.59 59.93
+"7ox2_AL-LT_L-7ox2_AL-LT_T.94" "ALA" "L" 96 "-" 1.74 0.34 2.08
+"7ox2_AL-LT_L-7ox2_AL-LT_T.95" "LEU" "L" 97 "-" 24.75 0.59 25.34
+"7ox2_AL-LT_L-7ox2_AL-LT_T.210" "CYS" "TRUE" 21 "-" 0.31 2.04 2.35
+"7ox2_AL-LT_L-7ox2_AL-LT_T.211" "PRO" "TRUE" 22 "-" 55.43 1.78 57.22
+"7ox2_AL-LT_L-7ox2_AL-LT_T.212" "THR" "TRUE" 23 "-" 2.67 5.76 8.43
+"7ox2_AL-LT_L-7ox2_AL-LT_T.213" "LEU" "TRUE" 24 "-" 76.27 1.85 78.12
+"7ox2_AL-LT_L-7ox2_AL-LT_T.214" "ALA" "TRUE" 25 "-" 35.12 2.22 37.34
+"7ox2_AL-LT_L-7ox2_AL-LT_T.215" "GLY" "TRUE" 26 "-" 0 0.17 0.18
+"7ox2_AL-LT_L-7ox2_AL-LT_T.217" "LEU" "TRUE" 28 "-" 6.86 0 6.85
+"7ox2_AL-LT_L-7ox2_AL-LT_T.276" "LEU" "TRUE" 87 "-" 12.8 0 12.8
+"7ox2_AL-LT_L-7ox2_AL-LT_T.277" "ILE" "TRUE" 88 "-" 2.27 0 2.27
+"7ox2_AL-LT_L-7ox2_AL-LT_T.280" "ARG" "TRUE" 91 "-" 11.32 21.9 33.21
+"7ox2_AL-LT_L-7ox2_AL-LT_T.283" "LYS" "TRUE" 94 "-" 0.95 0.19 1.13
+"7ox2_AL-LT_L-7ox2_AL-LT_T.284" "SER" "TRUE" 95 "-" 1.88 4.51 6.39
+"7ox2_AL-LT_L-7ox2_AL-LT_T.287" "VAL" "TRUE" 98 "-" 8.77 0 8.78
+"7ox2_AL-LT_L-7ox2_AL-LT_T.324" "LYS" "TRUE" 136 "-" 4.74 0 4.75

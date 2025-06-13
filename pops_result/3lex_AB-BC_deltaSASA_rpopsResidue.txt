@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3lex_AB-BC_B-3lex_AB-BC_C.31" "ASP" "B" 27 "D" 1.94 9.18 11.12
+"3lex_AB-BC_B-3lex_AB-BC_C.32" "SER" "B" 27 "E" 0 0.28 0.28
+"3lex_AB-BC_B-3lex_AB-BC_C.33" "ASP" "B" 28 "-" 1.47 4.35 5.82
+"3lex_AB-BC_B-3lex_AB-BC_C.35" "LYS" "B" 30 "-" 1.42 5.82 7.24
+"3lex_AB-BC_B-3lex_AB-BC_C.37" "TYR" "B" 32 "-" 22.64 10.23 32.87
+"3lex_AB-BC_B-3lex_AB-BC_C.51" "ARG" "B" 46 "-" 0.37 8.05 8.4
+"3lex_AB-BC_B-3lex_AB-BC_C.54" "TYR" "B" 49 "-" 6.87 10.76 17.63
+"3lex_AB-BC_B-3lex_AB-BC_C.55" "LEU" "B" 50 "-" 4.24 0 4.24
+"3lex_AB-BC_B-3lex_AB-BC_C.58" "LYS" "B" 53 "-" 6.95 8.62 15.57
+"3lex_AB-BC_B-3lex_AB-BC_C.95" "GLN" "B" 90 "-" 0 0.01 0.01
+"3lex_AB-BC_B-3lex_AB-BC_C.96" "GLY" "B" 91 "-" 2.04 7.14 9.18
+"3lex_AB-BC_B-3lex_AB-BC_C.97" "THR" "B" 92 "-" 2.67 8.21 10.89
+"3lex_AB-BC_B-3lex_AB-BC_C.98" "HIS" "B" 93 "-" 2.07 0.97 3.04
+"3lex_AB-BC_B-3lex_AB-BC_C.99" "PHE" "B" 94 "-" 19 1.55 20.54
+"3lex_AB-BC_B-3lex_AB-BC_C.100" "PRO" "B" 95 "-" 0.02 0 0.01
+"3lex_AB-BC_B-3lex_AB-BC_C.101" "TRP" "B" 96 "-" 38.25 4.44 42.69
+"3lex_AB-BC_B-3lex_AB-BC_C.221" "LEU" "C" 661 "-" 19.23 0 19.24
+"3lex_AB-BC_B-3lex_AB-BC_C.222" "GLU" "C" 662 "-" 28.55 56.55 85.09
+"3lex_AB-BC_B-3lex_AB-BC_C.223" "LEU" "C" 663 "-" 0.2 2.74 2.95
+"3lex_AB-BC_B-3lex_AB-BC_C.224" "ASP" "C" 664 "-" 15.32 5.29 20.61
+"3lex_AB-BC_B-3lex_AB-BC_C.225" "LYS" "C" 665 "-" 42.3 21.21 63.5
+"3lex_AB-BC_B-3lex_AB-BC_C.226" "TRP" "C" 666 "-" 73.64 5.25 78.89

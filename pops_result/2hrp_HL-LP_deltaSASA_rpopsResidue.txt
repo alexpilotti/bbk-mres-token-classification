@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2hrp_HL-LP_L-2hrp_HL-LP_P.31" "TYR" "L" 27 "D" 23.07 18.57 41.64
+"2hrp_HL-LP_L-2hrp_HL-LP_P.32" "TYR" "L" 28 "-" 29.16 18.53 47.69
+"2hrp_HL-LP_L-2hrp_HL-LP_P.34" "LYS" "L" 30 "-" 25.73 9.18 34.91
+"2hrp_HL-LP_L-2hrp_HL-LP_P.36" "PHE" "L" 32 "-" 18.76 0 18.77
+"2hrp_HL-LP_L-2hrp_HL-LP_P.95" "SER" "L" 91 "-" 3.65 5.93 9.59
+"2hrp_HL-LP_L-2hrp_HL-LP_P.96" "LYS" "L" 92 "-" 2.13 9.34 11.47
+"2hrp_HL-LP_L-2hrp_HL-LP_P.97" "GLU" "L" 93 "-" 2.17 2.12 4.29
+"2hrp_HL-LP_L-2hrp_HL-LP_P.98" "VAL" "L" 94 "-" 16.68 1.11 17.79
+"2hrp_HL-LP_L-2hrp_HL-LP_P.100" "TRP" "L" 96 "-" 38.77 2.43 41.19
+"2hrp_HL-LP_L-2hrp_HL-LP_P.216" "MET" "P" 36 "-" 46.46 28.3 74.77
+"2hrp_HL-LP_L-2hrp_HL-LP_P.217" "SER" "P" 37 "-" 0.5 1.42 1.92
+"2hrp_HL-LP_L-2hrp_HL-LP_P.218" "LEU" "P" 38 "-" 41.08 0.14 41.21
+"2hrp_HL-LP_L-2hrp_HL-LP_P.219" "PRO" "P" 39 "-" 0.51 3.25 3.75
+"2hrp_HL-LP_L-2hrp_HL-LP_P.220" "GLY" "P" 40 "-" 8.95 11.87 20.82
+"2hrp_HL-LP_L-2hrp_HL-LP_P.221" "ARG" "P" 41 "-" 35.73 38.09 73.82
+"2hrp_HL-LP_L-2hrp_HL-LP_P.222" "TRP" "P" 42 "-" 52.13 2.62 54.74
+"2hrp_HL-LP_L-2hrp_HL-LP_P.224" "PRO" "P" 44 "-" 0.06 0 0.05

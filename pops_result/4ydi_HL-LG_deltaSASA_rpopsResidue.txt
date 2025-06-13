@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4ydi_HL-LG_G-4ydi_HL-LG_L.160" "ASN" "G" 276 "-" 0.16 2 2.18
+"4ydi_HL-LG_G-4ydi_HL-LG_L.162" "THR" "G" 278 "-" 1.07 5.32 6.39
+"4ydi_HL-LG_G-4ydi_HL-LG_L.163" "ASN" "G" 279 "-" 1.96 4.25 6.21
+"4ydi_HL-LG_G-4ydi_HL-LG_L.164" "ASN" "G" 280 "-" 1.76 12.8 14.56
+"4ydi_HL-LG_G-4ydi_HL-LG_L.308" "ARG" "G" 456 "-" 0.03 1.94 1.98
+"4ydi_HL-LG_G-4ydi_HL-LG_L.309" "ASP" "G" 457 "-" 0.01 0.04 0.04
+"4ydi_HL-LG_G-4ydi_HL-LG_L.310" "GLY" "G" 458 "-" 9.41 1.67 11.07
+"4ydi_HL-LG_G-4ydi_HL-LG_L.311" "GLY" "G" 459 "-" 10.03 16.98 27.01
+"4ydi_HL-LG_G-4ydi_HL-LG_L.312" "LYS" "G" 460 "-" 1.8 0.55 2.36
+"4ydi_HL-LG_G-4ydi_HL-LG_L.313" "ASP" "G" 461 "-" 20.98 22.71 43.69
+"4ydi_HL-LG_G-4ydi_HL-LG_L.344" "ILE" "L" 2 "-" 34.96 4.59 39.54
+"4ydi_HL-LG_G-4ydi_HL-LG_L.345" "GLN" "L" 3 "-" 0.35 1.78 2.13
+"4ydi_HL-LG_G-4ydi_HL-LG_L.374" "ASP" "L" 32 "-" 0.03 2.64 2.67
+"4ydi_HL-LG_G-4ydi_HL-LG_L.433" "ILE" "L" 91 "-" 38.05 0 38.05
+"4ydi_HL-LG_G-4ydi_HL-LG_L.434" "GLU" "L" 96 "-" 15.54 46.88 62.42

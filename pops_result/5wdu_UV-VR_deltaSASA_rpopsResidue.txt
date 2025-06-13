@@ -1,0 +1,11 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5wdu_UV-VR_R-5wdu_UV-VR_V.80" "ASN" "R" 618 "-" 0.67 8.06 8.74
+"5wdu_UV-VR_R-5wdu_UV-VR_V.82" "SER" "R" 620 "-" 13.31 11.97 25.28
+"5wdu_UV-VR_R-5wdu_UV-VR_V.83" "GLU" "R" 621 "-" 7.2 19.04 26.24
+"5wdu_UV-VR_R-5wdu_UV-VR_V.176" "TYR" "V" 49 "-" 2.29 9.34 11.63
+"5wdu_UV-VR_R-5wdu_UV-VR_V.177" "GLU" "V" 50 "-" 0.15 1.74 1.89
+"5wdu_UV-VR_R-5wdu_UV-VR_V.180" "GLU" "V" 53 "-" 0.3 2.32 2.63
+"5wdu_UV-VR_R-5wdu_UV-VR_V.181" "ARG" "V" 54 "-" 0.02 0.91 0.93
+"5wdu_UV-VR_R-5wdu_UV-VR_V.182" "ALA" "V" 55 "-" 0.23 0.29 0.51
+"5wdu_UV-VR_R-5wdu_UV-VR_V.183" "PRO" "V" 56 "-" 42.66 0.47 43.11
+"5wdu_UV-VR_R-5wdu_UV-VR_V.184" "GLY" "V" 57 "-" 0 0.3 0.3

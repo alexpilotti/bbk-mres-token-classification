@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7yrh_FE-EA_A-7yrh_FE-EA_E.25" "THR" "A" 97 "-" 4.23 1.01 5.23
+"7yrh_FE-EA_A-7yrh_FE-EA_E.26" "MET" "A" 98 "-" 38.59 0 38.59
+"7yrh_FE-EA_A-7yrh_FE-EA_E.31" "THR" "A" 103 "-" 0 0.9 0.9
+"7yrh_FE-EA_A-7yrh_FE-EA_E.32" "ASP" "A" 104 "-" 1.83 9.48 11.32
+"7yrh_FE-EA_A-7yrh_FE-EA_E.94" "ARG" "A" 166 "-" 0.31 8.91 9.23
+"7yrh_FE-EA_A-7yrh_FE-EA_E.168" "THR" "A" 240 "-" 0.05 0.63 0.67
+"7yrh_FE-EA_A-7yrh_FE-EA_E.169" "LYS" "A" 241 "-" 59.63 20.46 80.09
+"7yrh_FE-EA_A-7yrh_FE-EA_E.170" "LYS" "A" 242 "-" 51.81 21.66 73.47
+"7yrh_FE-EA_A-7yrh_FE-EA_E.171" "SER" "A" 243 "-" 2.82 4.03 6.86
+"7yrh_FE-EA_A-7yrh_FE-EA_E.172" "PRO" "A" 244 "-" 23.79 2.72 26.51
+"7yrh_FE-EA_A-7yrh_FE-EA_E.173" "HIS" "A" 245 "-" 0 0.08 0.08
+"7yrh_FE-EA_A-7yrh_FE-EA_E.251" "SER" "E" 26 "-" 0.02 1.11 1.12
+"7yrh_FE-EA_A-7yrh_FE-EA_E.252" "GLU" "E" 27 "-" 17.11 31.57 48.68
+"7yrh_FE-EA_A-7yrh_FE-EA_E.253" "ASN" "E" 28 "-" 0 0.08 0.08
+"7yrh_FE-EA_A-7yrh_FE-EA_E.255" "TYR" "E" 30 "-" 1 0 1
+"7yrh_FE-EA_A-7yrh_FE-EA_E.256" "SER" "E" 31 "-" 2.64 4.74 7.38
+"7yrh_FE-EA_A-7yrh_FE-EA_E.257" "ASN" "E" 32 "-" 0.02 1.13 1.14
+"7yrh_FE-EA_A-7yrh_FE-EA_E.316" "PHE" "E" 91 "-" 0.23 0.23 0.45
+"7yrh_FE-EA_A-7yrh_FE-EA_E.317" "TRP" "E" 92 "-" 62.31 10.03 72.33
+"7yrh_FE-EA_A-7yrh_FE-EA_E.318" "ASP" "E" 93 "-" 8.28 17.75 26.04
+"7yrh_FE-EA_A-7yrh_FE-EA_E.319" "THR" "E" 94 "-" 4.73 4.02 8.73

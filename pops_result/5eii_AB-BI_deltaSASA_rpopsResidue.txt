@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5eii_AB-BI_B-5eii_AB-BI_I.28" "SER" "B" 28 "-" 1.48 3.05 4.53
+"5eii_AB-BI_B-5eii_AB-BI_I.29" "VAL" "B" 29 "-" 1.25 2.16 3.4
+"5eii_AB-BI_B-5eii_AB-BI_I.30" "SER" "B" 30 "-" 24.45 23.23 47.67
+"5eii_AB-BI_B-5eii_AB-BI_I.31" "SER" "B" 31 "-" 6.45 3.46 9.91
+"5eii_AB-BI_B-5eii_AB-BI_I.32" "ALA" "B" 32 "-" 5.07 0.47 5.54
+"5eii_AB-BI_B-5eii_AB-BI_I.49" "TYR" "B" 49 "-" 0.17 0 0.17
+"5eii_AB-BI_B-5eii_AB-BI_I.50" "SER" "B" 50 "-" 4.82 7.05 11.88
+"5eii_AB-BI_B-5eii_AB-BI_I.53" "SER" "B" 53 "-" 0 0.2 0.21
+"5eii_AB-BI_B-5eii_AB-BI_I.66" "ARG" "B" 66 "-" 0.06 3.93 3.98
+"5eii_AB-BI_B-5eii_AB-BI_I.92" "SER" "B" 92 "-" 5.92 6.19 12.1
+"5eii_AB-BI_B-5eii_AB-BI_I.93" "ASP" "B" 93 "-" 0 0.01 0.01
+"5eii_AB-BI_B-5eii_AB-BI_I.246" "LYS" "I" 35 "-" 0.07 3.86 3.93
+"5eii_AB-BI_B-5eii_AB-BI_I.247" "HIS" "I" 36 "-" 0.26 0.2 0.46
+"5eii_AB-BI_B-5eii_AB-BI_I.248" "ASP" "I" 37 "-" 3.84 19.49 23.34
+"5eii_AB-BI_B-5eii_AB-BI_I.262" "SER" "I" 59 "-" 0 0.25 0.26
+"5eii_AB-BI_B-5eii_AB-BI_I.264" "LEU" "I" 61 "-" 24.82 0.09 24.91
+"5eii_AB-BI_B-5eii_AB-BI_I.266" "GLY" "I" 63 "-" 6.51 22.08 28.59
+"5eii_AB-BI_B-5eii_AB-BI_I.267" "PRO" "I" 64 "-" 82.71 1.59 84.29
+"5eii_AB-BI_B-5eii_AB-BI_I.268" "VAL" "I" 65 "-" 0 0.01 0.01

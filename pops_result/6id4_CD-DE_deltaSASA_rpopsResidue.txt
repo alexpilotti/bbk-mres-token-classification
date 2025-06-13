@@ -1,0 +1,21 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6id4_CD-DE_D-6id4_CD-DE_E.30" "PRO" "D" 29 "-" 11.63 5.63 17.26
+"6id4_CD-DE_D-6id4_CD-DE_E.31" "TYR" "D" 30 "-" 3.67 0.5 4.17
+"6id4_CD-DE_D-6id4_CD-DE_E.32" "ASN" "D" 31 "-" 2.65 11.6 14.25
+"6id4_CD-DE_D-6id4_CD-DE_E.34" "TYR" "D" 33 "-" 0.18 1.42 1.6
+"6id4_CD-DE_D-6id4_CD-DE_E.51" "LYS" "D" 50 "-" 0.97 0 0.96
+"6id4_CD-DE_D-6id4_CD-DE_E.96" "ILE" "D" 89 "-" 0 0 0.01
+"6id4_CD-DE_D-6id4_CD-DE_E.97" "TRP" "D" 90 "-" 27.56 6.25 33.8
+"6id4_CD-DE_D-6id4_CD-DE_E.99" "ASN" "D" 92 "-" 0.05 0 0.05
+"6id4_CD-DE_D-6id4_CD-DE_E.100" "ASN" "D" 93 "-" 0.22 1.8 2.02
+"6id4_CD-DE_D-6id4_CD-DE_E.102" "TRP" "D" 95 "-" 11.65 3.27 14.92
+"6id4_CD-DE_D-6id4_CD-DE_E.229" "ARG" "E" 14 "-" 0 0.04 0.04
+"6id4_CD-DE_D-6id4_CD-DE_E.230" "PRO" "E" 15 "-" 16.9 10.85 27.75
+"6id4_CD-DE_D-6id4_CD-DE_E.231" "GLY" "E" 16 "-" 33.8 25.39 59.2
+"6id4_CD-DE_D-6id4_CD-DE_E.232" "ARG" "E" 17 "-" 1.58 7.06 8.63
+"6id4_CD-DE_D-6id4_CD-DE_E.233" "GLY" "E" 18 "-" 0 0.05 0.06
+"6id4_CD-DE_D-6id4_CD-DE_E.302" "GLN" "E" 87 "-" 0.02 0 0.01
+"6id4_CD-DE_D-6id4_CD-DE_E.303" "SER" "E" 88 "-" 14.57 5.44 20.02
+"6id4_CD-DE_D-6id4_CD-DE_E.304" "GLU" "E" 89 "-" 2.71 7.17 9.87
+"6id4_CD-DE_D-6id4_CD-DE_E.305" "ASP" "E" 90 "-" 26.4 44.79 71.19
+"6id4_CD-DE_D-6id4_CD-DE_E.306" "GLY" "E" 91 "-" 0.44 0.09 0.52

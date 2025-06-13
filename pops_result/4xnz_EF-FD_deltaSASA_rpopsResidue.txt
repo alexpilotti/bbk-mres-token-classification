@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4xnz_EF-FD_D-4xnz_EF-FD_F.160" "ASN" "D" 276 "-" 2.11 7.79 9.91
+"4xnz_EF-FD_D-4xnz_EF-FD_F.162" "THR" "D" 278 "-" 16.09 13.33 29.42
+"4xnz_EF-FD_D-4xnz_EF-FD_F.163" "ASN" "D" 279 "-" 4.31 12.2 16.51
+"4xnz_EF-FD_D-4xnz_EF-FD_F.164" "ASN" "D" 280 "-" 3.36 15.53 18.89
+"4xnz_EF-FD_D-4xnz_EF-FD_F.213" "ASN" "D" 354 "-" 0.5 3.45 3.96
+"4xnz_EF-FD_D-4xnz_EF-FD_F.294" "ARG" "D" 456 "-" 0.03 1.51 1.54
+"4xnz_EF-FD_D-4xnz_EF-FD_F.295" "ASP" "D" 457 "-" 0.03 0 0.03
+"4xnz_EF-FD_D-4xnz_EF-FD_F.296" "GLY" "D" 458 "-" 10.99 9.73 20.72
+"4xnz_EF-FD_D-4xnz_EF-FD_F.297" "GLY" "D" 459 "-" 23.38 13.39 36.77
+"4xnz_EF-FD_D-4xnz_EF-FD_F.298" "ALA" "D" 460 "-" 30.8 6.43 37.23
+"4xnz_EF-FD_D-4xnz_EF-FD_F.299" "ASN" "D" 461 "-" 0 0.18 0.18
+"4xnz_EF-FD_D-4xnz_EF-FD_F.331" "ILE" "FALSE" 2 "-" 3.14 0 3.14
+"4xnz_EF-FD_D-4xnz_EF-FD_F.356" "GLN" "FALSE" 27 "-" 0.29 5.64 5.92
+"4xnz_EF-FD_D-4xnz_EF-FD_F.419" "PHE" "FALSE" 90 "-" 76.26 0 76.26
+"4xnz_EF-FD_D-4xnz_EF-FD_F.420" "GLU" "FALSE" 91 "-" 12.55 35.41 47.96
+"4xnz_EF-FD_D-4xnz_EF-FD_F.421" "PHE" "FALSE" 92 "-" 14.89 0 14.89

@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7mxl_JK-KC_C-7mxl_JK-KC_K.42" "GLU" "C" 43 "-" 4.94 23.48 28.42
+"7mxl_JK-KC_C-7mxl_JK-KC_K.44" "ILE" "C" 45 "-" 0.21 0 0.21
+"7mxl_JK-KC_C-7mxl_JK-KC_K.190" "SER" "K" 31 "-" 0 0.08 0.09
+"7mxl_JK-KC_C-7mxl_JK-KC_K.192" "TYR" "K" 33 "-" 5.63 17.54 23.17

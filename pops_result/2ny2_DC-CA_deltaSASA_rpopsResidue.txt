@@ -1,0 +1,12 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2ny2_DC-CA_A-2ny2_DC-CA_C.36" "PRO" "A" 118 "-" 0 0.08 0.09
+"2ny2_DC-CA_A-2ny2_DC-CA_C.37" "CYS" "A" 119 "-" 8.23 2.06 10.29
+"2ny2_DC-CA_A-2ny2_DC-CA_C.38" "VAL" "A" 120 "-" 9.68 0.24 9.92
+"2ny2_DC-CA_A-2ny2_DC-CA_C.56" "THR" "A" 202 "-" 33.1 5.18 38.27
+"2ny2_DC-CA_A-2ny2_DC-CA_C.57" "GLN" "A" 203 "-" 5.54 4.66 10.21
+"2ny2_DC-CA_A-2ny2_DC-CA_C.58" "ALA" "A" 204 "-" 23.54 5.65 29.19
+"2ny2_DC-CA_A-2ny2_DC-CA_C.59" "CYS" "A" 205 "-" 6.32 0.94 7.27
+"2ny2_DC-CA_A-2ny2_DC-CA_C.247" "MET" "A" 434 "-" 13.08 0 13.08
+"2ny2_DC-CA_A-2ny2_DC-CA_C.398" "TRP" "C" 2094 "-" 52.26 15.68 67.95
+"2ny2_DC-CA_A-2ny2_DC-CA_C.399" "PRO" "C" 2095 "-" 24.81 0.22 25.03
+"2ny2_DC-CA_A-2ny2_DC-CA_C.400" "PRO" "C" 2096 "-" 1.02 0.01 1.03

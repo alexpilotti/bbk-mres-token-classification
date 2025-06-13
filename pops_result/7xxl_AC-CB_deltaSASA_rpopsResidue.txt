@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7xxl_AC-CB_C-7xxl_AC-CB_B.30" "TYR" "C" 32 "-" 6.93 0 6.94
+"7xxl_AC-CB_C-7xxl_AC-CB_B.32" "TYR" "C" 34 "-" 17.91 32.82 50.72
+"7xxl_AC-CB_C-7xxl_AC-CB_B.91" "TYR" "C" 93 "-" 0.17 0 0.17
+"7xxl_AC-CB_C-7xxl_AC-CB_B.363" "PHE" "B" 486 "-" 45.59 0 45.59

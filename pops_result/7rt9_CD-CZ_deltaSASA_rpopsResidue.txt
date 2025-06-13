@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.30" "THR" "C" 30 "-" 0 0.19 0.19
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.31" "ASN" "C" 31 "-" 3.12 19.3 22.41
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.32" "TYR" "C" 32 "-" 21.5 7.35 28.84
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.33" "TRP" "C" 33 "-" 63.66 6.68 70.33
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.34" "MET" "C" 34 "-" 0.03 0.05 0.09
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.35" "HIS" "C" 35 "-" 7.4 5.77 13.18
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.50" "ASN" "C" 50 "-" 0.01 0.06 0.06
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.52" "ASP" "C" 52 "-" 0.51 3.79 4.3
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.54" "SER" "C" 54 "-" 0.28 0.51 0.79
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.97" "ALA" "C" 97 "-" 0.27 0.31 0.58
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.98" "SER" "C" 98 "-" 1.1 0.58 1.68
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.99" "PHE" "C" 99 "-" 48.05 3.21 51.26
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.100" "ALA" "C" 100 "-" 0 0.03 0.04
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.208" "PRO" "Z" 2 "-" 0.16 0.02 0.18
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.232" "HIS" "Z" 26 "-" 2.55 0.72 3.29
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.235" "ASN" "Z" 29 "-" 0.01 0.19 0.2
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.236" "LEU" "Z" 30 "-" 34.38 0.65 35.03
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.239" "ARG" "Z" 33 "-" 31.4 26.5 57.9
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.240" "GLN" "Z" 34 "-" 38.82 54.74 93.56
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.241" "ARG" "Z" 35 "-" 17.08 23.43 40.52
+"7rt9_CD-CZ_C-7rt9_CD-CZ_Z.242" "TYR" "Z" 36 "-" 27.68 35.78 63.46

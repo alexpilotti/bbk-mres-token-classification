@@ -1,0 +1,7 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5w08_GH-HA_A-5w08_GH-HA_H.117" "LEU" "A" 157 "-" 13.09 0.52 13.61
+"5w08_GH-HA_A-5w08_GH-HA_H.118" "ASN" "A" 158 "-" 16.34 29.63 45.97
+"5w08_GH-HA_A-5w08_GH-HA_H.120" "LYS" "A" 160 "-" 37.95 2.32 40.28
+"5w08_GH-HA_A-5w08_GH-HA_H.322" "TYR" "H" 51 "-" 7.37 9.45 16.81
+"5w08_GH-HA_A-5w08_GH-HA_H.323" "GLU" "H" 52 "-" 8.11 20.26 28.37
+"5w08_GH-HA_A-5w08_GH-HA_H.326" "ARG" "H" 55 "-" 5.58 15.11 20.69

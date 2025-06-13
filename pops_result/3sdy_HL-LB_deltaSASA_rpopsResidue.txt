@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3sdy_HL-LB_B-3sdy_HL-LB_L.18" "ILE" "B" 18 "-" 4.3 2.39 6.67
+"3sdy_HL-LB_B-3sdy_HL-LB_L.19" "ASP" "B" 19 "-" 24.23 17.97 42.2
+"3sdy_HL-LB_B-3sdy_HL-LB_L.20" "GLY" "B" 20 "-" 0.45 0.28 0.73
+"3sdy_HL-LB_B-3sdy_HL-LB_L.34" "GLN" "B" 34 "-" 0.06 0.57 0.63
+"3sdy_HL-LB_B-3sdy_HL-LB_L.35" "ALA" "B" 35 "-" 5.84 0.04 5.88
+"3sdy_HL-LB_B-3sdy_HL-LB_L.36" "ALA" "B" 36 "-" 0.68 0 0.67
+"3sdy_HL-LB_B-3sdy_HL-LB_L.38" "LEU" "B" 38 "-" 35.88 0 35.89
+"3sdy_HL-LB_B-3sdy_HL-LB_L.146" "ASN" "B" 146 "-" 1.46 0.86 2.33
+"3sdy_HL-LB_B-3sdy_HL-LB_L.147" "ALA" "B" 147 "-" 0.23 0.12 0.36
+"3sdy_HL-LB_B-3sdy_HL-LB_L.150" "GLU" "B" 150 "-" 6.33 4.71 11.04
+"3sdy_HL-LB_B-3sdy_HL-LB_L.153" "ARG" "B" 153 "-" 0.32 11.75 12.07
+"3sdy_HL-LB_B-3sdy_HL-LB_L.202" "SER" "L" 29 "-" 0 0.1 0.1
+"3sdy_HL-LB_B-3sdy_HL-LB_L.203" "MET" "L" 30 "-" 45.48 0 45.47
+"3sdy_HL-LB_B-3sdy_HL-LB_L.205" "TYR" "L" 32 "-" 2.21 11.78 14
+"3sdy_HL-LB_B-3sdy_HL-LB_L.219" "LEU" "L" 46 "-" 0.37 0 0.37
+"3sdy_HL-LB_B-3sdy_HL-LB_L.222" "TYR" "L" 49 "-" 8.43 9.37 17.8
+"3sdy_HL-LB_B-3sdy_HL-LB_L.226" "ARG" "L" 53 "-" 6.91 35.9 42.81
+"3sdy_HL-LB_B-3sdy_HL-LB_L.229" "THR" "L" 56 "-" 1.55 0 1.56

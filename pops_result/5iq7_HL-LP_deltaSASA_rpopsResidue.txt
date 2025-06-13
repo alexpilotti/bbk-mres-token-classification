@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5iq7_HL-LP_L-5iq7_HL-LP_P.89" "ARG" "L" 91 "-" 0.09 7.02 7.11
+"5iq7_HL-LP_L-5iq7_HL-LP_P.94" "SER" "L" 95 "A" 0 0.05 0.05
+"5iq7_HL-LP_L-5iq7_HL-LP_P.95" "ARG" "L" 95 "B" 56.55 27.08 83.62
+"5iq7_HL-LP_L-5iq7_HL-LP_P.229" "TRP" "P" 672 "-" 0.21 0.22 0.42
+"5iq7_HL-LP_L-5iq7_HL-LP_P.230" "PHE" "P" 673 "-" 47.72 0 47.72

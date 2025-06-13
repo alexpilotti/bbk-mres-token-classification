@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7vaz_BA-AE_A-7vaz_BA-AE_E.33" "TYR" "A" 34 "-" 19.06 15.52 34.59
+"7vaz_BA-AE_A-7vaz_BA-AE_E.35" "ASN" "A" 36 "-" 1.31 9.15 10.47
+"7vaz_BA-AE_A-7vaz_BA-AE_E.49" "ILE" "A" 50 "-" 0 0 0.01
+"7vaz_BA-AE_A-7vaz_BA-AE_E.50" "GLY" "A" 51 "-" 1.64 0 1.64
+"7vaz_BA-AE_A-7vaz_BA-AE_E.51" "ARG" "A" 52 "-" 10.51 1.74 12.24
+"7vaz_BA-AE_A-7vaz_BA-AE_E.92" "TRP" "A" 93 "-" 10.07 1.59 11.66
+"7vaz_BA-AE_A-7vaz_BA-AE_E.94" "SER" "A" 95 "-" 0.01 0.51 0.52
+"7vaz_BA-AE_A-7vaz_BA-AE_E.95" "ASN" "A" 96 "-" 0.11 0.06 0.17
+"7vaz_BA-AE_A-7vaz_BA-AE_E.96" "HIS" "A" 97 "-" 0.01 0 0.02
+"7vaz_BA-AE_A-7vaz_BA-AE_E.97" "PHE" "A" 98 "-" 15.91 0 15.91
+"7vaz_BA-AE_A-7vaz_BA-AE_E.220" "PRO" "E" 10 "-" 0.19 2.08 2.28
+"7vaz_BA-AE_A-7vaz_BA-AE_E.221" "ALA" "E" 11 "-" 57.97 25.01 82.98
+"7vaz_BA-AE_A-7vaz_BA-AE_E.222" "HIS" "E" 12 "-" 81.1 55.68 136.78
+"7vaz_BA-AE_A-7vaz_BA-AE_E.223" "GLY" "E" 13 "-" 44.05 30.22 74.27

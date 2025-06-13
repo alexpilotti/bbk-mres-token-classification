@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8gdr_CD-DF_D-8gdr_CD-DF_F.27" "ARG" "D" 27 "-" 0 0.02 0.03
+"8gdr_CD-DF_D-8gdr_CD-DF_F.32" "TYR" "D" 32 "-" 15.44 4.82 20.26
+"8gdr_CD-DF_D-8gdr_CD-DF_F.34" "TYR" "D" 34 "-" 36.53 39.35 75.88
+"8gdr_CD-DF_D-8gdr_CD-DF_F.52" "GLU" "D" 52 "-" 0.92 5.88 6.81
+"8gdr_CD-DF_D-8gdr_CD-DF_F.93" "TYR" "D" 93 "-" 29.67 11.55 41.22
+"8gdr_CD-DF_D-8gdr_CD-DF_F.94" "THR" "D" 94 "-" 0.45 2.55 2.99
+"8gdr_CD-DF_D-8gdr_CD-DF_F.95" "THR" "D" 95 "-" 3.89 9.04 12.94
+"8gdr_CD-DF_D-8gdr_CD-DF_F.96" "GLY" "D" 96 "-" 0.78 0.82 1.6
+"8gdr_CD-DF_D-8gdr_CD-DF_F.97" "SER" "D" 97 "-" 30.49 5.68 36.18
+"8gdr_CD-DF_D-8gdr_CD-DF_F.98" "THR" "D" 98 "-" 0.41 1.12 1.53
+"8gdr_CD-DF_D-8gdr_CD-DF_F.99" "VAL" "D" 99 "-" 4.51 0.25 4.76
+"8gdr_CD-DF_D-8gdr_CD-DF_F.637" "ASN" "FALSE" 439 "-" 1.94 6.21 8.15
+"8gdr_CD-DF_D-8gdr_CD-DF_F.638" "ASN" "FALSE" 440 "-" 7.45 18.41 25.85
+"8gdr_CD-DF_D-8gdr_CD-DF_F.643" "VAL" "FALSE" 445 "-" 56.41 4.86 61.27
+"8gdr_CD-DF_D-8gdr_CD-DF_F.644" "GLY" "FALSE" 446 "-" 9.27 4.26 13.53
+"8gdr_CD-DF_D-8gdr_CD-DF_F.645" "GLY" "FALSE" 447 "-" 0 0.08 0.08
+"8gdr_CD-DF_D-8gdr_CD-DF_F.696" "GLN" "FALSE" 498 "-" 0.46 7.26 7.72
+"8gdr_CD-DF_D-8gdr_CD-DF_F.697" "PRO" "FALSE" 499 "-" 25.5 5.81 31.31
+"8gdr_CD-DF_D-8gdr_CD-DF_F.698" "THR" "FALSE" 500 "-" 34.01 39.82 73.83
+"8gdr_CD-DF_D-8gdr_CD-DF_F.699" "ASN" "FALSE" 501 "-" 0.13 0.59 0.72
+"8gdr_CD-DF_D-8gdr_CD-DF_F.700" "GLY" "FALSE" 502 "-" 0.02 0.01 0.04
+"8gdr_CD-DF_D-8gdr_CD-DF_F.704" "GLN" "FALSE" 506 "-" 0.01 0.19 0.21

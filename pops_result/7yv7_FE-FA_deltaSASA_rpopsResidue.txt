@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7yv7_FE-FA_A-7yv7_FE-FA_F.25" "THR" "A" 97 "-" 15.33 20.13 35.47
+"7yv7_FE-FA_A-7yv7_FE-FA_F.26" "ASP" "A" 104 "-" 0.38 3.9 4.29
+"7yv7_FE-FA_A-7yv7_FE-FA_F.251" "LYS" "FALSE" 59 "-" 0.65 3.79 4.44
+"7yv7_FE-FA_A-7yv7_FE-FA_F.295" "ASN" "FALSE" 103 "-" 0 0.17 0.17
+"7yv7_FE-FA_A-7yv7_FE-FA_F.297" "PHE" "FALSE" 105 "-" 23.13 0 23.13

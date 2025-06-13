@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6glx_CD-CB_B-6glx_CD-CB_C.72" "LYS" "B" 73 "-" 0.01 0 0.01
+"6glx_CD-CB_B-6glx_CD-CB_C.73" "GLN" "B" 74 "-" 17.42 17.95 35.37
+"6glx_CD-CB_B-6glx_CD-CB_C.75" "VAL" "B" 76 "-" 0.16 0 0.16
+"6glx_CD-CB_B-6glx_CD-CB_C.97" "ASP" "B" 98 "-" 3.19 1.49 4.68
+"6glx_CD-CB_B-6glx_CD-CB_C.112" "ASP" "B" 113 "-" 13.54 32.42 45.97
+"6glx_CD-CB_B-6glx_CD-CB_C.113" "HIS" "B" 114 "-" 2.52 10.44 12.96
+"6glx_CD-CB_B-6glx_CD-CB_C.114" "ARG" "B" 115 "-" 7.08 10.62 17.7
+"6glx_CD-CB_B-6glx_CD-CB_C.115" "ILE" "B" 116 "-" 0.43 0.6 1.04
+"6glx_CD-CB_B-6glx_CD-CB_C.189" "ASP" "C" 56 "-" 0 0.3 0.29
+"6glx_CD-CB_B-6glx_CD-CB_C.190" "GLY" "C" 57 "-" 0.9 0 0.91
+"6glx_CD-CB_B-6glx_CD-CB_C.191" "SER" "C" 58 "-" 0.83 0.12 0.95
+"6glx_CD-CB_B-6glx_CD-CB_C.192" "THR" "C" 59 "-" 0 0.23 0.22
+"6glx_CD-CB_B-6glx_CD-CB_C.193" "TYR" "C" 60 "-" 15.57 23.76 39.33
+"6glx_CD-CB_B-6glx_CD-CB_C.236" "GLY" "C" 103 "-" 0.04 0.43 0.46
+"6glx_CD-CB_B-6glx_CD-CB_C.237" "SER" "C" 104 "-" 14.16 1.13 15.29
+"6glx_CD-CB_B-6glx_CD-CB_C.238" "SER" "C" 105 "-" 12.83 17.04 29.87
+"6glx_CD-CB_B-6glx_CD-CB_C.240" "SER" "C" 107 "-" 2 4.32 6.32
+"6glx_CD-CB_B-6glx_CD-CB_C.242" "TRP" "C" 109 "-" 21.21 3.88 25.09

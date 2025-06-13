@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6kvf_AC-AB_A-6kvf_AC-AB_B.30" "TYR" "A" 33 "-" 0.51 0 0.51
+"6kvf_AC-AB_A-6kvf_AC-AB_B.31" "ALA" "A" 34 "-" 3.44 2.13 5.57
+"6kvf_AC-AB_A-6kvf_AC-AB_B.32" "ILE" "A" 35 "-" 0.06 0.01 0.07
+"6kvf_AC-AB_A-6kvf_AC-AB_B.33" "SER" "A" 36 "-" 8.27 9.64 17.9
+"6kvf_AC-AB_A-6kvf_AC-AB_B.35" "VAL" "A" 38 "-" 3.84 0 3.85
+"6kvf_AC-AB_A-6kvf_AC-AB_B.45" "TRP" "A" 48 "-" 3.04 0.45 3.5
+"6kvf_AC-AB_A-6kvf_AC-AB_B.48" "TRP" "A" 51 "-" 4.39 1.14 5.54
+"6kvf_AC-AB_A-6kvf_AC-AB_B.95" "ALA" "A" 98 "-" 5.23 1.93 7.15
+"6kvf_AC-AB_A-6kvf_AC-AB_B.96" "SER" "A" 99 "-" 3.83 2.14 5.99
+"6kvf_AC-AB_A-6kvf_AC-AB_B.97" "GLY" "A" 100 "-" 9.79 13.49 23.28
+"6kvf_AC-AB_A-6kvf_AC-AB_B.98" "TYR" "A" 101 "-" 2.79 1.56 4.37
+"6kvf_AC-AB_A-6kvf_AC-AB_B.99" "CYS" "A" 102 "-" 15.12 0.94 16.06
+"6kvf_AC-AB_A-6kvf_AC-AB_B.104" "CYS" "A" 107 "-" 18.1 0.5 18.59
+"6kvf_AC-AB_A-6kvf_AC-AB_B.105" "TYR" "A" 108 "-" 0.57 1.9 2.47
+"6kvf_AC-AB_A-6kvf_AC-AB_B.106" "ASP" "A" 109 "-" 9.35 9.05 18.4
+"6kvf_AC-AB_A-6kvf_AC-AB_B.107" "TYR" "A" 110 "-" 0 0.08 0.08
+"6kvf_AC-AB_A-6kvf_AC-AB_B.108" "TRP" "A" 111 "-" 15.1 1.27 16.38
+"6kvf_AC-AB_A-6kvf_AC-AB_B.209" "PHE" "B" 14 "-" 77.99 13.87 91.86
+"6kvf_AC-AB_A-6kvf_AC-AB_B.210" "TRP" "B" 15 "-" 95.25 31.23 126.48

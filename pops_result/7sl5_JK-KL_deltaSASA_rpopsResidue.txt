@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7sl5_JK-KL_K-7sl5_JK-KL_L.94" "TYR" "K" 94 "-" 6.3 7.35 13.65
+"7sl5_JK-KL_K-7sl5_JK-KL_L.95" "PRO" "K" 95 "-" 52.29 0.78 53.08
+"7sl5_JK-KL_K-7sl5_JK-KL_L.224" "LEU" "L" 822 "-" 56.32 2.75 59.08
+"7sl5_JK-KL_K-7sl5_JK-KL_L.225" "PHE" "L" 823 "-" 43.79 0.54 44.33

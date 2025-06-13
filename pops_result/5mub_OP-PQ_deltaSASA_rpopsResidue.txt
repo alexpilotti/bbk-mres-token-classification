@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.36" "SER" "P" 36 "-" 0.32 1.62 1.94
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.38" "ASN" "P" 38 "-" 1.43 11.33 12.75
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.40" "PHE" "P" 40 "-" 3.45 0 3.46
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.50" "PHE" "P" 50 "-" 19.26 0 19.26
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.52" "ILE" "P" 52 "-" 0.01 0.1 0.11
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.53" "TYR" "P" 53 "-" 19.49 4.99 24.47
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.54" "ALA" "P" 54 "-" 0.13 0.05 0.16
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.58" "GLN" "P" 58 "-" 0 0.04 0.04
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.59" "GLY" "P" 59 "-" 1.06 0.03 1.09
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.60" "SER" "P" 60 "-" 1.46 1.88 3.34
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.93" "GLN" "P" 93 "-" 0.04 1.36 1.4
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.95" "SER" "P" 95 "-" 7.42 7.8 15.22
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.100" "TYR" "P" 100 "-" 1.65 2.73 4.38
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.221" "LEU" "Q" 17 "-" 117.42 11.27 128.69
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.222" "THR" "Q" 18 "-" 82.05 35.94 117.99
+"5mub_OP-PQ_P-5mub_OP-PQ_Q.223" "GLY" "Q" 19 "-" 12.79 12.02 24.81

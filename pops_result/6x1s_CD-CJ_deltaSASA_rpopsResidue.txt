@@ -1,0 +1,9 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6x1s_CD-CJ_C-6x1s_CD-CJ_J.52" "TYR" "C" 54 "-" 19.57 0.96 20.54
+"6x1s_CD-CJ_C-6x1s_CD-CJ_J.54" "ARG" "C" 56 "-" 5.34 12.78 18.12
+"6x1s_CD-CJ_C-6x1s_CD-CJ_J.99" "VAL" "C" 98 "-" 0.51 0 0.51
+"6x1s_CD-CJ_C-6x1s_CD-CJ_J.102" "SER" "C" 100 "A" 0.29 1.6 1.91
+"6x1s_CD-CJ_C-6x1s_CD-CJ_J.221" "ILE" "J" 3 "-" 38.57 0 38.58
+"6x1s_CD-CJ_C-6x1s_CD-CJ_J.222" "ILE" "J" 4 "-" 4 0.36 4.36
+"6x1s_CD-CJ_C-6x1s_CD-CJ_J.223" "GLY" "J" 6 "-" 20.17 12.51 32.68
+"6x1s_CD-CJ_C-6x1s_CD-CJ_J.224" "SER" "J" 7 "-" 0.44 3.45 3.9

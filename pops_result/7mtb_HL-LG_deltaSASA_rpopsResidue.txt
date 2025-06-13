@@ -1,0 +1,11 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7mtb_HL-LG_G-7mtb_HL-LG_L.252" "ASP" "G" 414 "-" 34.45 39.76 74.22
+"7mtb_HL-LG_G-7mtb_HL-LG_L.253" "LYS" "G" 415 "-" 0.73 1.54 2.26
+"7mtb_HL-LG_G-7mtb_HL-LG_L.254" "PHE" "G" 416 "-" 0.26 3.15 3.41
+"7mtb_HL-LG_G-7mtb_HL-LG_L.255" "SER" "G" 417 "-" 10.66 1.93 12.59
+"7mtb_HL-LG_G-7mtb_HL-LG_L.256" "PRO" "G" 418 "-" 78.11 0.67 78.77
+"7mtb_HL-LG_G-7mtb_HL-LG_L.257" "ALA" "G" 419 "-" 2.61 0.86 3.46
+"7mtb_HL-LG_G-7mtb_HL-LG_L.291" "ARG" "G" 453 "-" 2.31 28.12 30.43
+"7mtb_HL-LG_G-7mtb_HL-LG_L.439" "TRP" "L" 94 "-" 91.6 6.51 98.11
+"7mtb_HL-LG_G-7mtb_HL-LG_L.440" "TYR" "L" 95 "-" 49.3 19.71 69.02
+"7mtb_HL-LG_G-7mtb_HL-LG_L.441" "GLY" "L" 96 "-" 0.25 0.06 0.3

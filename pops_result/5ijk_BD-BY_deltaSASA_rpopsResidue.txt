@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5ijk_BD-BY_Y-5ijk_BD-BY_B.5" "GLU" "Y" 5 "-" 42.45 60.3 102.75
+"5ijk_BD-BY_Y-5ijk_BD-BY_B.6" "GLN" "Y" 6 "-" 36.16 46.82 82.99
+"5ijk_BD-BY_Y-5ijk_BD-BY_B.7" "PRO" "Y" 7 "-" 29.72 0.95 30.66
+"5ijk_BD-BY_Y-5ijk_BD-BY_B.9" "PRO" "Y" 9 "-" 8.96 0 8.96
+"5ijk_BD-BY_Y-5ijk_BD-BY_B.42" "TRP" "B" 38 "-" 4.69 0 4.69
+"5ijk_BD-BY_Y-5ijk_BD-BY_B.59" "ARG" "B" 55 "-" 0.53 14.72 15.26
+"5ijk_BD-BY_Y-5ijk_BD-BY_B.61" "LYS" "B" 57 "-" 1.33 3.6 4.93
+"5ijk_BD-BY_Y-5ijk_BD-BY_B.114" "VAL" "B" 111 "-" 0.61 2.03 2.63
+"5ijk_BD-BY_Y-5ijk_BD-BY_B.115" "ASN" "B" 111 "A" 10.46 24.4 34.86
+"5ijk_BD-BY_Y-5ijk_BD-BY_B.116" "HIS" "B" 112 "A" 3.09 1.32 4.41
+"5ijk_BD-BY_Y-5ijk_BD-BY_B.117" "ILE" "B" 112 "-" 23.81 1.2 25
+"5ijk_BD-BY_Y-5ijk_BD-BY_B.118" "THR" "B" 113 "-" 24.48 16.32 40.78
+"5ijk_BD-BY_Y-5ijk_BD-BY_B.119" "ILE" "B" 114 "-" 22.57 0.5 23.07

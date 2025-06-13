@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5kan_GI-ID_D-5kan_GI-ID_I.47" "GLY" "D" 50 "-" 0 0.18 0.18
+"5kan_GI-ID_D-5kan_GI-ID_I.49" "LEU" "D" 52 "-" 0.02 0.04 0.06
+"5kan_GI-ID_D-5kan_GI-ID_I.50" "ASN" "D" 53 "-" 9.16 19.32 28.48
+"5kan_GI-ID_D-5kan_GI-ID_I.51" "ARG" "D" 54 "-" 2.64 0.37 3
+"5kan_GI-ID_D-5kan_GI-ID_I.53" "ILE" "D" 56 "-" 5.64 5.18 10.82
+"5kan_GI-ID_D-5kan_GI-ID_I.54" "GLU" "D" 57 "-" 11.01 9.64 20.63
+"5kan_GI-ID_D-5kan_GI-ID_I.55" "LYS" "D" 58 "-" 0.61 1.85 2.46
+"5kan_GI-ID_D-5kan_GI-ID_I.56" "THR" "D" 59 "-" 27.36 5.73 33.09
+"5kan_GI-ID_D-5kan_GI-ID_I.58" "GLU" "D" 61 "-" 0 0.86 0.85
+"5kan_GI-ID_D-5kan_GI-ID_I.201" "SER" "I" 30 "-" 6.54 2.71 9.26
+"5kan_GI-ID_D-5kan_GI-ID_I.202" "ARG" "I" 31 "-" 15.28 37.17 52.44
+"5kan_GI-ID_D-5kan_GI-ID_I.203" "TRP" "I" 32 "-" 50.31 2.03 52.32
+"5kan_GI-ID_D-5kan_GI-ID_I.234" "ARG" "I" 63 "-" 0 1.14 1.14
+"5kan_GI-ID_D-5kan_GI-ID_I.237" "GLY" "I" 66 "-" 0 0.01 0.01
+"5kan_GI-ID_D-5kan_GI-ID_I.238" "SER" "I" 67 "-" 1.26 0.17 1.43

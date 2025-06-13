@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mhr_PO-PE_E-5mhr_PO-PE_P.99" "VAL" "E" 392 "-" 0.02 0 0.02
+"5mhr_PO-PE_E-5mhr_PO-PE_P.100" "THR" "E" 393 "-" 5.58 7.75 13.34
+"5mhr_PO-PE_E-5mhr_PO-PE_P.267" "TYR" "P" 105 "-" 12.67 16.51 29.19

@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7phv_BC-CA_A-7phv_BC-CA_C.40" "GLU" "A" 74 "-" 2.03 10.54 12.58
+"7phv_BC-CA_A-7phv_BC-CA_C.57" "ASN" "A" 91 "-" 0.07 1.75 1.83
+"7phv_BC-CA_A-7phv_BC-CA_C.58" "ASP" "A" 92 "-" 0 0.07 0.06
+"7phv_BC-CA_A-7phv_BC-CA_C.61" "LYS" "A" 95 "-" 39.76 9.12 48.88
+"7phv_BC-CA_A-7phv_BC-CA_C.62" "GLU" "A" 96 "-" 4.01 11.84 15.84
+"7phv_BC-CA_A-7phv_BC-CA_C.340" "SER" "C" 46 "-" 0.68 1.02 1.7
+"7phv_BC-CA_A-7phv_BC-CA_C.341" "SER" "C" 47 "-" 3.47 4.6 8.07
+"7phv_BC-CA_A-7phv_BC-CA_C.342" "ASP" "C" 48 "-" 3.07 14.65 17.72
+"7phv_BC-CA_A-7phv_BC-CA_C.361" "GLU" "C" 67 "-" 1.84 12.22 14.06
+"7phv_BC-CA_A-7phv_BC-CA_C.362" "ASN" "C" 68 "-" 0 0.78 0.78
+"7phv_BC-CA_A-7phv_BC-CA_C.377" "LYS" "C" 83 "-" 0.77 2.91 3.69
+"7phv_BC-CA_A-7phv_BC-CA_C.402" "ARG" "C" 108 "-" 1.46 18.96 20.42

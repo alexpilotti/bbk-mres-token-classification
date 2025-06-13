@@ -1,0 +1,27 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.23" "LEU" "D" 24 "-" 0.32 0 0.32
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.25" "SER" "D" 26 "-" 1 0 1
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.27" "SER" "D" 28 "-" 0.83 2.5 3.35
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.28" "VAL" "D" 29 "-" 0.19 0.18 0.39
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.29" "THR" "D" 30 "-" 20.77 7.4 28.17
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.30" "SER" "D" 31 "-" 1.05 2.14 3.19
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.31" "SER" "D" 32 "-" 28.76 31.69 60.45
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.32" "ASN" "D" 33 "-" 1.29 9.28 10.56
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.33" "TYR" "D" 34 "-" 5.74 7.03 12.77
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.92" "HIS" "D" 93 "-" 0.55 2.02 2.58
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.93" "LYS" "D" 94 "-" 54.25 21.41 75.66
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.94" "GLY" "D" 95 "-" 32.32 13.54 45.87
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.95" "SER" "D" 96 "-" 56.03 32.59 88.61
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.96" "THR" "D" 97 "-" 10.35 13.16 23.51
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.216" "LEU" "Z" 24 "-" 0.03 0.09 0.13
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.217" "ALA" "Z" 25 "-" 13.92 1.38 15.3
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.218" "GLY" "Z" 26 "-" 0.09 0.16 0.24
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.220" "LEU" "Z" 28 "-" 35.43 1.23 36.66
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.221" "ASP" "Z" 29 "-" 2.87 11.25 14.12
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.224" "PHE" "Z" 32 "-" 35.36 0.21 35.57
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.227" "ASN" "Z" 35 "-" 6.11 16.43 22.53
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.228" "LYS" "Z" 36 "-" 16.69 26.94 43.64
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.231" "GLU" "Z" 39 "-" 8.5 24.59 33.1
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.271" "TYR" "Z" 85 "-" 5.4 0.91 6.32
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.274" "ILE" "Z" 88 "-" 10.24 0 10.24
+"7ox1_CD-DZ_D-7ox1_CD-DZ_Z.277" "ARG" "Z" 91 "-" 3.36 37.53 40.89

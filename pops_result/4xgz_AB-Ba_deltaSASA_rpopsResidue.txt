@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.26" "SER" "B" 30 "-" 0 0.08 0.08
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.27" "SER" "B" 31 "-" 0.07 0 0.07
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.28" "ALA" "B" 32 "-" 11.61 0.57 12.18
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.45" "TYR" "B" 49 "-" 0.34 0 0.33
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.46" "SER" "B" 50 "-" 1.26 2.93 4.19
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.87" "SER" "B" 91 "-" 6.89 2.99 9.88
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.88" "SER" "B" 92 "-" 3.64 10.25 13.89
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.89" "SER" "B" 93 "-" 36.31 29.37 65.68
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.90" "SER" "B" 94 "-" 8.96 5.83 14.78
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.91" "LEU" "B" 95 "-" 1.51 1.68 3.19
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.92" "ILE" "B" 96 "-" 14.16 0.5 14.66
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.211" "ASN" "a" 1 "-" 14.54 8.48 23.01
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.212" "LEU" "a" 2 "-" 91.66 1.84 93.51
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.213" "SER" "a" 3 "-" 28.89 15.11 44
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.214" "GLU" "a" 4 "-" 0 0 0.01
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.215" "LEU" "a" 5 "-" 0.01 0 0.01
+"4xgz_AB-Ba_B-4xgz_AB-Ba_a.217" "ARG" "a" 7 "-" 0.65 9.11 9.74

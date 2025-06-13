@@ -1,0 +1,10 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8w84_AB-BD_B-8w84_AB-BD_D.30" "TYR" "B" 30 "-" 11.69 4.94 16.63
+"8w84_AB-BD_B-8w84_AB-BD_D.31" "SER" "B" 31 "-" 12.75 11.59 24.34
+"8w84_AB-BD_B-8w84_AB-BD_D.32" "GLY" "B" 32 "-" 0.03 0.05 0.09
+"8w84_AB-BD_B-8w84_AB-BD_D.50" "TYR" "B" 50 "-" 27.32 13.07 40.39
+"8w84_AB-BD_B-8w84_AB-BD_D.91" "TYR" "B" 91 "-" 0.04 0 0.04
+"8w84_AB-BD_B-8w84_AB-BD_D.213" "LEU" "D" -2 "-" 58.06 4.85 62.91
+"8w84_AB-BD_B-8w84_AB-BD_D.214" "PRO" "D" -1 "-" 0.4 0 0.4
+"8w84_AB-BD_B-8w84_AB-BD_D.215" "TYR" "D" 0 "-" 16 24.73 40.73
+"8w84_AB-BD_B-8w84_AB-BD_D.217" "GLN" "D" 2 "-" 0.34 3.8 4.14

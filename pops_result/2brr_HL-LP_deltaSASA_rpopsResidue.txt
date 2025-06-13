@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2brr_HL-LP_L-2brr_HL-LP_P.92" "TYR" "L" 91 "-" 0.09 0 0.09
+"2brr_HL-LP_L-2brr_HL-LP_P.95" "TYR" "L" 94 "-" 5.76 14.12 19.89
+"2brr_HL-LP_L-2brr_HL-LP_P.97" "TYR" "L" 96 "-" 3.24 9.24 12.49
+"2brr_HL-LP_L-2brr_HL-LP_P.220" "LYS" "P" 7 "-" 45.7 15.29 60.99

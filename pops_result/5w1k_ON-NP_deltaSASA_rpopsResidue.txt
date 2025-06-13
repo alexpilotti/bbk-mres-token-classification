@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5w1k_ON-NP_N-5w1k_ON-NP_P.31" "SER" "N" 32 "-" 0.18 0 0.18
+"5w1k_ON-NP_N-5w1k_ON-NP_P.32" "TYR" "N" 33 "-" 17.33 24.22 41.55
+"5w1k_ON-NP_N-5w1k_ON-NP_P.91" "TYR" "N" 92 "-" 18.15 16.04 34.18
+"5w1k_ON-NP_N-5w1k_ON-NP_P.92" "GLY" "N" 93 "-" 0.13 0 0.12
+"5w1k_ON-NP_N-5w1k_ON-NP_P.93" "ARG" "N" 94 "-" 5.13 10.41 15.54
+"5w1k_ON-NP_N-5w1k_ON-NP_P.94" "SER" "N" 95 "-" 26.99 22.43 49.42
+"5w1k_ON-NP_N-5w1k_ON-NP_P.95" "GLY" "N" 96 "-" 0 0.03 0.02
+"5w1k_ON-NP_N-5w1k_ON-NP_P.96" "TYR" "N" 97 "-" 10.22 7.74 17.96
+"5w1k_ON-NP_N-5w1k_ON-NP_P.252" "GLN" "P" 127 "-" 9.41 11.78 21.2
+"5w1k_ON-NP_N-5w1k_ON-NP_P.253" "HIS" "P" 128 "-" 30.81 17.52 48.33
+"5w1k_ON-NP_N-5w1k_ON-NP_P.255" "ALA" "P" 130 "-" 8.94 1.5 10.44
+"5w1k_ON-NP_N-5w1k_ON-NP_P.256" "ASP" "P" 131 "-" 2.01 11.1 13.11
+"5w1k_ON-NP_N-5w1k_ON-NP_P.259" "TRP" "P" 134 "-" 0.08 0 0.08
+"5w1k_ON-NP_N-5w1k_ON-NP_P.281" "TRP" "P" 156 "-" 0.87 4.15 5.03
+"5w1k_ON-NP_N-5w1k_ON-NP_P.282" "TYR" "P" 157 "-" 43.05 3.15 46.2

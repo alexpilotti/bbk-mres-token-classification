@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mub_CD-CE_C-5mub_CD-CE_E.31" "ASP" "C" 31 "-" 3.69 6.68 10.37
+"5mub_CD-CE_C-5mub_CD-CE_E.32" "ALA" "C" 32 "-" 1.96 0.5 2.47
+"5mub_CD-CE_C-5mub_CD-CE_E.33" "TRP" "C" 33 "-" 27.94 2.68 30.62
+"5mub_CD-CE_C-5mub_CD-CE_E.52" "ARG" "C" 52 "-" 0 0.38 0.38
+"5mub_CD-CE_C-5mub_CD-CE_E.53" "ASN" "C" 53 "-" 0.36 3.16 3.52
+"5mub_CD-CE_C-5mub_CD-CE_E.55" "VAL" "C" 55 "-" 0.35 0 0.35
+"5mub_CD-CE_C-5mub_CD-CE_E.56" "ASN" "C" 56 "-" 0 0.59 0.59
+"5mub_CD-CE_C-5mub_CD-CE_E.101" "LEU" "C" 101 "-" 23.71 2.9 26.61
+"5mub_CD-CE_C-5mub_CD-CE_E.102" "THR" "C" 102 "-" 14.76 9.25 24.01
+"5mub_CD-CE_C-5mub_CD-CE_E.103" "PHE" "C" 103 "-" 8.15 1.85 10
+"5mub_CD-CE_C-5mub_CD-CE_E.104" "ASP" "C" 104 "-" 8.17 36.77 44.94
+"5mub_CD-CE_C-5mub_CD-CE_E.217" "GLY" "E" 13 "-" 3.37 11.84 15.21
+"5mub_CD-CE_C-5mub_CD-CE_E.218" "ALA" "E" 14 "-" 65.99 23.45 89.45
+"5mub_CD-CE_C-5mub_CD-CE_E.219" "ARG" "E" 15 "-" 56.3 47.84 104.15
+"5mub_CD-CE_C-5mub_CD-CE_E.220" "GLY" "E" 16 "-" 15.11 4.75 19.86
+"5mub_CD-CE_C-5mub_CD-CE_E.221" "LEU" "E" 17 "-" 23.58 2.67 26.25
+"5mub_CD-CE_C-5mub_CD-CE_E.222" "THR" "E" 18 "-" 59.34 34.58 93.93
+"5mub_CD-CE_C-5mub_CD-CE_E.223" "GLY" "E" 19 "-" 11.54 2.61 14.15

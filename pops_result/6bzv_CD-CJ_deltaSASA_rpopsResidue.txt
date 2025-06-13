@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.33" "TYR" "C" 33 "-" 14.11 22.63 36.74
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.50" "TYR" "C" 50 "-" 3.45 11.27 14.72
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.52" "SER" "C" 52 "-" 0.01 0 0.01
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.53" "TYR" "C" 53 "-" 3.16 14.34 17.49
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.56" "SER" "C" 56 "-" 0.06 0.39 0.46
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.57" "THR" "C" 57 "-" 0.02 2.73 2.74
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.58" "TYR" "C" 58 "-" 26.56 5.82 32.37
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.98" "LEU" "C" 95 "-" 3.95 0 3.95
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.99" "TYR" "C" 96 "-" 0 0.1 0.1
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.100" "ASP" "C" 97 "-" 3.34 12.84 16.18
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.103" "TYR" "C" 100 "-" 37.69 19.17 56.86
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.219" "LEU" "J" 413 "-" 25.62 14.34 39.96
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.220" "ILE" "J" 414 "-" 16.69 0.18 16.88
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.221" "ASN" "J" 415 "-" 3.65 12.94 16.57
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.222" "THR" "J" 416 "-" 0.52 0.16 0.67
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.223" "ASN" "J" 417 "-" 18.67 23.01 41.68
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.224" "GLY" "J" 418 "-" 14.64 4.29 18.93
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.225" "SER" "J" 419 "-" 0 0.01 0.01
+"6bzv_CD-CJ_C-6bzv_CD-CJ_J.226" "TRP" "J" 420 "-" 41.23 1.55 42.78

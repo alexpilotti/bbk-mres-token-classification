@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6bfq_EF-FJ_F-6bfq_EF-FJ_J.30" "ASN" "FALSE" 31 "-" 0.91 9.07 9.98
+"6bfq_EF-FJ_F-6bfq_EF-FJ_J.32" "ARG" "FALSE" 33 "-" 10.47 68.63 79.1
+"6bfq_EF-FJ_F-6bfq_EF-FJ_J.91" "SER" "FALSE" 92 "-" 7.36 10.31 17.67
+"6bfq_EF-FJ_F-6bfq_EF-FJ_J.92" "ASN" "FALSE" 93 "-" 3.14 18.9 22.04
+"6bfq_EF-FJ_F-6bfq_EF-FJ_J.93" "ASN" "FALSE" 94 "-" 9.18 23 32.17
+"6bfq_EF-FJ_F-6bfq_EF-FJ_J.94" "TYR" "FALSE" 95 "-" 48.1 23.51 71.61
+"6bfq_EF-FJ_F-6bfq_EF-FJ_J.96" "LEU" "FALSE" 97 "-" 0.63 0 0.63
+"6bfq_EF-FJ_F-6bfq_EF-FJ_J.229" "ASN" "J" 37 "-" 13.56 26.97 40.52
+"6bfq_EF-FJ_F-6bfq_EF-FJ_J.230" "GLU" "J" 38 "-" 23.37 21.35 44.72
+"6bfq_EF-FJ_F-6bfq_EF-FJ_J.231" "THR" "J" 39 "-" 29.66 20.41 50.07
+"6bfq_EF-FJ_F-6bfq_EF-FJ_J.232" "VAL" "J" 40 "-" 0.92 0.42 1.35
+"6bfq_EF-FJ_F-6bfq_EF-FJ_J.233" "GLU" "J" 41 "-" 1.8 1.35 3.15
+"6bfq_EF-FJ_F-6bfq_EF-FJ_J.292" "ILE" "J" 100 "-" 32.34 8.16 40.49
+"6bfq_EF-FJ_F-6bfq_EF-FJ_J.293" "ILE" "J" 101 "-" 6.04 0.93 6.97
+"6bfq_EF-FJ_F-6bfq_EF-FJ_J.294" "THR" "J" 102 "-" 28.93 1.67 30.6

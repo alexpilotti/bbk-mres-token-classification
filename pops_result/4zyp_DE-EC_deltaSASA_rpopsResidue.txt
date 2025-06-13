@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4zyp_DE-EC_C-4zyp_DE-EC_E.364" "ASN" "C" 428 "-" 3.71 9.74 13.45
+"4zyp_DE-EC_C-4zyp_DE-EC_E.365" "ARG" "C" 429 "-" 50.31 51.1 101.41
+"4zyp_DE-EC_C-4zyp_DE-EC_E.366" "GLY" "C" 430 "-" 1.18 0.56 1.74
+"4zyp_DE-EC_C-4zyp_DE-EC_E.367" "ILE" "C" 431 "-" 0 0.3 0.31
+"4zyp_DE-EC_C-4zyp_DE-EC_E.368" "ILE" "C" 432 "-" 0.19 0 0.19
+"4zyp_DE-EC_C-4zyp_DE-EC_E.479" "LYS" "E" 30 "-" 4.88 12.9 17.78
+"4zyp_DE-EC_C-4zyp_DE-EC_E.481" "TYR" "E" 32 "-" 17.1 22.2 39.29
+"4zyp_DE-EC_C-4zyp_DE-EC_E.499" "ASP" "E" 50 "-" 0.05 1.15 1.2
+"4zyp_DE-EC_C-4zyp_DE-EC_E.540" "TYR" "E" 91 "-" 0.24 0.17 0.41
+"4zyp_DE-EC_C-4zyp_DE-EC_E.541" "ASP" "E" 92 "-" 0.6 2.13 2.72
+"4zyp_DE-EC_C-4zyp_DE-EC_E.542" "ASN" "E" 93 "-" 12.92 28.83 41.77
+"4zyp_DE-EC_C-4zyp_DE-EC_E.543" "LEU" "E" 94 "-" 0 0.05 0.04

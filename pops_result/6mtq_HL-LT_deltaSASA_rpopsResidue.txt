@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6mtq_HL-LT_L-6mtq_HL-LT_T.32" "SER" "L" 31 "-" 0.96 4.12 5.06
+"6mtq_HL-LT_L-6mtq_HL-LT_T.33" "TYR" "L" 32 "-" 18.08 26.65 44.74
+"6mtq_HL-LT_L-6mtq_HL-LT_T.92" "PHE" "L" 91 "-" 12.71 2.69 15.4
+"6mtq_HL-LT_L-6mtq_HL-LT_T.93" "ASP" "L" 92 "-" 1.07 6.71 7.77
+"6mtq_HL-LT_L-6mtq_HL-LT_T.94" "LYS" "L" 93 "-" 2.23 0.81 3.04
+"6mtq_HL-LT_L-6mtq_HL-LT_T.95" "SER" "L" 94 "-" 42.35 44.62 86.97
+"6mtq_HL-LT_L-6mtq_HL-LT_T.96" "HIS" "L" 95 "-" 4.44 1.46 5.9
+"6mtq_HL-LT_L-6mtq_HL-LT_T.97" "VAL" "L" 96 "-" 14.37 1.01 15.39
+"6mtq_HL-LT_L-6mtq_HL-LT_T.280" "SER" "TRUE" 78 "-" 2.01 1.14 3.15
+"6mtq_HL-LT_L-6mtq_HL-LT_T.286" "ASN" "TRUE" 84 "-" 0 0.02 0.02
+"6mtq_HL-LT_L-6mtq_HL-LT_T.320" "GLY" "TRUE" 118 "-" 0.19 4.28 4.47
+"6mtq_HL-LT_L-6mtq_HL-LT_T.321" "ASN" "TRUE" 119 "-" 12.29 27.91 40.21
+"6mtq_HL-LT_L-6mtq_HL-LT_T.322" "TRP" "TRUE" 120 "-" 8.03 0.72 8.75
+"6mtq_HL-LT_L-6mtq_HL-LT_T.323" "PHE" "TRUE" 121 "-" 59.21 1.28 60.5
+"6mtq_HL-LT_L-6mtq_HL-LT_T.324" "ASP" "TRUE" 122 "-" 3.38 19.59 22.99
+"6mtq_HL-LT_L-6mtq_HL-LT_T.327" "LYS" "TRUE" 125 "-" 1.54 9.31 10.85

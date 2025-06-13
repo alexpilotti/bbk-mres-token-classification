@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7zqt_CD-DA_A-7zqt_CD-DA_D.186" "SER" "A" 234 "-" 0.03 0.74 0.78
+"7zqt_CD-DA_A-7zqt_CD-DA_D.187" "GLN" "A" 235 "-" 15.32 27.74 43.06
+"7zqt_CD-DA_A-7zqt_CD-DA_D.192" "THR" "A" 240 "-" 0 0.22 0.22
+"7zqt_CD-DA_A-7zqt_CD-DA_D.193" "THR" "A" 241 "-" 0.12 1.68 1.8
+"7zqt_CD-DA_A-7zqt_CD-DA_D.194" "ARG" "A" 242 "-" 41.02 45.76 86.78
+"7zqt_CD-DA_A-7zqt_CD-DA_D.195" "VAL" "A" 243 "-" 0.81 0 0.82
+"7zqt_CD-DA_A-7zqt_CD-DA_D.433" "TYR" "D" 32 "-" 29.17 30.73 59.89
+"7zqt_CD-DA_A-7zqt_CD-DA_D.492" "SER" "D" 91 "-" 0.71 2.37 3.07
+"7zqt_CD-DA_A-7zqt_CD-DA_D.493" "TYR" "D" 92 "-" 7.79 5.33 13.13
+"7zqt_CD-DA_A-7zqt_CD-DA_D.494" "SER" "D" 93 "-" 0.07 0.74 0.8
+"7zqt_CD-DA_A-7zqt_CD-DA_D.495" "THR" "D" 94 "-" 0.12 0.84 0.96
+"7zqt_CD-DA_A-7zqt_CD-DA_D.497" "TRP" "D" 96 "-" 12.03 1.51 13.54

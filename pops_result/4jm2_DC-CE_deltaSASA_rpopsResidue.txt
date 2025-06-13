@@ -1,0 +1,12 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4jm2_DC-CE_C-4jm2_DC-CE_E.94" "TRP" "C" 94 "-" 42.13 18.19 60.33
+"4jm2_DC-CE_C-4jm2_DC-CE_E.95" "PRO" "C" 95 "-" 39.25 0.36 39.61
+"4jm2_DC-CE_C-4jm2_DC-CE_E.96" "PRO" "C" 95 "A" 0.92 0.01 0.93
+"4jm2_DC-CE_C-4jm2_DC-CE_E.244" "PRO" "E" 118 "-" 0 0.08 0.09
+"4jm2_DC-CE_C-4jm2_DC-CE_E.245" "CYS" "E" 119 "-" 8.85 1.93 10.78
+"4jm2_DC-CE_C-4jm2_DC-CE_E.246" "VAL" "E" 120 "-" 7.61 0.16 7.77
+"4jm2_DC-CE_C-4jm2_DC-CE_E.264" "THR" "E" 202 "-" 39.27 8.87 48.14
+"4jm2_DC-CE_C-4jm2_DC-CE_E.265" "GLN" "E" 203 "-" 5.63 6.57 12.2
+"4jm2_DC-CE_C-4jm2_DC-CE_E.266" "ALA" "E" 204 "-" 21.32 5.28 26.59
+"4jm2_DC-CE_C-4jm2_DC-CE_E.267" "CYS" "E" 205 "-" 5.49 0.87 6.37
+"4jm2_DC-CE_C-4jm2_DC-CE_E.472" "MET" "E" 434 "-" 6.27 0 6.27

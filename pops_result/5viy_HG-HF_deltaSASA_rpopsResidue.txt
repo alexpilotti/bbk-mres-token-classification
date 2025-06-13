@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5viy_HG-HF_F-5viy_HG-HF_H.98" "GLN" "FALSE" 130 "-" 18.01 6.84 24.85
+"5viy_HG-HF_F-5viy_HG-HF_H.99" "CYS" "FALSE" 131 "-" 0.37 1.5 1.87
+"5viy_HG-HF_F-5viy_HG-HF_H.100" "THR" "FALSE" 132 "-" 37.68 7.93 45.61
+"5viy_HG-HF_F-5viy_HG-HF_H.103" "THR" "FALSE" 135 "-" 6.09 0.63 6.73
+"5viy_HG-HF_F-5viy_HG-HF_H.114" "ASN" "FALSE" 156 "-" 3.34 12.4 15.75
+"5viy_HG-HF_F-5viy_HG-HF_H.115" "CYS" "FALSE" 157 "-" 0.1 0.16 0.26
+"5viy_HG-HF_F-5viy_HG-HF_H.116" "SER" "FALSE" 158 "-" 7.75 8.31 16.05
+"5viy_HG-HF_F-5viy_HG-HF_H.118" "ASN" "FALSE" 160 "-" 0 0.29 0.3
+"5viy_HG-HF_F-5viy_HG-HF_H.127" "LYS" "FALSE" 169 "-" 2.94 0 2.95
+"5viy_HG-HF_F-5viy_HG-HF_H.129" "LYS" "FALSE" 171 "-" 14.54 38.17 52.71
+"5viy_HG-HF_F-5viy_HG-HF_H.131" "TYR" "FALSE" 173 "-" 6.97 0 6.97
+"5viy_HG-HF_F-5viy_HG-HF_H.144" "SER" "FALSE" 187 "-" 0.66 0 0.66
+"5viy_HG-HF_F-5viy_HG-HF_H.145" "ASN" "FALSE" 188 "-" 7.36 15.7 23.06
+"5viy_HG-HF_F-5viy_HG-HF_H.477" "TYR" "H" 28 "-" 0.02 1.66 1.68
+"5viy_HG-HF_F-5viy_HG-HF_H.503" "TRP" "H" 54 "-" 73.49 3.75 77.25
+"5viy_HG-HF_F-5viy_HG-HF_H.504" "ALA" "H" 55 "-" 14.12 9.93 24.07
+"5viy_HG-HF_F-5viy_HG-HF_H.505" "TYR" "H" 56 "-" 7.77 0.96 8.73
+"5viy_HG-HF_F-5viy_HG-HF_H.506" "GLY" "H" 57 "-" 9.59 12.87 22.46
+"5viy_HG-HF_F-5viy_HG-HF_H.507" "GLY" "H" 58 "-" 0.54 0.15 0.69
+"5viy_HG-HF_F-5viy_HG-HF_H.526" "GLY" "H" 77 "-" 2.91 0.66 3.57
+"5viy_HG-HF_F-5viy_HG-HF_H.560" "GLN" "H" 111 "-" 0.18 6.13 6.31

@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2ltq_FE-FD_D-2ltq_FE-FD_F.84" "MET" "D" 93 "-" 5.85 0 5.85
+"2ltq_FE-FD_D-2ltq_FE-FD_F.88" "TYR" "D" 97 "-" 52.87 25.93 78.8
+"2ltq_FE-FD_D-2ltq_FE-FD_F.89" "PRO" "D" 98 "-" 3.99 11.31 15.3
+"2ltq_FE-FD_D-2ltq_FE-FD_F.90" "SER" "D" 99 "-" 19.95 4.11 24.06
+"2ltq_FE-FD_D-2ltq_FE-FD_F.91" "PRO" "D" 100 "-" 14.3 0.21 14.5
+"2ltq_FE-FD_D-2ltq_FE-FD_F.92" "PHE" "D" 101 "-" 12.97 0.15 13.12
+"2ltq_FE-FD_D-2ltq_FE-FD_F.195" "TRP" "FALSE" 47 "-" 0.01 0 0.01
+"2ltq_FE-FD_D-2ltq_FE-FD_F.198" "TYR" "FALSE" 50 "-" 0.57 0.08 0.66
+"2ltq_FE-FD_D-2ltq_FE-FD_F.207" "TYR" "FALSE" 59 "-" 17.57 12.22 29.79
+"2ltq_FE-FD_D-2ltq_FE-FD_F.249" "TYR" "FALSE" 101 "-" 0.01 0.54 0.54
+"2ltq_FE-FD_D-2ltq_FE-FD_F.250" "ARG" "FALSE" 102 "-" 29.42 60.32 89.74
+"2ltq_FE-FD_D-2ltq_FE-FD_F.251" "SER" "FALSE" 103 "-" 0.01 0.07 0.07
+"2ltq_FE-FD_D-2ltq_FE-FD_F.252" "TYR" "FALSE" 104 "-" 29.9 19.15 49.06

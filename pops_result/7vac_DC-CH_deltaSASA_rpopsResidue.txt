@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7vac_DC-CH_C-7vac_DC-CH_H.32" "ASN" "C" 33 "-" 0 0.01 0.01
+"7vac_DC-CH_C-7vac_DC-CH_H.33" "TYR" "C" 34 "-" 23.35 16.1 39.43
+"7vac_DC-CH_C-7vac_DC-CH_H.34" "ALA" "C" 35 "-" 0 0.03 0.03
+"7vac_DC-CH_C-7vac_DC-CH_H.35" "ASN" "C" 36 "-" 1.26 9.71 10.97
+"7vac_DC-CH_C-7vac_DC-CH_H.50" "GLY" "C" 51 "-" 1.6 0.01 1.61
+"7vac_DC-CH_C-7vac_DC-CH_H.51" "ARG" "C" 52 "-" 33.11 76.97 110.08
+"7vac_DC-CH_C-7vac_DC-CH_H.92" "TRP" "C" 93 "-" 11.37 1.88 13.24
+"7vac_DC-CH_C-7vac_DC-CH_H.97" "PHE" "C" 98 "-" 14.76 0 14.77
+"7vac_DC-CH_C-7vac_DC-CH_H.219" "PRO" "H" 9 "-" 12.23 0.7 12.93
+"7vac_DC-CH_C-7vac_DC-CH_H.220" "PRO" "H" 10 "-" 14.91 7.01 21.94
+"7vac_DC-CH_C-7vac_DC-CH_H.221" "ALA" "H" 11 "-" 56.04 29.13 85.18
+"7vac_DC-CH_C-7vac_DC-CH_H.222" "HIS" "H" 12 "-" 74.47 32.57 107.04
+"7vac_DC-CH_C-7vac_DC-CH_H.223" "GLY" "H" 13 "-" 40.95 25.63 66.58

@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mub_UV-VW_V-5mub_UV-VW_W.36" "SER" "V" 36 "-" 0.3 1.86 2.16
+"5mub_UV-VW_V-5mub_UV-VW_W.38" "ASN" "V" 38 "-" 1.3 10.61 11.91
+"5mub_UV-VW_V-5mub_UV-VW_W.40" "PHE" "V" 40 "-" 2.88 0 2.88
+"5mub_UV-VW_V-5mub_UV-VW_W.50" "PHE" "V" 50 "-" 17.6 0 17.59
+"5mub_UV-VW_V-5mub_UV-VW_W.52" "ILE" "V" 52 "-" 0 0.1 0.1
+"5mub_UV-VW_V-5mub_UV-VW_W.53" "TYR" "V" 53 "-" 19.36 5.02 24.39
+"5mub_UV-VW_V-5mub_UV-VW_W.54" "ALA" "V" 54 "-" 0.18 0.04 0.23
+"5mub_UV-VW_V-5mub_UV-VW_W.58" "GLN" "V" 58 "-" 0.02 0.42 0.44
+"5mub_UV-VW_V-5mub_UV-VW_W.59" "GLY" "V" 59 "-" 1.23 0.06 1.28
+"5mub_UV-VW_V-5mub_UV-VW_W.60" "SER" "V" 60 "-" 2.48 2.84 5.33
+"5mub_UV-VW_V-5mub_UV-VW_W.93" "GLN" "V" 93 "-" 0.02 0.96 0.99
+"5mub_UV-VW_V-5mub_UV-VW_W.95" "SER" "V" 95 "-" 7.18 7.43 14.6
+"5mub_UV-VW_V-5mub_UV-VW_W.100" "TYR" "V" 100 "-" 0.98 2.08 3.06
+"5mub_UV-VW_V-5mub_UV-VW_W.222" "LEU" "W" 17 "-" 111.25 13.85 125.1
+"5mub_UV-VW_V-5mub_UV-VW_W.223" "THR" "W" 18 "-" 77.56 29.79 107.35
+"5mub_UV-VW_V-5mub_UV-VW_W.224" "GLY" "W" 19 "-" 10.87 12.55 23.42

@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5wdu_MN-NJ_J-5wdu_MN-NJ_N.79" "ARG" "J" 617 "-" 0 1.51 1.51
+"5wdu_MN-NJ_J-5wdu_MN-NJ_N.80" "ASN" "J" 618 "-" 0.93 9.1 10.02
+"5wdu_MN-NJ_J-5wdu_MN-NJ_N.82" "SER" "J" 620 "-" 19.94 18.14 38.09
+"5wdu_MN-NJ_J-5wdu_MN-NJ_N.83" "GLU" "J" 621 "-" 11 23.5 34.5
+"5wdu_MN-NJ_J-5wdu_MN-NJ_N.87" "ASN" "J" 625 "-" 0.35 3.99 4.33
+"5wdu_MN-NJ_J-5wdu_MN-NJ_N.176" "TYR" "N" 49 "-" 4.07 13.4 17.46
+"5wdu_MN-NJ_J-5wdu_MN-NJ_N.177" "GLU" "N" 50 "-" 0.36 2.67 3.04
+"5wdu_MN-NJ_J-5wdu_MN-NJ_N.180" "GLU" "N" 53 "-" 1.52 6.07 7.59
+"5wdu_MN-NJ_J-5wdu_MN-NJ_N.181" "ARG" "N" 54 "-" 0.58 3.34 3.93
+"5wdu_MN-NJ_J-5wdu_MN-NJ_N.182" "ALA" "N" 55 "-" 0.58 0.9 1.47
+"5wdu_MN-NJ_J-5wdu_MN-NJ_N.183" "PRO" "N" 56 "-" 47.91 0.89 48.8
+"5wdu_MN-NJ_J-5wdu_MN-NJ_N.184" "GLY" "N" 57 "-" 0.2 1.47 1.68

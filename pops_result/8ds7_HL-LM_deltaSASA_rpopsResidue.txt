@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8ds7_HL-LM_L-8ds7_HL-LM_M.31" "HIS" "L" 31 "-" 11.78 9.54 21.32
+"8ds7_HL-LM_L-8ds7_HL-LM_M.32" "SER" "L" 32 "-" 0 0.32 0.32
+"8ds7_HL-LM_L-8ds7_HL-LM_M.33" "ASN" "L" 33 "-" 0.92 4.04 4.96
+"8ds7_HL-LM_L-8ds7_HL-LM_M.37" "TYR" "L" 37 "-" 6.01 4.19 10.19
+"8ds7_HL-LM_L-8ds7_HL-LM_M.96" "GLY" "L" 96 "-" 0.36 3.07 3.43
+"8ds7_HL-LM_L-8ds7_HL-LM_M.97" "SER" "L" 97 "-" 0.8 3.32 4.1
+"8ds7_HL-LM_L-8ds7_HL-LM_M.98" "HIS" "L" 98 "-" 0.54 0.21 0.75
+"8ds7_HL-LM_L-8ds7_HL-LM_M.99" "VAL" "L" 99 "-" 40.52 5.82 46.33
+"8ds7_HL-LM_L-8ds7_HL-LM_M.100" "PRO" "L" 100 "-" 0 0.01 0.01
+"8ds7_HL-LM_L-8ds7_HL-LM_M.101" "TYR" "L" 101 "-" 20.89 31.75 52.64
+"8ds7_HL-LM_L-8ds7_HL-LM_M.220" "ALA" "M" 1 "-" 34.44 30.02 64.47
+"8ds7_HL-LM_L-8ds7_HL-LM_M.221" "CYS" "M" 2 "-" 2.27 6.9 9.17
+"8ds7_HL-LM_L-8ds7_HL-LM_M.222" "ASN" "M" 3 "-" 11.86 38.51 50.37
+"8ds7_HL-LM_L-8ds7_HL-LM_M.223" "LEU" "M" 4 "-" 0.63 0.34 0.97
+"8ds7_HL-LM_L-8ds7_HL-LM_M.224" "ILE" "M" 5 "-" 55.29 0.32 55.61
+"8ds7_HL-LM_L-8ds7_HL-LM_M.225" "VAL" "M" 6 "-" 48.58 0.15 48.72
+"8ds7_HL-LM_L-8ds7_HL-LM_M.226" "GLU" "M" 7 "-" 1.3 6.15 7.45

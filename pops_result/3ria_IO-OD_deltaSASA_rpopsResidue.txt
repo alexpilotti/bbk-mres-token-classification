@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3ria_IO-OD_D-3ria_IO-OD_O.24" "ASN" "D" 24 "-" 10.02 11.07 21.09
+"3ria_IO-OD_D-3ria_IO-OD_O.25" "GLY" "D" 25 "-" 0.47 2.24 2.7
+"3ria_IO-OD_D-3ria_IO-OD_O.26" "GLY" "D" 26 "-" 4.36 0.34 4.7
+"3ria_IO-OD_D-3ria_IO-OD_O.27" "PRO" "D" 27 "-" 14.41 1 15.41
+"3ria_IO-OD_D-3ria_IO-OD_O.29" "VAL" "D" 29 "-" 15.02 0.02 15.05
+"3ria_IO-OD_D-3ria_IO-OD_O.155" "THR" "D" 155 "-" 14.53 9.76 24.29
+"3ria_IO-OD_D-3ria_IO-OD_O.156" "LYS" "D" 156 "-" 12 1.07 13.08
+"3ria_IO-OD_D-3ria_IO-OD_O.159" "GLU" "D" 159 "-" 10.86 17.49 28.34
+"3ria_IO-OD_D-3ria_IO-OD_O.160" "TYR" "D" 160 "-" 0 0.09 0.1
+"3ria_IO-OD_D-3ria_IO-OD_O.161" "LEU" "D" 161 "-" 30.47 0 30.48
+"3ria_IO-OD_D-3ria_IO-OD_O.190" "TYR" "D" 190 "-" 14.42 2.08 16.5
+"3ria_IO-OD_D-3ria_IO-OD_O.199" "ILE" "D" 199 "-" 15.73 0 15.73
+"3ria_IO-OD_D-3ria_IO-OD_O.366" "THR" "O" 26 "-" 6.61 5.15 11.76
+"3ria_IO-OD_D-3ria_IO-OD_O.371" "THR" "O" 31 "-" 9.08 8.86 17.94
+"3ria_IO-OD_D-3ria_IO-OD_O.372" "ILE" "O" 32 "-" 64.29 0.26 64.56
+"3ria_IO-OD_D-3ria_IO-OD_O.374" "PHE" "O" 34 "-" 9.53 0 9.53
+"3ria_IO-OD_D-3ria_IO-OD_O.393" "ILE" "O" 53 "-" 51.62 0 51.63
+"3ria_IO-OD_D-3ria_IO-OD_O.433" "TRP" "O" 93 "-" 6.44 0.85 7.29
+"3ria_IO-OD_D-3ria_IO-OD_O.434" "TYR" "O" 94 "-" 0.39 0 0.39
+"3ria_IO-OD_D-3ria_IO-OD_O.435" "SER" "O" 95 "-" 19.86 26.1 45.96
+"3ria_IO-OD_D-3ria_IO-OD_O.436" "ASN" "O" 96 "-" 6.68 3.53 10.2

@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"1fbi_HL-LX_L-1fbi_HL-LX_X.30" "SER" "L" 30 "-" 0 0.02 0.02
+"1fbi_HL-LX_L-1fbi_HL-LX_X.32" "TYR" "L" 32 "-" 16.41 27.11 43.52
+"1fbi_HL-LX_L-1fbi_HL-LX_X.91" "GLY" "L" 91 "-" 0.46 2.07 2.53
+"1fbi_HL-LX_L-1fbi_HL-LX_X.92" "TYR" "L" 92 "-" 24.53 33.76 58.28
+"1fbi_HL-LX_L-1fbi_HL-LX_X.93" "THR" "L" 93 "-" 7.12 10.6 17.73
+"1fbi_HL-LX_L-1fbi_HL-LX_X.94" "LEU" "L" 94 "-" 60.73 0.75 61.47
+"1fbi_HL-LX_L-1fbi_HL-LX_X.96" "TYR" "L" 96 "-" 0.85 3.9 4.76
+"1fbi_HL-LX_L-1fbi_HL-LX_X.276" "TRP" "X" 62 "-" 9.88 1.13 11.01
+"1fbi_HL-LX_L-1fbi_HL-LX_X.285" "GLY" "X" 71 "-" 4.12 2.44 6.56
+"1fbi_HL-LX_L-1fbi_HL-LX_X.286" "SER" "X" 72 "-" 0.87 7.5 8.36
+"1fbi_HL-LX_L-1fbi_HL-LX_X.287" "ARG" "X" 73 "-" 11.56 52.23 63.79
+"1fbi_HL-LX_L-1fbi_HL-LX_X.288" "ASN" "X" 74 "-" 0.43 2.18 2.61
+"1fbi_HL-LX_L-1fbi_HL-LX_X.289" "LEU" "X" 75 "-" 3.32 3.26 6.58
+"1fbi_HL-LX_L-1fbi_HL-LX_X.290" "CYS" "X" 76 "-" 0.11 0.31 0.42
+"1fbi_HL-LX_L-1fbi_HL-LX_X.291" "ASN" "X" 77 "-" 8.5 13.53 22.03
+"1fbi_HL-LX_L-1fbi_HL-LX_X.311" "LYS" "X" 97 "-" 3.37 8.15 11.52

@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4zso_DC-CF_C-4zso_DC-CF_F.32" "TYR" "C" 31 "-" 25.26 34.23 59.5
+"4zso_DC-CF_C-4zso_DC-CF_F.34" "TYR" "C" 33 "-" 0 0.65 0.65
+"4zso_DC-CF_C-4zso_DC-CF_F.49" "TYR" "C" 48 "-" 6.59 12.12 18.7
+"4zso_DC-CF_C-4zso_DC-CF_F.50" "LEU" "C" 49 "-" 21.55 1.62 23.17
+"4zso_DC-CF_C-4zso_DC-CF_F.51" "THR" "C" 50 "-" 0.38 0.02 0.41
+"4zso_DC-CF_C-4zso_DC-CF_F.52" "SER" "C" 51 "-" 3.03 5.48 8.51
+"4zso_DC-CF_C-4zso_DC-CF_F.53" "ASN" "C" 52 "-" 2.69 26.47 29.15
+"4zso_DC-CF_C-4zso_DC-CF_F.91" "TRP" "C" 90 "-" 1.08 0.74 1.82
+"4zso_DC-CF_C-4zso_DC-CF_F.92" "SER" "C" 91 "-" 0.73 6.91 7.64
+"4zso_DC-CF_C-4zso_DC-CF_F.93" "SER" "C" 92 "-" 0.18 0.06 0.24
+"4zso_DC-CF_C-4zso_DC-CF_F.94" "ASN" "C" 93 "-" 0.77 7.29 8.06
+"4zso_DC-CF_C-4zso_DC-CF_F.258" "TRP" "FALSE" 67 "-" 0.46 0 0.47
+"4zso_DC-CF_C-4zso_DC-CF_F.260" "SER" "FALSE" 69 "-" 0.13 0 0.13
+"4zso_DC-CF_C-4zso_DC-CF_F.263" "PHE" "FALSE" 72 "-" 38.14 0 38.14
+"4zso_DC-CF_C-4zso_DC-CF_F.264" "ASP" "FALSE" 73 "-" 0.02 0.25 0.27
+"4zso_DC-CF_C-4zso_DC-CF_F.265" "LYS" "FALSE" 74 "-" 71.99 48.93 120.92
+"4zso_DC-CF_C-4zso_DC-CF_F.266" "GLU" "FALSE" 75 "-" 1.27 10.27 11.55
+"4zso_DC-CF_C-4zso_DC-CF_F.267" "VAL" "FALSE" 76 "-" 19.53 0.25 19.77
+"4zso_DC-CF_C-4zso_DC-CF_F.268" "LYS" "FALSE" 77 "-" 0.12 0.45 0.57
+"4zso_DC-CF_C-4zso_DC-CF_F.278" "GLU" "FALSE" 87 "-" 0.8 5.45 6.25
+"4zso_DC-CF_C-4zso_DC-CF_F.280" "PHE" "FALSE" 89 "-" 3.62 0.96 4.58

@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8hry_HL-LB_B-8hry_HL-LB_L.35" "PRO" "B" 36 "-" 5.5 6.04 11.55
+"8hry_HL-LB_B-8hry_HL-LB_L.36" "HIS" "B" 37 "-" 21.64 8.44 30.08
+"8hry_HL-LB_B-8hry_HL-LB_L.37" "LYS" "B" 38 "-" 1.49 7.5 8.97
+"8hry_HL-LB_B-8hry_HL-LB_L.38" "ASP" "B" 39 "-" 0.93 0.39 1.33
+"8hry_HL-LB_B-8hry_HL-LB_L.39" "ASN" "B" 40 "-" 23.42 31.6 55.02
+"8hry_HL-LB_B-8hry_HL-LB_L.49" "ILE" "L" 2 "-" 0.77 0 0.76
+"8hry_HL-LB_B-8hry_HL-LB_L.74" "GLU" "L" 27 "-" 0 0.43 0.43
+"8hry_HL-LB_B-8hry_HL-LB_L.138" "HIS" "L" 91 "-" 0.39 1.2 1.59
+"8hry_HL-LB_B-8hry_HL-LB_L.139" "TYR" "L" 92 "-" 11.94 14.28 26.22
+"8hry_HL-LB_B-8hry_HL-LB_L.140" "GLY" "L" 93 "-" 4.69 1.05 5.73
+"8hry_HL-LB_B-8hry_HL-LB_L.141" "THR" "L" 94 "-" 14.79 11.74 26.54
+"8hry_HL-LB_B-8hry_HL-LB_L.143" "PHE" "L" 96 "-" 17.85 0 17.85

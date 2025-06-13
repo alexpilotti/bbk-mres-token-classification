@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3ubx_GI-ID_D-3ubx_GI-ID_I.63" "HIS" "D" 68 "-" 7.48 4.12 11.6
+"3ubx_GI-ID_D-3ubx_GI-ID_I.66" "GLN" "D" 71 "-" 0.18 0.57 0.76
+"3ubx_GI-ID_D-3ubx_GI-ID_I.67" "VAL" "D" 72 "-" 39.2 1.06 40.25
+"3ubx_GI-ID_D-3ubx_GI-ID_I.70" "VAL" "D" 75 "-" 43.47 0.6 44.07
+"3ubx_GI-ID_D-3ubx_GI-ID_I.71" "SER" "D" 76 "-" 6.99 12.42 19.42
+"3ubx_GI-ID_D-3ubx_GI-ID_I.74" "ARG" "D" 79 "-" 17.25 25.35 42.6
+"3ubx_GI-ID_D-3ubx_GI-ID_I.75" "ASP" "D" 80 "-" 2.3 12.19 14.48
+"3ubx_GI-ID_D-3ubx_GI-ID_I.145" "LEU" "D" 150 "-" 0.24 0 0.24
+"3ubx_GI-ID_D-3ubx_GI-ID_I.148" "ASP" "D" 153 "-" 0.81 5.23 6.04
+"3ubx_GI-ID_D-3ubx_GI-ID_I.149" "GLN" "D" 154 "-" 7.32 0.49 7.81
+"3ubx_GI-ID_D-3ubx_GI-ID_I.150" "GLY" "D" 155 "-" 5.02 1.32 6.34
+"3ubx_GI-ID_D-3ubx_GI-ID_I.151" "THR" "D" 156 "-" 0 0.19 0.19
+"3ubx_GI-ID_D-3ubx_GI-ID_I.153" "ALA" "D" 158 "-" 0.14 0 0.15
+"3ubx_GI-ID_D-3ubx_GI-ID_I.304" "ASP" "I" 28 "-" 0 0.06 0.05
+"3ubx_GI-ID_D-3ubx_GI-ID_I.306" "TYR" "I" 30 "-" 26.9 8.82 35.71
+"3ubx_GI-ID_D-3ubx_GI-ID_I.307" "ASN" "I" 31 "-" 1.1 7.09 8.18
+"3ubx_GI-ID_D-3ubx_GI-ID_I.308" "ARG" "I" 32 "-" 3.26 35.06 38.33
+"3ubx_GI-ID_D-3ubx_GI-ID_I.326" "GLY" "I" 50 "-" 0.6 0.23 0.84
+"3ubx_GI-ID_D-3ubx_GI-ID_I.328" "THR" "I" 52 "-" 0 0.62 0.62
+"3ubx_GI-ID_D-3ubx_GI-ID_I.329" "SER" "I" 53 "-" 9 15.48 24.48
+"3ubx_GI-ID_D-3ubx_GI-ID_I.343" "SER" "I" 67 "-" 6.09 4.71 10.79
+"3ubx_GI-ID_D-3ubx_GI-ID_I.344" "GLY" "I" 68 "-" 0.15 0.22 0.37
+"3ubx_GI-ID_D-3ubx_GI-ID_I.368" "TRP" "I" 92 "-" 21.5 2.34 23.84

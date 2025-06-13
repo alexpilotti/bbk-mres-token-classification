@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mp1_FG-GE_G-5mp1_FG-GE_E.31" "ASN" "G" 31 "-" 3.83 7.45 11.29
+"5mp1_FG-GE_G-5mp1_FG-GE_E.32" "SER" "G" 32 "-" 1.33 0.06 1.38
+"5mp1_FG-GE_G-5mp1_FG-GE_E.38" "TYR" "G" 38 "-" 11.29 2.87 14.17
+"5mp1_FG-GE_G-5mp1_FG-GE_E.97" "SER" "G" 97 "-" 1.23 5.07 6.3
+"5mp1_FG-GE_G-5mp1_FG-GE_E.98" "PHE" "G" 98 "-" 14.35 9.29 23.63
+"5mp1_FG-GE_G-5mp1_FG-GE_E.99" "TYR" "G" 99 "-" 30.28 5.79 36.07
+"5mp1_FG-GE_G-5mp1_FG-GE_E.100" "LEU" "G" 100 "-" 13.76 1.88 15.64
+"5mp1_FG-GE_G-5mp1_FG-GE_E.101" "ARG" "G" 101 "-" 1.63 16.71 18.36
+"5mp1_FG-GE_G-5mp1_FG-GE_E.220" "VAL" "E" 300 "-" 0 0.37 0.37
+"5mp1_FG-GE_G-5mp1_FG-GE_E.221" "PRO" "E" 301 "-" 61.12 32.82 93.94
+"5mp1_FG-GE_G-5mp1_FG-GE_E.222" "GLY" "E" 302 "-" 25.29 6.37 31.67
+"5mp1_FG-GE_G-5mp1_FG-GE_E.223" "GLY" "E" 303 "-" 42.6 30.27 72.88
+"5mp1_FG-GE_G-5mp1_FG-GE_E.224" "GLY" "E" 304 "-" 39.92 22.3 62.22
+"5mp1_FG-GE_G-5mp1_FG-GE_E.225" "SER" "E" 305 "-" 1.68 6.49 8.17

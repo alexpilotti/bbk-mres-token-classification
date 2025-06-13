@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6chb_QR-RH_H-6chb_QR-RH_R.106" "ASN" "H" 136 "-" 0.36 0.2 0.56
+"6chb_QR-RH_H-6chb_QR-RH_R.107" "ASN" "H" 137 "-" 30.08 35.56 65.64
+"6chb_QR-RH_H-6chb_QR-RH_R.108" "ILE" "H" 138 "-" 40.23 1.49 41.72
+"6chb_QR-RH_H-6chb_QR-RH_R.109" "THR" "H" 139 "-" 37.2 19.06 56.25
+"6chb_QR-RH_H-6chb_QR-RH_R.110" "ASP" "H" 140 "-" 0 0.01 0.01
+"6chb_QR-RH_H-6chb_QR-RH_R.281" "GLY" "H" 324 "-" 2.88 4.2 7.08
+"6chb_QR-RH_H-6chb_QR-RH_R.282" "ASP" "H" 325 "-" 21.8 30.02 51.81
+"6chb_QR-RH_H-6chb_QR-RH_R.283" "ILE" "H" 326 "-" 25.37 3.8 29.17
+"6chb_QR-RH_H-6chb_QR-RH_R.476" "THR" "R" 30 "-" 0.06 1.41 1.45
+"6chb_QR-RH_H-6chb_QR-RH_R.477" "SER" "R" 31 "-" 4.42 8 12.42
+"6chb_QR-RH_H-6chb_QR-RH_R.478" "ARG" "R" 32 "-" 0.82 3.4 4.2
+"6chb_QR-RH_H-6chb_QR-RH_R.479" "PHE" "R" 33 "-" 45.75 0 45.75
+"6chb_QR-RH_H-6chb_QR-RH_R.497" "ARG" "R" 51 "-" 0.82 16.04 16.86
+"6chb_QR-RH_H-6chb_QR-RH_R.499" "SER" "R" 53 "-" 4.51 0.83 5.33
+"6chb_QR-RH_H-6chb_QR-RH_R.500" "GLN" "R" 54 "-" 72.91 68.21 141.12
+"6chb_QR-RH_H-6chb_QR-RH_R.507" "TRP" "R" 67 "-" 0.18 0 0.18

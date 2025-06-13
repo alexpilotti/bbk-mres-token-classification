@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4ojf_HL-LA_L-4ojf_HL-LA_A.31" "ASP" "L" 27 "D" 1.42 9.25 10.67
+"4ojf_HL-LA_L-4ojf_HL-LA_A.32" "SER" "L" 27 "E" 0 0.13 0.13
+"4ojf_HL-LA_L-4ojf_HL-LA_A.33" "ASP" "L" 28 "-" 0.83 2.95 3.77
+"4ojf_HL-LA_L-4ojf_HL-LA_A.37" "TYR" "L" 32 "-" 13.99 5.7 19.69
+"4ojf_HL-LA_L-4ojf_HL-LA_A.39" "ASN" "L" 34 "-" 0.05 0.89 0.94
+"4ojf_HL-LA_L-4ojf_HL-LA_A.94" "TRP" "L" 89 "-" 3.19 1.51 4.7
+"4ojf_HL-LA_L-4ojf_HL-LA_A.95" "GLN" "L" 90 "-" 0.08 0.96 1.05
+"4ojf_HL-LA_L-4ojf_HL-LA_A.96" "GLY" "L" 91 "-" 9.1 10.96 20.06
+"4ojf_HL-LA_L-4ojf_HL-LA_A.97" "THR" "L" 92 "-" 2.29 8 10.29
+"4ojf_HL-LA_L-4ojf_HL-LA_A.98" "HIS" "L" 93 "-" 1.97 1.56 3.53
+"4ojf_HL-LA_L-4ojf_HL-LA_A.99" "PHE" "L" 94 "-" 39.87 1.61 41.48
+"4ojf_HL-LA_L-4ojf_HL-LA_A.100" "PRO" "L" 95 "-" 0.26 0 0.27
+"4ojf_HL-LA_L-4ojf_HL-LA_A.101" "ARG" "L" 96 "-" 19.44 63.04 82.49
+"4ojf_HL-LA_L-4ojf_HL-LA_A.220" "ASP" "A" 1 "-" 37.36 61.19 98.56
+"4ojf_HL-LA_L-4ojf_HL-LA_A.221" "ALA" "A" 2 "-" 29.63 3.58 33.21
+"4ojf_HL-LA_L-4ojf_HL-LA_A.222" "GLU" "A" 3 "-" 13.25 12.68 25.93
+"4ojf_HL-LA_L-4ojf_HL-LA_A.223" "PHE" "A" 4 "-" 7.13 0 7.13
+"4ojf_HL-LA_L-4ojf_HL-LA_A.224" "ARG" "A" 5 "-" 28.85 46.56 75.41
+"4ojf_HL-LA_L-4ojf_HL-LA_A.225" "HIS" "A" 6 "-" 18.36 9.65 28.01

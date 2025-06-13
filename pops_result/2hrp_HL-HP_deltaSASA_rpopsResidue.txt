@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2hrp_HL-HP_H-2hrp_HL-HP_P.35" "HIS" "H" 35 "-" 0.47 0.6 1.07
+"2hrp_HL-HP_H-2hrp_HL-HP_P.50" "TYR" "H" 50 "-" 4.82 8.02 12.85
+"2hrp_HL-HP_H-2hrp_HL-HP_P.52" "SER" "H" 52 "-" 0.03 0 0.03
+"2hrp_HL-HP_H-2hrp_HL-HP_P.57" "THR" "H" 56 "-" 6.58 5.27 11.86
+"2hrp_HL-HP_H-2hrp_HL-HP_P.59" "TYR" "H" 58 "-" 22.35 27.11 49.44
+"2hrp_HL-HP_H-2hrp_HL-HP_P.99" "SER" "H" 95 "-" 0.62 1.58 2.19
+"2hrp_HL-HP_H-2hrp_HL-HP_P.102" "ILE" "H" 98 "-" 0 0.18 0.17
+"2hrp_HL-HP_H-2hrp_HL-HP_P.104" "ARG" "H" 100 "-" 9.31 8.51 17.81
+"2hrp_HL-HP_H-2hrp_HL-HP_P.105" "TYR" "H" 100 "A" 0.19 1.34 1.53
+"2hrp_HL-HP_H-2hrp_HL-HP_P.106" "ASP" "H" 100 "B" 8.37 33.58 41.95
+"2hrp_HL-HP_H-2hrp_HL-HP_P.107" "GLY" "H" 100 "C" 19.27 4.46 23.73
+"2hrp_HL-HP_H-2hrp_HL-HP_P.108" "THR" "H" 100 "D" 19.77 11.74 31.51
+"2hrp_HL-HP_H-2hrp_HL-HP_P.109" "TYR" "H" 100 "E" 24.58 0.93 25.52
+"2hrp_HL-HP_H-2hrp_HL-HP_P.110" "TYR" "H" 100 "F" 29.83 16.93 46.75
+"2hrp_HL-HP_H-2hrp_HL-HP_P.111" "VAL" "H" 100 "G" 0.03 0.08 0.12
+"2hrp_HL-HP_H-2hrp_HL-HP_P.229" "LEU" "P" 38 "-" 0.09 0.23 0.3
+"2hrp_HL-HP_H-2hrp_HL-HP_P.230" "PRO" "P" 39 "-" 47.69 6.75 54.44
+"2hrp_HL-HP_H-2hrp_HL-HP_P.231" "GLY" "P" 40 "-" 28.65 24.42 53.08
+"2hrp_HL-HP_H-2hrp_HL-HP_P.232" "ARG" "P" 41 "-" 10.22 32.26 42.48
+"2hrp_HL-HP_H-2hrp_HL-HP_P.233" "TRP" "P" 42 "-" 78.57 1.87 80.44
+"2hrp_HL-HP_H-2hrp_HL-HP_P.234" "LYS" "P" 43 "-" 31.84 16.78 48.61
+"2hrp_HL-HP_H-2hrp_HL-HP_P.235" "PRO" "P" 44 "-" 6.59 2.64 9.23
+"2hrp_HL-HP_H-2hrp_HL-HP_P.236" "LYS" "P" 45 "-" 50.87 7.99 58.86

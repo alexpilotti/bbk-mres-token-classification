@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7x28_CD-DF_D-7x28_CD-DF_F.33" "TYR" "D" 33 "-" 0.17 0 0.17
+"7x28_CD-DF_D-7x28_CD-DF_F.92" "TYR" "D" 92 "-" 0 0.11 0.12
+"7x28_CD-DF_D-7x28_CD-DF_F.93" "GLY" "D" 93 "-" 1.03 10.96 12.01
+"7x28_CD-DF_D-7x28_CD-DF_F.94" "SER" "D" 94 "-" 2.63 0.67 3.3
+"7x28_CD-DF_D-7x28_CD-DF_F.95" "SER" "D" 95 "-" 9.31 20.7 30.02
+"7x28_CD-DF_D-7x28_CD-DF_F.730" "TRP" "FALSE" 535 "-" 17.39 2.34 19.74
+"7x28_CD-DF_D-7x28_CD-DF_F.731" "GLU" "FALSE" 536 "-" 4.09 8 12.09

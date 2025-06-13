@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4ubd_CD-DB_B-4ubd_CD-DB_D.42" "GLY" "B" 50 "-" 1.5 0.36 1.86
+"4ubd_CD-DB_B-4ubd_CD-DB_D.45" "ASN" "B" 53 "-" 6.54 14.65 21.18
+"4ubd_CD-DB_B-4ubd_CD-DB_D.46" "ARG" "B" 54 "-" 0.97 0.03 1
+"4ubd_CD-DB_B-4ubd_CD-DB_D.49" "GLU" "B" 57 "-" 16.73 39.07 55.8
+"4ubd_CD-DB_B-4ubd_CD-DB_D.50" "LYS" "B" 58 "-" 22.78 1.41 24.19
+"4ubd_CD-DB_B-4ubd_CD-DB_D.193" "VAL" "D" 29 "-" 0.03 0.18 0.19
+"4ubd_CD-DB_B-4ubd_CD-DB_D.194" "GLY" "D" 30 "-" 4.64 0.54 5.19
+"4ubd_CD-DB_B-4ubd_CD-DB_D.195" "SER" "D" 31 "-" 11.29 21.29 32.57
+"4ubd_CD-DB_B-4ubd_CD-DB_D.196" "THR" "D" 32 "-" 17 5.91 22.9
+"4ubd_CD-DB_B-4ubd_CD-DB_D.197" "TYR" "D" 33 "-" 5.55 17.64 23.19
+"4ubd_CD-DB_B-4ubd_CD-DB_D.215" "GLY" "D" 51 "-" 0 0.01 0.02
+"4ubd_CD-DB_B-4ubd_CD-DB_D.217" "SER" "D" 53 "-" 4.87 5.33 10.2
+"4ubd_CD-DB_B-4ubd_CD-DB_D.218" "ASN" "D" 54 "-" 0 0.64 0.64
+"4ubd_CD-DB_B-4ubd_CD-DB_D.231" "GLY" "D" 67 "-" 0 0.03 0.02

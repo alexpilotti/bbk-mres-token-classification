@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2jel_HL-LP_L-2jel_HL-LP_P.31" "HIS" "L" 27 "D" 17.45 13.15 30.59
+"2jel_HL-LP_L-2jel_HL-LP_P.32" "GLY" "L" 27 "E" 12.22 9.89 22.12
+"2jel_HL-LP_L-2jel_HL-LP_P.33" "ASN" "L" 28 "-" 10.16 9.68 19.83
+"2jel_HL-LP_L-2jel_HL-LP_P.34" "GLY" "L" 29 "-" 0 0.02 0.01
+"2jel_HL-LP_L-2jel_HL-LP_P.35" "ASN" "L" 30 "-" 0.73 4.87 5.6
+"2jel_HL-LP_L-2jel_HL-LP_P.37" "TYR" "L" 32 "-" 17.19 12.22 29.42
+"2jel_HL-LP_L-2jel_HL-LP_P.55" "LYS" "L" 50 "-" 5.67 10.4 16.07
+"2jel_HL-LP_L-2jel_HL-LP_P.96" "GLY" "L" 91 "-" 0.18 1.29 1.47
+"2jel_HL-LP_L-2jel_HL-LP_P.97" "SER" "L" 92 "-" 0.33 2.13 2.45
+"2jel_HL-LP_L-2jel_HL-LP_P.98" "HIS" "L" 93 "-" 0.18 0.04 0.22
+"2jel_HL-LP_L-2jel_HL-LP_P.99" "VAL" "L" 94 "-" 4.17 0.11 4.27
+"2jel_HL-LP_L-2jel_HL-LP_P.101" "TYR" "L" 96 "-" 2.75 10.38 13.13
+"2jel_HL-LP_L-2jel_HL-LP_P.218" "MET" "P" 1 "-" 51.83 2.44 54.26
+"2jel_HL-LP_L-2jel_HL-LP_P.220" "GLN" "P" 3 "-" 9.34 42.43 51.78
+"2jel_HL-LP_L-2jel_HL-LP_P.249" "GLU" "P" 32 "-" 0 0.03 0.03
+"2jel_HL-LP_L-2jel_HL-LP_P.251" "THR" "P" 34 "-" 8.76 7.81 16.57
+"2jel_HL-LP_L-2jel_HL-LP_P.253" "THR" "P" 36 "-" 2.14 3.06 5.21
+"2jel_HL-LP_L-2jel_HL-LP_P.256" "GLY" "P" 39 "-" 0 0.51 0.51
+"2jel_HL-LP_L-2jel_HL-LP_P.258" "SER" "P" 41 "-" 6.64 5.07 11.71
+"2jel_HL-LP_L-2jel_HL-LP_P.279" "THR" "P" 62 "-" 0.73 0 0.73
+"2jel_HL-LP_L-2jel_HL-LP_P.281" "SER" "P" 64 "-" 3.33 5.08 8.42
+"2jel_HL-LP_L-2jel_HL-LP_P.282" "ALA" "P" 65 "-" 0.01 0.01 0.02
+"2jel_HL-LP_L-2jel_HL-LP_P.283" "GLU" "P" 66 "-" 17.28 48.53 65.81

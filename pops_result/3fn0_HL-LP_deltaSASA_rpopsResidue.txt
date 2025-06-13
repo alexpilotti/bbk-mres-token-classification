@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3fn0_HL-LP_L-3fn0_HL-LP_P.90" "LEU" "L" 92 "-" 29.97 0.06 30.03
+"3fn0_HL-LP_L-3fn0_HL-LP_P.214" "ASP" "P" 674 "-" 0 0.46 0.47
+"3fn0_HL-LP_L-3fn0_HL-LP_P.216" "THR" "P" 676 "-" 13.52 4.21 17.73

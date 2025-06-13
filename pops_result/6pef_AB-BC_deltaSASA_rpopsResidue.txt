@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6pef_AB-BC_B-6pef_AB-BC_C.30" "ILE" "B" 31 "-" 16.31 7.93 24.24
+"6pef_AB-BC_B-6pef_AB-BC_C.31" "ASN" "B" 32 "-" 3 11.04 14.04
+"6pef_AB-BC_B-6pef_AB-BC_C.32" "TYR" "B" 33 "-" 50.44 17.7 68.14
+"6pef_AB-BC_B-6pef_AB-BC_C.33" "VAL" "B" 34 "-" 0 0 0.01
+"6pef_AB-BC_B-6pef_AB-BC_C.34" "ALA" "B" 35 "-" 2.55 0.05 2.6
+"6pef_AB-BC_B-6pef_AB-BC_C.36" "TYR" "B" 37 "-" 5.84 11.01 16.85
+"6pef_AB-BC_B-6pef_AB-BC_C.46" "LEU" "B" 47 "-" 7.43 0 7.42
+"6pef_AB-BC_B-6pef_AB-BC_C.48" "ILE" "B" 49 "-" 0 0.13 0.13
+"6pef_AB-BC_B-6pef_AB-BC_C.49" "TYR" "B" 50 "-" 2.94 0.03 2.96
+"6pef_AB-BC_B-6pef_AB-BC_C.50" "ASP" "B" 51 "-" 0 0.23 0.24
+"6pef_AB-BC_B-6pef_AB-BC_C.90" "VAL" "B" 91 "-" 0.01 0 0.01
+"6pef_AB-BC_B-6pef_AB-BC_C.91" "TRP" "B" 92 "-" 25.37 2.76 28.13
+"6pef_AB-BC_B-6pef_AB-BC_C.93" "THR" "B" 94 "-" 29.28 6.6 35.88
+"6pef_AB-BC_B-6pef_AB-BC_C.96" "THR" "B" 97 "-" 2.33 0 2.33
+"6pef_AB-BC_B-6pef_AB-BC_C.98" "TYR" "B" 99 "-" 18.17 3.2 21.36
+"6pef_AB-BC_B-6pef_AB-BC_C.100" "PHE" "B" 101 "-" 5.18 0 5.17
+"6pef_AB-BC_B-6pef_AB-BC_C.212" "ALA" "C" 512 "-" 68.63 12.8 81.44
+"6pef_AB-BC_B-6pef_AB-BC_C.213" "VAL" "C" 513 "-" 69.12 8.2 77.32
+"6pef_AB-BC_B-6pef_AB-BC_C.214" "GLY" "C" 514 "-" 23.46 23.06 46.52
+"6pef_AB-BC_B-6pef_AB-BC_C.215" "ILE" "C" 515 "-" 14.99 17.63 32.62
+"6pef_AB-BC_B-6pef_AB-BC_C.216" "GLY" "C" 516 "-" 24.46 12.04 36.51
+"6pef_AB-BC_B-6pef_AB-BC_C.217" "ALA" "C" 517 "-" 65.85 7.81 73.66
+"6pef_AB-BC_B-6pef_AB-BC_C.218" "VAL" "C" 518 "-" 72.57 13.76 86.33
+"6pef_AB-BC_B-6pef_AB-BC_C.219" "PHE" "C" 519 "-" 53.55 11.1 64.65

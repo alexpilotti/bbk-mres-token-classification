@@ -1,0 +1,10 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7keo_EF-FH_F-7keo_EF-FH_H.32" "ALA" "FALSE" 33 "-" 0.35 0 0.35
+"7keo_EF-FH_F-7keo_EF-FH_H.50" "SER" "FALSE" 51 "-" 0 0.42 0.42
+"7keo_EF-FH_F-7keo_EF-FH_H.91" "ALA" "FALSE" 92 "-" 3.09 7.88 10.97
+"7keo_EF-FH_F-7keo_EF-FH_H.92" "TYR" "FALSE" 93 "-" 1.31 6.47 7.78
+"7keo_EF-FH_F-7keo_EF-FH_H.93" "VAL" "FALSE" 94 "-" 0.58 0.61 1.19
+"7keo_EF-FH_F-7keo_EF-FH_H.94" "GLU" "FALSE" 95 "-" 13.41 14.44 27.85
+"7keo_EF-FH_F-7keo_EF-FH_H.96" "ILE" "FALSE" 97 "-" 2.19 0 2.19
+"7keo_EF-FH_F-7keo_EF-FH_H.288" "ARG" "H" 74 "-" 26.12 69.58 95.7
+"7keo_EF-FH_F-7keo_EF-FH_H.290" "GLY" "H" 76 "-" 0.87 0 0.88

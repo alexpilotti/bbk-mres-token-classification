@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mu0_CD-DR_D-5mu0_CD-DR_R.31" "ASN" "D" 31 "-" 0 0.07 0.07
+"5mu0_CD-DR_D-5mu0_CD-DR_R.32" "TYR" "D" 32 "-" 31.09 4.17 35.26
+"5mu0_CD-DR_D-5mu0_CD-DR_R.34" "ILE" "D" 34 "-" 0.01 0 0.01
+"5mu0_CD-DR_D-5mu0_CD-DR_R.36" "SER" "D" 36 "-" 0.94 0.61 1.56
+"5mu0_CD-DR_D-5mu0_CD-DR_R.38" "ASN" "D" 38 "-" 1.66 10.5 12.16
+"5mu0_CD-DR_D-5mu0_CD-DR_R.40" "PHE" "D" 40 "-" 3.1 0 3.11
+"5mu0_CD-DR_D-5mu0_CD-DR_R.50" "PHE" "D" 50 "-" 17.85 0 17.85
+"5mu0_CD-DR_D-5mu0_CD-DR_R.52" "ILE" "D" 52 "-" 0 0.16 0.16
+"5mu0_CD-DR_D-5mu0_CD-DR_R.53" "TYR" "D" 53 "-" 24.1 9.5 33.6
+"5mu0_CD-DR_D-5mu0_CD-DR_R.54" "ALA" "D" 54 "-" 0.52 0.13 0.65
+"5mu0_CD-DR_D-5mu0_CD-DR_R.58" "GLN" "D" 58 "-" 0.04 0.76 0.81
+"5mu0_CD-DR_D-5mu0_CD-DR_R.59" "GLY" "D" 59 "-" 1.33 0.08 1.41
+"5mu0_CD-DR_D-5mu0_CD-DR_R.60" "SER" "D" 60 "-" 3.09 0.54 3.63
+"5mu0_CD-DR_D-5mu0_CD-DR_R.93" "GLN" "D" 93 "-" 0.04 1.39 1.43
+"5mu0_CD-DR_D-5mu0_CD-DR_R.95" "SER" "D" 95 "-" 6.87 6.04 12.92
+"5mu0_CD-DR_D-5mu0_CD-DR_R.100" "TYR" "D" 100 "-" 0.28 0.47 0.76
+"5mu0_CD-DR_D-5mu0_CD-DR_R.221" "GLY" "R" 7 "-" 0.03 0.04 0.06
+"5mu0_CD-DR_D-5mu0_CD-DR_R.222" "LEU" "R" 8 "-" 132.31 14.58 146.89
+"5mu0_CD-DR_D-5mu0_CD-DR_R.223" "THR" "R" 9 "-" 84.08 33.96 118.04
+"5mu0_CD-DR_D-5mu0_CD-DR_R.224" "GLY" "R" 10 "-" 7.6 8.46 16.06
+"5mu0_CD-DR_D-5mu0_CD-DR_R.225" "GLY" "R" 13 "-" 39.74 31.21 70.94

@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2vit_BA-AC_A-2vit_BA-AC_C.93" "TRP" "A" 93 "-" 0.18 0 0.18
+"2vit_BA-AC_A-2vit_BA-AC_C.96" "ASN" "A" 96 "-" 5.96 19.35 25.31
+"2vit_BA-AC_A-2vit_BA-AC_C.324" "LYS" "C" 156 "-" 0.19 0 0.2
+"2vit_BA-AC_A-2vit_BA-AC_C.326" "GLY" "C" 158 "-" 5.98 1.01 7
+"2vit_BA-AC_A-2vit_BA-AC_C.327" "SER" "C" 159 "-" 13.43 13.29 26.73

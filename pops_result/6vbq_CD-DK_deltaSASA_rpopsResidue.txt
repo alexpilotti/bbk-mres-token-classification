@@ -1,0 +1,26 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6vbq_CD-DK_D-6vbq_CD-DK_K.25" "LEU" "D" 28 "-" 1.21 2.96 4.17
+"6vbq_CD-DK_D-6vbq_CD-DK_K.26" "PRO" "D" 29 "-" 9.31 20.3 29.61
+"6vbq_CD-DK_D-6vbq_CD-DK_K.27" "LYS" "D" 30 "-" 14.83 16.04 30.86
+"6vbq_CD-DK_D-6vbq_CD-DK_K.28" "GLN" "D" 31 "-" 3.52 14.53 18.06
+"6vbq_CD-DK_D-6vbq_CD-DK_K.29" "TYR" "D" 32 "-" 43.16 21.16 64.31
+"6vbq_CD-DK_D-6vbq_CD-DK_K.30" "ALA" "D" 33 "-" 0.16 0.09 0.24
+"6vbq_CD-DK_D-6vbq_CD-DK_K.48" "ASP" "D" 51 "-" 1.62 7.4 9.02
+"6vbq_CD-DK_D-6vbq_CD-DK_K.63" "SER" "D" 66 "-" 3.42 3.37 6.79
+"6vbq_CD-DK_D-6vbq_CD-DK_K.65" "GLY" "D" 68 "-" 0 0.43 0.43
+"6vbq_CD-DK_D-6vbq_CD-DK_K.67" "THR" "D" 70 "-" 0 0.03 0.02
+"6vbq_CD-DK_D-6vbq_CD-DK_K.68" "VAL" "D" 71 "-" 0.95 0 0.95
+"6vbq_CD-DK_D-6vbq_CD-DK_K.88" "THR" "D" 91 "-" 2.6 3.27 5.88
+"6vbq_CD-DK_D-6vbq_CD-DK_K.91" "SER" "D" 94 "-" 0.02 0.45 0.47
+"6vbq_CD-DK_D-6vbq_CD-DK_K.92" "ASP" "D" 95 "-" 4.75 11.92 16.67
+"6vbq_CD-DK_D-6vbq_CD-DK_K.93" "ILE" "D" 95 "A" 27.5 6.24 33.72
+"6vbq_CD-DK_D-6vbq_CD-DK_K.94" "TYR" "D" 95 "B" 1.07 0.17 1.24
+"6vbq_CD-DK_D-6vbq_CD-DK_K.95" "LEU" "D" 96 "-" 12.06 0.11 12.16
+"6vbq_CD-DK_D-6vbq_CD-DK_K.209" "LYS" "K" 168 "-" 37.94 11.56 49.5
+"6vbq_CD-DK_D-6vbq_CD-DK_K.210" "LYS" "K" 169 "-" 137.39 59.84 197.23
+"6vbq_CD-DK_D-6vbq_CD-DK_K.211" "GLN" "K" 170 "-" 20.3 13.42 33.73
+"6vbq_CD-DK_D-6vbq_CD-DK_K.212" "LYS" "K" 171 "-" 7.25 1.51 8.77
+"6vbq_CD-DK_D-6vbq_CD-DK_K.214" "HIS" "K" 173 "-" 32.69 20.34 53.03
+"6vbq_CD-DK_D-6vbq_CD-DK_K.215" "ALA" "K" 174 "-" 27.91 1.05 28.97
+"6vbq_CD-DK_D-6vbq_CD-DK_K.216" "LEU" "K" 175 "-" 42.25 0.37 42.62
+"6vbq_CD-DK_D-6vbq_CD-DK_K.219" "LYS" "K" 178 "-" 14.84 0.46 15.3

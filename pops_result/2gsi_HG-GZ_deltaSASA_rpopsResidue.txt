@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2gsi_HG-GZ_G-2gsi_HG-GZ_Z.31" "THR" "G" 27 "D" 8.58 1.67 10.24
+"2gsi_HG-GZ_G-2gsi_HG-GZ_Z.34" "TYR" "G" 30 "-" 0.3 0 0.29
+"2gsi_HG-GZ_G-2gsi_HG-GZ_Z.36" "TYR" "G" 32 "-" 25.28 19.94 45.21
+"2gsi_HG-GZ_G-2gsi_HG-GZ_Z.95" "ILE" "G" 91 "-" 1.62 3.86 5.48
+"2gsi_HG-GZ_G-2gsi_HG-GZ_Z.96" "ARG" "G" 92 "-" 1.12 4.74 5.84
+"2gsi_HG-GZ_G-2gsi_HG-GZ_Z.97" "GLU" "G" 93 "-" 0.38 0.31 0.69
+"2gsi_HG-GZ_G-2gsi_HG-GZ_Z.98" "LEU" "G" 94 "-" 0 0.03 0.04
+"2gsi_HG-GZ_G-2gsi_HG-GZ_Z.100" "ARG" "G" 96 "-" 6.84 45.78 52.62
+"2gsi_HG-GZ_G-2gsi_HG-GZ_Z.217" "LYS" "Z" 5 "-" 50.27 29.96 80.24
+"2gsi_HG-GZ_G-2gsi_HG-GZ_Z.218" "LYS" "Z" 6 "-" 0.33 2.02 2.35
+"2gsi_HG-GZ_G-2gsi_HG-GZ_Z.219" "GLY" "Z" 7 "-" 8.63 12.12 20.76
+"2gsi_HG-GZ_G-2gsi_HG-GZ_Z.220" "VAL" "Z" 8 "-" 37.39 0.64 38.03
+"2gsi_HG-GZ_G-2gsi_HG-GZ_Z.221" "GLU" "Z" 9 "-" 4.73 17.78 22.51

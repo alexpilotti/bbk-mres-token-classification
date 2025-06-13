@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8hpv_EF-FB_B-8hpv_EF-FB_F.359" "ARG" "B" 403 "-" 0.9 28.89 29.8
+"8hpv_EF-FB_B-8hpv_EF-FB_F.361" "ASP" "B" 405 "-" 3.54 7.26 10.8
+"8hpv_EF-FB_B-8hpv_EF-FB_F.362" "GLU" "B" 406 "-" 2.11 3.98 6.09
+"8hpv_EF-FB_B-8hpv_EF-FB_F.364" "ARG" "B" 408 "-" 4.9 4.18 9.08
+"8hpv_EF-FB_B-8hpv_EF-FB_F.365" "GLN" "B" 409 "-" 0.15 3.96 4.1
+"8hpv_EF-FB_B-8hpv_EF-FB_F.372" "GLY" "B" 416 "-" 0.03 0 0.03
+"8hpv_EF-FB_B-8hpv_EF-FB_F.373" "LYS" "B" 417 "-" 2.67 3.3 5.98
+"8hpv_EF-FB_B-8hpv_EF-FB_F.374" "ILE" "B" 418 "-" 0.01 0 0.02
+"8hpv_EF-FB_B-8hpv_EF-FB_F.452" "GLY" "B" 496 "-" 0.15 0.17 0.32
+"8hpv_EF-FB_B-8hpv_EF-FB_F.454" "GLN" "B" 498 "-" 0 0.44 0.44
+"8hpv_EF-FB_B-8hpv_EF-FB_F.456" "THR" "B" 500 "-" 0 0.82 0.83
+"8hpv_EF-FB_B-8hpv_EF-FB_F.457" "ASN" "B" 501 "-" 0.61 2.3 2.91
+"8hpv_EF-FB_B-8hpv_EF-FB_F.458" "GLY" "B" 502 "-" 5.6 2.69 8.29
+"8hpv_EF-FB_B-8hpv_EF-FB_F.459" "VAL" "B" 503 "-" 0.42 3.57 3.98
+"8hpv_EF-FB_B-8hpv_EF-FB_F.460" "GLY" "B" 504 "-" 2.06 0.75 2.8
+"8hpv_EF-FB_B-8hpv_EF-FB_F.461" "TYR" "B" 505 "-" 17.59 5.73 23.32
+"8hpv_EF-FB_B-8hpv_EF-FB_F.1068" "SER" "FALSE" 28 "-" 3.09 9.62 12.71
+"8hpv_EF-FB_B-8hpv_EF-FB_F.1069" "ILE" "FALSE" 29 "-" 0 0.01 0.01
+"8hpv_EF-FB_B-8hpv_EF-FB_F.1070" "SER" "FALSE" 30 "-" 12.42 2.59 15.01
+"8hpv_EF-FB_B-8hpv_EF-FB_F.1072" "HIS" "FALSE" 32 "-" 19.4 12.58 32
+"8hpv_EF-FB_B-8hpv_EF-FB_F.1132" "TYR" "FALSE" 92 "-" 16.97 33.77 50.75
+"8hpv_EF-FB_B-8hpv_EF-FB_F.1133" "SER" "FALSE" 93 "-" 2.17 0.82 2.99
+"8hpv_EF-FB_B-8hpv_EF-FB_F.1134" "THR" "FALSE" 94 "-" 34.89 20.79 55.67
+"8hpv_EF-FB_B-8hpv_EF-FB_F.1135" "PRO" "FALSE" 95 "-" 12.01 0.02 12.03

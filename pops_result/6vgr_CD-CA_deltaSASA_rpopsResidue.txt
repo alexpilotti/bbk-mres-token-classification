@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6vgr_CD-CA_A-6vgr_CD-CA_C.132" "ARG" "A" 209 "-" 0.01 0.18 0.2
+"6vgr_CD-CA_A-6vgr_CD-CA_C.183" "ARG" "A" 260 "-" 0.12 5.58 5.7
+"6vgr_CD-CA_A-6vgr_CD-CA_C.336" "GLU" "A" 413 "-" 14.81 20.23 35.05
+"6vgr_CD-CA_A-6vgr_CD-CA_C.339" "ARG" "A" 416 "-" 26.58 70.86 97.44
+"6vgr_CD-CA_A-6vgr_CD-CA_C.340" "ALA" "A" 417 "-" 34.76 6.55 41.31
+"6vgr_CD-CA_A-6vgr_CD-CA_C.341" "GLN" "A" 418 "-" 1.13 3.95 5.08
+"6vgr_CD-CA_A-6vgr_CD-CA_C.342" "SER" "A" 419 "-" 39.8 32.44 72.24
+"6vgr_CD-CA_A-6vgr_CD-CA_C.343" "PRO" "A" 420 "-" 37.47 5.16 42.62
+"6vgr_CD-CA_A-6vgr_CD-CA_C.344" "VAL" "A" 421 "-" 0.36 0.3 0.67
+"6vgr_CD-CA_A-6vgr_CD-CA_C.345" "GLU" "A" 422 "-" 33.18 52.89 86.07
+"6vgr_CD-CA_A-6vgr_CD-CA_C.383" "TRP" "C" 33 "-" 0.87 0 0.87
+"6vgr_CD-CA_A-6vgr_CD-CA_C.397" "TRP" "C" 47 "-" 1.61 0 1.6
+"6vgr_CD-CA_A-6vgr_CD-CA_C.400" "GLU" "C" 50 "-" 0.81 4.59 5.4
+"6vgr_CD-CA_A-6vgr_CD-CA_C.409" "TYR" "C" 59 "-" 49.45 20.67 70.13
+"6vgr_CD-CA_A-6vgr_CD-CA_C.410" "TYR" "C" 60 "-" 0.02 0.38 0.4
+"6vgr_CD-CA_A-6vgr_CD-CA_C.449" "ARG" "C" 99 "-" 0.1 4.85 4.95
+"6vgr_CD-CA_A-6vgr_CD-CA_C.452" "ALA" "C" 102 "-" 0.01 0.14 0.16
+"6vgr_CD-CA_A-6vgr_CD-CA_C.453" "TYR" "C" 103 "-" 85.93 19.91 105.84
+"6vgr_CD-CA_A-6vgr_CD-CA_C.454" "TYR" "C" 104 "-" 80.37 42.33 122.69
+"6vgr_CD-CA_A-6vgr_CD-CA_C.455" "SER" "C" 105 "-" 0 0.18 0.19
+"6vgr_CD-CA_A-6vgr_CD-CA_C.456" "ASN" "C" 106 "-" 0.15 2.56 2.71
+"6vgr_CD-CA_A-6vgr_CD-CA_C.459" "TRP" "C" 109 "-" 8.36 0 8.36

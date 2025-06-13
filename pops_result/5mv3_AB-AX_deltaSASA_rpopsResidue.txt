@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mv3_AB-AX_A-5mv3_AB-AX_X.31" "ASP" "A" 31 "-" 7.57 22.81 30.38
+"5mv3_AB-AX_A-5mv3_AB-AX_X.32" "ALA" "A" 32 "-" 2.36 0.73 3.09
+"5mv3_AB-AX_A-5mv3_AB-AX_X.33" "TRP" "A" 33 "-" 34.42 3.31 37.74
+"5mv3_AB-AX_A-5mv3_AB-AX_X.34" "MET" "A" 34 "-" 0 0.06 0.05
+"5mv3_AB-AX_A-5mv3_AB-AX_X.50" "GLU" "A" 50 "-" 0.13 1.58 1.7
+"5mv3_AB-AX_A-5mv3_AB-AX_X.52" "ARG" "A" 52 "-" 0.14 2.56 2.69
+"5mv3_AB-AX_A-5mv3_AB-AX_X.53" "ASN" "A" 53 "-" 0.13 1.65 1.77
+"5mv3_AB-AX_A-5mv3_AB-AX_X.56" "ASN" "A" 56 "-" 0.13 3.19 3.32
+"5mv3_AB-AX_A-5mv3_AB-AX_X.100" "GLY" "A" 100 "-" 0 0.02 0.02
+"5mv3_AB-AX_A-5mv3_AB-AX_X.101" "LEU" "A" 101 "-" 25.43 3.06 28.49
+"5mv3_AB-AX_A-5mv3_AB-AX_X.102" "THR" "A" 102 "-" 16.31 14.99 31.3
+"5mv3_AB-AX_A-5mv3_AB-AX_X.103" "PHE" "A" 103 "-" 6.89 2.55 9.44
+"5mv3_AB-AX_A-5mv3_AB-AX_X.104" "ASP" "A" 104 "-" 6.21 29.19 35.4
+"5mv3_AB-AX_A-5mv3_AB-AX_X.219" "GLY" "X" 13 "-" 11.55 8.29 19.86
+"5mv3_AB-AX_A-5mv3_AB-AX_X.220" "GLY" "X" 14 "-" 47.51 35.76 83.27
+"5mv3_AB-AX_A-5mv3_AB-AX_X.221" "ARG" "X" 15 "-" 33.37 56.18 89.55
+"5mv3_AB-AX_A-5mv3_AB-AX_X.222" "GLY" "X" 16 "-" 15.3 5.11 20.4
+"5mv3_AB-AX_A-5mv3_AB-AX_X.223" "LEU" "X" 17 "-" 35.35 3.32 38.66
+"5mv3_AB-AX_A-5mv3_AB-AX_X.224" "THR" "X" 18 "-" 57.78 36.26 94.03
+"5mv3_AB-AX_A-5mv3_AB-AX_X.225" "GLY" "X" 19 "-" 9.23 2.01 11.24
+"5mv3_AB-AX_A-5mv3_AB-AX_X.226" "PRO" "X" 20 "-" 36.94 1.4 38.34

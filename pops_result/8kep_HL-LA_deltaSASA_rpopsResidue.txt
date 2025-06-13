@@ -1,0 +1,21 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8kep_HL-LA_L-8kep_HL-LA_A.30" "ARG" "L" 30 "-" 4.08 33.8 37.88
+"8kep_HL-LA_L-8kep_HL-LA_A.31" "SER" "L" 31 "-" 0 0.91 0.9
+"8kep_HL-LA_L-8kep_HL-LA_A.32" "GLY" "L" 32 "-" 4.89 3.39 8.28
+"8kep_HL-LA_L-8kep_HL-LA_A.33" "TYR" "L" 33 "-" 19.58 18.59 38.17
+"8kep_HL-LA_L-8kep_HL-LA_A.50" "TYR" "L" 50 "-" 1.33 0 1.33
+"8kep_HL-LA_L-8kep_HL-LA_A.51" "GLY" "L" 51 "-" 0.83 0.08 0.92
+"8kep_HL-LA_L-8kep_HL-LA_A.54" "ASN" "L" 54 "-" 0.15 1.26 1.4
+"8kep_HL-LA_L-8kep_HL-LA_A.92" "TYR" "L" 92 "-" 6.63 1.23 7.86
+"8kep_HL-LA_L-8kep_HL-LA_A.93" "ASP" "L" 93 "-" 0 0.72 0.71
+"8kep_HL-LA_L-8kep_HL-LA_A.97" "TRP" "L" 97 "-" 19.28 0 19.28
+"8kep_HL-LA_L-8kep_HL-LA_A.357" "LYS" "A" 478 "-" 29.2 6.72 35.93
+"8kep_HL-LA_L-8kep_HL-LA_A.358" "PRO" "A" 479 "-" 1.15 4.24 5.38
+"8kep_HL-LA_L-8kep_HL-LA_A.359" "CYS" "A" 480 "-" 0.72 1.75 2.47
+"8kep_HL-LA_L-8kep_HL-LA_A.360" "ASN" "A" 481 "-" 6.39 10.27 16.66
+"8kep_HL-LA_L-8kep_HL-LA_A.362" "VAL" "A" 483 "-" 7.87 0.1 7.97
+"8kep_HL-LA_L-8kep_HL-LA_A.363" "ALA" "A" 484 "-" 0 0.26 0.26
+"8kep_HL-LA_L-8kep_HL-LA_A.364" "GLY" "A" 485 "-" 2.5 0.25 2.75
+"8kep_HL-LA_L-8kep_HL-LA_A.365" "PHE" "A" 486 "-" 54.85 2.09 56.94
+"8kep_HL-LA_L-8kep_HL-LA_A.366" "ASN" "A" 487 "-" 1.41 1.87 3.3
+"8kep_HL-LA_L-8kep_HL-LA_A.367" "CYS" "A" 488 "-" 0.17 0.01 0.18

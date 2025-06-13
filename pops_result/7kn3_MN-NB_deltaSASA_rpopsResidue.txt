@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7kn3_MN-NB_B-7kn3_MN-NB_N.142" "GLN" "B" 474 "-" 0.02 0.42 0.44
+"7kn3_MN-NB_B-7kn3_MN-NB_N.143" "ALA" "B" 475 "-" 1.3 12.14 13.44
+"7kn3_MN-NB_B-7kn3_MN-NB_N.144" "GLY" "B" 476 "-" 10.77 6.53 17.3
+"7kn3_MN-NB_B-7kn3_MN-NB_N.145" "SER" "B" 477 "-" 36.19 36.65 72.85
+"7kn3_MN-NB_B-7kn3_MN-NB_N.146" "THR" "B" 478 "-" 0 0.23 0.23
+"7kn3_MN-NB_B-7kn3_MN-NB_N.154" "PHE" "B" 486 "-" 90.89 0.49 91.38
+"7kn3_MN-NB_B-7kn3_MN-NB_N.155" "ASN" "B" 487 "-" 0.88 13.9 14.77
+"7kn3_MN-NB_B-7kn3_MN-NB_N.227" "TYR" "N" 27 "D" 19.05 24.19 43.23
+"7kn3_MN-NB_B-7kn3_MN-NB_N.230" "ASN" "N" 28 "-" 0 0.32 0.32
+"7kn3_MN-NB_B-7kn3_MN-NB_N.234" "TYR" "N" 32 "-" 3.64 4.16 7.79
+"7kn3_MN-NB_B-7kn3_MN-NB_N.252" "TRP" "N" 50 "-" 0.05 0 0.05
+"7kn3_MN-NB_B-7kn3_MN-NB_N.292" "GLN" "N" 90 "-" 0 0.07 0.07
+"7kn3_MN-NB_B-7kn3_MN-NB_N.293" "TYR" "N" 91 "-" 3.73 3.88 7.6
+"7kn3_MN-NB_B-7kn3_MN-NB_N.294" "TYR" "N" 92 "-" 3.84 8.87 12.72
+"7kn3_MN-NB_B-7kn3_MN-NB_N.295" "SER" "N" 93 "-" 8.38 2.45 10.83
+"7kn3_MN-NB_B-7kn3_MN-NB_N.296" "LEU" "N" 94 "-" 58.78 1.97 60.77
+"7kn3_MN-NB_B-7kn3_MN-NB_N.298" "LEU" "N" 96 "-" 16.82 0.01 16.84

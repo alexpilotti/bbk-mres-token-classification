@@ -1,0 +1,10 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3bky_HL-LP_L-3bky_HL-LP_P.90" "TRP" "L" 90 "-" 28.12 0.62 28.75
+"3bky_HL-LP_L-3bky_HL-LP_P.93" "ASN" "L" 93 "-" 15.51 42.96 58.47
+"3bky_HL-LP_L-3bky_HL-LP_P.94" "PRO" "L" 94 "-" 0.11 0 0.11
+"3bky_HL-LP_L-3bky_HL-LP_P.95" "PRO" "L" 95 "-" 5.47 0.04 5.52
+"3bky_HL-LP_L-3bky_HL-LP_P.214" "CYS" "P" 167 "-" 0.03 0 0.03
+"3bky_HL-LP_L-3bky_HL-LP_P.215" "GLU" "P" 168 "-" 16.48 17.61 34.09
+"3bky_HL-LP_L-3bky_HL-LP_P.216" "PRO" "P" 169 "-" 2.32 1.74 4.06
+"3bky_HL-LP_L-3bky_HL-LP_P.217" "ALA" "P" 170 "-" 51.38 4.08 55.46
+"3bky_HL-LP_L-3bky_HL-LP_P.218" "ASN" "P" 171 "-" 3.75 20.71 24.45

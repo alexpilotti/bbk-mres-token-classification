@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8txt_HL-LF_F-8txt_HL-LF_L.38" "LYS" "FALSE" 38 "-" 74.92 44 118.92
+"8txt_HL-LF_F-8txt_HL-LF_L.39" "GLU" "FALSE" 39 "-" 10.83 5.23 16.05
+"8txt_HL-LF_F-8txt_HL-LF_L.42" "GLN" "FALSE" 42 "-" 15.93 13.28 29.21
+"8txt_HL-LF_F-8txt_HL-LF_L.43" "LYS" "FALSE" 43 "-" 0.18 0 0.19
+"8txt_HL-LF_F-8txt_HL-LF_L.150" "GLU" "FALSE" 150 "-" 0.17 1.48 1.65
+"8txt_HL-LF_F-8txt_HL-LF_L.154" "ASN" "FALSE" 154 "-" 0.01 0.8 0.81
+"8txt_HL-LF_F-8txt_HL-LF_L.204" "SER" "L" 28 "-" 0.59 0.19 0.79
+"8txt_HL-LF_F-8txt_HL-LF_L.205" "ILE" "L" 29 "-" 0.14 0.55 0.7
+"8txt_HL-LF_F-8txt_HL-LF_L.206" "GLY" "L" 30 "-" 4.64 3.52 8.16
+"8txt_HL-LF_F-8txt_HL-LF_L.207" "GLY" "L" 31 "-" 0 0.08 0.09
+"8txt_HL-LF_F-8txt_HL-LF_L.208" "TYR" "L" 32 "-" 40.09 41.9 82
+"8txt_HL-LF_F-8txt_HL-LF_L.267" "ASN" "L" 91 "-" 0 0.76 0.76
+"8txt_HL-LF_F-8txt_HL-LF_L.268" "TYR" "L" 92 "-" 12.2 9.82 22.02

@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4ydl_BC-CA_A-4ydl_BC-CA_C.158" "GLU" "A" 275 "-" 0 0.04 0.03
+"4ydl_BC-CA_A-4ydl_BC-CA_C.159" "ASN" "A" 276 "-" 2.27 12.31 14.58
+"4ydl_BC-CA_A-4ydl_BC-CA_C.161" "THR" "A" 278 "-" 34.36 7.55 41.92
+"4ydl_BC-CA_A-4ydl_BC-CA_C.162" "ASN" "A" 279 "-" 3.74 8.11 11.85
+"4ydl_BC-CA_A-4ydl_BC-CA_C.163" "ASN" "A" 280 "-" 3.05 16.2 19.25
+"4ydl_BC-CA_A-4ydl_BC-CA_C.307" "ARG" "A" 456 "-" 0 0.47 0.48
+"4ydl_BC-CA_A-4ydl_BC-CA_C.308" "ASP" "A" 457 "-" 0.05 0.18 0.23
+"4ydl_BC-CA_A-4ydl_BC-CA_C.309" "GLY" "A" 458 "-" 8.82 2.39 11.2
+"4ydl_BC-CA_A-4ydl_BC-CA_C.310" "GLY" "A" 459 "-" 25.36 19.28 44.63
+"4ydl_BC-CA_A-4ydl_BC-CA_C.311" "ALA" "A" 460 "-" 56.75 9.25 65.99
+"4ydl_BC-CA_A-4ydl_BC-CA_C.313" "ASN" "A" 462 "-" 0.41 0.04 0.45
+"4ydl_BC-CA_A-4ydl_BC-CA_C.344" "GLU" "C" 1 "-" 14 14.78 28.76
+"4ydl_BC-CA_A-4ydl_BC-CA_C.345" "ILE" "C" 2 "-" 3.45 0 3.45
+"4ydl_BC-CA_A-4ydl_BC-CA_C.370" "GLN" "C" 27 "-" 0.42 6.81 7.23
+"4ydl_BC-CA_A-4ydl_BC-CA_C.373" "LEU" "C" 29 "-" 10.88 0 10.88
+"4ydl_BC-CA_A-4ydl_BC-CA_C.376" "GLN" "C" 32 "-" 1.18 14.05 15.23
+"4ydl_BC-CA_A-4ydl_BC-CA_C.435" "LEU" "C" 91 "-" 30.31 0 30.3
+"4ydl_BC-CA_A-4ydl_BC-CA_C.436" "GLU" "C" 96 "-" 11.5 20.99 32.49
+"4ydl_BC-CA_A-4ydl_BC-CA_C.437" "PHE" "C" 97 "-" 7.41 0 7.41

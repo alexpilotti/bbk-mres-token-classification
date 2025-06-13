@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.51" "TYR" "Q" 51 "-" 0.12 0.84 0.96
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.57" "SER" "Q" 57 "-" 1.59 1.8 3.39
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.58" "THR" "Q" 58 "-" 0.01 1.8 1.81
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.59" "ASN" "Q" 59 "-" 2.62 16.27 18.91
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.103" "TYR" "Q" 103 "-" 0.32 2.48 2.8
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.104" "GLY" "Q" 104 "-" 0.05 0.44 0.48
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.105" "ASN" "Q" 105 "-" 33.91 59.49 93.4
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.106" "SER" "Q" 106 "-" 4.07 3.19 7.25
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.281" "HIS" "S" 115 "-" 1.95 0.34 2.29
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.282" "GLU" "S" 116 "-" 24.14 34.43 58.56
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.283" "GLY" "S" 117 "-" 6.97 3.58 10.56
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.284" "TYR" "S" 118 "-" 0.12 0.05 0.17
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.296" "THR" "S" 130 "-" 0.96 5.17 6.13
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.297" "VAL" "S" 131 "-" 21.81 0.49 22.31
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.298" "GLU" "S" 132 "-" 1.11 7.03 8.14
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.300" "PRO" "S" 134 "-" 0.18 0 0.19
+"8cn9_QP-QS_Q-8cn9_QP-QS_S.301" "CYS" "S" 135 "-" 7.95 0.37 8.32

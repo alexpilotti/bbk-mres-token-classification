@@ -1,0 +1,7 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8udz_EF-FA_A-8udz_EF-FA_F.4" "GLU" "A" 39 "-" 0 3.01 3.02
+"8udz_EF-FA_A-8udz_EF-FA_F.11" "ILE" "A" 46 "-" 0.41 0 0.41
+"8udz_EF-FA_A-8udz_EF-FA_F.15" "ARG" "A" 50 "-" 0.22 4.13 4.37
+"8udz_EF-FA_A-8udz_EF-FA_F.290" "TYR" "FALSE" 33 "-" 0.25 0 0.24
+"8udz_EF-FA_A-8udz_EF-FA_F.307" "TYR" "FALSE" 50 "-" 0.23 0.52 0.75
+"8udz_EF-FA_A-8udz_EF-FA_F.353" "TYR" "FALSE" 96 "-" 1.6 0.41 2

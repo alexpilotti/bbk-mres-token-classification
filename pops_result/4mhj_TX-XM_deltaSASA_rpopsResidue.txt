@@ -1,0 +1,26 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4mhj_TX-XM_M-4mhj_TX-XM_X.46" "LEU" "M" 54 "-" 0 0.03 0.04
+"4mhj_TX-XM_M-4mhj_TX-XM_X.47" "ASN" "M" 55 "-" 11.28 13.05 24.32
+"4mhj_TX-XM_M-4mhj_TX-XM_X.48" "GLY" "M" 55 "A" 7.69 13.69 21.38
+"4mhj_TX-XM_M-4mhj_TX-XM_X.49" "VAL" "M" 56 "-" 21.52 0.25 21.77
+"4mhj_TX-XM_M-4mhj_TX-XM_X.73" "ASN" "M" 81 "-" 3.08 6.39 9.47
+"4mhj_TX-XM_M-4mhj_TX-XM_X.74" "VAL" "M" 82 "-" 0.37 0.33 0.7
+"4mhj_TX-XM_M-4mhj_TX-XM_X.75" "PRO" "M" 83 "-" 32.27 0.56 32.84
+"4mhj_TX-XM_M-4mhj_TX-XM_X.76" "GLU" "M" 83 "A" 8.65 18.07 26.72
+"4mhj_TX-XM_M-4mhj_TX-XM_X.111" "HIS" "M" 117 "-" 5.32 4.78 10.1
+"4mhj_TX-XM_M-4mhj_TX-XM_X.113" "GLU" "M" 119 "-" 1.73 10.78 12.51
+"4mhj_TX-XM_M-4mhj_TX-XM_X.256" "LYS" "M" 259 "-" 0.15 0.77 0.9
+"4mhj_TX-XM_M-4mhj_TX-XM_X.258" "VAL" "M" 260 "A" 0.13 0 0.13
+"4mhj_TX-XM_M-4mhj_TX-XM_X.259" "LYS" "M" 261 "-" 0.61 0 0.61
+"4mhj_TX-XM_M-4mhj_TX-XM_X.276" "ASN" "M" 278 "-" 0 1.87 1.87
+"4mhj_TX-XM_M-4mhj_TX-XM_X.278" "LYS" "M" 280 "-" 4.03 4.1 8.12
+"4mhj_TX-XM_M-4mhj_TX-XM_X.354" "PHE" "X" 28 "-" 32.12 0 32.11
+"4mhj_TX-XM_M-4mhj_TX-XM_X.356" "LYS" "X" 30 "-" 13.63 18.72 32.35
+"4mhj_TX-XM_M-4mhj_TX-XM_X.358" "PHE" "X" 32 "-" 7.41 0 7.41
+"4mhj_TX-XM_M-4mhj_TX-XM_X.375" "TYR" "X" 49 "-" 13.28 22.29 35.57
+"4mhj_TX-XM_M-4mhj_TX-XM_X.376" "ARG" "X" 50 "-" 5.81 42.16 47.97
+"4mhj_TX-XM_M-4mhj_TX-XM_X.379" "ASN" "X" 53 "-" 2.09 10.72 12.81
+"4mhj_TX-XM_M-4mhj_TX-XM_X.380" "ARG" "X" 54 "-" 0.65 11.6 12.25
+"4mhj_TX-XM_M-4mhj_TX-XM_X.381" "GLU" "X" 55 "-" 2.5 18.35 20.85
+"4mhj_TX-XM_M-4mhj_TX-XM_X.382" "GLY" "X" 57 "-" 3.5 4.3 7.8
+"4mhj_TX-XM_M-4mhj_TX-XM_X.383" "ILE" "X" 58 "-" 0 0.41 0.4

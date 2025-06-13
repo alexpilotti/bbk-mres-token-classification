@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6bfq_CD-DG_D-6bfq_CD-DG_G.30" "ASN" "D" 31 "-" 2.12 12.41 14.54
+"6bfq_CD-DG_D-6bfq_CD-DG_G.32" "ARG" "D" 33 "-" 10.55 68.36 78.91
+"6bfq_CD-DG_D-6bfq_CD-DG_G.91" "SER" "D" 92 "-" 7.48 10.54 18.01
+"6bfq_CD-DG_D-6bfq_CD-DG_G.92" "ASN" "D" 93 "-" 3.46 20.64 24.1
+"6bfq_CD-DG_D-6bfq_CD-DG_G.93" "ASN" "D" 94 "-" 6.28 18.31 24.58
+"6bfq_CD-DG_D-6bfq_CD-DG_G.94" "TYR" "D" 95 "-" 48.53 22.11 70.64
+"6bfq_CD-DG_D-6bfq_CD-DG_G.96" "LEU" "D" 97 "-" 0.58 0 0.59
+"6bfq_CD-DG_D-6bfq_CD-DG_G.220" "ASN" "G" 37 "-" 6.78 16.4 23.17
+"6bfq_CD-DG_D-6bfq_CD-DG_G.221" "GLU" "G" 38 "-" 25.99 31.15 57.14
+"6bfq_CD-DG_D-6bfq_CD-DG_G.222" "THR" "G" 39 "-" 31 21.13 52.14
+"6bfq_CD-DG_D-6bfq_CD-DG_G.223" "VAL" "G" 40 "-" 0.86 0.36 1.23
+"6bfq_CD-DG_D-6bfq_CD-DG_G.224" "GLU" "G" 41 "-" 1.38 0.95 2.33
+"6bfq_CD-DG_D-6bfq_CD-DG_G.283" "ILE" "G" 100 "-" 30.24 8.23 38.47
+"6bfq_CD-DG_D-6bfq_CD-DG_G.284" "ILE" "G" 101 "-" 6.61 0.93 7.53
+"6bfq_CD-DG_D-6bfq_CD-DG_G.285" "THR" "G" 102 "-" 30.21 1.92 32.13

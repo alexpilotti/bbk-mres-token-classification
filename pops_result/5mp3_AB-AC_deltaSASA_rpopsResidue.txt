@@ -1,0 +1,21 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mp3_AB-AC_A-5mp3_AB-AC_C.32" "VAL" "A" 33 "-" 2.26 0 2.26
+"5mp3_AB-AC_A-5mp3_AB-AC_C.49" "GLU" "A" 50 "-" 3 11.76 14.76
+"5mp3_AB-AC_A-5mp3_AB-AC_C.50" "ILE" "A" 51 "-" 0.15 0.18 0.33
+"5mp3_AB-AC_A-5mp3_AB-AC_C.51" "PHE" "A" 52 "-" 7.69 0.3 7.99
+"5mp3_AB-AC_A-5mp3_AB-AC_C.54" "SER" "A" 55 "-" 1.14 1.54 2.68
+"5mp3_AB-AC_A-5mp3_AB-AC_C.56" "SER" "A" 57 "-" 13.14 8.92 22.06
+"5mp3_AB-AC_A-5mp3_AB-AC_C.57" "THR" "A" 58 "-" 0.4 1.53 1.93
+"5mp3_AB-AC_A-5mp3_AB-AC_C.58" "TYR" "A" 59 "-" 70.18 42.27 112.45
+"5mp3_AB-AC_A-5mp3_AB-AC_C.100" "TYR" "A" 101 "-" 31.31 33.9 65.21
+"5mp3_AB-AC_A-5mp3_AB-AC_C.101" "GLY" "A" 102 "-" 0.13 0.01 0.14
+"5mp3_AB-AC_A-5mp3_AB-AC_C.104" "PHE" "A" 105 "-" 23.58 0 23.58
+"5mp3_AB-AC_A-5mp3_AB-AC_C.220" "LYS" "C" 298 "-" 10.58 8.88 19.46
+"5mp3_AB-AC_A-5mp3_AB-AC_C.221" "HIS" "C" 299 "-" 107.66 54.81 162.47
+"5mp3_AB-AC_A-5mp3_AB-AC_C.222" "VAL" "C" 300 "-" 17.76 8.65 26.41
+"5mp3_AB-AC_A-5mp3_AB-AC_C.223" "PRO" "C" 301 "-" 37.39 5.73 43.12
+"5mp3_AB-AC_A-5mp3_AB-AC_C.224" "GLY" "C" 302 "-" 10.93 5.5 16.43
+"5mp3_AB-AC_A-5mp3_AB-AC_C.225" "GLY" "C" 303 "-" 29.7 15.38 45.07
+"5mp3_AB-AC_A-5mp3_AB-AC_C.226" "GLY" "C" 304 "-" 0 0.98 0.98
+"5mp3_AB-AC_A-5mp3_AB-AC_C.227" "SER" "C" 305 "-" 0.09 0.09 0.18
+"5mp3_AB-AC_A-5mp3_AB-AC_C.228" "VAL" "C" 306 "-" 0.07 0 0.07

@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3eff_BA-AM_A-3eff_BA-AM_M.30" "SER" "A" 30 "-" 3.22 2.41 5.63
+"3eff_BA-AM_A-3eff_BA-AM_M.31" "SER" "A" 31 "-" 0.83 2.55 3.38
+"3eff_BA-AM_A-3eff_BA-AM_M.66" "ARG" "A" 66 "-" 0 0.03 0.02
+"3eff_BA-AM_A-3eff_BA-AM_M.92" "TYR" "A" 92 "-" 15.75 10.66 26.39
+"3eff_BA-AM_A-3eff_BA-AM_M.93" "SER" "A" 93 "-" 1.27 4.27 5.54
+"3eff_BA-AM_A-3eff_BA-AM_M.94" "TYR" "A" 94 "-" 94.87 34.38 129.25
+"3eff_BA-AM_A-3eff_BA-AM_M.95" "SER" "A" 95 "-" 0 0.02 0.02
+"3eff_BA-AM_A-3eff_BA-AM_M.97" "PRO" "A" 97 "-" 0.01 0 0.02
+"3eff_BA-AM_A-3eff_BA-AM_M.337" "ALA" "M" 143 "-" 0.35 0.18 0.52
+"3eff_BA-AM_A-3eff_BA-AM_M.340" "GLU" "M" 146 "-" 15.67 25.71 41.38
+"3eff_BA-AM_A-3eff_BA-AM_M.341" "ARG" "M" 147 "-" 19 43.18 62.17
+"3eff_BA-AM_A-3eff_BA-AM_M.344" "ARG" "M" 150 "-" 14.33 78.77 93.1
+"3eff_BA-AM_A-3eff_BA-AM_M.348" "MET" "M" 154 "-" 15.22 0 15.22
+"3eff_BA-AM_A-3eff_BA-AM_M.352" "ASN" "M" 158 "-" 1.21 8.62 9.82

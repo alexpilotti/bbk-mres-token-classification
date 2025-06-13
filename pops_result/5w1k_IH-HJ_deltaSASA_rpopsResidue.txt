@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5w1k_IH-HJ_H-5w1k_IH-HJ_J.29" "SER" "H" 30 "-" 0.35 0 0.35
+"5w1k_IH-HJ_H-5w1k_IH-HJ_J.32" "TYR" "H" 33 "-" 15.38 16.97 32.35
+"5w1k_IH-HJ_H-5w1k_IH-HJ_J.91" "TYR" "H" 92 "-" 21.78 18.08 39.86
+"5w1k_IH-HJ_H-5w1k_IH-HJ_J.93" "ARG" "H" 94 "-" 3.57 6.13 9.7
+"5w1k_IH-HJ_H-5w1k_IH-HJ_J.94" "SER" "H" 95 "-" 22.88 25.08 47.97
+"5w1k_IH-HJ_H-5w1k_IH-HJ_J.95" "GLY" "H" 96 "-" 0.03 0.31 0.34
+"5w1k_IH-HJ_H-5w1k_IH-HJ_J.96" "TYR" "H" 97 "-" 15.73 10.92 26.66
+"5w1k_IH-HJ_H-5w1k_IH-HJ_J.251" "ILE" "J" 125 "-" 1.87 0.69 2.55
+"5w1k_IH-HJ_H-5w1k_IH-HJ_J.253" "GLN" "J" 127 "-" 13.56 20.7 34.26
+"5w1k_IH-HJ_H-5w1k_IH-HJ_J.254" "HIS" "J" 128 "-" 42.54 24.77 67.3
+"5w1k_IH-HJ_H-5w1k_IH-HJ_J.256" "ALA" "J" 130 "-" 1.99 0 1.99
+"5w1k_IH-HJ_H-5w1k_IH-HJ_J.257" "ASP" "J" 131 "-" 1.25 9.68 10.92
+"5w1k_IH-HJ_H-5w1k_IH-HJ_J.282" "TRP" "J" 156 "-" 0.56 3.69 4.26
+"5w1k_IH-HJ_H-5w1k_IH-HJ_J.283" "TYR" "J" 157 "-" 46.85 9.84 56.69
+"5w1k_IH-HJ_H-5w1k_IH-HJ_J.284" "LEU" "J" 158 "-" 0 0.01 0.01

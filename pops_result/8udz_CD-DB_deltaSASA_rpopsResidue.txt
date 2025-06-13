@@ -1,0 +1,9 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8udz_CD-DB_B-8udz_CD-DB_D.4" "GLU" "B" 39 "-" 0.07 5.22 5.3
+"8udz_CD-DB_B-8udz_CD-DB_D.7" "LYS" "B" 42 "-" 0.12 0 0.13
+"8udz_CD-DB_B-8udz_CD-DB_D.11" "ILE" "B" 46 "-" 0.34 0 0.34
+"8udz_CD-DB_B-8udz_CD-DB_D.15" "ARG" "B" 50 "-" 0.03 1.85 1.88
+"8udz_CD-DB_B-8udz_CD-DB_D.327" "TYR" "D" 33 "-" 0.25 0 0.25
+"8udz_CD-DB_B-8udz_CD-DB_D.344" "TYR" "D" 50 "-" 0.42 0.85 1.27
+"8udz_CD-DB_B-8udz_CD-DB_D.345" "GLU" "D" 51 "-" 0 0.21 0.2
+"8udz_CD-DB_B-8udz_CD-DB_D.390" "TYR" "D" 96 "-" 0.81 0 0.81

@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8gb6_HL-LA_A-8gb6_HL-LA_L.108" "ASN" "A" 440 "-" 1.69 6.08 7.77
+"8gb6_HL-LA_A-8gb6_HL-LA_L.109" "LEU" "A" 441 "-" 11.81 1.27 13.1
+"8gb6_HL-LA_A-8gb6_HL-LA_L.111" "SER" "A" 443 "-" 0.02 0.56 0.58
+"8gb6_HL-LA_A-8gb6_HL-LA_L.112" "LYS" "A" 444 "-" 40.05 10.39 50.44
+"8gb6_HL-LA_A-8gb6_HL-LA_L.113" "VAL" "A" 445 "-" 80.76 11.92 92.68
+"8gb6_HL-LA_A-8gb6_HL-LA_L.114" "GLY" "A" 446 "-" 10.36 2.93 13.29
+"8gb6_HL-LA_A-8gb6_HL-LA_L.115" "GLY" "A" 447 "-" 0 0.09 0.09
+"8gb6_HL-LA_A-8gb6_HL-LA_L.167" "PRO" "A" 499 "-" 0.55 0 0.54
+"8gb6_HL-LA_A-8gb6_HL-LA_L.244" "TYR" "L" 49 "-" 15.95 25.99 41.94
+"8gb6_HL-LA_A-8gb6_HL-LA_L.245" "TYR" "L" 50 "-" 18.17 4.52 22.7
+"8gb6_HL-LA_A-8gb6_HL-LA_L.248" "ASN" "L" 53 "-" 2.08 11.06 13.14
+"8gb6_HL-LA_A-8gb6_HL-LA_L.250" "GLU" "L" 55 "-" 3.11 12.82 15.93
+"8gb6_HL-LA_A-8gb6_HL-LA_L.251" "SER" "L" 56 "-" 29.41 13.73 43.15
+"8gb6_HL-LA_A-8gb6_HL-LA_L.252" "GLY" "L" 57 "-" 0 0.27 0.27

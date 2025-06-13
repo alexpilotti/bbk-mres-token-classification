@@ -1,0 +1,12 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6ncp_CD-DE_D-6ncp_CD-DE_E.32" "SER" "D" 32 "-" 0.06 0.12 0.18
+"6ncp_CD-DE_D-6ncp_CD-DE_E.90" "GLU" "D" 90 "-" 0 0.01 0.01
+"6ncp_CD-DE_D-6ncp_CD-DE_E.91" "TYR" "D" 91 "-" 3.65 3.17 6.82
+"6ncp_CD-DE_D-6ncp_CD-DE_E.92" "GLU" "D" 92 "-" 1.17 6.26 7.43
+"6ncp_CD-DE_D-6ncp_CD-DE_E.93" "ASN" "D" 93 "-" 1.27 1.04 2.31
+"6ncp_CD-DE_D-6ncp_CD-DE_E.94" "LEU" "D" 94 "-" 50.92 0.33 51.25
+"6ncp_CD-DE_D-6ncp_CD-DE_E.96" "PHE" "D" 96 "-" 7.6 0 7.6
+"6ncp_CD-DE_D-6ncp_CD-DE_E.213" "ALA" "E" 1 "-" 86.16 28.24 114.41
+"6ncp_CD-DE_D-6ncp_CD-DE_E.214" "VAL" "E" 2 "-" 3.08 13.28 16.36
+"6ncp_CD-DE_D-6ncp_CD-DE_E.215" "GLY" "E" 3 "-" 8.06 2.35 10.41
+"6ncp_CD-DE_D-6ncp_CD-DE_E.216" "ILE" "E" 4 "-" 0 0.41 0.41

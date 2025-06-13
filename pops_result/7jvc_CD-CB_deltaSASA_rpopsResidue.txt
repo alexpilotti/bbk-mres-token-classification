@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7jvc_CD-CB_B-7jvc_CD-CB_C.277" "TYR" "B" 369 "-" 6.04 6.41 12.47
+"7jvc_CD-CB_B-7jvc_CD-CB_C.278" "ASN" "B" 370 "-" 3.16 8.35 11.5
+"7jvc_CD-CB_B-7jvc_CD-CB_C.279" "SER" "B" 371 "-" 0.24 0.49 0.74
+"7jvc_CD-CB_B-7jvc_CD-CB_C.280" "ALA" "B" 372 "-" 2.18 0.21 2.39
+"7jvc_CD-CB_B-7jvc_CD-CB_C.285" "PHE" "B" 377 "-" 1.4 0.84 2.24
+"7jvc_CD-CB_B-7jvc_CD-CB_C.292" "PRO" "B" 384 "-" 0.42 0 0.42
+"7jvc_CD-CB_B-7jvc_CD-CB_C.293" "THR" "B" 385 "-" 2.1 0 2.1
+"7jvc_CD-CB_B-7jvc_CD-CB_C.1049" "TYR" "C" 59 "-" 0.22 0 0.23
+"7jvc_CD-CB_B-7jvc_CD-CB_C.1090" "TRP" "C" 100 "-" 2.73 2.98 5.71
+"7jvc_CD-CB_B-7jvc_CD-CB_C.1091" "TRP" "C" 101 "-" 26.87 0.52 27.39
+"7jvc_CD-CB_B-7jvc_CD-CB_C.1092" "LEU" "C" 102 "-" 31.75 3.35 35.1
+"7jvc_CD-CB_B-7jvc_CD-CB_C.1093" "ARG" "C" 103 "-" 12.95 0.57 13.52

@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5ush_HL-LX_L-5ush_HL-LX_X.30" "ALA" "L" 31 "-" 4.94 11.68 16.63
+"5ush_HL-LX_L-5ush_HL-LX_X.31" "GLY" "L" 32 "-" 11.15 13.17 24.32
+"5ush_HL-LX_L-5ush_HL-LX_X.32" "TYR" "L" 33 "-" 14.86 13.71 28.57
+"5ush_HL-LX_L-5ush_HL-LX_X.33" "ASP" "L" 34 "-" 1.41 9.97 11.38
+"5ush_HL-LX_L-5ush_HL-LX_X.50" "TYR" "L" 51 "-" 0.19 0 0.18
+"5ush_HL-LX_L-5ush_HL-LX_X.52" "ASN" "L" 53 "-" 0 0.69 0.69
+"5ush_HL-LX_L-5ush_HL-LX_X.67" "LYS" "L" 68 "-" 0.04 0.19 0.22
+"5ush_HL-LX_L-5ush_HL-LX_X.92" "TYR" "L" 93 "-" 0.04 0 0.04
+"5ush_HL-LX_L-5ush_HL-LX_X.94" "SER" "L" 95 "-" 0.59 0 0.59
+"5ush_HL-LX_L-5ush_HL-LX_X.97" "SER" "L" 98 "-" 0.22 0.48 0.71
+"5ush_HL-LX_L-5ush_HL-LX_X.229" "ASN" "X" 18 "-" 1.12 10.19 11.3
+"5ush_HL-LX_L-5ush_HL-LX_X.230" "ALA" "X" 19 "-" 21.41 1.4 22.8
+"5ush_HL-LX_L-5ush_HL-LX_X.231" "ARG" "X" 20 "-" 46.71 50.23 96.95
+"5ush_HL-LX_L-5ush_HL-LX_X.267" "PHE" "X" 56 "-" 0 0.11 0.1
+"5ush_HL-LX_L-5ush_HL-LX_X.269" "PRO" "X" 58 "-" 6.21 0.02 6.22
+"5ush_HL-LX_L-5ush_HL-LX_X.311" "LYS" "X" 100 "-" 0.4 0.02 0.42
+"5ush_HL-LX_L-5ush_HL-LX_X.437" "GLU" "X" 230 "-" 0 0.56 0.56

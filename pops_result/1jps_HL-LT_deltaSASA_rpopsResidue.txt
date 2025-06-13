@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"1jps_HL-LT_L-1jps_HL-LT_T.27" "ARG" "L" 27 "-" 0.44 1.14 1.58
+"1jps_HL-LT_L-1jps_HL-LT_T.30" "LYS" "L" 30 "-" 3.09 13.67 16.75
+"1jps_HL-LT_L-1jps_HL-LT_T.32" "TYR" "L" 32 "-" 26.58 33.38 59.97
+"1jps_HL-LT_L-1jps_HL-LT_T.50" "TYR" "L" 50 "-" 9.32 11.72 21.04
+"1jps_HL-LT_L-1jps_HL-LT_T.91" "HIS" "L" 91 "-" 4.51 5.13 9.63
+"1jps_HL-LT_L-1jps_HL-LT_T.92" "GLY" "L" 92 "-" 6.89 18.3 25.18
+"1jps_HL-LT_L-1jps_HL-LT_T.93" "GLU" "L" 93 "-" 13.39 2.32 15.71
+"1jps_HL-LT_L-1jps_HL-LT_T.94" "SER" "L" 94 "-" 19.56 29.46 49.03
+"1jps_HL-LT_L-1jps_HL-LT_T.96" "TRP" "L" 96 "-" 9.6 0.58 10.18
+"1jps_HL-LT_L-1jps_HL-LT_T.351" "LYS" "TRUE" 149 "-" 3.39 0.36 3.74
+"1jps_HL-LT_L-1jps_HL-LT_T.354" "ILE" "TRUE" 152 "-" 7.89 0 7.89
+"1jps_HL-LT_L-1jps_HL-LT_T.359" "TYR" "TRUE" 157 "-" 0.1 0.43 0.53
+"1jps_HL-LT_L-1jps_HL-LT_T.367" "LYS" "TRUE" 165 "-" 0.08 1.2 1.27
+"1jps_HL-LT_L-1jps_HL-LT_T.368" "LYS" "TRUE" 166 "-" 4.08 0.22 4.3
+"1jps_HL-LT_L-1jps_HL-LT_T.369" "THR" "TRUE" 167 "-" 23.93 15.64 39.57
+"1jps_HL-LT_L-1jps_HL-LT_T.370" "ALA" "TRUE" 168 "-" 13.52 1.2 14.72
+"1jps_HL-LT_L-1jps_HL-LT_T.371" "LYS" "TRUE" 169 "-" 79.53 53.55 133.08
+"1jps_HL-LT_L-1jps_HL-LT_T.372" "THR" "TRUE" 170 "-" 1.78 1.61 3.4
+"1jps_HL-LT_L-1jps_HL-LT_T.373" "ASN" "TRUE" 171 "-" 4.93 19.51 24.44
+"1jps_HL-LT_L-1jps_HL-LT_T.374" "THR" "TRUE" 172 "-" 0 0.01 0.01
+"1jps_HL-LT_L-1jps_HL-LT_T.376" "GLU" "TRUE" 174 "-" 0 0.08 0.08
+"1jps_HL-LT_L-1jps_HL-LT_T.377" "PHE" "TRUE" 175 "-" 0.08 0 0.07
+"1jps_HL-LT_L-1jps_HL-LT_T.378" "LEU" "TRUE" 176 "-" 0 0.01 0.01
+"1jps_HL-LT_L-1jps_HL-LT_T.380" "ASP" "TRUE" 178 "-" 0 3.7 3.69

@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6rcu_ED-DA_A-6rcu_ED-DA_D.65" "LYS" "A" 212 "-" 12.05 6.39 18.44
+"6rcu_ED-DA_A-6rcu_ED-DA_D.69" "ALA" "A" 216 "-" 4.13 0.33 4.46
+"6rcu_ED-DA_A-6rcu_ED-DA_D.72" "LYS" "A" 219 "-" 17.62 14.49 32.11
+"6rcu_ED-DA_A-6rcu_ED-DA_D.73" "VAL" "A" 220 "-" 0.63 0 0.63
+"6rcu_ED-DA_A-6rcu_ED-DA_D.126" "LYS" "A" 327 "-" 17.49 38.14 55.63
+"6rcu_ED-DA_A-6rcu_ED-DA_D.127" "ILE" "A" 328 "-" 1.3 0 1.3
+"6rcu_ED-DA_A-6rcu_ED-DA_D.130" "ASP" "A" 331 "-" 0.38 3.18 3.57
+"6rcu_ED-DA_A-6rcu_ED-DA_D.354" "SER" "D" 53 "-" 3.25 5.58 8.83
+"6rcu_ED-DA_A-6rcu_ED-DA_D.355" "LEU" "D" 54 "-" 3.76 3.04 6.8
+"6rcu_ED-DA_A-6rcu_ED-DA_D.356" "GLU" "D" 55 "-" 8.46 23.44 31.9
+"6rcu_ED-DA_A-6rcu_ED-DA_D.357" "SER" "D" 56 "-" 30.26 23.44 53.69
+"6rcu_ED-DA_A-6rcu_ED-DA_D.358" "GLY" "D" 57 "-" 2.03 1.04 3.07

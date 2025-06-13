@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7fcp_BD-DA_A-7fcp_BD-DA_D.142" "ALA" "A" 475 "-" 2.13 16.05 18.17
+"7fcp_BD-DA_A-7fcp_BD-DA_D.143" "GLY" "A" 476 "-" 11.17 3.71 14.89
+"7fcp_BD-DA_A-7fcp_BD-DA_D.144" "SER" "A" 477 "-" 27.12 19.24 46.36
+"7fcp_BD-DA_A-7fcp_BD-DA_D.145" "THR" "A" 478 "-" 1.85 6.3 8.15
+"7fcp_BD-DA_A-7fcp_BD-DA_D.153" "PHE" "A" 486 "-" 73.03 0.32 73.36
+"7fcp_BD-DA_A-7fcp_BD-DA_D.154" "ASN" "A" 487 "-" 1.39 17.74 19.13
+"7fcp_BD-DA_A-7fcp_BD-DA_D.215" "LYS" "D" 30 "-" 11.43 4.31 15.73
+"7fcp_BD-DA_A-7fcp_BD-DA_D.217" "TYR" "D" 32 "-" 19.52 26.42 45.94
+"7fcp_BD-DA_A-7fcp_BD-DA_D.275" "GLN" "D" 90 "-" 0 0 0.01
+"7fcp_BD-DA_A-7fcp_BD-DA_D.276" "PHE" "D" 91 "-" 5.77 6.19 11.97
+"7fcp_BD-DA_A-7fcp_BD-DA_D.277" "ASP" "D" 92 "-" 2.02 11.14 13.17
+"7fcp_BD-DA_A-7fcp_BD-DA_D.278" "ASN" "D" 93 "-" 2.89 8.1 10.99
+"7fcp_BD-DA_A-7fcp_BD-DA_D.279" "LEU" "D" 94 "-" 57.79 1.36 59.16
+"7fcp_BD-DA_A-7fcp_BD-DA_D.281" "ILE" "D" 96 "-" 22.74 0.02 22.76

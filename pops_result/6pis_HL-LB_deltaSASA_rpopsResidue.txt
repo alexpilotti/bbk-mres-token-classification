@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6pis_HL-LB_B-6pis_HL-LB_L.30" "HIS" "B" 57 "-" 2.08 0.7 2.78
+"6pis_HL-LB_B-6pis_HL-LB_L.33" "GLN" "B" 60 "-" 25.76 47.36 73.11
+"6pis_HL-LB_B-6pis_HL-LB_L.36" "LYS" "B" 63 "-" 7.7 8.66 16.36
+"6pis_HL-LB_B-6pis_HL-LB_L.37" "LYS" "B" 64 "-" 63.58 23.44 87.02
+"6pis_HL-LB_B-6pis_HL-LB_L.40" "HIS" "B" 67 "-" 50.94 27.6 78.54
+"6pis_HL-LB_B-6pis_HL-LB_L.44" "GLN" "B" 71 "-" 3.68 8.62 12.31
+"6pis_HL-LB_B-6pis_HL-LB_L.47" "ARG" "B" 74 "-" 0.39 6.37 6.77
+"6pis_HL-LB_B-6pis_HL-LB_L.266" "GLN" "L" 27 "-" 0.58 5.45 6.03
+"6pis_HL-LB_B-6pis_HL-LB_L.267" "ASN" "L" 28 "-" 9.98 16.07 26.06
+"6pis_HL-LB_B-6pis_HL-LB_L.268" "ILE" "L" 29 "-" 0.08 0.13 0.22
+"6pis_HL-LB_B-6pis_HL-LB_L.269" "ASN" "L" 30 "-" 4.98 12.85 17.83
+"6pis_HL-LB_B-6pis_HL-LB_L.270" "GLN" "L" 31 "-" 0.02 0 0.03
+"6pis_HL-LB_B-6pis_HL-LB_L.271" "TYR" "L" 32 "-" 16.25 20.96 37.21
+"6pis_HL-LB_B-6pis_HL-LB_L.306" "TYR" "L" 67 "-" 3.42 10.3 13.72
+"6pis_HL-LB_B-6pis_HL-LB_L.330" "GLY" "L" 91 "-" 0.41 1.97 2.39
+"6pis_HL-LB_B-6pis_HL-LB_L.331" "TYR" "L" 92 "-" 36.11 6.24 42.36
+"6pis_HL-LB_B-6pis_HL-LB_L.332" "THR" "L" 93 "-" 14.44 8.22 22.66
+"6pis_HL-LB_B-6pis_HL-LB_L.334" "ARG" "L" 95 "-" 1.17 26.23 27.4

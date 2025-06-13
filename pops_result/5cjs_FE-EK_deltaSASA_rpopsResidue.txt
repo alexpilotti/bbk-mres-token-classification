@@ -1,0 +1,3 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5cjs_FE-EK_E-5cjs_FE-EK_K.31" "ARG" "E" 31 "-" 0 1.82 1.83
+"5cjs_FE-EK_E-5cjs_FE-EK_K.227" "ASP" "K" 19 "-" 0.42 0.31 0.73

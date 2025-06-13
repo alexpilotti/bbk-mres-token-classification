@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6wtu_EF-FD_F-6wtu_EF-FD_D.26" "ILE" "FALSE" 32 "-" 0.02 0.34 0.34
+"6wtu_EF-FD_F-6wtu_EF-FD_D.27" "GLY" "FALSE" 33 "-" 1.4 6.3 7.7
+"6wtu_EF-FD_F-6wtu_EF-FD_D.28" "ARG" "FALSE" 34 "-" 3.56 9.54 13.1
+"6wtu_EF-FD_F-6wtu_EF-FD_D.29" "THR" "FALSE" 35 "-" 7.47 8.17 15.64
+"6wtu_EF-FD_F-6wtu_EF-FD_D.30" "SER" "FALSE" 36 "-" 9.26 16.07 25.34
+"6wtu_EF-FD_F-6wtu_EF-FD_D.31" "VAL" "FALSE" 37 "-" 0.08 0.03 0.12
+"6wtu_EF-FD_F-6wtu_EF-FD_D.32" "HIS" "FALSE" 38 "-" 1.19 0.29 1.48
+"6wtu_EF-FD_F-6wtu_EF-FD_D.48" "TYR" "FALSE" 54 "-" 27.61 18.89 46.5
+"6wtu_EF-FD_F-6wtu_EF-FD_D.49" "ASP" "FALSE" 55 "-" 1.85 8.61 10.46
+"6wtu_EF-FD_F-6wtu_EF-FD_D.51" "ASP" "FALSE" 57 "-" 0 0.22 0.22
+"6wtu_EF-FD_F-6wtu_EF-FD_D.64" "ASN" "FALSE" 70 "-" 0.94 2.48 3.41
+"6wtu_EF-FD_F-6wtu_EF-FD_D.89" "TRP" "FALSE" 95 "-" 5.3 0.41 5.72
+"6wtu_EF-FD_F-6wtu_EF-FD_D.91" "SER" "FALSE" 97 "-" 0.32 0.75 1.07
+"6wtu_EF-FD_F-6wtu_EF-FD_D.94" "ASP" "FALSE" 100 "-" 0.86 5.11 5.98
+"6wtu_EF-FD_F-6wtu_EF-FD_D.389" "ASN" "D" 349 "-" 1.48 11.47 12.95
+"6wtu_EF-FD_F-6wtu_EF-FD_D.392" "LEU" "D" 352 "-" 17.84 0 17.84
+"6wtu_EF-FD_F-6wtu_EF-FD_D.396" "ASP" "D" 356 "-" 7.18 34.77 41.94
+"6wtu_EF-FD_F-6wtu_EF-FD_D.399" "ARG" "D" 359 "-" 22.36 33.64 56
+"6wtu_EF-FD_F-6wtu_EF-FD_D.400" "LYS" "D" 360 "-" 65.19 49.81 115.01

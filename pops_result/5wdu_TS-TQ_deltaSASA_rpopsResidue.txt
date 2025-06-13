@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.108" "THR" "Q" 139 "-" 0.26 0.07 0.34
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.111" "MET" "Q" 150 "-" 0.97 0 0.97
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.257" "PRO" "Q" 299 "-" 0.31 0 0.3
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.282" "ASP" "Q" 325 "-" 21.43 40.7 62.13
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.283" "ILE" "Q" 326 "-" 0.24 2.71 2.95
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.284" "ARG" "Q" 327 "-" 18.51 36.38 54.89
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.285" "GLN" "Q" 328 "-" 20.5 32.84 53.34
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.286" "ALA" "Q" 329 "-" 0 0.25 0.25
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.287" "HIS" "Q" 330 "-" 6.84 2.92 9.74
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.360" "THR" "Q" 415 "-" 8.19 2.35 10.54
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.361" "LEU" "Q" 416 "-" 0.24 0.3 0.55
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.362" "PRO" "Q" 417 "-" 15.46 0.15 15.61
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.554" "TYR" "TRUE" 100 "B" 16.58 5.81 22.39
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.555" "GLY" "TRUE" 100 "C" 3.99 1.22 5.2
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.556" "VAL" "TRUE" 100 "D" 22.33 0.38 22.71
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.559" "PHE" "TRUE" 100 "G" 76.05 0.47 76.52
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.560" "LYS" "TRUE" 100 "H" 0.56 0 0.56
+"5wdu_TS-TQ_Q-5wdu_TS-TQ_T.561" "GLU" "TRUE" 100 "I" 5.29 20.91 26.21

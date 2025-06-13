@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8cin_EF-EB_B-8cin_EF-EB_E.453" "ASN" "B" 527 "-" 17.66 44.51 62.18
+"8cin_EF-EB_B-8cin_EF-EB_E.454" "LEU" "B" 528 "-" 5.63 7.93 13.58
+"8cin_EF-EB_B-8cin_EF-EB_E.455" "VAL" "B" 529 "-" 2.07 0.34 2.41
+"8cin_EF-EB_B-8cin_EF-EB_E.456" "LYS" "B" 530 "-" 21.53 14.38 35.91
+"8cin_EF-EB_B-8cin_EF-EB_E.457" "ASN" "B" 531 "-" 17.13 39.84 56.97
+"8cin_EF-EB_B-8cin_EF-EB_E.458" "LYS" "B" 532 "-" 23.77 11.65 35.42
+"8cin_EF-EB_B-8cin_EF-EB_E.474" "THR" "B" 548 "-" 1.88 0 1.88
+"8cin_EF-EB_B-8cin_EF-EB_E.475" "GLU" "B" 549 "-" 21.49 53.84 75.33
+"8cin_EF-EB_B-8cin_EF-EB_E.502" "THR" "B" 576 "-" 10.07 1.19 11.25
+"8cin_EF-EB_B-8cin_EF-EB_E.504" "GLU" "B" 578 "-" 3.87 9.59 13.47
+"8cin_EF-EB_B-8cin_EF-EB_E.1087" "ASN" "E" 31 "-" 14.16 25.44 39.59
+"8cin_EF-EB_B-8cin_EF-EB_E.1089" "TYR" "E" 33 "-" 10.11 14.89 25
+"8cin_EF-EB_B-8cin_EF-EB_E.1108" "TYR" "E" 52 "-" 10.94 10.68 21.62
+"8cin_EF-EB_B-8cin_EF-EB_E.1110" "GLY" "E" 54 "-" 0.49 0.02 0.49
+"8cin_EF-EB_B-8cin_EF-EB_E.1114" "ASN" "E" 58 "-" 0.12 0.68 0.8
+"8cin_EF-EB_B-8cin_EF-EB_E.1156" "VAL" "E" 100 "-" 14.54 5.58 20.12
+"8cin_EF-EB_B-8cin_EF-EB_E.1157" "TRP" "E" 101 "-" 8.55 2.05 10.58
+"8cin_EF-EB_B-8cin_EF-EB_E.1158" "TYR" "E" 102 "-" 1.28 0.01 1.3
+"8cin_EF-EB_B-8cin_EF-EB_E.1159" "THR" "E" 103 "-" 13.33 22.23 35.55
+"8cin_EF-EB_B-8cin_EF-EB_E.1160" "GLY" "E" 104 "-" 3.84 0.71 4.55
+"8cin_EF-EB_B-8cin_EF-EB_E.1161" "SER" "E" 105 "-" 6.79 6.67 13.46
+"8cin_EF-EB_B-8cin_EF-EB_E.1162" "TYR" "E" 106 "-" 14.84 15.96 30.8

@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4xgz_ST-Ts_T-4xgz_ST-Ts_s.26" "SER" "TRUE" 30 "-" 0 0.58 0.57
+"4xgz_ST-Ts_T-4xgz_ST-Ts_s.27" "SER" "TRUE" 31 "-" 0.17 0 0.17
+"4xgz_ST-Ts_T-4xgz_ST-Ts_s.28" "ALA" "TRUE" 32 "-" 13.47 0.82 14.29
+"4xgz_ST-Ts_T-4xgz_ST-Ts_s.87" "SER" "TRUE" 91 "-" 8.58 4.08 12.66
+"4xgz_ST-Ts_T-4xgz_ST-Ts_s.88" "SER" "TRUE" 92 "-" 4.36 10.86 15.23
+"4xgz_ST-Ts_T-4xgz_ST-Ts_s.89" "SER" "TRUE" 93 "-" 32 25.12 57.12
+"4xgz_ST-Ts_T-4xgz_ST-Ts_s.90" "SER" "TRUE" 94 "-" 8.64 5.68 14.32
+"4xgz_ST-Ts_T-4xgz_ST-Ts_s.91" "LEU" "TRUE" 95 "-" 2.36 1.96 4.32
+"4xgz_ST-Ts_T-4xgz_ST-Ts_s.92" "ILE" "TRUE" 96 "-" 16.81 0.63 17.44
+"4xgz_ST-Ts_T-4xgz_ST-Ts_s.211" "ASN" "s" 1 "-" 8.45 6.36 14.8
+"4xgz_ST-Ts_T-4xgz_ST-Ts_s.212" "LEU" "s" 2 "-" 100.67 2.72 103.39
+"4xgz_ST-Ts_T-4xgz_ST-Ts_s.213" "SER" "s" 3 "-" 36.11 20.53 56.65
+"4xgz_ST-Ts_T-4xgz_ST-Ts_s.214" "GLU" "s" 4 "-" 0 0.04 0.04

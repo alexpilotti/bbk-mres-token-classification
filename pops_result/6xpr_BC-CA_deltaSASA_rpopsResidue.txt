@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6xpr_BC-CA_A-6xpr_BC-CA_C.180" "PHE" "A" 219 "-" 8.29 0 8.29
+"6xpr_BC-CA_A-6xpr_BC-CA_C.181" "ARG" "A" 220 "-" 0.09 0.25 0.34
+"6xpr_BC-CA_A-6xpr_BC-CA_C.182" "PRO" "A" 221 "-" 59.13 1.21 60.32
+"6xpr_BC-CA_A-6xpr_BC-CA_C.183" "ARG" "A" 222 "-" 16.87 43.73 60.6
+"6xpr_BC-CA_A-6xpr_BC-CA_C.184" "ILE" "A" 223 "-" 28.54 0.48 29.02
+"6xpr_BC-CA_A-6xpr_BC-CA_C.185" "ARG" "A" 224 "-" 7.54 1.77 9.32
+"6xpr_BC-CA_A-6xpr_BC-CA_C.186" "ASN" "A" 225 "-" 4 17.26 21.26
+"6xpr_BC-CA_A-6xpr_BC-CA_C.190" "ARG" "A" 229 "-" 0.35 8.74 9.08
+"6xpr_BC-CA_A-6xpr_BC-CA_C.315" "LEU" "C" 46 "-" 20.1 0 20.11
+"6xpr_BC-CA_A-6xpr_BC-CA_C.318" "TYR" "C" 49 "-" 42.14 15.44 57.57
+"6xpr_BC-CA_A-6xpr_BC-CA_C.319" "VAL" "C" 50 "-" 1.57 0 1.57
+"6xpr_BC-CA_A-6xpr_BC-CA_C.322" "ASN" "C" 53 "-" 8.15 26.21 34.37
+"6xpr_BC-CA_A-6xpr_BC-CA_C.323" "LEU" "C" 54 "-" 3.5 9.06 12.56
+"6xpr_BC-CA_A-6xpr_BC-CA_C.324" "GLN" "C" 55 "-" 8.64 29.34 37.97
+"6xpr_BC-CA_A-6xpr_BC-CA_C.325" "SER" "C" 56 "-" 26.04 11.43 37.47
+"6xpr_BC-CA_A-6xpr_BC-CA_C.326" "GLY" "C" 57 "-" 0 0.46 0.46

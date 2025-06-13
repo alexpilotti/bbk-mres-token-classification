@@ -1,0 +1,7 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5my4_BA-AC_A-5my4_BA-AC_C.96" "SER" "A" 96 "-" 0 0.13 0.13
+"5my4_BA-AC_A-5my4_BA-AC_C.98" "HIS" "A" 98 "-" 0 0 0.01
+"5my4_BA-AC_A-5my4_BA-AC_C.99" "VAL" "A" 99 "-" 42.71 0.16 42.87
+"5my4_BA-AC_A-5my4_BA-AC_C.100" "PRO" "A" 100 "-" 1.53 0 1.54
+"5my4_BA-AC_A-5my4_BA-AC_C.101" "PRO" "A" 101 "-" 18.47 0.12 18.58
+"5my4_BA-AC_A-5my4_BA-AC_C.219" "PHE" "C" 2 "-" 71.2 1.79 72.99

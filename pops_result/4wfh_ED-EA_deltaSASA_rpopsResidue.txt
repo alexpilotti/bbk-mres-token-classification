@@ -1,0 +1,27 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4wfh_ED-EA_A-4wfh_ED-EA_E.43" "GLU" "A" 70 "-" 0 0.03 0.03
+"4wfh_ED-EA_A-4wfh_ED-EA_E.45" "PHE" "A" 72 "-" 0 0 0.01
+"4wfh_ED-EA_A-4wfh_ED-EA_E.46" "LEU" "A" 73 "-" 8.68 2.33 11.01
+"4wfh_ED-EA_A-4wfh_ED-EA_E.47" "ARG" "A" 74 "-" 31.02 40.32 71.33
+"4wfh_ED-EA_A-4wfh_ED-EA_E.49" "HIS" "A" 76 "-" 0.33 0.97 1.3
+"4wfh_ED-EA_A-4wfh_ED-EA_E.50" "PRO" "A" 77 "-" 55.71 16.42 72.14
+"4wfh_ED-EA_A-4wfh_ED-EA_E.51" "CYS" "A" 78 "-" 20.38 11.48 31.86
+"4wfh_ED-EA_A-4wfh_ED-EA_E.52" "VAL" "A" 79 "-" 2.42 5.52 7.94
+"4wfh_ED-EA_A-4wfh_ED-EA_E.53" "SER" "A" 80 "-" 12.96 4.84 17.81
+"4wfh_ED-EA_A-4wfh_ED-EA_E.54" "ASP" "A" 81 "-" 1.34 0.39 1.74
+"4wfh_ED-EA_A-4wfh_ED-EA_E.55" "GLN" "A" 82 "-" 31.91 34.36 66.26
+"4wfh_ED-EA_A-4wfh_ED-EA_E.56" "GLU" "A" 83 "-" 24.17 45.23 69.4
+"4wfh_ED-EA_A-4wfh_ED-EA_E.59" "LEU" "A" 86 "-" 20.08 0 20.08
+"4wfh_ED-EA_A-4wfh_ED-EA_E.283" "THR" "E" 30 "-" 0.02 0.95 0.98
+"4wfh_ED-EA_A-4wfh_ED-EA_E.284" "GLY" "E" 31 "-" 3.99 12.05 16.04
+"4wfh_ED-EA_A-4wfh_ED-EA_E.285" "TYR" "E" 32 "-" 15.03 8.24 23.27
+"4wfh_ED-EA_A-4wfh_ED-EA_E.286" "ILE" "E" 33 "-" 17.88 0.52 18.39
+"4wfh_ED-EA_A-4wfh_ED-EA_E.300" "TRP" "E" 47 "-" 1.79 0 1.78
+"4wfh_ED-EA_A-4wfh_ED-EA_E.303" "LEU" "E" 50 "-" 10.66 0 10.67
+"4wfh_ED-EA_A-4wfh_ED-EA_E.305" "ASN" "E" 52 "-" 1.98 18.21 20.19
+"4wfh_ED-EA_A-4wfh_ED-EA_E.307" "ASN" "E" 54 "-" 0.4 0.59 1
+"4wfh_ED-EA_A-4wfh_ED-EA_E.308" "THR" "E" 55 "-" 8.72 1.61 10.33
+"4wfh_ED-EA_A-4wfh_ED-EA_E.310" "TYR" "E" 57 "-" 44.04 18.44 62.48
+"4wfh_ED-EA_A-4wfh_ED-EA_E.312" "THR" "E" 59 "-" 12.74 4.22 16.96
+"4wfh_ED-EA_A-4wfh_ED-EA_E.353" "ASN" "E" 100 "-" 19.92 54.3 74.22
+"4wfh_ED-EA_A-4wfh_ED-EA_E.354" "TYR" "E" 101 "-" 51.88 13.02 64.89

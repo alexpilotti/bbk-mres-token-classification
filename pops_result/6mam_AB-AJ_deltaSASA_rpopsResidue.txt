@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6mam_AB-AJ_A-6mam_AB-AJ_J.106" "ARG" "A" 106 "-" 0.85 2.59 3.44
+"6mam_AB-AJ_A-6mam_AB-AJ_J.107" "TYR" "A" 107 "-" 85.42 50.21 135.63
+"6mam_AB-AJ_A-6mam_AB-AJ_J.108" "PHE" "A" 108 "-" 34.26 7.7 41.95
+"6mam_AB-AJ_A-6mam_AB-AJ_J.109" "ASP" "A" 109 "-" 4.79 7.68 12.47
+"6mam_AB-AJ_A-6mam_AB-AJ_J.110" "TRP" "A" 110 "-" 50.86 6.07 56.93
+"6mam_AB-AJ_A-6mam_AB-AJ_J.112" "LEU" "A" 112 "-" 18.12 0.01 18.13
+"6mam_AB-AJ_A-6mam_AB-AJ_J.231" "ASN" "J" 506 "-" 3.78 9.53 13.32
+"6mam_AB-AJ_A-6mam_AB-AJ_J.232" "ALA" "J" 507 "-" 0.16 0.04 0.2
+"6mam_AB-AJ_A-6mam_AB-AJ_J.233" "GLN" "J" 508 "-" 4.67 7.25 11.92
+"6mam_AB-AJ_A-6mam_AB-AJ_J.234" "PRO" "J" 509 "-" 5.88 10.38 16.28
+"6mam_AB-AJ_A-6mam_AB-AJ_J.235" "LYS" "J" 510 "-" 96.18 42.18 138.35
+"6mam_AB-AJ_A-6mam_AB-AJ_J.236" "CYS" "J" 511 "-" 16.4 19.97 36.37
+"6mam_AB-AJ_A-6mam_AB-AJ_J.237" "ASN" "J" 512 "-" 13.45 22.84 36.29
+"6mam_AB-AJ_A-6mam_AB-AJ_J.238" "PRO" "J" 513 "-" 28.54 0.23 28.78
+"6mam_AB-AJ_A-6mam_AB-AJ_J.239" "ASN" "J" 514 "-" 0.14 0.19 0.33
+"6mam_AB-AJ_A-6mam_AB-AJ_J.275" "ASN" "J" 550 "-" 0.8 4.95 5.75
+"6mam_AB-AJ_A-6mam_AB-AJ_J.281" "CYS" "J" 556 "-" 8.61 0.01 8.62
+"6mam_AB-AJ_A-6mam_AB-AJ_J.284" "ARG" "J" 559 "-" 0 0.02 0.01

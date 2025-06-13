@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7woa_DB-BA_A-7woa_DB-BA_B.467" "CYS" "A" 480 "-" 0.02 0.46 0.47
+"7woa_DB-BA_A-7woa_DB-BA_B.468" "ASN" "A" 481 "-" 14.58 21.93 36.52
+"7woa_DB-BA_A-7woa_DB-BA_B.469" "GLY" "A" 482 "-" 0.1 0.09 0.18
+"7woa_DB-BA_A-7woa_DB-BA_B.470" "VAL" "A" 483 "-" 29.19 0.05 29.23
+"7woa_DB-BA_A-7woa_DB-BA_B.1107" "ASN" "B" 31 "-" 4.84 14.39 19.22
+"7woa_DB-BA_A-7woa_DB-BA_B.1109" "HIS" "B" 33 "-" 10.37 6.19 16.56
+"7woa_DB-BA_A-7woa_DB-BA_B.1168" "TYR" "B" 92 "-" 4.01 0.67 4.68

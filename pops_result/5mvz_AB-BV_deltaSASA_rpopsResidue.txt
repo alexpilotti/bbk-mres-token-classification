@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mvz_AB-BV_B-5mvz_AB-BV_V.32" "TYR" "B" 32 "-" 8.86 17.56 26.41
+"5mvz_AB-BV_B-5mvz_AB-BV_V.49" "TYR" "B" 49 "-" 4.01 1.44 5.44
+"5mvz_AB-BV_B-5mvz_AB-BV_V.50" "ASP" "B" 50 "-" 1.5 6.51 8.02
+"5mvz_AB-BV_B-5mvz_AB-BV_V.53" "ASN" "B" 53 "-" 0.55 7.05 7.59
+"5mvz_AB-BV_B-5mvz_AB-BV_V.91" "ARG" "B" 91 "-" 3.33 32.21 35.53
+"5mvz_AB-BV_B-5mvz_AB-BV_V.93" "ASN" "B" 93 "-" 11.23 26.8 38.03
+"5mvz_AB-BV_B-5mvz_AB-BV_V.94" "TRP" "B" 94 "-" 94.77 7.66 102.42
+"5mvz_AB-BV_B-5mvz_AB-BV_V.96" "TRP" "B" 96 "-" 9 0.51 9.51
+"5mvz_AB-BV_B-5mvz_AB-BV_V.232" "MET" "V" 20 "-" 11.61 6.56 18.17
+"5mvz_AB-BV_B-5mvz_AB-BV_V.233" "SER" "V" 21 "-" 8.58 29.77 38.35
+"5mvz_AB-BV_B-5mvz_AB-BV_V.234" "GLY" "V" 22 "-" 15.84 4.74 20.57
+"5mvz_AB-BV_B-5mvz_AB-BV_V.235" "PRO" "V" 23 "-" 47.83 1.12 48.95
+"5mvz_AB-BV_B-5mvz_AB-BV_V.236" "TYR" "V" 24 "-" 0.01 0.07 0.08
+"5mvz_AB-BV_B-5mvz_AB-BV_V.237" "GLU" "V" 25 "-" 9.2 4.48 13.68
+"5mvz_AB-BV_B-5mvz_AB-BV_V.239" "LYS" "V" 27 "-" 3.85 7.44 11.29
+"5mvz_AB-BV_B-5mvz_AB-BV_V.271" "LYS" "V" 65 "-" 0 1.7 1.71
+"5mvz_AB-BV_B-5mvz_AB-BV_V.280" "LYS" "V" 74 "-" 34.59 37.56 72.14
+"5mvz_AB-BV_B-5mvz_AB-BV_V.281" "ASP" "V" 75 "-" 1.84 7.46 9.3
+"5mvz_AB-BV_B-5mvz_AB-BV_V.285" "THR" "V" 79 "-" 3.54 0.02 3.56

@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5kw9_HL-HA_A-5kw9_HL-HA_H.152" "SER" "A" 380 "-" 0 0.64 0.63
+"5kw9_HL-HA_A-5kw9_HL-HA_H.153" "HIS" "A" 381 "-" 17.1 8.6 25.69
+"5kw9_HL-HA_A-5kw9_HL-HA_H.154" "PRO" "A" 382 "-" 20.01 0.81 20.83
+"5kw9_HL-HA_A-5kw9_HL-HA_H.155" "SER" "A" 383 "-" 43.91 37.41 81.32
+"5kw9_HL-HA_A-5kw9_HL-HA_H.156" "GLY" "A" 384 "-" 26.42 17.32 43.74
+"5kw9_HL-HA_A-5kw9_HL-HA_H.157" "SER" "A" 385 "-" 4.54 3.84 8.38
+"5kw9_HL-HA_A-5kw9_HL-HA_H.158" "GLN" "A" 386 "-" 0 0.38 0.38
+"5kw9_HL-HA_A-5kw9_HL-HA_H.346" "ASN" "H" 59 "-" 0 0.57 0.57
+"5kw9_HL-HA_A-5kw9_HL-HA_H.391" "ALA" "H" 104 "-" 3.32 5.44 8.76
+"5kw9_HL-HA_A-5kw9_HL-HA_H.392" "ASP" "H" 105 "-" 28.76 20 48.76
+"5kw9_HL-HA_A-5kw9_HL-HA_H.393" "ASP" "H" 106 "-" 0.31 0.24 0.54
+"5kw9_HL-HA_A-5kw9_HL-HA_H.394" "TYR" "H" 107 "-" 17.54 14.39 31.93
+"5kw9_HL-HA_A-5kw9_HL-HA_H.395" "ASP" "H" 108 "-" 23.16 50.02 73.18

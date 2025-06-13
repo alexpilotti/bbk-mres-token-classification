@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7nw3_HL-HA_H-7nw3_HL-HA_A.58" "TYR" "H" 58 "-" 6.07 1.05 7.12
+"7nw3_HL-HA_H-7nw3_HL-HA_A.61" "ASP" "H" 61 "-" 0 1.19 1.19
+"7nw3_HL-HA_H-7nw3_HL-HA_A.219" "PRO" "A" 290 "-" 14.64 0 14.64
+"7nw3_HL-HA_H-7nw3_HL-HA_A.221" "TYR" "A" 292 "-" 0.35 0.77 1.13

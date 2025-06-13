@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4kxz_JI-IB_B-4kxz_JI-IB_I.92" "ILE" "B" 92 "-" 17.5 1.83 19.33
+"4kxz_JI-IB_B-4kxz_JI-IB_I.93" "GLY" "B" 93 "-" 18.92 3.33 22.25
+"4kxz_JI-IB_B-4kxz_JI-IB_I.94" "LYS" "B" 94 "-" 81.11 37.7 118.82
+"4kxz_JI-IB_B-4kxz_JI-IB_I.95" "THR" "B" 95 "-" 0.2 2.75 2.95
+"4kxz_JI-IB_B-4kxz_JI-IB_I.138" "GLN" "I" 27 "-" 1.23 6.29 7.52
+"4kxz_JI-IB_B-4kxz_JI-IB_I.139" "SER" "I" 28 "-" 0.12 1.88 2
+"4kxz_JI-IB_B-4kxz_JI-IB_I.140" "LEU" "I" 29 "-" 0.09 0 0.08
+"4kxz_JI-IB_B-4kxz_JI-IB_I.144" "TYR" "I" 33 "-" 1.28 0 1.27
+"4kxz_JI-IB_B-4kxz_JI-IB_I.203" "TYR" "I" 92 "-" 0.06 1.28 1.34
+"4kxz_JI-IB_B-4kxz_JI-IB_I.204" "ALA" "I" 93 "-" 4.99 18.33 23.32
+"4kxz_JI-IB_B-4kxz_JI-IB_I.205" "ASP" "I" 94 "-" 11.9 13.96 25.86
+"4kxz_JI-IB_B-4kxz_JI-IB_I.206" "SER" "I" 95 "-" 18.67 6.16 24.83

@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4jm2_AB-BE_B-4jm2_AB-BE_E.31" "LYS" "B" 31 "-" 1.66 0 1.65
+"4jm2_AB-BE_B-4jm2_AB-BE_E.50" "GLU" "B" 50 "-" 4.97 10.66 15.63
+"4jm2_AB-BE_B-4jm2_AB-BE_E.52" "TYR" "B" 52 "-" 0.16 0 0.16
+"4jm2_AB-BE_B-4jm2_AB-BE_E.53" "SER" "B" 53 "-" 0 0.69 0.69
+"4jm2_AB-BE_B-4jm2_AB-BE_E.445" "ASN" "E" 406 "-" 0 0.16 0.15
+"4jm2_AB-BE_B-4jm2_AB-BE_E.447" "THR" "E" 408 "-" 0.05 1.96 2.01
+"4jm2_AB-BE_B-4jm2_AB-BE_E.448" "GLU" "E" 409 "-" 7.05 19.59 26.65

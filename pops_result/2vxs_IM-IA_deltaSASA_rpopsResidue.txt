@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2vxs_IM-IA_A-2vxs_IM-IA_I.40" "LEU" "A" 74 "-" 45.92 0 45.92
+"2vxs_IM-IA_A-2vxs_IM-IA_I.51" "TYR" "A" 85 "-" 1.19 4.14 5.33
+"2vxs_IM-IA_A-2vxs_IM-IA_I.52" "HIS" "A" 86 "-" 2.31 3.2 5.5
+"2vxs_IM-IA_A-2vxs_IM-IA_I.53" "MET" "A" 87 "-" 1.28 1.38 2.66
+"2vxs_IM-IA_A-2vxs_IM-IA_I.54" "ASN" "A" 88 "-" 6.03 29.39 35.42
+"2vxs_IM-IA_A-2vxs_IM-IA_I.56" "VAL" "A" 90 "-" 0.37 0 0.37
+"2vxs_IM-IA_A-2vxs_IM-IA_I.57" "PRO" "A" 91 "-" 4.25 0 4.24
+"2vxs_IM-IA_A-2vxs_IM-IA_I.59" "GLN" "A" 93 "-" 0 1.32 1.31
+"2vxs_IM-IA_A-2vxs_IM-IA_I.81" "VAL" "A" 124 "-" 11.21 0.83 12.04
+"2vxs_IM-IA_A-2vxs_IM-IA_I.82" "THR" "A" 125 "-" 1.54 2.03 3.58
+"2vxs_IM-IA_A-2vxs_IM-IA_I.83" "PRO" "A" 126 "-" 49.03 4.52 53.53
+"2vxs_IM-IA_A-2vxs_IM-IA_I.84" "ILE" "A" 127 "-" 0 0.07 0.08
+"2vxs_IM-IA_A-2vxs_IM-IA_I.117" "SER" "I" 31 "-" 0 0.58 0.58
+"2vxs_IM-IA_A-2vxs_IM-IA_I.119" "ALA" "I" 33 "-" 0.26 0 0.25
+"2vxs_IM-IA_A-2vxs_IM-IA_I.138" "SER" "I" 52 "-" 0.27 0 0.27
+"2vxs_IM-IA_A-2vxs_IM-IA_I.140" "SER" "I" 53 "-" 5.63 1.41 7.03
+"2vxs_IM-IA_A-2vxs_IM-IA_I.143" "SER" "I" 56 "-" 0.35 0.6 0.95
+"2vxs_IM-IA_A-2vxs_IM-IA_I.145" "TYR" "I" 58 "-" 4.61 8.17 12.77
+"2vxs_IM-IA_A-2vxs_IM-IA_I.186" "LEU" "I" 96 "-" 24.9 5.96 30.86
+"2vxs_IM-IA_A-2vxs_IM-IA_I.187" "ILE" "I" 97 "-" 84.64 0.46 85.1
+"2vxs_IM-IA_A-2vxs_IM-IA_I.188" "HIS" "I" 98 "-" 21.97 5.12 27.09
+"2vxs_IM-IA_A-2vxs_IM-IA_I.190" "VAL" "I" 100 "-" 9.43 0 9.42

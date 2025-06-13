@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6d0u_CD-DB_B-6d0u_CD-DB_D.117" "SER" "B" 159 "-" 0.63 0.67 1.3
+"6d0u_CD-DB_B-6d0u_CD-DB_D.316" "TYR" "D" 49 "-" 0 0.95 0.95
+"6d0u_CD-DB_B-6d0u_CD-DB_D.323" "ARG" "D" 56 "-" 0.48 0 0.48

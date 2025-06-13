@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7kyl_HL-LE_L-7kyl_HL-LE_E.47" "TYR" "L" 48 "-" 0.1 0.01 0.1
+"7kyl_HL-LE_L-7kyl_HL-LE_E.54" "SER" "L" 55 "-" 36 25.58 61.57
+"7kyl_HL-LE_L-7kyl_HL-LE_E.55" "GLY" "L" 56 "-" 0.83 1.09 1.93
+"7kyl_HL-LE_L-7kyl_HL-LE_E.217" "ASP" "E" 308 "-" 2.68 12.76 15.45
+"7kyl_HL-LE_L-7kyl_HL-LE_E.218" "LYS" "E" 309 "-" 1.21 0.12 1.33
+"7kyl_HL-LE_L-7kyl_HL-LE_E.219" "THR" "E" 310 "-" 6.36 2.11 8.47
+"7kyl_HL-LE_L-7kyl_HL-LE_E.220" "LYS" "E" 311 "-" 0.77 0.08 0.84

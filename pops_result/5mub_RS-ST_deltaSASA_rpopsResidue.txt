@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mub_RS-ST_S-5mub_RS-ST_T.36" "SER" "S" 36 "-" 0.47 2.01 2.47
+"5mub_RS-ST_S-5mub_RS-ST_T.38" "ASN" "S" 38 "-" 1.43 11.25 12.68
+"5mub_RS-ST_S-5mub_RS-ST_T.40" "PHE" "S" 40 "-" 2.97 0 2.98
+"5mub_RS-ST_S-5mub_RS-ST_T.50" "PHE" "S" 50 "-" 18.55 0 18.55
+"5mub_RS-ST_S-5mub_RS-ST_T.52" "ILE" "S" 52 "-" 0 0.12 0.12
+"5mub_RS-ST_S-5mub_RS-ST_T.53" "TYR" "S" 53 "-" 22.77 7.76 30.52
+"5mub_RS-ST_S-5mub_RS-ST_T.54" "ALA" "S" 54 "-" 0.37 0.09 0.45
+"5mub_RS-ST_S-5mub_RS-ST_T.58" "GLN" "S" 58 "-" 0.05 0.88 0.94
+"5mub_RS-ST_S-5mub_RS-ST_T.59" "GLY" "S" 59 "-" 1.66 0.11 1.78
+"5mub_RS-ST_S-5mub_RS-ST_T.60" "SER" "S" 60 "-" 2.35 2.75 5.11
+"5mub_RS-ST_S-5mub_RS-ST_T.93" "GLN" "S" 93 "-" 0.04 1.17 1.19
+"5mub_RS-ST_S-5mub_RS-ST_T.95" "SER" "S" 95 "-" 7.47 7.87 15.34
+"5mub_RS-ST_S-5mub_RS-ST_T.100" "TYR" "S" 100 "-" 0.75 1.09 1.83
+"5mub_RS-ST_S-5mub_RS-ST_T.223" "GLY" "TRUE" 16 "-" 0.01 0.01 0.02
+"5mub_RS-ST_S-5mub_RS-ST_T.224" "LEU" "TRUE" 17 "-" 123.39 15.96 139.35
+"5mub_RS-ST_S-5mub_RS-ST_T.225" "THR" "TRUE" 18 "-" 77.94 33.16 111.09
+"5mub_RS-ST_S-5mub_RS-ST_T.226" "GLY" "TRUE" 19 "-" 9.39 14.54 23.93

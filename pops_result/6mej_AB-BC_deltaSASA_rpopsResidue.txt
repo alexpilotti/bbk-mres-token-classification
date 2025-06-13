@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6mej_AB-BC_B-6mej_AB-BC_C.29" "GLY" "B" 29 "-" 0.01 1.24 1.26
+"6mej_AB-BC_B-6mej_AB-BC_C.30" "SER" "B" 30 "-" 7.69 9.95 17.62
+"6mej_AB-BC_B-6mej_AB-BC_C.31" "ASN" "B" 31 "-" 0.2 5.09 5.29
+"6mej_AB-BC_B-6mej_AB-BC_C.32" "TYR" "B" 32 "-" 28.59 41.3 69.89
+"6mej_AB-BC_B-6mej_AB-BC_C.51" "ASN" "B" 51 "-" 0 0.08 0.08
+"6mej_AB-BC_B-6mej_AB-BC_C.66" "LYS" "B" 66 "-" 0.07 0 0.08
+"6mej_AB-BC_B-6mej_AB-BC_C.91" "TRP" "B" 91 "-" 11.29 0 11.29
+"6mej_AB-BC_B-6mej_AB-BC_C.93" "ASP" "B" 93 "-" 2.69 9.82 12.5
+"6mej_AB-BC_B-6mej_AB-BC_C.278" "GLY" "C" 470 "-" 0 0.34 0.34
+"6mej_AB-BC_B-6mej_AB-BC_C.279" "PRO" "C" 471 "-" 0.24 0 0.24
+"6mej_AB-BC_B-6mej_AB-BC_C.280" "ILE" "C" 472 "-" 1.16 6.9 8.06
+"6mej_AB-BC_B-6mej_AB-BC_C.281" "SER" "C" 473 "-" 6.8 0.69 7.49
+"6mej_AB-BC_B-6mej_AB-BC_C.282" "HIS" "C" 474 "-" 13 9.34 22.34
+"6mej_AB-BC_B-6mej_AB-BC_C.353" "PRO" "C" 545 "-" 0.09 0 0.09
+"6mej_AB-BC_B-6mej_AB-BC_C.354" "LEU" "C" 546 "-" 29.6 0 29.6
+"6mej_AB-BC_B-6mej_AB-BC_C.392" "GLU" "C" 591 "-" 6.66 15.03 21.68
+"6mej_AB-BC_B-6mej_AB-BC_C.397" "ARG" "C" 596 "-" 3.51 29.5 33.02

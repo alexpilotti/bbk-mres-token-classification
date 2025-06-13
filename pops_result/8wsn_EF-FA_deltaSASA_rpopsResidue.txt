@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8wsn_EF-FA_A-8wsn_EF-FA_F.255" "THR" "A" 276 "-" 0 0.02 0.02
+"8wsn_EF-FA_A-8wsn_EF-FA_F.256" "SER" "A" 277 "-" 0.31 4.34 4.65
+"8wsn_EF-FA_A-8wsn_EF-FA_F.258" "SER" "A" 279 "-" 0 0.16 0.16
+"8wsn_EF-FA_A-8wsn_EF-FA_F.360" "TYR" "FALSE" 49 "-" 2.46 2.18 4.63

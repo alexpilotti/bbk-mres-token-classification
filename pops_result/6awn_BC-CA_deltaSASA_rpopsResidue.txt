@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6awn_BC-CA_A-6awn_BC-CA_C.127" "CYS" "A" 200 "-" 0 0.14 0.13
+"6awn_BC-CA_A-6awn_BC-CA_C.128" "LYS" "A" 201 "-" 0 0.66 0.66
+"6awn_BC-CA_A-6awn_BC-CA_C.129" "ASN" "A" 202 "-" 0.22 3.47 3.7
+"6awn_BC-CA_A-6awn_BC-CA_C.130" "SER" "A" 203 "-" 31.02 14.82 45.84
+"6awn_BC-CA_A-6awn_BC-CA_C.131" "TRP" "A" 204 "-" 0.25 0.12 0.37
+"6awn_BC-CA_A-6awn_BC-CA_C.132" "ASN" "A" 205 "-" 0.28 5.56 5.84
+"6awn_BC-CA_A-6awn_BC-CA_C.133" "THR" "A" 206 "-" 0.7 1.47 2.16
+"6awn_BC-CA_A-6awn_BC-CA_C.134" "GLY" "A" 207 "-" 3.16 1.12 4.28
+"6awn_BC-CA_A-6awn_BC-CA_C.600" "THR" "C" 76 "-" 16.77 2.73 19.5
+"6awn_BC-CA_A-6awn_BC-CA_C.601" "GLY" "C" 77 "-" 14.68 6.99 21.66
+"6awn_BC-CA_A-6awn_BC-CA_C.602" "VAL" "C" 78 "-" 1.24 4.52 5.76
+"6awn_BC-CA_A-6awn_BC-CA_C.603" "PRO" "C" 79 "-" 3.96 0.25 4.21
+"6awn_BC-CA_A-6awn_BC-CA_C.604" "ASP" "C" 80 "-" 2.65 12.31 14.96

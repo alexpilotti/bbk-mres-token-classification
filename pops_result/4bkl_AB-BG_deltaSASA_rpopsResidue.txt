@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4bkl_AB-BG_B-4bkl_AB-BG_G.1" "ASP" "B" 1 "-" 0.65 4.15 4.79
+"4bkl_AB-BG_B-4bkl_AB-BG_G.2" "ILE" "B" 2 "-" 0.94 0.1 1.04
+"4bkl_AB-BG_B-4bkl_AB-BG_G.27" "GLU" "B" 27 "-" 3.15 14.46 17.61
+"4bkl_AB-BG_B-4bkl_AB-BG_G.36" "LEU" "B" 36 "-" 0.24 0 0.25
+"4bkl_AB-BG_B-4bkl_AB-BG_G.95" "SER" "B" 95 "-" 0.47 2.16 2.62
+"4bkl_AB-BG_B-4bkl_AB-BG_G.96" "ARG" "B" 96 "-" 1.35 4.99 6.35
+"4bkl_AB-BG_B-4bkl_AB-BG_G.97" "GLU" "B" 97 "-" 13.83 10.75 24.58
+"4bkl_AB-BG_B-4bkl_AB-BG_G.98" "VAL" "B" 98 "-" 35.37 8.18 43.55
+"4bkl_AB-BG_B-4bkl_AB-BG_G.99" "PRO" "B" 99 "-" 0.64 0.08 0.73
+"4bkl_AB-BG_B-4bkl_AB-BG_G.100" "TYR" "B" 100 "-" 20.3 23.79 44.1
+"4bkl_AB-BG_B-4bkl_AB-BG_G.229" "GLY" "G" 25 "-" 0.16 0.62 0.78
+"4bkl_AB-BG_B-4bkl_AB-BG_G.230" "ILE" "G" 26 "-" 61.66 1.95 63.6
+"4bkl_AB-BG_B-4bkl_AB-BG_G.231" "ALA" "G" 27 "-" 61.75 15.94 77.7
+"4bkl_AB-BG_B-4bkl_AB-BG_G.232" "GLY" "G" 28 "-" 14.89 22.32 37.21
+"4bkl_AB-BG_B-4bkl_AB-BG_G.233" "PRO" "G" 29 "-" 49.29 2.31 51.61
+"4bkl_AB-BG_B-4bkl_AB-BG_G.234" "LYS" "G" 30 "-" 64.69 40.99 105.67

@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6df2_BA-AC_A-6df2_BA-AC_C.91" "TYR" "A" 91 "-" 0 0.85 0.85
+"6df2_BA-AC_A-6df2_BA-AC_C.96" "SER" "A" 95 "A" 3.3 6.08 9.38
+"6df2_BA-AC_A-6df2_BA-AC_C.217" "LEU" "C" 3 "-" 22.14 0 22.14

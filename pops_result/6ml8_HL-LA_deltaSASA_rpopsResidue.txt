@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6ml8_HL-LA_A-6ml8_HL-LA_L.153" "ASN" "A" 171 "-" 15.43 39.54 54.96
+"6ml8_HL-LA_A-6ml8_HL-LA_L.370" "TYR" "L" 49 "-" 8.46 10.03 18.5
+"6ml8_HL-LA_A-6ml8_HL-LA_L.371" "ASP" "L" 50 "-" 0.52 3.57 4.09
+"6ml8_HL-LA_A-6ml8_HL-LA_L.374" "ASN" "L" 53 "-" 0.29 2 2.29

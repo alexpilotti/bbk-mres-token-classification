@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8cr9_AB-BC_B-8cr9_AB-BC_C.1" "ASP" "B" 1 "-" 0.08 1.11 1.19
+"8cr9_AB-BC_B-8cr9_AB-BC_C.90" "TYR" "B" 90 "-" 25.21 14.22 39.42
+"8cr9_AB-BC_B-8cr9_AB-BC_C.91" "TYR" "B" 91 "-" 30.92 8.72 39.64
+"8cr9_AB-BC_B-8cr9_AB-BC_C.92" "ASN" "B" 92 "-" 12.72 38.67 51.39
+"8cr9_AB-BC_B-8cr9_AB-BC_C.284" "SER" "C" 196 "-" 0.3 0.65 0.95
+"8cr9_AB-BC_B-8cr9_AB-BC_C.285" "ASN" "C" 197 "-" 1.39 3.17 4.56
+"8cr9_AB-BC_B-8cr9_AB-BC_C.286" "LEU" "C" 198 "-" 0.27 1.05 1.33
+"8cr9_AB-BC_B-8cr9_AB-BC_C.287" "ASP" "C" 199 "-" 6.99 13.29 20.28
+"8cr9_AB-BC_B-8cr9_AB-BC_C.288" "THR" "C" 200 "-" 0.37 2.11 2.47
+"8cr9_AB-BC_B-8cr9_AB-BC_C.289" "PHE" "C" 201 "-" 5.52 7.8 13.31
+"8cr9_AB-BC_B-8cr9_AB-BC_C.290" "SER" "C" 202 "-" 20 9.71 29.7
+"8cr9_AB-BC_B-8cr9_AB-BC_C.291" "GLY" "C" 203 "-" 0.82 0.31 1.11

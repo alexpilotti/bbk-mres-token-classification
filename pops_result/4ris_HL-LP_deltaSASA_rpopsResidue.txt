@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4ris_HL-LP_P-4ris_HL-LP_L.1" "ARG" "P" 166 "-" 0.05 1.21 1.25
+"4ris_HL-LP_P-4ris_HL-LP_L.2" "ASP" "P" 167 "-" 0.02 0 0.01
+"4ris_HL-LP_P-4ris_HL-LP_L.3" "LYS" "P" 168 "-" 122.79 46.03 168.82
+"4ris_HL-LP_P-4ris_HL-LP_L.4" "LYS" "P" 169 "-" 25.94 26.59 52.53
+"4ris_HL-LP_P-4ris_HL-LP_L.5" "GLN" "P" 170 "-" 0 0.02 0.02
+"4ris_HL-LP_P-4ris_HL-LP_L.6" "LYS" "P" 171 "-" 18.59 25.47 44.06
+"4ris_HL-LP_P-4ris_HL-LP_L.7" "VAL" "P" 172 "-" 24.9 0.08 24.99
+"4ris_HL-LP_P-4ris_HL-LP_L.10" "LEU" "P" 175 "-" 35.29 0.01 35.3
+"4ris_HL-LP_P-4ris_HL-LP_L.11" "PHE" "P" 176 "-" 30.69 0 30.69
+"4ris_HL-LP_P-4ris_HL-LP_L.43" "ILE" "L" 28 "-" 0.02 0.43 0.45
+"4ris_HL-LP_P-4ris_HL-LP_L.44" "ALA" "L" 29 "-" 7.21 11.28 18.48
+"4ris_HL-LP_P-4ris_HL-LP_L.45" "SER" "L" 30 "-" 6.91 15.72 22.63
+"4ris_HL-LP_P-4ris_HL-LP_L.46" "ASN" "L" 31 "-" 3.77 10.67 14.43
+"4ris_HL-LP_P-4ris_HL-LP_L.47" "TYR" "L" 32 "-" 40.61 27.16 67.77
+"4ris_HL-LP_P-4ris_HL-LP_L.48" "VAL" "L" 33 "-" 0 0.01 0.01
+"4ris_HL-LP_P-4ris_HL-LP_L.65" "GLU" "L" 50 "-" 2.45 12.83 15.28
+"4ris_HL-LP_P-4ris_HL-LP_L.66" "ASP" "L" 51 "-" 1.12 6.13 7.24
+"4ris_HL-LP_P-4ris_HL-LP_L.81" "ILE" "L" 66 "-" 0.84 0 0.84
+"4ris_HL-LP_P-4ris_HL-LP_L.108" "TYR" "L" 91 "-" 8.89 7.1 15.98
+"4ris_HL-LP_P-4ris_HL-LP_L.110" "SER" "L" 93 "-" 0.03 0.35 0.38
+"4ris_HL-LP_P-4ris_HL-LP_L.111" "SER" "L" 94 "-" 16.49 19.01 35.5
+"4ris_HL-LP_P-4ris_HL-LP_L.112" "SER" "L" 95 "-" 0 0.08 0.07
+"4ris_HL-LP_P-4ris_HL-LP_L.113" "TRP" "L" 96 "-" 21.71 2.88 24.59

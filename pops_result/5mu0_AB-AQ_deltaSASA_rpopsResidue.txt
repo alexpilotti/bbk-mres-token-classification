@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.31" "ASP" "A" 31 "-" 5.32 5.11 10.43
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.32" "ALA" "A" 32 "-" 1.56 0.5 2.07
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.33" "TRP" "A" 33 "-" 27.7 2.33 30.03
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.52" "ARG" "A" 52 "-" 0 0.31 0.31
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.53" "ASN" "A" 53 "-" 0.24 3.27 3.5
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.56" "ASN" "A" 56 "-" 0.02 0.89 0.9
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.101" "LEU" "A" 101 "-" 22.79 2.84 25.63
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.102" "THR" "A" 102 "-" 15.63 9.05 24.67
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.103" "PHE" "A" 103 "-" 9.74 2.8 12.54
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.104" "ASP" "A" 104 "-" 7.47 33.73 41.19
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.215" "GLY" "Q" 4 "-" 3.28 13.86 17.14
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.216" "ALA" "Q" 5 "-" 64.51 25.58 90.08
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.217" "ARG" "Q" 6 "-" 56.46 52.78 109.24
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.218" "GLY" "Q" 7 "-" 15.15 5.34 20.49
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.219" "LEU" "Q" 8 "-" 32.09 2.7 34.79
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.220" "THR" "Q" 9 "-" 67.01 32.22 99.23
+"5mu0_AB-AQ_A-5mu0_AB-AQ_Q.221" "GLY" "Q" 10 "-" 10.21 1.89 12.1

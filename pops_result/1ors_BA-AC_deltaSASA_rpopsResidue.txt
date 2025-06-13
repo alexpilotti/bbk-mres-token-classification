@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"1ors_BA-AC_A-1ors_BA-AC_C.33" "TYR" "A" 33 "-" 17.51 32.33 49.84
+"1ors_BA-AC_A-1ors_BA-AC_C.92" "PHE" "A" 92 "-" 11.4 0 11.4
+"1ors_BA-AC_A-1ors_BA-AC_C.93" "HIS" "A" 93 "-" 0 0.38 0.37
+"1ors_BA-AC_A-1ors_BA-AC_C.307" "GLY" "C" 112 "-" 1.96 10.58 12.55
+"1ors_BA-AC_A-1ors_BA-AC_C.308" "LEU" "C" 113 "-" 24.29 9.43 33.72
+"1ors_BA-AC_A-1ors_BA-AC_C.309" "GLY" "C" 114 "-" 1.77 0.85 2.62
+"1ors_BA-AC_A-1ors_BA-AC_C.310" "LEU" "C" 115 "-" 10.57 0.04 10.6

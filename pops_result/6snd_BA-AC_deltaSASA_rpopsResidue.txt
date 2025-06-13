@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6snd_BA-AC_A-6snd_BA-AC_C.30" "THR" "A" 30 "-" 3.22 0.94 4.16
+"6snd_BA-AC_A-6snd_BA-AC_C.32" "TYR" "A" 32 "-" 15 33.46 48.46
+"6snd_BA-AC_A-6snd_BA-AC_C.91" "ALA" "A" 91 "-" 0 0.07 0.07
+"6snd_BA-AC_A-6snd_BA-AC_C.92" "HIS" "A" 92 "-" 4.76 9.21 13.97
+"6snd_BA-AC_A-6snd_BA-AC_C.93" "SER" "A" 93 "-" 1.87 0.9 2.77
+"6snd_BA-AC_A-6snd_BA-AC_C.94" "THR" "A" 94 "-" 24.12 15.2 39.32
+"6snd_BA-AC_A-6snd_BA-AC_C.95" "PRO" "A" 95 "-" 0.12 0.01 0.13
+"6snd_BA-AC_A-6snd_BA-AC_C.96" "TRP" "A" 96 "-" 54.7 0.4 55.09
+"6snd_BA-AC_A-6snd_BA-AC_C.214" "ASN" "C" 671 "-" 1.2 5.28 6.48
+"6snd_BA-AC_A-6snd_BA-AC_C.216" "PHE" "C" 673 "-" 53.78 0.07 53.85
+"6snd_BA-AC_A-6snd_BA-AC_C.217" "ASP" "C" 674 "-" 12.05 40.02 52.07
+"6snd_BA-AC_A-6snd_BA-AC_C.219" "THR" "C" 676 "-" 0.01 0.25 0.27
+"6snd_BA-AC_A-6snd_BA-AC_C.220" "ASN" "C" 677 "-" 6.65 34.81 41.46
+"6snd_BA-AC_A-6snd_BA-AC_C.223" "TRP" "C" 680 "-" 6.17 0.36 6.53
+"6snd_BA-AC_A-6snd_BA-AC_C.224" "TYR" "C" 681 "-" 1.02 6.75 7.77

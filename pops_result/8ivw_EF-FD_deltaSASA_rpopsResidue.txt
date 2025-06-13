@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8ivw_EF-FD_D-8ivw_EF-FD_F.135" "TYR" "D" 299 "-" 2.52 4.67 7.19
+"8ivw_EF-FD_D-8ivw_EF-FD_F.136" "SER" "D" 300 "-" 6.47 4.79 11.26
+"8ivw_EF-FD_D-8ivw_EF-FD_F.137" "ASP" "D" 301 "-" 10.05 6.94 16.99
+"8ivw_EF-FD_D-8ivw_EF-FD_F.139" "ARG" "D" 303 "-" 7.87 2.78 10.64
+"8ivw_EF-FD_D-8ivw_EF-FD_F.140" "TRP" "D" 304 "-" 0.26 0.2 0.46
+"8ivw_EF-FD_D-8ivw_EF-FD_F.185" "SER" "D" 349 "-" 0 0.19 0.18
+"8ivw_EF-FD_D-8ivw_EF-FD_F.186" "ARG" "D" 350 "-" 7.13 9.95 17.07
+"8ivw_EF-FD_D-8ivw_EF-FD_F.187" "GLU" "D" 351 "-" 39.63 25.41 65.03
+"8ivw_EF-FD_D-8ivw_EF-FD_F.188" "THR" "D" 352 "-" 32.89 7.73 40.63
+"8ivw_EF-FD_D-8ivw_EF-FD_F.189" "GLN" "D" 353 "-" 12.54 15.99 28.53
+"8ivw_EF-FD_D-8ivw_EF-FD_F.190" "ASN" "D" 354 "-" 0.07 1.75 1.82
+"8ivw_EF-FD_D-8ivw_EF-FD_F.450" "SER" "FALSE" 30 "-" 0.78 0.88 1.66
+"8ivw_EF-FD_D-8ivw_EF-FD_F.452" "SER" "FALSE" 32 "-" 5.52 9.03 14.55
+"8ivw_EF-FD_D-8ivw_EF-FD_F.453" "TYR" "FALSE" 33 "-" 21.05 37.41 58.46
+"8ivw_EF-FD_D-8ivw_EF-FD_F.471" "ARG" "FALSE" 51 "-" 2.43 22.74 25.16
+"8ivw_EF-FD_D-8ivw_EF-FD_F.512" "TYR" "FALSE" 92 "-" 18.78 10.09 28.88
+"8ivw_EF-FD_D-8ivw_EF-FD_F.513" "TYR" "FALSE" 93 "-" 6.5 7.93 14.43
+"8ivw_EF-FD_D-8ivw_EF-FD_F.514" "ARG" "FALSE" 94 "-" 12.07 36.98 49.06
+"8ivw_EF-FD_D-8ivw_EF-FD_F.515" "SER" "FALSE" 95 "-" 16.81 13.19 30

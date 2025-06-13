@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4zto_HL-LP_L-4zto_HL-LP_P.28" "ALA" "L" 28 "-" 16.14 6.01 22.15
+"4zto_HL-LP_L-4zto_HL-LP_P.29" "ILE" "L" 29 "-" 2.07 0.88 2.95
+"4zto_HL-LP_L-4zto_HL-LP_P.30" "ASP" "L" 30 "-" 13.9 48.68 62.58
+"4zto_HL-LP_L-4zto_HL-LP_P.31" "GLU" "L" 31 "-" 3.24 12.44 15.69
+"4zto_HL-LP_L-4zto_HL-LP_P.32" "TYR" "L" 32 "-" 11.27 20.72 32
+"4zto_HL-LP_L-4zto_HL-LP_P.50" "TYR" "L" 50 "-" 0.13 1 1.13
+"4zto_HL-LP_L-4zto_HL-LP_P.67" "SER" "L" 67 "-" 0.63 1.32 1.95
+"4zto_HL-LP_L-4zto_HL-LP_P.68" "GLY" "L" 68 "-" 0.3 0 0.3
+"4zto_HL-LP_L-4zto_HL-LP_P.92" "TYR" "L" 92 "-" 14.84 17.74 32.58
+"4zto_HL-LP_L-4zto_HL-LP_P.93" "VAL" "L" 93 "-" 13.19 12.31 25.51
+"4zto_HL-LP_L-4zto_HL-LP_P.94" "GLY" "L" 94 "-" 11.24 19.84 31.08
+"4zto_HL-LP_L-4zto_HL-LP_P.95" "SER" "L" 95 "-" 14.43 3.47 17.91
+"4zto_HL-LP_L-4zto_HL-LP_P.96" "SER" "L" 95 "A" 14.08 4.26 18.34
+"4zto_HL-LP_L-4zto_HL-LP_P.98" "ASN" "L" 95 "C" 0.06 2.77 2.83
+"4zto_HL-LP_L-4zto_HL-LP_P.220" "MET" "P" 434 "-" 0.14 0.56 0.7
+"4zto_HL-LP_L-4zto_HL-LP_P.221" "TYR" "P" 435 "-" 115.52 29.94 145.46
+"4zto_HL-LP_L-4zto_HL-LP_P.222" "ALA" "P" 436 "-" 58.38 14.06 72.44
+"4zto_HL-LP_L-4zto_HL-LP_P.223" "PRO" "P" 437 "-" 26.73 10.95 37.68
+"4zto_HL-LP_L-4zto_HL-LP_P.224" "PRO" "P" 438 "-" 10.22 4.25 14.47
+"4zto_HL-LP_L-4zto_HL-LP_P.225" "ILE" "P" 439 "-" 114.53 4.11 118.63
+"4zto_HL-LP_L-4zto_HL-LP_P.226" "ARG" "P" 440 "-" 36.54 74.41 110.94
+"4zto_HL-LP_L-4zto_HL-LP_P.227" "GLY" "P" 441 "-" 17.33 7.19 24.52

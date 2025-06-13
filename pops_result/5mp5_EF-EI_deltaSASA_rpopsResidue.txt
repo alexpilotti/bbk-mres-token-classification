@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mp5_EF-EI_E-5mp5_EF-EI_I.32" "VAL" "E" 33 "-" 2.1 0 2.1
+"5mp5_EF-EI_E-5mp5_EF-EI_I.46" "TRP" "E" 47 "-" 0.02 0 0.02
+"5mp5_EF-EI_E-5mp5_EF-EI_I.49" "GLU" "E" 50 "-" 2.38 10.49 12.88
+"5mp5_EF-EI_E-5mp5_EF-EI_I.50" "ILE" "E" 51 "-" 0.1 0.12 0.22
+"5mp5_EF-EI_E-5mp5_EF-EI_I.51" "PHE" "E" 52 "-" 10.12 0.25 10.37
+"5mp5_EF-EI_E-5mp5_EF-EI_I.54" "SER" "E" 55 "-" 0.78 1.22 2
+"5mp5_EF-EI_E-5mp5_EF-EI_I.56" "SER" "E" 57 "-" 12.18 7.1 19.29
+"5mp5_EF-EI_E-5mp5_EF-EI_I.57" "THR" "E" 58 "-" 0.31 1.22 1.53
+"5mp5_EF-EI_E-5mp5_EF-EI_I.58" "TYR" "E" 59 "-" 71.48 40.98 112.46
+"5mp5_EF-EI_E-5mp5_EF-EI_I.100" "TYR" "E" 101 "-" 36.06 36.52 72.58
+"5mp5_EF-EI_E-5mp5_EF-EI_I.104" "PHE" "E" 105 "-" 26.05 0 26.05
+"5mp5_EF-EI_E-5mp5_EF-EI_I.218" "HIS" "I" 299 "-" 111.04 60.82 171.86
+"5mp5_EF-EI_E-5mp5_EF-EI_I.219" "VAL" "I" 300 "-" 26.09 12.35 38.45
+"5mp5_EF-EI_E-5mp5_EF-EI_I.220" "PRO" "I" 301 "-" 61.81 9.66 71.47
+"5mp5_EF-EI_E-5mp5_EF-EI_I.221" "GLY" "I" 302 "-" 14.54 7.97 22.5
+"5mp5_EF-EI_E-5mp5_EF-EI_I.222" "GLY" "I" 303 "-" 33.38 14.13 47.51
+"5mp5_EF-EI_E-5mp5_EF-EI_I.223" "GLY" "I" 304 "-" 5.75 5.41 11.16
+"5mp5_EF-EI_E-5mp5_EF-EI_I.224" "SER" "I" 305 "-" 0.39 0 0.4

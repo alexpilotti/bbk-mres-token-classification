@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6oz3_HL-LG_G-6oz3_HL-LG_L.143" "ASN" "G" 276 "-" 1.05 7.12 8.17
+"6oz3_HL-LG_G-6oz3_HL-LG_L.144" "LEU" "G" 277 "-" 0.06 0.11 0.17
+"6oz3_HL-LG_G-6oz3_HL-LG_L.145" "THR" "G" 278 "-" 28.44 16.44 44.89
+"6oz3_HL-LG_G-6oz3_HL-LG_L.146" "ASN" "G" 279 "-" 8.27 14.41 22.68
+"6oz3_HL-LG_G-6oz3_HL-LG_L.147" "ASN" "G" 280 "-" 3.35 16.69 20.04
+"6oz3_HL-LG_G-6oz3_HL-LG_L.197" "ASN" "G" 354 "-" 0 0.63 0.62
+"6oz3_HL-LG_G-6oz3_HL-LG_L.284" "ARG" "G" 456 "-" 0.03 2.91 2.94
+"6oz3_HL-LG_G-6oz3_HL-LG_L.286" "GLY" "G" 458 "-" 7.33 1.64 8.96
+"6oz3_HL-LG_G-6oz3_HL-LG_L.287" "GLY" "G" 459 "-" 30.07 12.89 42.96
+"6oz3_HL-LG_G-6oz3_HL-LG_L.288" "ALA" "G" 460 "-" 6.44 8.46 14.89
+"6oz3_HL-LG_G-6oz3_HL-LG_L.289" "ASN" "G" 461 "-" 22.07 30.9 52.96
+"6oz3_HL-LG_G-6oz3_HL-LG_L.290" "ASN" "G" 462 "-" 0 0.05 0.05
+"6oz3_HL-LG_G-6oz3_HL-LG_L.320" "LEU" "L" 3 "-" 2.97 0 2.98
+"6oz3_HL-LG_G-6oz3_HL-LG_L.341" "THR" "L" 26 "-" 0 0.49 0.49
+"6oz3_HL-LG_G-6oz3_HL-LG_L.342" "ARG" "L" 27 "-" 8.43 6.32 14.74
+"6oz3_HL-LG_G-6oz3_HL-LG_L.344" "ILE" "L" 31 "-" 8.59 0 8.6
+"6oz3_HL-LG_G-6oz3_HL-LG_L.404" "TYR" "L" 91 "-" 52.39 28.17 80.56
+"6oz3_HL-LG_G-6oz3_HL-LG_L.405" "GLU" "L" 96 "-" 9.58 14.97 24.55
+"6oz3_HL-LG_G-6oz3_HL-LG_L.406" "PHE" "L" 97 "-" 44.47 0 44.47

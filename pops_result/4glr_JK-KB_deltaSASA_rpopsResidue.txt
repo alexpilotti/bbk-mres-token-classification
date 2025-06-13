@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4glr_JK-KB_B-4glr_JK-KB_K.1" "LYS" "B" 225 "-" 96.35 17.82 114.17
+"4glr_JK-KB_B-4glr_JK-KB_K.4" "VAL" "B" 228 "-" 79.47 2.15 81.6
+"4glr_JK-KB_B-4glr_JK-KB_K.5" "VAL" "B" 229 "-" 1.4 0 1.4
+"4glr_JK-KB_B-4glr_JK-KB_K.34" "TYR" "K" 31 "-" 8.72 1.95 10.66
+"4glr_JK-KB_B-4glr_JK-KB_K.35" "ASP" "K" 32 "-" 2.89 9.1 11.99
+"4glr_JK-KB_B-4glr_JK-KB_K.54" "TRP" "K" 50 "-" 41.17 3.6 44.77
+"4glr_JK-KB_B-4glr_JK-KB_K.95" "TYR" "K" 91 "-" 10.43 5.29 15.72

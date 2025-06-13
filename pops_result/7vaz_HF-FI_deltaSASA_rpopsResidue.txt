@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7vaz_HF-FI_F-7vaz_HF-FI_I.32" "ASN" "FALSE" 33 "-" 0 0.02 0.01
+"7vaz_HF-FI_F-7vaz_HF-FI_I.33" "TYR" "FALSE" 34 "-" 17.13 8.38 25.51
+"7vaz_HF-FI_F-7vaz_HF-FI_I.35" "ASN" "FALSE" 36 "-" 0.94 8.71 9.65
+"7vaz_HF-FI_F-7vaz_HF-FI_I.50" "GLY" "FALSE" 51 "-" 1.35 0 1.35
+"7vaz_HF-FI_F-7vaz_HF-FI_I.51" "ARG" "FALSE" 52 "-" 11.6 6.4 17.99
+"7vaz_HF-FI_F-7vaz_HF-FI_I.92" "TRP" "FALSE" 93 "-" 11.55 1.52 13.07
+"7vaz_HF-FI_F-7vaz_HF-FI_I.94" "SER" "FALSE" 95 "-" 0 0.52 0.52
+"7vaz_HF-FI_F-7vaz_HF-FI_I.95" "ASN" "FALSE" 96 "-" 0.02 0 0.03
+"7vaz_HF-FI_F-7vaz_HF-FI_I.97" "PHE" "FALSE" 98 "-" 16.1 0 16.1
+"7vaz_HF-FI_F-7vaz_HF-FI_I.219" "PRO" "I" 9 "-" 0.66 0 0.67
+"7vaz_HF-FI_F-7vaz_HF-FI_I.220" "PRO" "I" 10 "-" 0.42 2.81 3.22
+"7vaz_HF-FI_F-7vaz_HF-FI_I.221" "ALA" "I" 11 "-" 50.16 26.95 77.12
+"7vaz_HF-FI_F-7vaz_HF-FI_I.222" "HIS" "I" 12 "-" 75.54 31.12 106.65
+"7vaz_HF-FI_F-7vaz_HF-FI_I.223" "GLY" "I" 13 "-" 22.83 7.57 30.4

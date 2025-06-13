@@ -1,0 +1,21 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3mls_KO-OS_O-3mls_KO-OS_S.29" "ASP" "O" 30 "-" 7.04 16.55 23.6
+"3mls_KO-OS_O-3mls_KO-OS_S.30" "LYS" "O" 31 "-" 16.1 7.13 23.24
+"3mls_KO-OS_O-3mls_KO-OS_S.31" "TYR" "O" 32 "-" 58.05 24.65 82.7
+"3mls_KO-OS_O-3mls_KO-OS_S.89" "ALA" "O" 90 "-" 0.01 0 0.01
+"3mls_KO-OS_O-3mls_KO-OS_S.90" "TRP" "O" 91 "-" 32.98 2.56 35.54
+"3mls_KO-OS_O-3mls_KO-OS_S.91" "ASP" "O" 92 "-" 1.24 1.34 2.6
+"3mls_KO-OS_O-3mls_KO-OS_S.92" "ALA" "O" 93 "-" 24.12 2.08 26.2
+"3mls_KO-OS_O-3mls_KO-OS_S.93" "SER" "O" 94 "-" 0 0.17 0.18
+"3mls_KO-OS_O-3mls_KO-OS_S.101" "THR" "O" 96 "-" 11.8 8.34 20.13
+"3mls_KO-OS_O-3mls_KO-OS_S.103" "LEU" "O" 98 "-" 47.73 0 47.73
+"3mls_KO-OS_O-3mls_KO-OS_S.104" "THR" "O" 99 "-" 0 0.18 0.18
+"3mls_KO-OS_O-3mls_KO-OS_S.222" "GLN" "S" 3 "-" 3.42 21.34 24.76
+"3mls_KO-OS_O-3mls_KO-OS_S.224" "PHE" "S" 5 "-" 32.45 0 32.46
+"3mls_KO-OS_O-3mls_KO-OS_S.225" "TYR" "S" 6 "-" 4.79 5.78 10.57
+"3mls_KO-OS_O-3mls_KO-OS_S.233" "ILE" "S" 14 "-" 51.68 0.01 51.69
+"3mls_KO-OS_O-3mls_KO-OS_S.234" "HIS" "S" 15 "-" 5.65 9.23 14.86
+"3mls_KO-OS_O-3mls_KO-OS_S.235" "ILE" "S" 16 "-" 69.52 20.4 89.93
+"3mls_KO-OS_O-3mls_KO-OS_S.236" "GLY" "S" 17 "-" 18.29 7.21 25.5
+"3mls_KO-OS_O-3mls_KO-OS_S.237" "ALA" "S" 18 "-" 31.48 6.64 38.11
+"3mls_KO-OS_O-3mls_KO-OS_S.238" "CYS" "S" 19 "-" 0 0.17 0.16

@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3whe_12-2H_H-3whe_12-2H_2.42" "LYS" "H" 50 "-" 2.28 4.8 7.07
+"3whe_12-2H_H-3whe_12-2H_2.523" "ALA" "2" 31 "-" 0 0.09 0.09
+"3whe_12-2H_H-3whe_12-2H_2.525" "TYR" "2" 33 "-" 2.48 0 2.49

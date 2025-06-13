@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4r2g_DC-CO_C-4r2g_DC-CO_O.22" "LEU" "C" 28 "-" 1.11 1.26 2.37
+"4r2g_DC-CO_C-4r2g_DC-CO_O.23" "GLY" "C" 29 "-" 11.8 2.84 14.65
+"4r2g_DC-CO_C-4r2g_DC-CO_O.24" "SER" "C" 30 "-" 11.31 13.09 24.41
+"4r2g_DC-CO_C-4r2g_DC-CO_O.64" "PHE" "C" 67 "-" 52.5 0 52.5
+"4r2g_DC-CO_C-4r2g_DC-CO_O.90" "SER" "C" 93 "-" 7.99 8.72 16.71
+"4r2g_DC-CO_C-4r2g_DC-CO_O.91" "ARG" "C" 94 "-" 22.91 57.86 80.77
+"4r2g_DC-CO_C-4r2g_DC-CO_O.347" "ASN" "O" 301 "-" 0.55 9.3 9.86
+"4r2g_DC-CO_C-4r2g_DC-CO_O.349" "ILE" "O" 322 "-" 11.07 0.95 12.03
+"4r2g_DC-CO_C-4r2g_DC-CO_O.350" "ILE" "O" 323 "-" 26.7 8.59 35.28
+"4r2g_DC-CO_C-4r2g_DC-CO_O.351" "GLY" "O" 324 "-" 14.93 10.42 25.35
+"4r2g_DC-CO_C-4r2g_DC-CO_O.352" "ASP" "O" 325 "-" 30.13 55.71 85.85
+"4r2g_DC-CO_C-4r2g_DC-CO_O.353" "ILE" "O" 326 "-" 36.47 1.48 37.95

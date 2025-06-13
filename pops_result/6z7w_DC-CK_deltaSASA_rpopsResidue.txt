@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6z7w_DC-CK_C-6z7w_DC-CK_K.27" "GLN" "C" 27 "-" 0 1.67 1.67
+"6z7w_DC-CK_C-6z7w_DC-CK_K.30" "ARG" "C" 30 "-" 1.06 16.26 17.31
+"6z7w_DC-CK_C-6z7w_DC-CK_K.32" "ALA" "C" 32 "-" 2.27 0.08 2.35
+"6z7w_DC-CK_C-6z7w_DC-CK_K.50" "LEU" "C" 50 "-" 1.54 0 1.54
+"6z7w_DC-CK_C-6z7w_DC-CK_K.91" "HIS" "C" 91 "-" 5.66 8.36 14.01
+"6z7w_DC-CK_C-6z7w_DC-CK_K.92" "TRP" "C" 92 "-" 44.27 11.97 56.24
+"6z7w_DC-CK_C-6z7w_DC-CK_K.93" "ASN" "C" 93 "-" 11.93 31.61 43.55
+"6z7w_DC-CK_C-6z7w_DC-CK_K.94" "TYR" "C" 94 "-" 50.3 25.85 76.15
+"6z7w_DC-CK_C-6z7w_DC-CK_K.223" "ILE" "K" 10 "-" 30.97 2.12 33.08
+"6z7w_DC-CK_C-6z7w_DC-CK_K.224" "CYS" "K" 11 "-" 1.42 7.84 9.26
+"6z7w_DC-CK_C-6z7w_DC-CK_K.225" "SER" "K" 12 "-" 20.86 5.19 26.04
+"6z7w_DC-CK_C-6z7w_DC-CK_K.226" "LEU" "K" 13 "-" 87.77 4.03 91.8
+"6z7w_DC-CK_C-6z7w_DC-CK_K.227" "TYR" "K" 14 "-" 63.91 2.82 66.75
+"6z7w_DC-CK_C-6z7w_DC-CK_K.228" "GLN" "K" 15 "-" 0.73 0.98 1.71
+"6z7w_DC-CK_C-6z7w_DC-CK_K.230" "GLU" "K" 17 "-" 15.9 39.11 55.01

@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6wg2_IM-MP_M-6wg2_IM-MP_P.90" "HIS" "M" 90 "-" 0.12 0.1 0.23
+"6wg2_IM-MP_M-6wg2_IM-MP_P.91" "TYR" "M" 91 "-" 5.01 3.44 8.45
+"6wg2_IM-MP_M-6wg2_IM-MP_P.92" "ASN" "M" 92 "-" 0.8 2.24 3.05
+"6wg2_IM-MP_M-6wg2_IM-MP_P.93" "SER" "M" 93 "-" 13.54 12.35 25.91
+"6wg2_IM-MP_M-6wg2_IM-MP_P.94" "TYR" "M" 94 "-" 115.49 26.87 142.37
+"6wg2_IM-MP_M-6wg2_IM-MP_P.95" "SER" "M" 95 "-" 3.71 7.06 10.77
+"6wg2_IM-MP_M-6wg2_IM-MP_P.96" "ARG" "M" 95 "A" 14.79 2.09 16.87
+"6wg2_IM-MP_M-6wg2_IM-MP_P.97" "ILE" "M" 96 "-" 15.37 0.84 16.22
+"6wg2_IM-MP_M-6wg2_IM-MP_P.220" "ASN" "P" 6 "-" 6.52 21.71 28.23
+"6wg2_IM-MP_M-6wg2_IM-MP_P.221" "PRO" "P" 7 "-" 0.08 0 0.08
+"6wg2_IM-MP_M-6wg2_IM-MP_P.222" "ASN" "P" 8 "-" 3.3 7.44 10.74
+"6wg2_IM-MP_M-6wg2_IM-MP_P.223" "ALA" "P" 9 "-" 12.87 9.05 21.93
+"6wg2_IM-MP_M-6wg2_IM-MP_P.224" "ASN" "P" 10 "-" 22.93 28.44 51.38
+"6wg2_IM-MP_M-6wg2_IM-MP_P.225" "PRO" "P" 11 "-" 40.44 0.47 40.91
+"6wg2_IM-MP_M-6wg2_IM-MP_P.226" "ASN" "P" 12 "-" 21.28 55.65 76.93

@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3eyf_DC-CF_C-3eyf_DC-CF_F.33" "TYR" "C" 32 "-" 18.1 21.1 39.19
+"3eyf_DC-CF_C-3eyf_DC-CF_F.47" "LEU" "C" 46 "-" 8.36 0 8.36
+"3eyf_DC-CF_C-3eyf_DC-CF_F.50" "PHE" "C" 49 "-" 16.75 0 16.74
+"3eyf_DC-CF_C-3eyf_DC-CF_F.51" "ASP" "C" 50 "-" 0.33 4.43 4.76
+"3eyf_DC-CF_C-3eyf_DC-CF_F.56" "ALA" "C" 55 "-" 0.48 0 0.48
+"3eyf_DC-CF_C-3eyf_DC-CF_F.57" "THR" "C" 56 "-" 7.11 0 7.1
+"3eyf_DC-CF_C-3eyf_DC-CF_F.92" "ARG" "C" 91 "-" 9.46 45.57 55.03
+"3eyf_DC-CF_C-3eyf_DC-CF_F.93" "SER" "C" 92 "-" 0.36 1.75 2.1
+"3eyf_DC-CF_C-3eyf_DC-CF_F.95" "TRP" "C" 94 "-" 37.9 10.24 48.14
+"3eyf_DC-CF_C-3eyf_DC-CF_F.96" "PRO" "C" 95 "-" 9.09 0.13 9.22
+"3eyf_DC-CF_C-3eyf_DC-CF_F.216" "THR" "FALSE" 2 "-" 3.36 1.88 5.24
+"3eyf_DC-CF_C-3eyf_DC-CF_F.217" "ILE" "FALSE" 3 "-" 0 0.34 0.35
+"3eyf_DC-CF_C-3eyf_DC-CF_F.218" "TYR" "FALSE" 4 "-" 60.51 18.84 79.34
+"3eyf_DC-CF_C-3eyf_DC-CF_F.219" "ASN" "FALSE" 5 "-" 24.36 26.52 50.87
+"3eyf_DC-CF_C-3eyf_DC-CF_F.220" "THR" "FALSE" 6 "-" 0.8 3.9 4.7
+"3eyf_DC-CF_C-3eyf_DC-CF_F.221" "THR" "FALSE" 7 "-" 58.74 32.66 91.39
+"3eyf_DC-CF_C-3eyf_DC-CF_F.222" "LEU" "FALSE" 8 "-" 78.34 1.23 79.57

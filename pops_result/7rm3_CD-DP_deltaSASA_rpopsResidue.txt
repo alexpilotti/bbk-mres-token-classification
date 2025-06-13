@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7rm3_CD-DP_D-7rm3_CD-DP_P.31" "THR" "D" 27 "D" 2.98 0 2.98
+"7rm3_CD-DP_D-7rm3_CD-DP_P.34" "LYS" "D" 28 "-" 13.55 18.18 31.73
+"7rm3_CD-DP_D-7rm3_CD-DP_P.38" "TYR" "D" 32 "-" 11.69 6.67 18.36
+"7rm3_CD-DP_D-7rm3_CD-DP_P.97" "ASP" "D" 91 "-" 0.35 2.4 2.75
+"7rm3_CD-DP_D-7rm3_CD-DP_P.98" "TYR" "D" 92 "-" 8.18 10.15 18.34
+"7rm3_CD-DP_D-7rm3_CD-DP_P.99" "SER" "D" 93 "-" 3.21 0.37 3.57
+"7rm3_CD-DP_D-7rm3_CD-DP_P.100" "TYR" "D" 94 "-" 6.64 0.78 7.42
+"7rm3_CD-DP_D-7rm3_CD-DP_P.102" "PHE" "D" 96 "-" 17.32 0 17.32
+"7rm3_CD-DP_D-7rm3_CD-DP_P.226" "PRO" "P" 8 "-" 21.84 1.95 23.79
+"7rm3_CD-DP_D-7rm3_CD-DP_P.227" "GLY" "P" 9 "-" 25.28 16.79 42.07
+"7rm3_CD-DP_D-7rm3_CD-DP_P.228" "ALA" "P" 10 "-" 62.27 16.37 78.64
+"7rm3_CD-DP_D-7rm3_CD-DP_P.229" "ASN" "P" 11 "-" 1.14 4.6 5.74
+"7rm3_CD-DP_D-7rm3_CD-DP_P.230" "GLY" "P" 12 "-" 0.06 0 0.07
+"7rm3_CD-DP_D-7rm3_CD-DP_P.231" "ALA" "P" 13 "-" 47.73 17.57 65.3

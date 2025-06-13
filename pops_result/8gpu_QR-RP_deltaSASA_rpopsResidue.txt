@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8gpu_QR-RP_P-8gpu_QR-RP_R.64" "VAL" "P" 64 "-" 41.12 0.76 41.88
+"8gpu_QR-RP_P-8gpu_QR-RP_R.65" "LEU" "P" 65 "-" 3.14 12.19 15.34
+"8gpu_QR-RP_P-8gpu_QR-RP_R.66" "THR" "P" 66 "-" 35.93 3.98 39.9
+"8gpu_QR-RP_P-8gpu_QR-RP_R.67" "HIS" "P" 67 "-" 67.61 26.68 94.29
+"8gpu_QR-RP_P-8gpu_QR-RP_R.68" "VAL" "P" 68 "-" 0 0.02 0.01
+"8gpu_QR-RP_P-8gpu_QR-RP_R.69" "LYS" "P" 69 "-" 0.06 0 0.06
+"8gpu_QR-RP_P-8gpu_QR-RP_R.87" "ASP" "P" 87 "-" 0 0.42 0.41
+"8gpu_QR-RP_P-8gpu_QR-RP_R.89" "ASP" "P" 89 "-" 0.01 2.08 2.09
+"8gpu_QR-RP_P-8gpu_QR-RP_R.118" "LYS" "P" 118 "-" 18.89 3.2 22.1
+"8gpu_QR-RP_P-8gpu_QR-RP_R.120" "THR" "P" 120 "-" 16.47 6.64 23.09
+"8gpu_QR-RP_P-8gpu_QR-RP_R.419" "THR" "R" 31 "-" 9.74 4.26 14
+"8gpu_QR-RP_P-8gpu_QR-RP_R.420" "TYR" "R" 32 "-" 29.74 14.45 44.19
+"8gpu_QR-RP_P-8gpu_QR-RP_R.421" "ASN" "R" 33 "-" 0.1 0.73 0.83
+"8gpu_QR-RP_P-8gpu_QR-RP_R.422" "LEU" "R" 34 "-" 10.84 0 10.84
+"8gpu_QR-RP_P-8gpu_QR-RP_R.440" "GLU" "R" 52 "-" 2.42 7.79 10.2
+"8gpu_QR-RP_P-8gpu_QR-RP_R.481" "TYR" "R" 93 "-" 5.74 6.59 12.33
+"8gpu_QR-RP_P-8gpu_QR-RP_R.484" "THR" "R" 96 "-" 23.71 10.07 33.78
+"8gpu_QR-RP_P-8gpu_QR-RP_R.487" "PHE" "R" 99 "-" 25.16 0 25.15
+"8gpu_QR-RP_P-8gpu_QR-RP_R.488" "TRP" "R" 100 "-" 9.42 0 9.43

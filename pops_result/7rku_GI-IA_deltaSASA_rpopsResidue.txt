@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7rku_GI-IA_A-7rku_GI-IA_I.46" "LYS" "A" 378 "-" 6.18 10.02 16.2
+"7rku_GI-IA_A-7rku_GI-IA_I.73" "ASP" "A" 405 "-" 0 1.6 1.6
+"7rku_GI-IA_A-7rku_GI-IA_I.76" "ARG" "A" 408 "-" 27.78 65.33 93.11
+"7rku_GI-IA_A-7rku_GI-IA_I.77" "GLN" "A" 409 "-" 0.33 1.36 1.71
+"7rku_GI-IA_A-7rku_GI-IA_I.82" "GLN" "A" 414 "-" 1.6 17.1 18.7
+"7rku_GI-IA_A-7rku_GI-IA_I.83" "THR" "A" 415 "-" 6.69 16.03 22.72
+"7rku_GI-IA_A-7rku_GI-IA_I.84" "GLY" "A" 416 "-" 3.68 1.09 4.76
+"7rku_GI-IA_A-7rku_GI-IA_I.85" "LYS" "A" 417 "-" 0 0.05 0.05
+"7rku_GI-IA_A-7rku_GI-IA_I.228" "TRP" "I" 32 "-" 0.59 0 0.6
+"7rku_GI-IA_A-7rku_GI-IA_I.245" "TYR" "I" 47 "-" 15.99 26.55 42.55
+"7rku_GI-IA_A-7rku_GI-IA_I.246" "LYS" "I" 48 "-" 3.73 7.87 11.6
+"7rku_GI-IA_A-7rku_GI-IA_I.249" "SER" "I" 51 "-" 6.98 5.41 12.39
+"7rku_GI-IA_A-7rku_GI-IA_I.250" "LEU" "I" 52 "-" 2.7 5.8 8.5
+"7rku_GI-IA_A-7rku_GI-IA_I.251" "GLU" "I" 53 "-" 1.77 11.65 13.43
+"7rku_GI-IA_A-7rku_GI-IA_I.252" "SER" "I" 54 "-" 26.69 24.75 51.45

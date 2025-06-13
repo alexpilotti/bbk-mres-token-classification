@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4xtr_CD-DB_B-4xtr_CD-DB_D.216" "GLU" "B" 253 "-" 4.12 10.34 14.46
+"4xtr_CD-DB_B-4xtr_CD-DB_D.219" "ILE" "B" 256 "-" 4.73 0.09 4.82
+"4xtr_CD-DB_B-4xtr_CD-DB_D.220" "GLN" "B" 257 "-" 6.08 21.96 28.03
+"4xtr_CD-DB_B-4xtr_CD-DB_D.223" "ILE" "B" 260 "-" 13.24 0 13.25
+"4xtr_CD-DB_B-4xtr_CD-DB_D.229" "VAL" "B" 266 "-" 0.09 0 0.1
+"4xtr_CD-DB_B-4xtr_CD-DB_D.262" "GLU" "B" 304 "-" 13.59 38.48 52.07
+"4xtr_CD-DB_B-4xtr_CD-DB_D.263" "LEU" "B" 305 "-" 25.25 2.62 27.88
+"4xtr_CD-DB_B-4xtr_CD-DB_D.264" "TYR" "B" 306 "-" 4.65 1.38 6.03
+"4xtr_CD-DB_B-4xtr_CD-DB_D.265" "GLU" "B" 307 "-" 15.24 55.74 70.97
+"4xtr_CD-DB_B-4xtr_CD-DB_D.266" "ASP" "B" 308 "-" 5.91 22.84 28.76
+"4xtr_CD-DB_B-4xtr_CD-DB_D.267" "PHE" "B" 309 "-" 7.25 0 7.25
+"4xtr_CD-DB_B-4xtr_CD-DB_D.340" "VAL" "D" 30 "-" 0.03 0.34 0.38
+"4xtr_CD-DB_B-4xtr_CD-DB_D.341" "SER" "D" 31 "-" 16.29 16.84 33.12
+"4xtr_CD-DB_B-4xtr_CD-DB_D.342" "SER" "D" 32 "-" 7.02 6.38 13.39
+"4xtr_CD-DB_B-4xtr_CD-DB_D.343" "ALA" "D" 33 "-" 0.74 0.37 1.11
+"4xtr_CD-DB_B-4xtr_CD-DB_D.360" "TYR" "D" 50 "-" 7.56 1.42 8.99
+"4xtr_CD-DB_B-4xtr_CD-DB_D.361" "SER" "D" 51 "-" 3.12 4.07 7.19
+"4xtr_CD-DB_B-4xtr_CD-DB_D.377" "ARG" "D" 67 "-" 0 1.31 1.32
+"4xtr_CD-DB_B-4xtr_CD-DB_D.402" "TYR" "D" 92 "-" 0.68 0.39 1.07
+"4xtr_CD-DB_B-4xtr_CD-DB_D.403" "PRO" "D" 93 "-" 0.03 0 0.04
+"4xtr_CD-DB_B-4xtr_CD-DB_D.404" "TYR" "D" 94 "-" 125.42 49.04 174.44
+"4xtr_CD-DB_B-4xtr_CD-DB_D.405" "TYR" "D" 95 "-" 1.06 0.51 1.56

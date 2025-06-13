@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8ivx_HL-LA_A-8ivx_HL-LA_L.17" "PHE" "A" 165 "-" 5.83 0 5.82
+"8ivx_HL-LA_A-8ivx_HL-LA_L.18" "PRO" "A" 166 "-" 38.44 4.81 43.24
+"8ivx_HL-LA_A-8ivx_HL-LA_L.19" "GLU" "A" 167 "-" 13.28 18.62 31.91
+"8ivx_HL-LA_A-8ivx_HL-LA_L.44" "LEU" "A" 192 "-" 2.19 0.21 2.4
+"8ivx_HL-LA_A-8ivx_HL-LA_L.45" "ILE" "A" 193 "-" 39.85 0 39.84
+"8ivx_HL-LA_A-8ivx_HL-LA_L.47" "ASP" "A" 195 "-" 0.19 2.62 2.81
+"8ivx_HL-LA_A-8ivx_HL-LA_L.98" "SER" "A" 261 "-" 0.34 0.37 0.72
+"8ivx_HL-LA_A-8ivx_HL-LA_L.100" "ARG" "A" 263 "-" 0.36 10.59 10.95
+"8ivx_HL-LA_A-8ivx_HL-LA_L.435" "ASN" "L" 28 "-" 13.57 23.42 36.99
+"8ivx_HL-LA_A-8ivx_HL-LA_L.436" "VAL" "L" 29 "-" 0.95 1.33 2.27
+"8ivx_HL-LA_A-8ivx_HL-LA_L.437" "GLY" "L" 30 "-" 7.17 1.36 8.54
+"8ivx_HL-LA_A-8ivx_HL-LA_L.438" "THR" "L" 31 "-" 0.09 2.01 2.11
+"8ivx_HL-LA_A-8ivx_HL-LA_L.439" "ALA" "L" 32 "-" 2.52 0 2.52
+"8ivx_HL-LA_A-8ivx_HL-LA_L.498" "TYR" "L" 91 "-" 2.82 3.28 6.11
+"8ivx_HL-LA_A-8ivx_HL-LA_L.499" "SER" "L" 92 "-" 7.42 24.93 32.36
+"8ivx_HL-LA_A-8ivx_HL-LA_L.500" "SER" "L" 93 "-" 4.36 0.78 5.13
+"8ivx_HL-LA_A-8ivx_HL-LA_L.501" "TYR" "L" 94 "-" 6.35 0.12 6.48

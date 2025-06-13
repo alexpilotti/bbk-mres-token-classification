@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6ute_CD-DS_D-6ute_CD-DS_S.32" "TRP" "D" 32 "-" 36.73 1.44 38.18
+"6ute_CD-DS_D-6ute_CD-DS_S.49" "TYR" "D" 49 "-" 5.08 0 5.08
+"6ute_CD-DS_D-6ute_CD-DS_S.91" "TYR" "D" 91 "-" 6.47 1.82 8.29
+"6ute_CD-DS_D-6ute_CD-DS_S.92" "PHE" "D" 92 "-" 1.41 2.75 4.17
+"6ute_CD-DS_D-6ute_CD-DS_S.93" "SER" "D" 93 "-" 0.82 0.75 1.58
+"6ute_CD-DS_D-6ute_CD-DS_S.94" "TYR" "D" 94 "-" 76.61 42.79 119.39
+"6ute_CD-DS_D-6ute_CD-DS_S.215" "VAL" "S" 304 "-" 0 0.1 0.1
+"6ute_CD-DS_D-6ute_CD-DS_S.216" "CYS" "S" 305 "-" 0.03 0 0.03
+"6ute_CD-DS_D-6ute_CD-DS_S.217" "SER" "S" 306 "-" 19.14 13.89 33.03
+"6ute_CD-DS_D-6ute_CD-DS_S.218" "LYS" "S" 307 "-" 33.62 20.33 53.94
+"6ute_CD-DS_D-6ute_CD-DS_S.240" "TYR" "S" 329 "-" 0 0.06 0.06
+"6ute_CD-DS_D-6ute_CD-DS_S.244" "ASP" "S" 333 "-" 2.87 4.65 7.52
+"6ute_CD-DS_D-6ute_CD-DS_S.301" "GLU" "S" 390 "-" 51.04 26.9 77.95
+"6ute_CD-DS_D-6ute_CD-DS_S.302" "GLN" "S" 391 "-" 43.31 65.09 108.4
+"6ute_CD-DS_D-6ute_CD-DS_S.303" "GLN" "S" 392 "-" 0 0.02 0.03

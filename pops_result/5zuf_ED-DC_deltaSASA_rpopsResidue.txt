@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5zuf_ED-DC_C-5zuf_ED-DC_D.76" "GLN" "C" 76 "-" 0 0.49 0.49
+"5zuf_ED-DC_C-5zuf_ED-DC_D.78" "GLY" "C" 78 "-" 0.05 0 0.05
+"5zuf_ED-DC_C-5zuf_ED-DC_D.291" "ARG" "D" 52 "-" 0 0.64 0.64

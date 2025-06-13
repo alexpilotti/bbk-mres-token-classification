@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2hmi_DC-CB_B-2hmi_DC-CB_C.223" "LYS" "B" 223 "-" 0 1.16 1.16
+"2hmi_DC-CB_B-2hmi_DC-CB_C.224" "GLU" "B" 224 "-" 21.63 32.06 53.69
+"2hmi_DC-CB_B-2hmi_DC-CB_C.225" "PRO" "B" 225 "-" 29.51 4.79 34.3
+"2hmi_DC-CB_B-2hmi_DC-CB_C.226" "PRO" "B" 226 "-" 21 0.44 21.43
+"2hmi_DC-CB_B-2hmi_DC-CB_C.227" "PHE" "B" 227 "-" 12.13 0.06 12.2
+"2hmi_DC-CB_B-2hmi_DC-CB_C.358" "ARG" "B" 358 "-" 10.02 38.68 48.69
+"2hmi_DC-CB_B-2hmi_DC-CB_C.462" "TYR" "C" 32 "-" 12.83 20.37 33.2
+"2hmi_DC-CB_B-2hmi_DC-CB_C.480" "TYR" "C" 50 "-" 14.13 13.98 28.1
+"2hmi_DC-CB_B-2hmi_DC-CB_C.521" "TYR" "C" 91 "-" 19.74 6.82 26.57
+"2hmi_DC-CB_B-2hmi_DC-CB_C.522" "SER" "C" 92 "-" 3.19 8.61 11.8
+"2hmi_DC-CB_B-2hmi_DC-CB_C.523" "LYS" "C" 93 "-" 0.26 0.21 0.47
+"2hmi_DC-CB_B-2hmi_DC-CB_C.524" "PHE" "C" 94 "-" 17.6 0.16 17.75
+"2hmi_DC-CB_B-2hmi_DC-CB_C.526" "TRP" "C" 96 "-" 12.89 0.56 13.45

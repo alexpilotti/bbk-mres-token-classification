@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7rxc_HL-LB_L-7rxc_HL-LB_B.127" "ASP" "L" 127 "-" 0 0.02 0.02
+"7rxc_HL-LB_L-7rxc_HL-LB_B.128" "GLU" "L" 128 "-" 24.43 13.56 38
+"7rxc_HL-LB_L-7rxc_HL-LB_B.129" "GLN" "L" 129 "-" 0.06 0.06 0.14
+"7rxc_HL-LB_L-7rxc_HL-LB_B.131" "LYS" "L" 131 "-" 29.77 1.42 31.2
+"7rxc_HL-LB_L-7rxc_HL-LB_B.132" "SER" "L" 132 "-" 16.42 3.65 20.08
+"7rxc_HL-LB_L-7rxc_HL-LB_B.134" "THR" "L" 134 "-" 0 0.17 0.17
+"7rxc_HL-LB_L-7rxc_HL-LB_B.598" "THR" "B" 491 "-" 11.72 4.85 16.58
+"7rxc_HL-LB_L-7rxc_HL-LB_B.599" "LEU" "B" 492 "-" 1.41 0 1.41
+"7rxc_HL-LB_L-7rxc_HL-LB_B.622" "ASN" "B" 515 "-" 1.71 7.07 8.77
+"7rxc_HL-LB_L-7rxc_HL-LB_B.623" "ASP" "B" 516 "-" 4.32 15.22 19.53
+"7rxc_HL-LB_L-7rxc_HL-LB_B.624" "ASN" "B" 517 "-" 0.48 3.56 4.03
+"7rxc_HL-LB_L-7rxc_HL-LB_B.625" "GLY" "B" 518 "-" 14.55 9.22 23.75
+"7rxc_HL-LB_L-7rxc_HL-LB_B.626" "VAL" "B" 519 "-" 0.12 0.46 0.59
+"7rxc_HL-LB_L-7rxc_HL-LB_B.627" "ASP" "B" 520 "-" 4.18 1.08 5.27

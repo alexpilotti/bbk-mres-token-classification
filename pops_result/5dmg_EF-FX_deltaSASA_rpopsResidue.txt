@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5dmg_EF-FX_F-5dmg_EF-FX_X.29" "ARG" "FALSE" 571 "-" 0 0.12 0.11
+"5dmg_EF-FX_F-5dmg_EF-FX_X.34" "ALA" "FALSE" 599 "-" 1.67 0.06 1.74
+"5dmg_EF-FX_F-5dmg_EF-FX_X.36" "PHE" "FALSE" 602 "-" 4.16 0 4.15
+"5dmg_EF-FX_F-5dmg_EF-FX_X.46" "ARG" "FALSE" 612 "-" 1.24 10.72 11.96
+"5dmg_EF-FX_F-5dmg_EF-FX_X.49" "TYR" "FALSE" 615 "-" 0.97 0 0.98
+"5dmg_EF-FX_F-5dmg_EF-FX_X.89" "LEU" "FALSE" 751 "-" 7.26 0 7.26
+"5dmg_EF-FX_F-5dmg_EF-FX_X.91" "TYR" "FALSE" 753 "-" 30.79 40.1 70.9
+"5dmg_EF-FX_F-5dmg_EF-FX_X.99" "CYS" "FALSE" 797 "-" 2.19 0.03 2.22
+"5dmg_EF-FX_F-5dmg_EF-FX_X.100" "VAL" "FALSE" 798 "-" 15 0.03 15.04
+"5dmg_EF-FX_F-5dmg_EF-FX_X.102" "PHE" "FALSE" 801 "-" 0.9 0 0.9
+"5dmg_EF-FX_F-5dmg_EF-FX_X.219" "PRO" "X" 423 "-" 59.25 9.17 68.42
+"5dmg_EF-FX_F-5dmg_EF-FX_X.220" "GLN" "X" 424 "-" 6.09 3.59 9.68
+"5dmg_EF-FX_F-5dmg_EF-FX_X.221" "LEU" "X" 425 "-" 85.13 30.67 115.81

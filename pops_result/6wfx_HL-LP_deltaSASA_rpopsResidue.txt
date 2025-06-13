@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6wfx_HL-LP_L-6wfx_HL-LP_P.93" "TRP" "L" 96 "-" 16.91 0.58 17.49
+"6wfx_HL-LP_L-6wfx_HL-LP_P.211" "ASN" "P" 2 "-" 1.04 0.15 1.2
+"6wfx_HL-LP_L-6wfx_HL-LP_P.212" "PRO" "P" 3 "-" 30.72 0.3 31.02

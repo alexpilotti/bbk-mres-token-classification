@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6uyd_AB-BF_B-6uyd_AB-BF_F.47" "TYR" "B" 49 "-" 0.23 0 0.24
+"6uyd_AB-BF_B-6uyd_AB-BF_F.223" "GLU" "FALSE" 431 "-" 0 0.13 0.12
+"6uyd_AB-BF_B-6uyd_AB-BF_F.227" "THR" "FALSE" 435 "-" 0.1 0.04 0.15

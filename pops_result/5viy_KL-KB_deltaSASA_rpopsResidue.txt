@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5viy_KL-KB_B-5viy_KL-KB_K.86" "ARG" "B" 617 "-" 0 0.61 0.62
+"5viy_KL-KB_B-5viy_KL-KB_K.97" "TRP" "B" 628 "-" 3.42 1.15 4.57
+"5viy_KL-KB_B-5viy_KL-KB_K.98" "LEU" "B" 629 "-" 41.61 0.26 41.87
+"5viy_KL-KB_B-5viy_KL-KB_K.99" "GLN" "B" 630 "-" 20.18 74.85 95.02
+"5viy_KL-KB_B-5viy_KL-KB_K.101" "ASP" "B" 632 "-" 1.81 1.01 2.83
+"5viy_KL-KB_B-5viy_KL-KB_K.102" "LYS" "B" 633 "-" 36.43 36.41 72.84
+"5viy_KL-KB_B-5viy_KL-KB_K.105" "SER" "B" 636 "-" 0.06 0 0.06
+"5viy_KL-KB_B-5viy_KL-KB_K.240" "ARG" "K" 100 "-" 28.45 29.39 57.84
+"5viy_KL-KB_B-5viy_KL-KB_K.241" "TRP" "K" 100 "A" 34.64 9.87 44.51
+"5viy_KL-KB_B-5viy_KL-KB_K.242" "SER" "K" 100 "B" 0.18 0.25 0.42
+"5viy_KL-KB_B-5viy_KL-KB_K.243" "GLY" "K" 100 "C" 1.41 0.52 1.94
+"5viy_KL-KB_B-5viy_KL-KB_K.245" "HIS" "K" 100 "E" 0.36 0.87 1.23
+"5viy_KL-KB_B-5viy_KL-KB_K.246" "HIS" "K" 100 "F" 25.61 13.76 39.37
+"5viy_KL-KB_B-5viy_KL-KB_K.247" "ASP" "K" 100 "G" 9.73 24.63 34.36

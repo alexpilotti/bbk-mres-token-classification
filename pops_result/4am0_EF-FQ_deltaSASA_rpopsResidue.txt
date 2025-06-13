@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.32" "SER" "FALSE" 32 "-" 0.1 0.08 0.17
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.91" "HIS" "FALSE" 91 "-" 3.02 3.73 6.74
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.92" "TRP" "FALSE" 92 "-" 10.59 6.55 17.14
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.93" "THR" "FALSE" 93 "-" 24 1.76 25.75
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.94" "TYR" "FALSE" 94 "-" 67.76 34.3 102.06
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.96" "TYR" "FALSE" 96 "-" 15.42 14.53 29.96
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.227" "GLU" "Q" 314 "-" 0.03 0.38 0.42
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.228" "THR" "Q" 315 "-" 5.44 0.88 6.32
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.229" "GLN" "Q" 316 "-" 44.3 39.18 83.47
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.230" "HIS" "Q" 317 "-" 44.49 18.6 63.08
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.232" "THR" "Q" 319 "-" 1.53 0.12 1.66
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.234" "VAL" "Q" 321 "-" 2.12 0 2.12
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.262" "ILE" "Q" 352 "-" 23.13 1.18 24.31
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.263" "SER" "Q" 353 "-" 0 0.01 0.01
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.278" "GLU" "Q" 368 "-" 2.14 16.98 19.12
+"4am0_EF-FQ_F-4am0_EF-FQ_Q.280" "GLU" "Q" 370 "-" 1.21 9.32 10.54

@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5vyf_BA-AC_A-5vyf_BA-AC_C.32" "TRP" "A" 32 "-" 38.59 2.67 41.26
+"5vyf_BA-AC_A-5vyf_BA-AC_C.50" "LYS" "A" 50 "-" 2.72 1.71 4.43
+"5vyf_BA-AC_A-5vyf_BA-AC_C.91" "TYR" "A" 91 "-" 9.16 4.57 13.72
+"5vyf_BA-AC_A-5vyf_BA-AC_C.92" "ASN" "A" 92 "-" 2.03 9.85 11.88
+"5vyf_BA-AC_A-5vyf_BA-AC_C.93" "SER" "A" 93 "-" 2.85 0.68 3.55
+"5vyf_BA-AC_A-5vyf_BA-AC_C.94" "TYR" "A" 94 "-" 44.89 18.54 63.43
+"5vyf_BA-AC_A-5vyf_BA-AC_C.96" "LEU" "A" 96 "-" 0.71 0 0.71
+"5vyf_BA-AC_A-5vyf_BA-AC_C.214" "ILE" "C" 9 "-" 5.92 0 5.92
+"5vyf_BA-AC_A-5vyf_BA-AC_C.228" "LEU" "C" 23 "-" 57.05 0.76 57.81
+"5vyf_BA-AC_A-5vyf_BA-AC_C.229" "LEU" "C" 24 "-" 12.93 0.06 12.99
+"5vyf_BA-AC_A-5vyf_BA-AC_C.232" "LEU" "C" 27 "-" 53.91 0.08 53.99
+"5vyf_BA-AC_A-5vyf_BA-AC_C.235" "THR" "C" 30 "-" 10.79 0.82 11.61
+"5vyf_BA-AC_A-5vyf_BA-AC_C.236" "LYS" "C" 31 "-" 54.93 32.14 87.08
+"5vyf_BA-AC_A-5vyf_BA-AC_C.237" "VAL" "C" 32 "-" 0.89 0.29 1.17
+"5vyf_BA-AC_A-5vyf_BA-AC_C.346" "LEU" "C" 161 "-" 6.97 0 6.96

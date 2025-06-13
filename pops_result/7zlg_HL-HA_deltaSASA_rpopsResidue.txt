@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7zlg_HL-HA_H-7zlg_HL-HA_A.57" "TYR" "H" 60 "-" 10.52 11.92 22.44
+"7zlg_HL-HA_H-7zlg_HL-HA_A.102" "VAL" "H" 105 "-" 9.59 2.78 12.37
+"7zlg_HL-HA_H-7zlg_HL-HA_A.103" "TYR" "H" 106 "-" 5.48 2.23 7.71
+"7zlg_HL-HA_H-7zlg_HL-HA_A.104" "TRP" "H" 107 "-" 0.09 0.07 0.17
+"7zlg_HL-HA_H-7zlg_HL-HA_A.105" "SER" "H" 108 "-" 8.43 3.82 12.25
+"7zlg_HL-HA_H-7zlg_HL-HA_A.106" "TRP" "H" 109 "-" 16.44 4.45 20.88
+"7zlg_HL-HA_H-7zlg_HL-HA_A.107" "TRP" "H" 110 "-" 71.36 21.13 92.49
+"7zlg_HL-HA_H-7zlg_HL-HA_A.108" "GLY" "H" 111 "-" 10.97 3.44 14.41
+"7zlg_HL-HA_H-7zlg_HL-HA_A.109" "TYR" "H" 112 "-" 15.76 6.24 22
+"7zlg_HL-HA_H-7zlg_HL-HA_A.540" "LEU" "A" 336 "-" 1.52 0.13 1.65
+"7zlg_HL-HA_H-7zlg_HL-HA_A.541" "SER" "A" 337 "-" 0.05 0.01 0.07
+"7zlg_HL-HA_H-7zlg_HL-HA_A.542" "ASN" "A" 338 "-" 17.2 15.16 32.37
+"7zlg_HL-HA_H-7zlg_HL-HA_A.543" "LEU" "A" 339 "-" 39.85 1.1 40.95
+"7zlg_HL-HA_H-7zlg_HL-HA_A.544" "LYS" "A" 340 "-" 21.54 1.34 22.88
+"7zlg_HL-HA_H-7zlg_HL-HA_A.545" "PHE" "A" 341 "-" 34.99 0.87 35.85
+"7zlg_HL-HA_H-7zlg_HL-HA_A.548" "ALA" "A" 344 "-" 14.82 0.1 14.92
+"7zlg_HL-HA_H-7zlg_HL-HA_A.643" "LEU" "A" 439 "-" 26.2 0 26.21
+"7zlg_HL-HA_H-7zlg_HL-HA_A.644" "TRP" "A" 440 "-" 32.53 1.23 33.76

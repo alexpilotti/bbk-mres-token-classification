@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8il3_BA-AC_A-8il3_BA-AC_C.31" "ASN" "A" 31 "-" 0.12 5.08 5.19
+"8il3_BA-AC_A-8il3_BA-AC_C.32" "PHE" "A" 32 "-" 80.82 3.83 84.65
+"8il3_BA-AC_A-8il3_BA-AC_C.34" "ILE" "A" 34 "-" 24.05 0 24.05
+"8il3_BA-AC_A-8il3_BA-AC_C.36" "PHE" "A" 36 "-" 9.21 0 9.21
+"8il3_BA-AC_A-8il3_BA-AC_C.54" "ARG" "A" 54 "-" 0.28 4.84 5.11
+"8il3_BA-AC_A-8il3_BA-AC_C.95" "SER" "A" 95 "-" 0.19 1.08 1.26
+"8il3_BA-AC_A-8il3_BA-AC_C.96" "SER" "A" 96 "-" 0 0.58 0.58
+"8il3_BA-AC_A-8il3_BA-AC_C.98" "ASP" "A" 98 "-" 7.69 18.22 25.91
+"8il3_BA-AC_A-8il3_BA-AC_C.100" "ARG" "A" 100 "-" 0.43 8.52 8.95
+"8il3_BA-AC_A-8il3_BA-AC_C.240" "LYS" "C" 46 "-" 20.83 9.37 30.2
+"8il3_BA-AC_A-8il3_BA-AC_C.243" "GLU" "C" 49 "-" 16.86 29.92 46.79
+"8il3_BA-AC_A-8il3_BA-AC_C.244" "ILE" "C" 50 "-" 49.65 4.9 54.56
+"8il3_BA-AC_A-8il3_BA-AC_C.245" "HIS" "C" 51 "-" 0.23 0.04 0.29
+"8il3_BA-AC_A-8il3_BA-AC_C.246" "PRO" "C" 52 "-" 40.28 0.18 40.46
+"8il3_BA-AC_A-8il3_BA-AC_C.250" "HIS" "C" 56 "-" 12.17 4.49 16.66

@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8sic_HL-LG_G-8sic_HL-LG_L.115" "GLN" "G" 121 "-" 0.48 1.73 2.21
+"8sic_HL-LG_G-8sic_HL-LG_L.147" "ILE" "G" 153 "-" 0.79 0 0.78
+"8sic_HL-LG_G-8sic_HL-LG_L.148" "PRO" "G" 154 "-" 0.37 3.52 3.9
+"8sic_HL-LG_G-8sic_HL-LG_L.149" "GLU" "G" 155 "-" 13.34 13.18 26.53
+"8sic_HL-LG_G-8sic_HL-LG_L.150" "THR" "G" 156 "-" 45.04 33.19 78.22
+"8sic_HL-LG_G-8sic_HL-LG_L.151" "VAL" "G" 157 "-" 2.66 3.23 5.88
+"8sic_HL-LG_G-8sic_HL-LG_L.152" "PRO" "G" 158 "-" 60.12 1.41 61.51
+"8sic_HL-LG_G-8sic_HL-LG_L.153" "TYR" "G" 159 "-" 6.02 9.29 15.32
+"8sic_HL-LG_G-8sic_HL-LG_L.154" "ILE" "G" 160 "-" 5.78 0.2 5.98
+"8sic_HL-LG_G-8sic_HL-LG_L.155" "LYS" "G" 161 "-" 0.26 0.01 0.27
+"8sic_HL-LG_G-8sic_HL-LG_L.200" "GLU" "G" 206 "-" 0.14 1.6 1.75
+"8sic_HL-LG_G-8sic_HL-LG_L.450" "ALA" "L" 29 "-" 3.29 10 13.3
+"8sic_HL-LG_G-8sic_HL-LG_L.451" "GLY" "L" 30 "-" 5.9 6.9 12.8
+"8sic_HL-LG_G-8sic_HL-LG_L.452" "TYR" "L" 31 "-" 27.33 13.2 40.53
+"8sic_HL-LG_G-8sic_HL-LG_L.453" "TYR" "L" 32 "-" 22.78 24.4 47.18
+"8sic_HL-LG_G-8sic_HL-LG_L.471" "GLN" "L" 50 "-" 0 0.29 0.29
+"8sic_HL-LG_G-8sic_HL-LG_L.473" "ASN" "L" 52 "-" 0 0.62 0.63
+"8sic_HL-LG_G-8sic_HL-LG_L.512" "TRP" "L" 91 "-" 18.91 1.21 20.12
+"8sic_HL-LG_G-8sic_HL-LG_L.517" "SER" "L" 95 "A" 0.99 4.96 5.94

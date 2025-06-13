@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4nm8_IM-MD_D-4nm8_IM-MD_M.18" "ILE" "D" 18 "-" 36.37 12.59 48.96
+"4nm8_IM-MD_D-4nm8_IM-MD_M.19" "ASP" "D" 19 "-" 38.14 37.28 75.42
+"4nm8_IM-MD_D-4nm8_IM-MD_M.20" "GLY" "D" 20 "-" 1.07 0.84 1.89
+"4nm8_IM-MD_D-4nm8_IM-MD_M.36" "ALA" "D" 36 "-" 2.2 0.99 3.17
+"4nm8_IM-MD_D-4nm8_IM-MD_M.38" "LEU" "D" 38 "-" 52.08 0.06 52.14
+"4nm8_IM-MD_D-4nm8_IM-MD_M.42" "GLN" "D" 42 "-" 0.05 1.23 1.28
+"4nm8_IM-MD_D-4nm8_IM-MD_M.203" "SER" "M" 27 "E" 0.11 1.71 1.82
+"4nm8_IM-MD_D-4nm8_IM-MD_M.204" "SER" "M" 27 "F" 4.6 13.88 18.48
+"4nm8_IM-MD_D-4nm8_IM-MD_M.205" "THR" "M" 28 "-" 17.38 1.98 19.36
+"4nm8_IM-MD_D-4nm8_IM-MD_M.206" "ASN" "M" 29 "-" 1.08 7.5 8.57
+"4nm8_IM-MD_D-4nm8_IM-MD_M.207" "LYS" "M" 30 "-" 7.91 15.46 23.37
+"4nm8_IM-MD_D-4nm8_IM-MD_M.209" "TYR" "M" 32 "-" 3.51 8 11.5
+"4nm8_IM-MD_D-4nm8_IM-MD_M.227" "TRP" "M" 50 "-" 11.08 1.51 12.58
+"4nm8_IM-MD_D-4nm8_IM-MD_M.268" "TYR" "M" 91 "-" 0.29 0 0.28

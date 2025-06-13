@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5wnb_IM-MA_M-5wnb_IM-MA_A.32" "HIS" "M" 32 "-" 19.75 12.36 32.1
+"5wnb_IM-MA_M-5wnb_IM-MA_A.50" "GLU" "M" 50 "-" 4.23 6.55 10.78
+"5wnb_IM-MA_M-5wnb_IM-MA_A.91" "ARG" "M" 91 "-" 6.69 16.29 22.98
+"5wnb_IM-MA_M-5wnb_IM-MA_A.92" "ASN" "M" 92 "-" 2.53 12.92 15.45
+"5wnb_IM-MA_M-5wnb_IM-MA_A.93" "ASN" "M" 93 "-" 4.94 6.71 11.65
+"5wnb_IM-MA_M-5wnb_IM-MA_A.94" "TRP" "M" 94 "-" 101.21 7.14 108.35
+"5wnb_IM-MA_M-5wnb_IM-MA_A.95" "TYR" "M" 95 "-" 20.12 20.71 40.82
+"5wnb_IM-MA_M-5wnb_IM-MA_A.201" "ASP" "A" 162 "-" 3.05 4.33 7.37
+"5wnb_IM-MA_M-5wnb_IM-MA_A.202" "PHE" "A" 163 "-" 59.16 3.3 62.45
+"5wnb_IM-MA_M-5wnb_IM-MA_A.203" "HIS" "A" 164 "-" 0.02 0.01 0.03
+"5wnb_IM-MA_M-5wnb_IM-MA_A.204" "PHE" "A" 165 "-" 53.19 0.14 53.33
+"5wnb_IM-MA_M-5wnb_IM-MA_A.207" "PHE" "A" 168 "-" 39.07 2.25 41.32
+"5wnb_IM-MA_M-5wnb_IM-MA_A.208" "ASN" "A" 169 "-" 1.96 17.74 19.7

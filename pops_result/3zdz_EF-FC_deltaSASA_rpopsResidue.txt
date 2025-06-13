@@ -1,0 +1,27 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3zdz_EF-FC_C-3zdz_EF-FC_F.77" "ARG" "C" 77 "-" 6.23 31.91 38.14
+"3zdz_EF-FC_C-3zdz_EF-FC_F.78" "ASN" "C" 78 "-" 4.3 12.43 16.73
+"3zdz_EF-FC_C-3zdz_EF-FC_F.79" "VAL" "C" 79 "-" 34.76 1.26 36.03
+"3zdz_EF-FC_C-3zdz_EF-FC_F.80" "GLY" "C" 80 "-" 23.58 10.27 33.85
+"3zdz_EF-FC_C-3zdz_EF-FC_F.81" "SER" "C" 81 "-" 32.27 34.54 66.81
+"3zdz_EF-FC_C-3zdz_EF-FC_F.82" "GLN" "C" 82 "-" 0 0.13 0.13
+"3zdz_EF-FC_C-3zdz_EF-FC_F.205" "SER" "C" 205 "-" 0 1.35 1.35
+"3zdz_EF-FC_C-3zdz_EF-FC_F.206" "SER" "C" 206 "-" 0 0.14 0.14
+"3zdz_EF-FC_C-3zdz_EF-FC_F.208" "ARG" "C" 208 "-" 23.4 22.22 45.62
+"3zdz_EF-FC_C-3zdz_EF-FC_F.209" "PRO" "C" 209 "-" 1.38 5.79 7.16
+"3zdz_EF-FC_C-3zdz_EF-FC_F.210" "GLY" "C" 210 "-" 9.16 4.78 13.94
+"3zdz_EF-FC_C-3zdz_EF-FC_F.211" "ILE" "C" 211 "-" 26.62 0.45 27.07
+"3zdz_EF-FC_C-3zdz_EF-FC_F.482" "ILE" "FALSE" 29 "-" 0.01 0.11 0.13
+"3zdz_EF-FC_C-3zdz_EF-FC_F.483" "SER" "FALSE" 30 "-" 3.15 0.89 4.04
+"3zdz_EF-FC_C-3zdz_EF-FC_F.485" "ASN" "FALSE" 32 "-" 1.92 18.18 20.1
+"3zdz_EF-FC_C-3zdz_EF-FC_F.502" "TYR" "FALSE" 49 "-" 9.27 14.57 23.85
+"3zdz_EF-FC_C-3zdz_EF-FC_F.503" "TYR" "FALSE" 50 "-" 38.06 18.53 56.59
+"3zdz_EF-FC_C-3zdz_EF-FC_F.506" "ASN" "FALSE" 53 "-" 2.7 17.65 20.35
+"3zdz_EF-FC_C-3zdz_EF-FC_F.507" "LEU" "FALSE" 54 "-" 0.01 0.72 0.73
+"3zdz_EF-FC_C-3zdz_EF-FC_F.509" "ASP" "FALSE" 56 "-" 1.09 6.54 7.65
+"3zdz_EF-FC_C-3zdz_EF-FC_F.544" "TYR" "FALSE" 91 "-" 8.66 4.86 13.52
+"3zdz_EF-FC_C-3zdz_EF-FC_F.545" "ALA" "FALSE" 92 "-" 6.81 19.12 25.93
+"3zdz_EF-FC_C-3zdz_EF-FC_F.546" "GLN" "FALSE" 93 "-" 9.93 1.56 11.5
+"3zdz_EF-FC_C-3zdz_EF-FC_F.547" "LEU" "FALSE" 94 "-" 32.27 4.1 36.37
+"3zdz_EF-FC_C-3zdz_EF-FC_F.548" "PRO" "FALSE" 95 "-" 0 0.01 0.01
+"3zdz_EF-FC_C-3zdz_EF-FC_F.549" "TYR" "FALSE" 96 "-" 1.51 3.3 4.81

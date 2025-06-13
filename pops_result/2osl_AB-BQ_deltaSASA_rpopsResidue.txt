@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2osl_AB-BQ_B-2osl_AB-BQ_Q.90" "TRP" "B" 90 "-" 26.42 0.28 26.7
+"2osl_AB-BQ_B-2osl_AB-BQ_Q.91" "THR" "B" 91 "-" 0 0.39 0.38
+"2osl_AB-BQ_B-2osl_AB-BQ_Q.92" "SER" "B" 92 "-" 0.04 0.19 0.23
+"2osl_AB-BQ_B-2osl_AB-BQ_Q.93" "ASN" "B" 93 "-" 23.48 51.06 74.53
+"2osl_AB-BQ_B-2osl_AB-BQ_Q.94" "PRO" "B" 94 "-" 0.97 0.04 1.01
+"2osl_AB-BQ_B-2osl_AB-BQ_Q.95" "PRO" "B" 95 "-" 5.29 0.05 5.35
+"2osl_AB-BQ_B-2osl_AB-BQ_Q.214" "TYR" "Q" 165 "-" 0.37 0 0.37
+"2osl_AB-BQ_B-2osl_AB-BQ_Q.215" "ASN" "Q" 166 "-" 8.32 20.5 28.81
+"2osl_AB-BQ_B-2osl_AB-BQ_Q.217" "GLU" "Q" 168 "-" 6.46 11.06 17.52
+"2osl_AB-BQ_B-2osl_AB-BQ_Q.218" "PRO" "Q" 169 "-" 2.53 2.04 4.57
+"2osl_AB-BQ_B-2osl_AB-BQ_Q.219" "ALA" "Q" 170 "-" 52.27 4.24 56.51
+"2osl_AB-BQ_B-2osl_AB-BQ_Q.220" "ASN" "Q" 171 "-" 5.24 28.14 33.38

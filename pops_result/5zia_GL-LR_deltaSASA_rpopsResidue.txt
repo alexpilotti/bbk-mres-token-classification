@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5zia_GL-LR_L-5zia_GL-LR_R.31" "TYR" "L" 27 "D" 22.01 15.48 37.49
+"5zia_GL-LR_L-5zia_GL-LR_R.34" "ASN" "L" 28 "-" 0 0.07 0.08
+"5zia_GL-LR_L-5zia_GL-LR_R.38" "TYR" "L" 32 "-" 3.55 2.95 6.5
+"5zia_GL-LR_L-5zia_GL-LR_R.97" "TYR" "L" 91 "-" 0.03 0.51 0.54
+"5zia_GL-LR_L-5zia_GL-LR_R.98" "PHE" "L" 92 "-" 24.35 6.85 31.2
+"5zia_GL-LR_L-5zia_GL-LR_R.99" "SER" "L" 93 "-" 5.12 2.12 7.23
+"5zia_GL-LR_L-5zia_GL-LR_R.100" "THR" "L" 94 "-" 10.3 2.82 13.12
+"5zia_GL-LR_L-5zia_GL-LR_R.102" "TRP" "L" 96 "-" 17.21 1.41 18.6
+"5zia_GL-LR_L-5zia_GL-LR_R.218" "SER" "R" 235 "-" 43.48 37.37 80.84
+"5zia_GL-LR_L-5zia_GL-LR_R.219" "PRO" "R" 236 "-" 115.33 4.44 119.77
+"5zia_GL-LR_L-5zia_GL-LR_R.220" "SER" "R" 237 "-" 60.87 52.67 113.54
+"5zia_GL-LR_L-5zia_GL-LR_R.221" "ALA" "R" 239 "-" 9.25 5.51 14.76
+"5zia_GL-LR_L-5zia_GL-LR_R.222" "LYS" "R" 240 "-" 24.19 4.31 28.51

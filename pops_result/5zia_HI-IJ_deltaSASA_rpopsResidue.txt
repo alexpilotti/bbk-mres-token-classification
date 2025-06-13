@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5zia_HI-IJ_I-5zia_HI-IJ_J.31" "TYR" "I" 27 "D" 24.96 18.31 43.26
+"5zia_HI-IJ_I-5zia_HI-IJ_J.38" "TYR" "I" 32 "-" 4.49 3.6 8.1
+"5zia_HI-IJ_I-5zia_HI-IJ_J.97" "TYR" "I" 91 "-" 0.01 0.43 0.44
+"5zia_HI-IJ_I-5zia_HI-IJ_J.98" "PHE" "I" 92 "-" 24.32 7.19 31.52
+"5zia_HI-IJ_I-5zia_HI-IJ_J.99" "SER" "I" 93 "-" 3.42 3.59 7.01
+"5zia_HI-IJ_I-5zia_HI-IJ_J.100" "THR" "I" 94 "-" 10.14 1.86 12
+"5zia_HI-IJ_I-5zia_HI-IJ_J.102" "TRP" "I" 96 "-" 18.21 1.49 19.71
+"5zia_HI-IJ_I-5zia_HI-IJ_J.218" "SER" "J" 235 "-" 43.81 40.44 84.26
+"5zia_HI-IJ_I-5zia_HI-IJ_J.219" "PRO" "J" 236 "-" 115.88 4.24 120.12
+"5zia_HI-IJ_I-5zia_HI-IJ_J.220" "SER" "J" 237 "-" 55.82 49.51 105.33
+"5zia_HI-IJ_I-5zia_HI-IJ_J.221" "ALA" "J" 239 "-" 6.35 4.26 10.6
+"5zia_HI-IJ_I-5zia_HI-IJ_J.222" "LYS" "J" 240 "-" 25.46 3.94 29.4

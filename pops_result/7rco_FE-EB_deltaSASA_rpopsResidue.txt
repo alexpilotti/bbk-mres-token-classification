@@ -1,0 +1,7 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7rco_FE-EB_B-7rco_FE-EB_E.23" "ASP" "B" 325 "-" 0.09 0 0.08
+"7rco_FE-EB_B-7rco_FE-EB_E.26" "ARG" "B" 328 "-" 22.83 32.74 55.58
+"7rco_FE-EB_B-7rco_FE-EB_E.27" "ASP" "B" 329 "-" 3.18 13.93 17.12
+"7rco_FE-EB_B-7rco_FE-EB_E.141" "TYR" "E" 30 "-" 25.8 30.83 56.64
+"7rco_FE-EB_B-7rco_FE-EB_E.142" "ASN" "E" 31 "-" 3.63 24.06 27.68
+"7rco_FE-EB_B-7rco_FE-EB_E.145" "TYR" "E" 34 "-" 0.02 0 0.02

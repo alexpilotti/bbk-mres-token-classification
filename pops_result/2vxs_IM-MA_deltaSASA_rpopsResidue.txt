@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2vxs_IM-MA_A-2vxs_IM-MA_M.40" "LEU" "A" 74 "-" 19.47 0 19.47
+"2vxs_IM-MA_A-2vxs_IM-MA_M.50" "ASP" "A" 84 "-" 0.05 0.45 0.5
+"2vxs_IM-MA_A-2vxs_IM-MA_M.51" "TYR" "A" 85 "-" 47.75 20.4 68.15
+"2vxs_IM-MA_A-2vxs_IM-MA_M.52" "HIS" "A" 86 "-" 71.66 37.99 109.65
+"2vxs_IM-MA_A-2vxs_IM-MA_M.53" "MET" "A" 87 "-" 3.29 0.41 3.7
+"2vxs_IM-MA_A-2vxs_IM-MA_M.82" "THR" "A" 125 "-" 0.11 0.6 0.71
+"2vxs_IM-MA_A-2vxs_IM-MA_M.83" "PRO" "A" 126 "-" 38.78 7.23 46
+"2vxs_IM-MA_A-2vxs_IM-MA_M.84" "ILE" "A" 127 "-" 64.23 0.33 64.57
+"2vxs_IM-MA_A-2vxs_IM-MA_M.85" "VAL" "A" 128 "-" 0.05 0.5 0.54
+"2vxs_IM-MA_A-2vxs_IM-MA_M.115" "LEU" "M" 28 "-" 0 0.08 0.08
+"2vxs_IM-MA_A-2vxs_IM-MA_M.116" "ALA" "M" 29 "-" 2.09 8.65 10.74
+"2vxs_IM-MA_A-2vxs_IM-MA_M.117" "ASN" "M" 30 "-" 3.34 9.03 12.37
+"2vxs_IM-MA_A-2vxs_IM-MA_M.118" "TYR" "M" 31 "-" 5.71 5.95 11.66
+"2vxs_IM-MA_A-2vxs_IM-MA_M.119" "TYR" "M" 32 "-" 50.53 32.24 82.76
+"2vxs_IM-MA_A-2vxs_IM-MA_M.136" "PHE" "M" 49 "-" 11.43 0.03 11.45
+"2vxs_IM-MA_A-2vxs_IM-MA_M.137" "ALA" "M" 50 "-" 4.9 0.29 5.2
+"2vxs_IM-MA_A-2vxs_IM-MA_M.138" "ASN" "M" 51 "-" 0.02 1.23 1.25
+"2vxs_IM-MA_A-2vxs_IM-MA_M.139" "ASN" "M" 52 "-" 0 0.6 0.6
+"2vxs_IM-MA_A-2vxs_IM-MA_M.140" "GLN" "M" 53 "-" 5.23 18.84 24.06
+"2vxs_IM-MA_A-2vxs_IM-MA_M.180" "TYR" "M" 91 "-" 5.88 6.07 11.96
+"2vxs_IM-MA_A-2vxs_IM-MA_M.181" "ASP" "M" 92 "-" 0.15 0.46 0.61
+"2vxs_IM-MA_A-2vxs_IM-MA_M.182" "PRO" "M" 93 "-" 43.14 8.76 51.89
+"2vxs_IM-MA_A-2vxs_IM-MA_M.183" "TYR" "M" 94 "-" 0.14 0.12 0.25

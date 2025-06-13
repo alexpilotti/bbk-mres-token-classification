@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mv4_RS-RT_R-5mv4_RS-RT_T.27" "PHE" "R" 27 "-" 0.29 0 0.29
+"5mv4_RS-RT_R-5mv4_RS-RT_T.28" "THR" "R" 28 "-" 0.32 0.26 0.59
+"5mv4_RS-RT_R-5mv4_RS-RT_T.31" "ASP" "R" 31 "-" 13.53 19.1 32.63
+"5mv4_RS-RT_R-5mv4_RS-RT_T.32" "ALA" "R" 32 "-" 3.1 0.89 4
+"5mv4_RS-RT_R-5mv4_RS-RT_T.33" "TRP" "R" 33 "-" 32.88 2.94 35.82
+"5mv4_RS-RT_R-5mv4_RS-RT_T.50" "GLU" "R" 50 "-" 0.06 1.13 1.21
+"5mv4_RS-RT_R-5mv4_RS-RT_T.52" "ARG" "R" 52 "-" 0.13 3.98 4.11
+"5mv4_RS-RT_R-5mv4_RS-RT_T.53" "ASN" "R" 53 "-" 0.56 6 6.56
+"5mv4_RS-RT_R-5mv4_RS-RT_T.55" "VAL" "R" 55 "-" 7.9 0 7.9
+"5mv4_RS-RT_R-5mv4_RS-RT_T.56" "ASN" "R" 56 "-" 0.06 1.5 1.56
+"5mv4_RS-RT_R-5mv4_RS-RT_T.101" "LEU" "R" 101 "-" 26.39 2.93 29.31
+"5mv4_RS-RT_R-5mv4_RS-RT_T.102" "THR" "R" 102 "-" 16.15 10.45 26.6
+"5mv4_RS-RT_R-5mv4_RS-RT_T.103" "PHE" "R" 103 "-" 9.33 2.66 11.99
+"5mv4_RS-RT_R-5mv4_RS-RT_T.104" "ASP" "R" 104 "-" 7.31 33.16 40.46
+"5mv4_RS-RT_R-5mv4_RS-RT_T.216" "GLY" "TRUE" 22 "-" 15.48 30.38 45.86
+"5mv4_RS-RT_R-5mv4_RS-RT_T.217" "GLU" "TRUE" 23 "-" 66.6 76.76 143.35
+"5mv4_RS-RT_R-5mv4_RS-RT_T.218" "ARG" "TRUE" 24 "-" 35.74 50.6 86.33
+"5mv4_RS-RT_R-5mv4_RS-RT_T.219" "GLY" "TRUE" 25 "-" 19.04 7.09 26.13
+"5mv4_RS-RT_R-5mv4_RS-RT_T.220" "GLU" "TRUE" 26 "-" 23.84 11.31 35.14
+"5mv4_RS-RT_R-5mv4_RS-RT_T.221" "THR" "TRUE" 27 "-" 58.52 34.55 93.07
+"5mv4_RS-RT_R-5mv4_RS-RT_T.222" "GLY" "TRUE" 28 "-" 8.44 1.74 10.17
+"5mv4_RS-RT_R-5mv4_RS-RT_T.223" "PRO" "TRUE" 29 "-" 39.14 1.2 40.34

@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3ghb_HL-LP_L-3ghb_HL-LP_P.33" "TYR" "L" 32 "-" 21.96 9.46 31.42
+"3ghb_HL-LP_L-3ghb_HL-LP_P.51" "GLY" "L" 50 "-" 0.22 0 0.22
+"3ghb_HL-LP_L-3ghb_HL-LP_P.92" "TRP" "L" 91 "-" 27.8 3.25 31.05
+"3ghb_HL-LP_L-3ghb_HL-LP_P.93" "ASP" "L" 92 "-" 0 0.12 0.12
+"3ghb_HL-LP_L-3ghb_HL-LP_P.97" "SER" "L" 95 "A" 0 0.08 0.08
+"3ghb_HL-LP_L-3ghb_HL-LP_P.98" "ALA" "L" 95 "B" 16.03 4.34 20.37
+"3ghb_HL-LP_L-3ghb_HL-LP_P.99" "ASP" "L" 95 "C" 0.17 0.25 0.41
+"3ghb_HL-LP_L-3ghb_HL-LP_P.100" "TRP" "L" 96 "-" 29.56 3.62 33.17
+"3ghb_HL-LP_L-3ghb_HL-LP_P.221" "ILE" "P" 309 "-" 73.84 5.02 78.86
+"3ghb_HL-LP_L-3ghb_HL-LP_P.222" "GLY" "P" 312 "-" 15.08 10.36 25.43
+"3ghb_HL-LP_L-3ghb_HL-LP_P.223" "PRO" "P" 313 "-" 118.14 2.28 120.42
+"3ghb_HL-LP_L-3ghb_HL-LP_P.224" "GLY" "P" 314 "-" 4.22 3.66 7.87

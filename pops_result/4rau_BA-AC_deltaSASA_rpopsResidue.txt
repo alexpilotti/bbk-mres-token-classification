@@ -1,0 +1,21 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4rau_BA-AC_A-4rau_BA-AC_C.27" "GLN" "A" 29 "-" 0.06 0.63 0.69
+"4rau_BA-AC_A-4rau_BA-AC_C.30" "ASN" "A" 32 "-" 0.21 0.01 0.23
+"4rau_BA-AC_A-4rau_BA-AC_C.32" "TYR" "A" 34 "-" 20.96 24.18 45.14
+"4rau_BA-AC_A-4rau_BA-AC_C.50" "TYR" "A" 52 "-" 4.81 0 4.8
+"4rau_BA-AC_A-4rau_BA-AC_C.53" "SER" "A" 55 "-" 0 1.28 1.27
+"4rau_BA-AC_A-4rau_BA-AC_C.91" "PHE" "A" 93 "-" 6.45 2.63 9.08
+"4rau_BA-AC_A-4rau_BA-AC_C.92" "SER" "A" 94 "-" 2.25 8.62 10.87
+"4rau_BA-AC_A-4rau_BA-AC_C.93" "LYS" "A" 95 "-" 19 16.01 35
+"4rau_BA-AC_A-4rau_BA-AC_C.94" "LEU" "A" 96 "-" 26.28 0.44 26.72
+"4rau_BA-AC_A-4rau_BA-AC_C.96" "TYR" "A" 98 "-" 6.44 17.4 23.83
+"4rau_BA-AC_A-4rau_BA-AC_C.214" "ASP" "C" 5 "-" 0.13 1.85 1.98
+"4rau_BA-AC_A-4rau_BA-AC_C.216" "ASP" "C" 7 "-" 14.26 27.33 41.59
+"4rau_BA-AC_A-4rau_BA-AC_C.219" "CYS" "C" 10 "-" 1.76 0 1.76
+"4rau_BA-AC_A-4rau_BA-AC_C.242" "GLY" "C" 33 "-" 0.46 0.78 1.23
+"4rau_BA-AC_A-4rau_BA-AC_C.243" "PRO" "C" 34 "-" 32.06 9.37 41.44
+"4rau_BA-AC_A-4rau_BA-AC_C.244" "HIS" "C" 35 "-" 3.09 1.93 5
+"4rau_BA-AC_A-4rau_BA-AC_C.245" "CYS" "C" 36 "-" 0.17 0 0.17
+"4rau_BA-AC_A-4rau_BA-AC_C.246" "PRO" "C" 37 "-" 72.02 3.91 75.94
+"4rau_BA-AC_A-4rau_BA-AC_C.247" "THR" "C" 38 "-" 15.1 5 20.11
+"4rau_BA-AC_A-4rau_BA-AC_C.265" "GLN" "C" 56 "-" 1.85 9 10.85

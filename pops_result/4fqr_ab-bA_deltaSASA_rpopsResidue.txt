@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4fqr_ab-bA_A-4fqr_ab-bA_b.150" "GLY" "A" 158 "-" 3.73 0 3.73
+"4fqr_ab-bA_A-4fqr_ab-bA_b.151" "SER" "A" 159 "-" 8.17 5.96 14.12
+"4fqr_ab-bA_A-4fqr_ab-bA_b.367" "TYR" "b" 49 "-" 3.01 7.42 10.45
+"4fqr_ab-bA_A-4fqr_ab-bA_b.368" "ASP" "b" 50 "-" 0 0.22 0.23
+"4fqr_ab-bA_A-4fqr_ab-bA_b.374" "ARG" "b" 56 "-" 0.12 2.19 2.32

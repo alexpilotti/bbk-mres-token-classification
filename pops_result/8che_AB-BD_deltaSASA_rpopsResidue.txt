@@ -1,0 +1,26 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8che_AB-BD_B-8che_AB-BD_D.31" "HIS" "B" 31 "-" 12.57 8.19 20.75
+"8che_AB-BD_B-8che_AB-BD_D.32" "ARG" "B" 32 "-" 0.06 0 0.05
+"8che_AB-BD_B-8che_AB-BD_D.37" "TYR" "B" 37 "-" 20.95 14.63 35.57
+"8che_AB-BD_B-8che_AB-BD_D.39" "HIS" "B" 39 "-" 4.66 3.38 8.05
+"8che_AB-BD_B-8che_AB-BD_D.51" "LEU" "B" 51 "-" 5.95 0 5.95
+"8che_AB-BD_B-8che_AB-BD_D.54" "TYR" "B" 54 "-" 14.61 4.06 18.66
+"8che_AB-BD_B-8che_AB-BD_D.55" "LYS" "B" 55 "-" 12.89 5.97 18.85
+"8che_AB-BD_B-8che_AB-BD_D.60" "PHE" "B" 60 "-" 29.47 0 29.47
+"8che_AB-BD_B-8che_AB-BD_D.61" "SER" "B" 61 "-" 10.94 9.82 20.76
+"8che_AB-BD_B-8che_AB-BD_D.96" "SER" "B" 96 "-" 3.74 6.11 9.86
+"8che_AB-BD_B-8che_AB-BD_D.97" "THR" "B" 97 "-" 0.5 1.82 2.32
+"8che_AB-BD_B-8che_AB-BD_D.98" "HIS" "B" 98 "-" 1.7 0.19 1.88
+"8che_AB-BD_B-8che_AB-BD_D.99" "VAL" "B" 99 "-" 20.8 0.68 21.48
+"8che_AB-BD_B-8che_AB-BD_D.101" "TYR" "B" 101 "-" 19.12 29.04 48.16
+"8che_AB-BD_B-8che_AB-BD_D.220" "HIS" "D" 7 "-" 0 0.13 0.12
+"8che_AB-BD_B-8che_AB-BD_D.221" "LYS" "D" 8 "-" 0.02 0.73 0.75
+"8che_AB-BD_B-8che_AB-BD_D.222" "ILE" "D" 9 "-" 60.14 0.41 60.55
+"8che_AB-BD_B-8che_AB-BD_D.223" "GLY" "D" 10 "-" 6.79 3.61 10.4
+"8che_AB-BD_B-8che_AB-BD_D.224" "SER" "D" 11 "-" 22.44 27.93 50.36
+"8che_AB-BD_B-8che_AB-BD_D.225" "LEU" "D" 12 "-" 51.99 0.59 52.58
+"8che_AB-BD_B-8che_AB-BD_D.229" "ALA" "D" 16 "-" 0.43 0.16 0.59
+"8che_AB-BD_B-8che_AB-BD_D.230" "PHE" "D" 17 "-" 99.94 15.81 115.74
+"8che_AB-BD_B-8che_AB-BD_D.231" "SER" "D" 18 "-" 2.67 2.64 5.31
+"8che_AB-BD_B-8che_AB-BD_D.232" "ASP" "D" 19 "-" 20.38 26.82 47.21
+"8che_AB-BD_B-8che_AB-BD_D.233" "PRO" "D" 20 "-" 3.29 0.07 3.36

@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mu0_MN-MW_M-5mu0_MN-MW_W.31" "ASP" "M" 31 "-" 5.22 5.53 10.76
+"5mu0_MN-MW_M-5mu0_MN-MW_W.32" "ALA" "M" 32 "-" 2.25 0.66 2.91
+"5mu0_MN-MW_M-5mu0_MN-MW_W.33" "TRP" "M" 33 "-" 28.93 2.74 31.66
+"5mu0_MN-MW_M-5mu0_MN-MW_W.52" "ARG" "M" 52 "-" 0 0.16 0.16
+"5mu0_MN-MW_M-5mu0_MN-MW_W.53" "ASN" "M" 53 "-" 0.15 2.47 2.62
+"5mu0_MN-MW_M-5mu0_MN-MW_W.56" "ASN" "M" 56 "-" 0 0.52 0.52
+"5mu0_MN-MW_M-5mu0_MN-MW_W.100" "GLY" "M" 100 "-" 0 0.02 0.02
+"5mu0_MN-MW_M-5mu0_MN-MW_W.101" "LEU" "M" 101 "-" 21.11 3.07 24.19
+"5mu0_MN-MW_M-5mu0_MN-MW_W.102" "THR" "M" 102 "-" 16.86 10.49 27.35
+"5mu0_MN-MW_M-5mu0_MN-MW_W.103" "PHE" "M" 103 "-" 9.81 3.24 13.03
+"5mu0_MN-MW_M-5mu0_MN-MW_W.104" "ASP" "M" 104 "-" 8.31 35.72 44.02
+"5mu0_MN-MW_M-5mu0_MN-MW_W.105" "TYR" "M" 105 "-" 0.18 1.09 1.26
+"5mu0_MN-MW_M-5mu0_MN-MW_W.106" "TRP" "M" 106 "-" 0 0.01 0.01
+"5mu0_MN-MW_M-5mu0_MN-MW_W.213" "ALA" "W" 5 "-" 69.26 43.06 112.32
+"5mu0_MN-MW_M-5mu0_MN-MW_W.214" "ARG" "W" 6 "-" 61.22 56.65 117.88
+"5mu0_MN-MW_M-5mu0_MN-MW_W.215" "GLY" "W" 7 "-" 15.56 5.75 21.31
+"5mu0_MN-MW_M-5mu0_MN-MW_W.216" "LEU" "W" 8 "-" 46.81 3.03 49.84
+"5mu0_MN-MW_M-5mu0_MN-MW_W.217" "THR" "W" 9 "-" 70.24 33.95 104.19
+"5mu0_MN-MW_M-5mu0_MN-MW_W.218" "GLY" "W" 10 "-" 12.33 3.86 16.2

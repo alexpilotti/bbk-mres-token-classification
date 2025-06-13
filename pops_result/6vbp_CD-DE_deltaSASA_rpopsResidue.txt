@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6vbp_CD-DE_D-6vbp_CD-DE_E.31" "HIS" "D" 27 "D" 14.62 8.9 23.52
+"6vbp_CD-DE_D-6vbp_CD-DE_E.33" "SER" "D" 27 "F" 9.48 6.74 16.22
+"6vbp_CD-DE_D-6vbp_CD-DE_E.34" "ASN" "D" 28 "-" 0.05 1.27 1.31
+"6vbp_CD-DE_D-6vbp_CD-DE_E.38" "TYR" "D" 32 "-" 5.5 10.26 15.76
+"6vbp_CD-DE_D-6vbp_CD-DE_E.56" "TRP" "D" 50 "-" 0.13 0 0.14
+"6vbp_CD-DE_D-6vbp_CD-DE_E.96" "GLN" "D" 90 "-" 0.01 0.11 0.11
+"6vbp_CD-DE_D-6vbp_CD-DE_E.97" "TYR" "D" 91 "-" 1.97 2.24 4.21
+"6vbp_CD-DE_D-6vbp_CD-DE_E.98" "TYR" "D" 92 "-" 0.72 4.34 5.06
+"6vbp_CD-DE_D-6vbp_CD-DE_E.99" "SER" "D" 93 "-" 4.77 1.69 6.47
+"6vbp_CD-DE_D-6vbp_CD-DE_E.100" "THR" "D" 94 "-" 16.34 4.75 21.08
+"6vbp_CD-DE_D-6vbp_CD-DE_E.101" "PRO" "D" 95 "-" 0.04 0 0.04
+"6vbp_CD-DE_D-6vbp_CD-DE_E.102" "LEU" "D" 96 "-" 27.94 0.12 28.05
+"6vbp_CD-DE_D-6vbp_CD-DE_E.220" "VAL" "E" 172 "-" 0.03 0 0.03
+"6vbp_CD-DE_D-6vbp_CD-DE_E.221" "HIS" "E" 173 "-" 79.33 45.5 124.82
+"6vbp_CD-DE_D-6vbp_CD-DE_E.222" "ALA" "E" 174 "-" 3.1 1.58 4.69
+"6vbp_CD-DE_D-6vbp_CD-DE_E.223" "LEU" "E" 175 "-" 92.88 0.34 93.22
+"6vbp_CD-DE_D-6vbp_CD-DE_E.224" "PHE" "E" 176 "-" 22.05 0 22.06

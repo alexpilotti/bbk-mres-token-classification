@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7vaz_DC-DG_D-7vaz_DC-DG_G.32" "GLY" "D" 32 "-" 8.76 12.88 21.63
+"7vaz_DC-DG_D-7vaz_DC-DG_G.33" "TYR" "D" 33 "-" 5.26 1.52 6.78
+"7vaz_DC-DG_D-7vaz_DC-DG_G.34" "TRP" "D" 34 "-" 32.41 5.28 37.69
+"7vaz_DC-DG_D-7vaz_DC-DG_G.48" "TRP" "D" 48 "-" 0.19 0 0.19
+"7vaz_DC-DG_D-7vaz_DC-DG_G.51" "GLU" "D" 51 "-" 1.18 7.26 8.45
+"7vaz_DC-DG_D-7vaz_DC-DG_G.54" "PRO" "D" 54 "-" 3.62 0 3.63
+"7vaz_DC-DG_D-7vaz_DC-DG_G.60" "ASN" "D" 60 "-" 0.27 1.4 1.67
+"7vaz_DC-DG_D-7vaz_DC-DG_G.100" "TYR" "D" 100 "-" 14.52 4.6 19.12
+"7vaz_DC-DG_D-7vaz_DC-DG_G.101" "TYR" "D" 101 "-" 43.02 14.69 57.71
+"7vaz_DC-DG_D-7vaz_DC-DG_G.102" "GLU" "D" 102 "-" 31.09 43.58 74.67
+"7vaz_DC-DG_D-7vaz_DC-DG_G.103" "GLY" "D" 103 "-" 6.36 2.89 9.25
+"7vaz_DC-DG_D-7vaz_DC-DG_G.104" "PHE" "D" 104 "-" 5.43 0.41 5.84
+"7vaz_DC-DG_D-7vaz_DC-DG_G.216" "SER" "G" 6 "-" 0.93 4.68 5.61
+"7vaz_DC-DG_D-7vaz_DC-DG_G.217" "THR" "G" 7 "-" 39.97 12.05 52.02
+"7vaz_DC-DG_D-7vaz_DC-DG_G.218" "ALA" "G" 8 "-" 59.97 9.99 69.97
+"7vaz_DC-DG_D-7vaz_DC-DG_G.219" "PRO" "G" 9 "-" 86.23 16.94 103.17
+"7vaz_DC-DG_D-7vaz_DC-DG_G.220" "PRO" "G" 10 "-" 54.33 7.74 62.07
+"7vaz_DC-DG_D-7vaz_DC-DG_G.221" "ALA" "G" 11 "-" 77.16 13.14 90.3
+"7vaz_DC-DG_D-7vaz_DC-DG_G.222" "HIS" "G" 12 "-" 40 25.74 65.73

@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5umi_HL-LC_C-5umi_HL-LC_L.78" "ASN" "C" 2538 "-" 0 0.58 0.58
+"5umi_HL-LC_C-5umi_HL-LC_L.79" "THR" "C" 2539 "-" 6.41 12.79 19.2
+"5umi_HL-LC_C-5umi_HL-LC_L.80" "ASP" "C" 2540 "-" 6.09 15.05 21.14
+"5umi_HL-LC_C-5umi_HL-LC_L.81" "ALA" "C" 2541 "-" 15.69 0.85 16.54
+"5umi_HL-LC_C-5umi_HL-LC_L.90" "ARG" "C" 2550 "-" 30.5 50.55 81.05
+"5umi_HL-LC_C-5umi_HL-LC_L.91" "TYR" "C" 2551 "-" 1.22 0.71 1.94
+"5umi_HL-LC_C-5umi_HL-LC_L.92" "GLN" "C" 2552 "-" 16.28 55.11 71.39
+"5umi_HL-LC_C-5umi_HL-LC_L.93" "ASN" "C" 2553 "-" 2.14 6.71 8.86
+"5umi_HL-LC_C-5umi_HL-LC_L.94" "ARG" "C" 2554 "-" 11.02 43.41 54.43
+"5umi_HL-LC_C-5umi_HL-LC_L.107" "ASN" "C" 2567 "-" 15.57 21.33 36.9
+"5umi_HL-LC_C-5umi_HL-LC_L.108" "ASN" "C" 2568 "-" 0 0.35 0.35
+"5umi_HL-LC_C-5umi_HL-LC_L.109" "SER" "C" 2569 "-" 0 0.16 0.16
+"5umi_HL-LC_C-5umi_HL-LC_L.246" "GLU" "L" 1 "-" 25.34 33.23 58.57
+"5umi_HL-LC_C-5umi_HL-LC_L.247" "ILE" "L" 2 "-" 9.05 0.39 9.43
+"5umi_HL-LC_C-5umi_HL-LC_L.274" "VAL" "L" 29 "-" 0.64 0 0.63
+"5umi_HL-LC_C-5umi_HL-LC_L.275" "ASN" "L" 30 "-" 7.45 16.81 24.27
+"5umi_HL-LC_C-5umi_HL-LC_L.276" "TYR" "L" 31 "-" 18.35 5.75 24.1
+"5umi_HL-LC_C-5umi_HL-LC_L.334" "GLN" "L" 89 "-" 0.75 6.43 7.18
+"5umi_HL-LC_C-5umi_HL-LC_L.335" "TRP" "L" 90 "-" 21.72 5.44 27.17
+"5umi_HL-LC_C-5umi_HL-LC_L.336" "SER" "L" 91 "-" 32.62 47.08 79.7
+"5umi_HL-LC_C-5umi_HL-LC_L.337" "SER" "L" 92 "-" 12.51 5.9 18.41
+"5umi_HL-LC_C-5umi_HL-LC_L.338" "ARG" "L" 93 "-" 9.58 29.27 38.87

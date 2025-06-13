@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6vvu_GI-ID_D-6vvu_GI-ID_I.37" "GLN" "D" 50 "-" 1.72 6.41 8.12
+"6vvu_GI-ID_D-6vvu_GI-ID_I.52" "ASP" "D" 60 "E" 0.54 5.17 5.7
+"6vvu_GI-ID_D-6vvu_GI-ID_I.53" "LEU" "D" 61 "-" 0.1 0 0.11
+"6vvu_GI-ID_D-6vvu_GI-ID_I.74" "VAL" "D" 85 "-" 0 0.02 0.02
+"6vvu_GI-ID_D-6vvu_GI-ID_I.75" "SER" "D" 86 "-" 10.51 11.22 21.73
+"6vvu_GI-ID_D-6vvu_GI-ID_I.76" "ARG" "D" 87 "-" 11.67 0.92 12.59
+"6vvu_GI-ID_D-6vvu_GI-ID_I.96" "GLU" "D" 107 "-" 2.18 9.56 11.73
+"6vvu_GI-ID_D-6vvu_GI-ID_I.97" "LEU" "D" 108 "-" 0.21 1.33 1.54
+"6vvu_GI-ID_D-6vvu_GI-ID_I.98" "GLU" "D" 109 "-" 16.3 49.18 65.48
+"6vvu_GI-ID_D-6vvu_GI-ID_I.99" "GLU" "D" 110 "-" 0.74 0.33 1.06
+"6vvu_GI-ID_D-6vvu_GI-ID_I.272" "TYR" "I" 29 "-" 3.66 10.12 13.79
+"6vvu_GI-ID_D-6vvu_GI-ID_I.273" "ASN" "I" 30 "-" 2.09 21.24 23.33
+"6vvu_GI-ID_D-6vvu_GI-ID_I.275" "ARG" "I" 32 "-" 0.93 23.33 24.26
+"6vvu_GI-ID_D-6vvu_GI-ID_I.292" "TYR" "I" 49 "-" 0.84 2.5 3.34
+"6vvu_GI-ID_D-6vvu_GI-ID_I.293" "GLU" "I" 50 "-" 0.12 1.65 1.78
+"6vvu_GI-ID_D-6vvu_GI-ID_I.336" "ASP" "I" 93 "-" 0.01 0.12 0.13
+"6vvu_GI-ID_D-6vvu_GI-ID_I.337" "ARG" "I" 94 "-" 31.82 76.72 108.54
+"6vvu_GI-ID_D-6vvu_GI-ID_I.338" "SER" "I" 95 "-" 0 0.09 0.09

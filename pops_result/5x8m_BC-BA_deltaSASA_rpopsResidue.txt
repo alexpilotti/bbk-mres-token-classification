@@ -1,0 +1,27 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5x8m_BC-BA_A-5x8m_BC-BA_B.39" "TYR" "A" 56 "-" 12.99 3.96 16.94
+"5x8m_BC-BA_A-5x8m_BC-BA_B.41" "GLU" "A" 58 "-" 6.29 16.32 22.61
+"5x8m_BC-BA_A-5x8m_BC-BA_B.42" "MET" "A" 59 "-" 1.66 1.29 2.94
+"5x8m_BC-BA_A-5x8m_BC-BA_B.43" "GLU" "A" 60 "-" 29.44 26.33 55.77
+"5x8m_BC-BA_A-5x8m_BC-BA_B.44" "ASP" "A" 61 "-" 23.86 15.15 39
+"5x8m_BC-BA_A-5x8m_BC-BA_B.45" "LYS" "A" 62 "-" 0 0.24 0.24
+"5x8m_BC-BA_A-5x8m_BC-BA_B.94" "VAL" "A" 111 "-" 34.27 2.61 36.88
+"5x8m_BC-BA_A-5x8m_BC-BA_B.95" "TYR" "A" 112 "-" 1.03 1.51 2.54
+"5x8m_BC-BA_A-5x8m_BC-BA_B.96" "ARG" "A" 113 "-" 14.36 25.72 40.08
+"5x8m_BC-BA_A-5x8m_BC-BA_B.98" "MET" "A" 115 "-" 6.44 0 6.44
+"5x8m_BC-BA_A-5x8m_BC-BA_B.104" "ALA" "A" 121 "-" 6.94 5.88 12.83
+"5x8m_BC-BA_A-5x8m_BC-BA_B.105" "ASP" "A" 122 "-" 1.42 2.41 3.83
+"5x8m_BC-BA_A-5x8m_BC-BA_B.106" "TYR" "A" 123 "-" 36.39 31.35 67.75
+"5x8m_BC-BA_A-5x8m_BC-BA_B.108" "ARG" "A" 125 "-" 28.16 41.25 69.42
+"5x8m_BC-BA_A-5x8m_BC-BA_B.147" "ARG" "B" 31 "-" 0.78 0 0.78
+"5x8m_BC-BA_A-5x8m_BC-BA_B.149" "TRP" "B" 33 "-" 11.02 0.37 11.4
+"5x8m_BC-BA_A-5x8m_BC-BA_B.166" "ASN" "B" 50 "-" 0.25 2.61 2.85
+"5x8m_BC-BA_A-5x8m_BC-BA_B.168" "LYS" "B" 52 "-" 9.56 13.25 22.82
+"5x8m_BC-BA_A-5x8m_BC-BA_B.172" "SER" "B" 56 "-" 1.12 4.93 6.05
+"5x8m_BC-BA_A-5x8m_BC-BA_B.173" "GLU" "B" 57 "-" 8.29 24.37 32.66
+"5x8m_BC-BA_A-5x8m_BC-BA_B.175" "TYR" "B" 59 "-" 32.74 15.83 48.58
+"5x8m_BC-BA_A-5x8m_BC-BA_B.215" "GLU" "B" 99 "-" 0.08 1.46 1.54
+"5x8m_BC-BA_A-5x8m_BC-BA_B.218" "TRP" "B" 102 "-" 90.38 5.38 95.76
+"5x8m_BC-BA_A-5x8m_BC-BA_B.219" "PHE" "B" 103 "-" 86.36 8.02 94.39
+"5x8m_BC-BA_A-5x8m_BC-BA_B.220" "GLY" "B" 104 "-" 1.95 2.47 4.41
+"5x8m_BC-BA_A-5x8m_BC-BA_B.221" "GLU" "B" 105 "-" 14.18 2.23 16.39

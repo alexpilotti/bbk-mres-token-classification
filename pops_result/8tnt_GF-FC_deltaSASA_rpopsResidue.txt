@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8tnt_GF-FC_C-8tnt_GF-FC_F.55" "ALA" "C" 97 "-" 0.69 0 0.69
+"8tnt_GF-FC_C-8tnt_GF-FC_F.56" "ASN" "C" 98 "-" 8.59 6.23 14.81
+"8tnt_GF-FC_C-8tnt_GF-FC_F.57" "CYS" "C" 99 "-" 28.02 2.49 30.52
+"8tnt_GF-FC_C-8tnt_GF-FC_F.58" "THR" "C" 100 "-" 8.8 19.91 28.71
+"8tnt_GF-FC_C-8tnt_GF-FC_F.59" "TYR" "C" 101 "-" 1.5 0.36 1.86
+"8tnt_GF-FC_C-8tnt_GF-FC_F.95" "PRO" "C" 137 "-" 12.9 0.08 12.98
+"8tnt_GF-FC_C-8tnt_GF-FC_F.96" "CYS" "C" 138 "-" 9.74 0.57 10.31
+"8tnt_GF-FC_C-8tnt_GF-FC_F.178" "ARG" "C" 220 "-" 2.13 19.54 21.68
+"8tnt_GF-FC_C-8tnt_GF-FC_F.209" "THR" "FALSE" 31 "-" 10.23 10.37 20.6
+"8tnt_GF-FC_C-8tnt_GF-FC_F.210" "SER" "FALSE" 32 "-" 23.29 13.09 36.38
+"8tnt_GF-FC_C-8tnt_GF-FC_F.212" "TYR" "FALSE" 34 "-" 33.78 15.19 48.97
+"8tnt_GF-FC_C-8tnt_GF-FC_F.214" "TYR" "FALSE" 36 "-" 16.55 31.07 47.62
+"8tnt_GF-FC_C-8tnt_GF-FC_F.232" "LEU" "FALSE" 54 "-" 0.23 0 0.22
+"8tnt_GF-FC_C-8tnt_GF-FC_F.273" "SER" "FALSE" 95 "-" 0 0.33 0.33
+"8tnt_GF-FC_C-8tnt_GF-FC_F.274" "ARG" "FALSE" 96 "-" 0.01 1.07 1.08
+"8tnt_GF-FC_C-8tnt_GF-FC_F.275" "ASP" "FALSE" 97 "-" 0 0.09 0.08
+"8tnt_GF-FC_C-8tnt_GF-FC_F.276" "LEU" "FALSE" 98 "-" 14.22 0.3 14.52

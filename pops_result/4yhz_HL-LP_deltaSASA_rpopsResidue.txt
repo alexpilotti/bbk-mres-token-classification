@@ -1,0 +1,9 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4yhz_HL-LP_L-4yhz_HL-LP_P.87" "TRP" "L" 90 "-" 7.24 0 7.24
+"4yhz_HL-LP_L-4yhz_HL-LP_P.89" "ASP" "L" 92 "-" 9.92 18.56 28.49
+"4yhz_HL-LP_L-4yhz_HL-LP_P.90" "SER" "L" 93 "-" 0 0.01 0.02
+"4yhz_HL-LP_L-4yhz_HL-LP_P.92" "ASN" "L" 95 "-" 0.29 3.91 4.2
+"4yhz_HL-LP_L-4yhz_HL-LP_P.214" "THR" "P" 3 "-" 0.93 4.19 5.11
+"4yhz_HL-LP_L-4yhz_HL-LP_P.215" "GLN" "P" 5 "-" 22.15 6.08 28.23
+"4yhz_HL-LP_L-4yhz_HL-LP_P.216" "THR" "P" 6 "-" 0.02 0.9 0.92
+"4yhz_HL-LP_L-4yhz_HL-LP_P.217" "ALA" "P" 7 "-" 1.13 0.07 1.2

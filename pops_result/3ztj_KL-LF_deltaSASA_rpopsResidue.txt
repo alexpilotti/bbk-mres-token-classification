@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3ztj_KL-LF_F-3ztj_KL-LF_L.38" "LEU" "FALSE" 38 "-" 34.3 0.03 34.33
+"3ztj_KL-LF_F-3ztj_KL-LF_L.39" "LYS" "FALSE" 39 "-" 27.12 3.02 30.14
+"3ztj_KL-LF_F-3ztj_KL-LF_L.40" "SER" "FALSE" 40 "-" 0.09 0.13 0.21
+"3ztj_KL-LF_F-3ztj_KL-LF_L.42" "GLN" "FALSE" 42 "-" 17.75 25.82 43.57
+"3ztj_KL-LF_F-3ztj_KL-LF_L.43" "ALA" "FALSE" 43 "-" 11.27 0.58 11.85
+"3ztj_KL-LF_F-3ztj_KL-LF_L.46" "ASP" "FALSE" 46 "-" 2.89 10.06 12.95
+"3ztj_KL-LF_F-3ztj_KL-LF_L.47" "GLN" "FALSE" 47 "-" 0 0.25 0.25
+"3ztj_KL-LF_F-3ztj_KL-LF_L.203" "PHE" "L" 27 "D" 40.31 0 40.3
+"3ztj_KL-LF_F-3ztj_KL-LF_L.204" "ASN" "L" 28 "-" 0.43 4.17 4.6
+"3ztj_KL-LF_F-3ztj_KL-LF_L.208" "TYR" "L" 32 "-" 2.24 6.53 8.77
+"3ztj_KL-LF_F-3ztj_KL-LF_L.268" "TYR" "L" 92 "-" 1.01 3.42 4.43
+"3ztj_KL-LF_F-3ztj_KL-LF_L.269" "ARG" "L" 93 "-" 4.03 28.02 32.05

@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5vph_DC-CA_A-5vph_DC-CA_C.154" "ASP" "A" 154 "-" 0.37 5.47 5.84
+"5vph_DC-CA_A-5vph_DC-CA_C.155" "GLY" "A" 155 "-" 0.03 0.73 0.76
+"5vph_DC-CA_A-5vph_DC-CA_C.156" "ARG" "A" 156 "-" 45.3 80.65 125.95
+"5vph_DC-CA_A-5vph_DC-CA_C.157" "THR" "A" 157 "-" 5.09 0.65 5.74
+"5vph_DC-CA_A-5vph_DC-CA_C.180" "ALA" "A" 180 "-" 2.97 0 2.97
+"5vph_DC-CA_A-5vph_DC-CA_C.181" "GLN" "A" 181 "-" 30.91 37.76 68.69
+"5vph_DC-CA_A-5vph_DC-CA_C.199" "ASN" "A" 199 "-" 0 0.2 0.2
+"5vph_DC-CA_A-5vph_DC-CA_C.250" "ASP" "C" 28 "-" 0 0.09 0.08
+"5vph_DC-CA_A-5vph_DC-CA_C.251" "ILE" "C" 29 "-" 0.01 0.07 0.08
+"5vph_DC-CA_A-5vph_DC-CA_C.252" "TYR" "C" 30 "-" 27.71 7.3 35.02
+"5vph_DC-CA_A-5vph_DC-CA_C.254" "TYR" "C" 32 "-" 9.56 18.82 28.37
+"5vph_DC-CA_A-5vph_DC-CA_C.271" "TYR" "C" 49 "-" 0 1 0.99
+"5vph_DC-CA_A-5vph_DC-CA_C.272" "ARG" "C" 50 "-" 0.08 6.87 6.96
+"5vph_DC-CA_A-5vph_DC-CA_C.275" "ARG" "C" 53 "-" 9.36 33.65 43.02
+"5vph_DC-CA_A-5vph_DC-CA_C.314" "ASP" "C" 92 "-" 1.59 10.28 11.88
+"5vph_DC-CA_A-5vph_DC-CA_C.315" "GLU" "C" 93 "-" 0.71 0.57 1.28
+"5vph_DC-CA_A-5vph_DC-CA_C.316" "PHE" "C" 94 "-" 0.14 0 0.14

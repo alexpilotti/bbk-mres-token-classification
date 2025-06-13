@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7beo_CD-DX_X-7beo_CD-DX_D.143" "SER" "X" 477 "-" 0 0.54 0.54
+"7beo_CD-DX_X-7beo_CD-DX_D.144" "THR" "X" 478 "-" 38.64 12.35 50.98
+"7beo_CD-DX_X-7beo_CD-DX_D.145" "PRO" "X" 479 "-" 0.53 1.23 1.76
+"7beo_CD-DX_X-7beo_CD-DX_D.146" "CYS" "X" 480 "-" 0.39 0.12 0.5
+"7beo_CD-DX_X-7beo_CD-DX_D.150" "GLU" "X" 484 "-" 0 0.12 0.13
+"7beo_CD-DX_X-7beo_CD-DX_D.151" "GLY" "X" 485 "-" 2.31 0.23 2.53
+"7beo_CD-DX_X-7beo_CD-DX_D.152" "PHE" "X" 486 "-" 66.67 4.07 70.74
+"7beo_CD-DX_X-7beo_CD-DX_D.153" "ASN" "X" 487 "-" 0.15 0.01 0.17
+"7beo_CD-DX_X-7beo_CD-DX_D.154" "CYS" "X" 488 "-" 1.55 0 1.55
+"7beo_CD-DX_X-7beo_CD-DX_D.214" "SER" "D" 32 "-" 6.83 3.81 10.64
+"7beo_CD-DX_X-7beo_CD-DX_D.215" "TYR" "D" 33 "-" 21.22 32.75 53.97
+"7beo_CD-DX_X-7beo_CD-DX_D.232" "TYR" "D" 50 "-" 0.26 0 0.26
+"7beo_CD-DX_X-7beo_CD-DX_D.233" "GLY" "D" 51 "-" 0.04 0 0.04
+"7beo_CD-DX_X-7beo_CD-DX_D.274" "TYR" "D" 92 "-" 8.32 2.02 10.33
+"7beo_CD-DX_X-7beo_CD-DX_D.275" "GLY" "D" 93 "-" 0.22 1.07 1.3
+"7beo_CD-DX_X-7beo_CD-DX_D.279" "TRP" "D" 97 "-" 34.86 0.13 34.99

@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7v61_HK-KB_B-7v61_HK-KB_K.1" "GLN" "B" 18 "-" 33.25 14.45 47.69
+"7v61_HK-KB_B-7v61_HK-KB_K.2" "SER" "B" 19 "-" 16.99 9.08 26.07
+"7v61_HK-KB_B-7v61_HK-KB_K.3" "THR" "B" 20 "-" 42.83 10.51 53.33
+"7v61_HK-KB_B-7v61_HK-KB_K.4" "ILE" "B" 21 "-" 1.44 0.11 1.55
+"7v61_HK-KB_B-7v61_HK-KB_K.6" "GLU" "B" 23 "-" 22.17 18.3 40.47
+"7v61_HK-KB_B-7v61_HK-KB_K.7" "GLN" "B" 24 "-" 0.05 1.28 1.32
+"7v61_HK-KB_B-7v61_HK-KB_K.10" "THR" "B" 27 "-" 0.4 0 0.39
+"7v61_HK-KB_B-7v61_HK-KB_K.783" "TYR" "K" 32 "-" 12.05 9.58 21.62
+"7v61_HK-KB_B-7v61_HK-KB_K.785" "TYR" "K" 34 "-" 0 0.83 0.84
+"7v61_HK-KB_B-7v61_HK-KB_K.842" "GLY" "K" 91 "-" 1.1 1.45 2.55
+"7v61_HK-KB_B-7v61_HK-KB_K.843" "HIS" "K" 92 "-" 9.96 7.23 17.2
+"7v61_HK-KB_B-7v61_HK-KB_K.844" "SER" "K" 93 "-" 4.17 3.55 7.72
+"7v61_HK-KB_B-7v61_HK-KB_K.845" "PHE" "K" 94 "-" 78.82 0.8 79.63
+"7v61_HK-KB_B-7v61_HK-KB_K.846" "PRO" "K" 95 "-" 0.46 0 0.46
+"7v61_HK-KB_B-7v61_HK-KB_K.847" "TYR" "K" 96 "-" 2.26 7.38 9.63

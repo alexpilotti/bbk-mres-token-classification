@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8ek1_CD-DP_D-8ek1_CD-DP_P.28" "PHE" "D" 28 "-" 0.13 0 0.13
+"8ek1_CD-DP_D-8ek1_CD-DP_P.32" "TRP" "D" 32 "-" 24.65 1.17 25.83
+"8ek1_CD-DP_D-8ek1_CD-DP_P.91" "TYR" "D" 91 "-" 12.5 2.13 14.62
+"8ek1_CD-DP_D-8ek1_CD-DP_P.92" "THR" "D" 92 "-" 5.46 12.31 17.78
+"8ek1_CD-DP_D-8ek1_CD-DP_P.93" "SER" "D" 93 "-" 6.7 5.39 12.1
+"8ek1_CD-DP_D-8ek1_CD-DP_P.94" "TYR" "D" 94 "-" 37.92 13.49 51.41
+"8ek1_CD-DP_D-8ek1_CD-DP_P.95" "GLY" "D" 95 "-" 0 0.42 0.42
+"8ek1_CD-DP_D-8ek1_CD-DP_P.96" "ARG" "D" 96 "-" 1.86 20.54 22.4
+"8ek1_CD-DP_D-8ek1_CD-DP_P.228" "ASP" "P" 15 "-" 0 0.38 0.37
+"8ek1_CD-DP_D-8ek1_CD-DP_P.230" "ASN" "P" 17 "-" 0 0.23 0.23
+"8ek1_CD-DP_D-8ek1_CD-DP_P.231" "ALA" "P" 18 "-" 0.02 0 0.02
+"8ek1_CD-DP_D-8ek1_CD-DP_P.232" "ASN" "P" 19 "-" 11.58 44.6 56.18
+"8ek1_CD-DP_D-8ek1_CD-DP_P.233" "PRO" "P" 20 "-" 47.48 0.4 47.88
+"8ek1_CD-DP_D-8ek1_CD-DP_P.234" "ASN" "P" 21 "-" 14.17 39.88 54.05
+"8ek1_CD-DP_D-8ek1_CD-DP_P.235" "VAL" "P" 22 "-" 16.87 0 16.87

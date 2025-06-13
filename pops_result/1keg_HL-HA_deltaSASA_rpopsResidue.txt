@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"1keg_HL-HA_A-1keg_HL-HA_H.1" "DT" "A" 1 "-" 105.62 65.25 170.86
+"1keg_HL-HA_A-1keg_HL-HA_H.2" "DT" "A" 3 "-" 79.43 56.79 136.21
+"1keg_HL-HA_A-1keg_HL-HA_H.3" "DT" "A" 4 "-" 2.52 19.97 22.5
+"1keg_HL-HA_A-1keg_HL-HA_H.36" "TRP" "H" 33 "-" 28.69 5.14 33.83
+"1keg_HL-HA_A-1keg_HL-HA_H.38" "HIS" "H" 35 "-" 5.39 3.46 8.85
+"1keg_HL-HA_A-1keg_HL-HA_H.50" "TRP" "H" 47 "-" 1.32 0 1.32
+"1keg_HL-HA_A-1keg_HL-HA_H.53" "THR" "H" 50 "-" 3.88 0.32 4.2
+"1keg_HL-HA_A-1keg_HL-HA_H.61" "THR" "H" 57 "-" 0.05 0.79 0.84
+"1keg_HL-HA_A-1keg_HL-HA_H.62" "SER" "H" 58 "-" 10.74 12.23 22.96
+"1keg_HL-HA_A-1keg_HL-HA_H.63" "TYR" "H" 59 "-" 0 0.03 0.03
+"1keg_HL-HA_A-1keg_HL-HA_H.102" "ARG" "H" 95 "-" 5 1.41 6.41
+"1keg_HL-HA_A-1keg_HL-HA_H.103" "SER" "H" 96 "-" 0 0.01 0.02
+"1keg_HL-HA_A-1keg_HL-HA_H.105" "TYR" "H" 98 "-" 10.35 0.5 10.84
+"1keg_HL-HA_A-1keg_HL-HA_H.106" "LYS" "H" 99 "-" 0.02 0.21 0.23
+"1keg_HL-HA_A-1keg_HL-HA_H.108" "TYR" "H" 100 "I" 27.06 11.8 38.86
+"1keg_HL-HA_A-1keg_HL-HA_H.110" "LEU" "H" 100 "K" 0.02 0 0.02

@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7zf5_HL-LE_L-7zf5_HL-LE_E.94" "TYR" "L" 94 "-" 28.28 8.31 36.58
+"7zf5_HL-LE_L-7zf5_HL-LE_E.318" "VAL" "E" 445 "-" 25.75 2.71 28.46
+"7zf5_HL-LE_L-7zf5_HL-LE_E.319" "SER" "E" 446 "-" 17.03 1.61 18.64
+"7zf5_HL-LE_L-7zf5_HL-LE_E.371" "ARG" "E" 498 "-" 0.24 0.62 0.86

@@ -1,0 +1,26 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3jab_HL-HC_C-3jab_HL-HC_H.257" "GLU" "C" 788 "-" 0 0.92 0.92
+"3jab_HL-HC_C-3jab_HL-HC_H.259" "GLY" "C" 790 "-" 0 0.16 0.16
+"3jab_HL-HC_C-3jab_HL-HC_H.260" "ASP" "C" 791 "-" 4.33 4.47 8.81
+"3jab_HL-HC_C-3jab_HL-HC_H.261" "LEU" "C" 792 "-" 0.39 0.08 0.47
+"3jab_HL-HC_C-3jab_HL-HC_H.262" "GLU" "C" 793 "-" 0 0.01 0.01
+"3jab_HL-HC_C-3jab_HL-HC_H.263" "ARG" "C" 794 "-" 18.17 18.58 36.76
+"3jab_HL-HC_C-3jab_HL-HC_H.264" "THR" "C" 795 "-" 30.2 4.44 34.63
+"3jab_HL-HC_C-3jab_HL-HC_H.265" "VAL" "C" 796 "-" 0.96 0.04 1
+"3jab_HL-HC_C-3jab_HL-HC_H.269" "GLN" "C" 800 "-" 0 4.92 4.92
+"3jab_HL-HC_C-3jab_HL-HC_H.270" "PRO" "C" 801 "-" 0.15 0 0.15
+"3jab_HL-HC_C-3jab_HL-HC_H.275" "ASP" "C" 806 "-" 0.08 0.97 1.05
+"3jab_HL-HC_C-3jab_HL-HC_H.276" "ARG" "C" 807 "-" 11.96 5.56 17.52
+"3jab_HL-HC_C-3jab_HL-HC_H.277" "ASN" "C" 808 "-" 7.17 43.35 50.52
+"3jab_HL-HC_C-3jab_HL-HC_H.278" "LYS" "C" 809 "-" 0.15 0.25 0.4
+"3jab_HL-HC_C-3jab_HL-HC_H.358" "LYS" "H" 30 "-" 14.52 18.44 32.95
+"3jab_HL-HC_C-3jab_HL-HC_H.359" "ASP" "H" 31 "-" 0 0.38 0.38
+"3jab_HL-HC_C-3jab_HL-HC_H.361" "TYR" "H" 33 "-" 1.61 8.15 9.77
+"3jab_HL-HC_C-3jab_HL-HC_H.378" "TRP" "H" 50 "-" 2.62 0 2.62
+"3jab_HL-HC_C-3jab_HL-HC_H.380" "ASP" "H" 52 "-" 0.25 2.79 3.04
+"3jab_HL-HC_C-3jab_HL-HC_H.382" "GLU" "H" 53 "-" 16.64 46.37 63.02
+"3jab_HL-HC_C-3jab_HL-HC_H.383" "ILE" "H" 54 "-" 40.12 1.29 41.41
+"3jab_HL-HC_C-3jab_HL-HC_H.385" "ASP" "H" 56 "-" 7.87 27.58 35.44
+"3jab_HL-HC_C-3jab_HL-HC_H.386" "THR" "H" 57 "-" 0 0.15 0.16
+"3jab_HL-HC_C-3jab_HL-HC_H.429" "ASP" "H" 97 "-" 1.25 4.82 6.09
+"3jab_HL-HC_C-3jab_HL-HC_H.430" "TYR" "H" 98 "-" 3.42 0.07 3.49

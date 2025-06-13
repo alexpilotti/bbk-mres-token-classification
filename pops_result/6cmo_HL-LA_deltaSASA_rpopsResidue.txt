@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6cmo_HL-LA_A-6cmo_HL-LA_L.108" "PHE" "A" 108 "-" 36.76 0 36.76
+"6cmo_HL-LA_A-6cmo_HL-LA_L.111" "ALA" "A" 111 "-" 7.44 2.09 9.53
+"6cmo_HL-LA_A-6cmo_HL-LA_L.112" "GLY" "A" 112 "-" 0.15 0.05 0.2
+"6cmo_HL-LA_A-6cmo_HL-LA_L.114" "ALA" "A" 114 "-" 14.23 0.38 14.62
+"6cmo_HL-LA_A-6cmo_HL-LA_L.115" "GLU" "A" 115 "-" 13.38 12.47 25.85
+"6cmo_HL-LA_A-6cmo_HL-LA_L.379" "SER" "L" 29 "-" 1.64 5.78 7.42
+"6cmo_HL-LA_A-6cmo_HL-LA_L.380" "VAL" "L" 30 "-" 0.87 0.59 1.46
+"6cmo_HL-LA_A-6cmo_HL-LA_L.381" "SER" "L" 31 "-" 24.92 16.09 41
+"6cmo_HL-LA_A-6cmo_HL-LA_L.382" "SER" "L" 32 "-" 0.54 1.52 2.06
+"6cmo_HL-LA_A-6cmo_HL-LA_L.383" "ALA" "L" 33 "-" 0.08 0 0.08
+"6cmo_HL-LA_A-6cmo_HL-LA_L.417" "ARG" "L" 67 "-" 0 0.49 0.49
+"6cmo_HL-LA_A-6cmo_HL-LA_L.443" "SER" "L" 93 "-" 2.18 10.63 12.8
+"6cmo_HL-LA_A-6cmo_HL-LA_L.444" "SER" "L" 94 "-" 9.02 4.15 13.17
+"6cmo_HL-LA_A-6cmo_HL-LA_L.445" "SER" "L" 95 "-" 17.66 6.75 24.41
+"6cmo_HL-LA_A-6cmo_HL-LA_L.446" "LEU" "L" 96 "-" 0 0 0.01

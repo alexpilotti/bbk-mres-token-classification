@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8szy_IM-MU_M-8szy_IM-MU_U.30" "SER" "M" 30 "-" 0.11 0 0.11
+"8szy_IM-MU_M-8szy_IM-MU_U.31" "SER" "M" 31 "-" 1.1 2.62 3.72
+"8szy_IM-MU_M-8szy_IM-MU_U.32" "TYR" "M" 32 "-" 5.17 8.31 13.48
+"8szy_IM-MU_M-8szy_IM-MU_U.46" "LEU" "M" 46 "-" 7.25 0 7.24
+"8szy_IM-MU_M-8szy_IM-MU_U.49" "TYR" "M" 49 "-" 20.08 22.05 42.14
+"8szy_IM-MU_M-8szy_IM-MU_U.50" "ASP" "M" 50 "-" 5.25 16.69 21.95
+"8szy_IM-MU_M-8szy_IM-MU_U.53" "ASN" "M" 53 "-" 0.99 7.7 8.69
+"8szy_IM-MU_M-8szy_IM-MU_U.54" "ARG" "M" 54 "-" 0.1 1.16 1.26
+"8szy_IM-MU_M-8szy_IM-MU_U.55" "ALA" "M" 55 "-" 7.26 0.27 7.52
+"8szy_IM-MU_M-8szy_IM-MU_U.56" "THR" "M" 56 "-" 30.21 30.77 60.98
+"8szy_IM-MU_M-8szy_IM-MU_U.261" "ASN" "U" 48 "-" 0 0.08 0.07
+"8szy_IM-MU_M-8szy_IM-MU_U.262" "ALA" "U" 49 "-" 0.1 2.85 2.95
+"8szy_IM-MU_M-8szy_IM-MU_U.263" "ASP" "U" 50 "-" 1.29 10.34 11.64
+"8szy_IM-MU_M-8szy_IM-MU_U.264" "LEU" "U" 51 "-" 50.93 27.97 78.9
+"8szy_IM-MU_M-8szy_IM-MU_U.265" "GLY" "U" 52 "-" 9.43 3.42 12.85
+"8szy_IM-MU_M-8szy_IM-MU_U.266" "TRP" "U" 53 "-" 2.39 16.17 18.55
+"8szy_IM-MU_M-8szy_IM-MU_U.267" "HIS" "U" 54 "-" 16.68 8.3 24.98
+"8szy_IM-MU_M-8szy_IM-MU_U.270" "PRO" "U" 57 "-" 23.42 0 23.42
+"8szy_IM-MU_M-8szy_IM-MU_U.273" "LYS" "U" 60 "-" 2.45 6.18 8.65

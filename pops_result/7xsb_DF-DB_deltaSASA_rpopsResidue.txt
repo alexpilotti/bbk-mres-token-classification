@@ -1,0 +1,27 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7xsb_DF-DB_B-7xsb_DF-DB_D.33" "SER" "B" 366 "-" 0 0.16 0.16
+"7xsb_DF-DB_B-7xsb_DF-DB_D.35" "LEU" "B" 368 "-" 0 0.02 0.02
+"7xsb_DF-DB_B-7xsb_DF-DB_D.36" "TYR" "B" 369 "-" 15.04 15.75 30.79
+"7xsb_DF-DB_B-7xsb_DF-DB_D.37" "ASN" "B" 370 "-" 22.09 64.02 86.12
+"7xsb_DF-DB_B-7xsb_DF-DB_D.38" "SER" "B" 371 "-" 7.49 7.94 15.44
+"7xsb_DF-DB_B-7xsb_DF-DB_D.39" "ALA" "B" 372 "-" 53.52 7.9 61.42
+"7xsb_DF-DB_B-7xsb_DF-DB_D.40" "SER" "B" 373 "-" 0.25 0.33 0.59
+"7xsb_DF-DB_B-7xsb_DF-DB_D.41" "PHE" "B" 374 "-" 2.19 4.72 6.91
+"7xsb_DF-DB_B-7xsb_DF-DB_D.42" "SER" "B" 375 "-" 1.66 2.59 4.25
+"7xsb_DF-DB_B-7xsb_DF-DB_D.43" "THR" "B" 376 "-" 0.52 0.43 0.94
+"7xsb_DF-DB_B-7xsb_DF-DB_D.44" "PHE" "B" 377 "-" 6.05 5.91 11.96
+"7xsb_DF-DB_B-7xsb_DF-DB_D.50" "SER" "B" 383 "-" 0 0.51 0.51
+"7xsb_DF-DB_B-7xsb_DF-DB_D.51" "PRO" "B" 384 "-" 6.94 0.01 6.94
+"7xsb_DF-DB_B-7xsb_DF-DB_D.52" "THR" "B" 385 "-" 24.18 1.97 26.15
+"7xsb_DF-DB_B-7xsb_DF-DB_D.101" "ILE" "B" 434 "-" 0.01 0 0.01
+"7xsb_DF-DB_B-7xsb_DF-DB_D.219" "GLY" "D" 31 "-" 0.02 1.01 1.03
+"7xsb_DF-DB_B-7xsb_DF-DB_D.220" "TYR" "D" 32 "-" 0.15 0 0.14
+"7xsb_DF-DB_B-7xsb_DF-DB_D.221" "TRP" "D" 33 "-" 9.84 2.8 12.64
+"7xsb_DF-DB_B-7xsb_DF-DB_D.240" "LYS" "D" 52 "-" 3.25 3.61 6.85
+"7xsb_DF-DB_B-7xsb_DF-DB_D.245" "GLU" "D" 57 "-" 0.53 3.47 4
+"7xsb_DF-DB_B-7xsb_DF-DB_D.247" "TYR" "D" 59 "-" 3.35 2.61 5.95
+"7xsb_DF-DB_B-7xsb_DF-DB_D.288" "ARG" "D" 100 "-" 6.68 1.55 8.23
+"7xsb_DF-DB_B-7xsb_DF-DB_D.289" "TRP" "D" 101 "-" 42.32 3.38 45.7
+"7xsb_DF-DB_B-7xsb_DF-DB_D.290" "LEU" "D" 102 "-" 24.45 0.53 24.98
+"7xsb_DF-DB_B-7xsb_DF-DB_D.291" "ARG" "D" 103 "-" 24.62 94.29 118.92
+"7xsb_DF-DB_B-7xsb_DF-DB_D.292" "GLY" "D" 104 "-" 0.09 0.02 0.11

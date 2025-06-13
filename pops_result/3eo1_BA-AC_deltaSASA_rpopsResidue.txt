@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3eo1_BA-AC_A-3eo1_BA-AC_C.28" "SER" "A" 28 "-" 0.97 2.38 3.35
+"3eo1_BA-AC_A-3eo1_BA-AC_C.29" "LEU" "A" 29 "-" 0.48 0.25 0.72
+"3eo1_BA-AC_A-3eo1_BA-AC_C.30" "GLY" "A" 30 "-" 4.53 1.3 5.84
+"3eo1_BA-AC_A-3eo1_BA-AC_C.33" "TYR" "A" 33 "-" 20.93 21.78 42.71
+"3eo1_BA-AC_A-3eo1_BA-AC_C.92" "TYR" "A" 92 "-" 0.46 3.36 3.83
+"3eo1_BA-AC_A-3eo1_BA-AC_C.93" "ALA" "A" 93 "-" 9.58 19.14 28.71
+"3eo1_BA-AC_A-3eo1_BA-AC_C.94" "ASP" "A" 94 "-" 4.1 2.56 6.66
+"3eo1_BA-AC_A-3eo1_BA-AC_C.95" "SER" "A" 95 "-" 9.45 2.73 12.19
+"3eo1_BA-AC_A-3eo1_BA-AC_C.307" "VAL" "C" 92 "-" 10.6 2.55 13.15
+"3eo1_BA-AC_A-3eo1_BA-AC_C.308" "GLY" "C" 93 "-" 20.55 9.85 30.41
+"3eo1_BA-AC_A-3eo1_BA-AC_C.309" "ARG" "C" 94 "-" 70.57 54.79 125.37
+"3eo1_BA-AC_A-3eo1_BA-AC_C.310" "THR" "C" 95 "-" 4.93 0.03 4.96

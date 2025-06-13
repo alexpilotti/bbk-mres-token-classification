@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6xkp_MN-NB_B-6xkp_MN-NB_N.113" "GLY" "B" 446 "-" 0 0.19 0.19
+"6xkp_MN-NB_B-6xkp_MN-NB_N.116" "TYR" "B" 449 "-" 6.65 16.87 23.52
+"6xkp_MN-NB_B-6xkp_MN-NB_N.150" "VAL" "B" 483 "-" 4.33 0 4.33
+"6xkp_MN-NB_B-6xkp_MN-NB_N.151" "GLU" "B" 484 "-" 14.19 29.54 43.73
+"6xkp_MN-NB_B-6xkp_MN-NB_N.152" "GLY" "B" 485 "-" 0.3 0.11 0.41
+"6xkp_MN-NB_B-6xkp_MN-NB_N.157" "PHE" "B" 490 "-" 0.24 0 0.25
+"6xkp_MN-NB_B-6xkp_MN-NB_N.160" "GLN" "B" 493 "-" 0 0.52 0.52
+"6xkp_MN-NB_B-6xkp_MN-NB_N.165" "GLN" "B" 498 "-" 0 0.34 0.33
+"6xkp_MN-NB_B-6xkp_MN-NB_N.218" "SER" "N" 27 "-" 0.52 0.19 0.7
+"6xkp_MN-NB_B-6xkp_MN-NB_N.222" "GLY" "N" 28 "-" 0.03 2.15 2.17
+"6xkp_MN-NB_B-6xkp_MN-NB_N.223" "GLY" "N" 29 "-" 3.42 9.5 12.92
+"6xkp_MN-NB_B-6xkp_MN-NB_N.224" "TYR" "N" 30 "-" 9.42 0.73 10.14
+"6xkp_MN-NB_B-6xkp_MN-NB_N.225" "ASN" "N" 31 "-" 0 0.02 0.03
+"6xkp_MN-NB_B-6xkp_MN-NB_N.226" "TYR" "N" 32 "-" 0.73 2.67 3.41
+"6xkp_MN-NB_B-6xkp_MN-NB_N.243" "TYR" "N" 49 "-" 2.37 2.74 5.11
+"6xkp_MN-NB_B-6xkp_MN-NB_N.244" "GLU" "N" 50 "-" 1.58 9.9 11.47

@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8rp8_HL-HD_D-8rp8_HL-HD_H.38" "LYS" "D" 39 "-" 0.24 2.32 2.56
+"8rp8_HL-HD_D-8rp8_HL-HD_H.40" "LYS" "D" 41 "-" 6.57 2.17 8.74
+"8rp8_HL-HD_D-8rp8_HL-HD_H.43" "GLY" "D" 44 "-" 0.02 0 0.02
+"8rp8_HL-HD_D-8rp8_HL-HD_H.94" "THR" "D" 95 "-" 0.02 0 0.02
+"8rp8_HL-HD_D-8rp8_HL-HD_H.96" "GLU" "D" 97 "-" 0.75 7.47 8.23
+"8rp8_HL-HD_D-8rp8_HL-HD_H.101" "THR" "D" 102 "-" 21.56 1.56 23.12
+"8rp8_HL-HD_D-8rp8_HL-HD_H.103" "GLU" "D" 104 "-" 2.41 20.35 22.76
+"8rp8_HL-HD_D-8rp8_HL-HD_H.105" "GLU" "D" 106 "-" 3.8 11.83 15.63
+"8rp8_HL-HD_D-8rp8_HL-HD_H.107" "ILE" "D" 108 "-" 2.3 0 2.3
+"8rp8_HL-HD_D-8rp8_HL-HD_H.148" "SER" "H" 31 "-" 0 0.61 0.61
+"8rp8_HL-HD_D-8rp8_HL-HD_H.149" "TYR" "H" 32 "-" 0.22 0 0.22
+"8rp8_HL-HD_D-8rp8_HL-HD_H.150" "ALA" "H" 33 "-" 1.57 0.05 1.62
+"8rp8_HL-HD_D-8rp8_HL-HD_H.169" "SER" "H" 52 "-" 2.27 0.52 2.8
+"8rp8_HL-HD_D-8rp8_HL-HD_H.171" "SER" "H" 54 "-" 8.12 4.66 12.79
+"8rp8_HL-HD_D-8rp8_HL-HD_H.173" "GLY" "H" 56 "-" 0.34 0.02 0.36
+"8rp8_HL-HD_D-8rp8_HL-HD_H.174" "SER" "H" 57 "-" 4.42 9.69 14.1
+"8rp8_HL-HD_D-8rp8_HL-HD_H.176" "TYR" "H" 59 "-" 2.23 9.16 11.39
+"8rp8_HL-HD_D-8rp8_HL-HD_H.216" "SER" "H" 99 "-" 0.04 0 0.04
+"8rp8_HL-HD_D-8rp8_HL-HD_H.217" "TYR" "H" 100 "-" 1.03 5.39 6.42
+"8rp8_HL-HD_D-8rp8_HL-HD_H.218" "GLY" "H" 101 "-" 0.68 0.08 0.76
+"8rp8_HL-HD_D-8rp8_HL-HD_H.219" "ALA" "H" 102 "-" 18.67 1.38 20.06

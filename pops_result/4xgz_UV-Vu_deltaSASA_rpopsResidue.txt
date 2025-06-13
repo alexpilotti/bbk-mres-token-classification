@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4xgz_UV-Vu_V-4xgz_UV-Vu_u.26" "SER" "V" 30 "-" 0 0.22 0.22
+"4xgz_UV-Vu_V-4xgz_UV-Vu_u.27" "SER" "V" 31 "-" 0.08 0 0.07
+"4xgz_UV-Vu_V-4xgz_UV-Vu_u.28" "ALA" "V" 32 "-" 11.63 0.58 12.2
+"4xgz_UV-Vu_V-4xgz_UV-Vu_u.45" "TYR" "V" 49 "-" 0.3 0 0.3
+"4xgz_UV-Vu_V-4xgz_UV-Vu_u.46" "SER" "V" 50 "-" 1.25 2.92 4.17
+"4xgz_UV-Vu_V-4xgz_UV-Vu_u.87" "SER" "V" 91 "-" 6.97 2.93 9.9
+"4xgz_UV-Vu_V-4xgz_UV-Vu_u.88" "SER" "V" 92 "-" 3.56 10.29 13.84
+"4xgz_UV-Vu_V-4xgz_UV-Vu_u.89" "SER" "V" 93 "-" 35.11 28.08 63.2
+"4xgz_UV-Vu_V-4xgz_UV-Vu_u.90" "SER" "V" 94 "-" 8.38 5.44 13.83
+"4xgz_UV-Vu_V-4xgz_UV-Vu_u.91" "LEU" "V" 95 "-" 1.56 1.63 3.2
+"4xgz_UV-Vu_V-4xgz_UV-Vu_u.92" "ILE" "V" 96 "-" 14.35 0.48 14.82
+"4xgz_UV-Vu_V-4xgz_UV-Vu_u.211" "ASN" "u" 1 "-" 13.14 6.85 19.99
+"4xgz_UV-Vu_V-4xgz_UV-Vu_u.212" "LEU" "u" 2 "-" 89.97 1.77 91.74
+"4xgz_UV-Vu_V-4xgz_UV-Vu_u.213" "SER" "u" 3 "-" 30.23 15.73 45.96
+"4xgz_UV-Vu_V-4xgz_UV-Vu_u.217" "ARG" "u" 7 "-" 0.67 9.14 9.8

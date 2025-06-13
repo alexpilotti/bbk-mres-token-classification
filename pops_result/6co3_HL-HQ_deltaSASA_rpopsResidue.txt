@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.47" "TRP" "H" 47 "-" 0.07 0 0.07
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.52" "TRP" "H" 52 "-" 7.28 0.28 7.54
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.57" "LYS" "H" 57 "-" 3.67 5.69 9.35
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.59" "TYR" "H" 59 "-" 40.05 12.19 52.24
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.60" "TYR" "H" 60 "-" 0 0.87 0.87
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.65" "LYS" "H" 65 "-" 4.76 3.07 7.84
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.102" "ILE" "H" 102 "-" 5.84 1.94 7.79
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.103" "GLY" "H" 103 "-" 2.34 0.71 3.04
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.105" "ARG" "H" 105 "-" 25.35 80.65 106
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.106" "ARG" "H" 106 "-" 0.21 0.24 0.44
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.107" "GLY" "H" 107 "-" 10.01 2.66 12.66
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.108" "PRO" "H" 108 "-" 18.16 5.93 24.1
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.109" "TYR" "H" 109 "-" 0.66 0.14 0.8
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.219" "ALA" "Q" 2 "-" 6.88 12.5 19.37
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.220" "GLU" "Q" 3 "-" 17.68 30.1 47.78
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.221" "PHE" "Q" 4 "-" 82.1 4.15 86.25
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.222" "ARG" "Q" 5 "-" 1.29 3.29 4.58
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.223" "HIS" "Q" 6 "-" 45.22 27.1 72.32
+"6co3_HL-HQ_H-6co3_HL-HQ_Q.224" "ASP" "Q" 7 "-" 2.85 4.04 6.89

@@ -1,0 +1,21 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4xvu_CD-DB_B-4xvu_CD-DB_D.205" "GLU" "B" 253 "-" 4.26 10.03 14.28
+"4xvu_CD-DB_B-4xvu_CD-DB_D.208" "ILE" "B" 256 "-" 3.68 0.06 3.76
+"4xvu_CD-DB_B-4xvu_CD-DB_D.209" "GLN" "B" 257 "-" 9.09 35.97 45.06
+"4xvu_CD-DB_B-4xvu_CD-DB_D.212" "ILE" "B" 260 "-" 12.55 0 12.54
+"4xvu_CD-DB_B-4xvu_CD-DB_D.256" "GLU" "B" 304 "-" 17.22 41.86 59.08
+"4xvu_CD-DB_B-4xvu_CD-DB_D.257" "LEU" "B" 305 "-" 23.89 2.41 26.3
+"4xvu_CD-DB_B-4xvu_CD-DB_D.258" "TYR" "B" 306 "-" 4.16 1.05 5.21
+"4xvu_CD-DB_B-4xvu_CD-DB_D.259" "GLU" "B" 307 "-" 12.91 53.02 65.93
+"4xvu_CD-DB_B-4xvu_CD-DB_D.260" "ASP" "B" 308 "-" 3.92 14.43 18.35
+"4xvu_CD-DB_B-4xvu_CD-DB_D.261" "PHE" "B" 309 "-" 4.83 0 4.83
+"4xvu_CD-DB_B-4xvu_CD-DB_D.333" "VAL" "D" 30 "-" 0.02 0.31 0.33
+"4xvu_CD-DB_B-4xvu_CD-DB_D.334" "SER" "D" 31 "-" 14.23 14.59 28.81
+"4xvu_CD-DB_B-4xvu_CD-DB_D.335" "SER" "D" 32 "-" 6.1 6.08 12.17
+"4xvu_CD-DB_B-4xvu_CD-DB_D.336" "ALA" "D" 33 "-" 0.57 0.3 0.88
+"4xvu_CD-DB_B-4xvu_CD-DB_D.353" "TYR" "D" 50 "-" 9.48 4.32 13.79
+"4xvu_CD-DB_B-4xvu_CD-DB_D.354" "SER" "D" 51 "-" 2.45 5.19 7.64
+"4xvu_CD-DB_B-4xvu_CD-DB_D.370" "ARG" "D" 67 "-" 0 1.38 1.37
+"4xvu_CD-DB_B-4xvu_CD-DB_D.395" "TYR" "D" 92 "-" 0.38 0.21 0.59
+"4xvu_CD-DB_B-4xvu_CD-DB_D.397" "TYR" "D" 94 "-" 110.1 49.95 160.04
+"4xvu_CD-DB_B-4xvu_CD-DB_D.398" "TYR" "D" 95 "-" 1.55 0.04 1.59

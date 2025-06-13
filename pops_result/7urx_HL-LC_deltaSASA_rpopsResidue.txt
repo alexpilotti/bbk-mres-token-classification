@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7urx_HL-LC_C-7urx_HL-LC_L.76" "SER" "C" 103 "-" 0 1.24 1.24
+"7urx_HL-LC_C-7urx_HL-LC_L.78" "LYS" "C" 105 "-" 16.66 26.62 43.28
+"7urx_HL-LC_C-7urx_HL-LC_L.115" "ASP" "C" 162 "-" 0.27 6.01 6.27
+"7urx_HL-LC_C-7urx_HL-LC_L.116" "ARG" "C" 163 "-" 0.57 14.98 15.55
+"7urx_HL-LC_C-7urx_HL-LC_L.165" "PRO" "C" 222 "-" 0 0.18 0.19
+"7urx_HL-LC_C-7urx_HL-LC_L.248" "GLY" "L" 49 "-" 0.19 1.02 1.2
+"7urx_HL-LC_C-7urx_HL-LC_L.249" "THR" "L" 50 "-" 7.57 7.33 14.9
+"7urx_HL-LC_C-7urx_HL-LC_L.250" "ASN" "L" 51 "-" 0 0.11 0.11
+"7urx_HL-LC_C-7urx_HL-LC_L.267" "TYR" "L" 68 "-" 3.25 2.86 6.1
+"7urx_HL-LC_C-7urx_HL-LC_L.268" "SER" "L" 69 "-" 0.35 0.34 0.7
+"7urx_HL-LC_C-7urx_HL-LC_L.271" "TYR" "L" 72 "-" 1.34 1.64 2.98
+"7urx_HL-LC_C-7urx_HL-LC_L.285" "SER" "L" 86 "-" 0 0.42 0.41
+"7urx_HL-LC_C-7urx_HL-LC_L.312" "TYR" "L" 113 "-" 0 0.54 0.55

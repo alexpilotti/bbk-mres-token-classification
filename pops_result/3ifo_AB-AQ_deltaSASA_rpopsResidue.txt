@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.37" "SER" "A" 37 "-" 0.11 0.65 0.75
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.49" "TRP" "A" 49 "-" 3.93 0.44 4.36
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.52" "HIS" "A" 52 "-" 3.74 1.65 5.39
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.54" "TYR" "A" 54 "-" 18.44 25.24 43.68
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.55" "TRP" "A" 55 "-" 6.57 0.05 6.62
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.56" "ASP" "A" 56 "-" 2.41 8.26 10.68
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.58" "ASP" "A" 58 "-" 5.03 10.86 15.88
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.60" "ARG" "A" 60 "-" 19.04 69.55 88.59
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.100" "ARG" "A" 100 "-" 3.06 9.69 12.74
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.101" "PRO" "A" 101 "-" 0 0.03 0.03
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.102" "ILE" "A" 102 "-" 25.11 0.02 25.13
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.103" "THR" "A" 103 "-" 29.39 17.59 46.97
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.108" "ASP" "A" 108 "-" 3.23 11.35 14.58
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.217" "ALA" "Q" 2 "-" 9.24 9.75 18.99
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.218" "GLU" "Q" 3 "-" 3.3 11.23 14.53
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.219" "PHE" "Q" 4 "-" 84.24 1.76 86
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.220" "ARG" "Q" 5 "-" 49.21 95.23 144.44
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.221" "HIS" "Q" 6 "-" 40.58 33.16 73.74
+"3ifo_AB-AQ_A-3ifo_AB-AQ_Q.222" "ASP" "Q" 7 "-" 22.59 35.72 58.32

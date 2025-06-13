@@ -1,0 +1,11 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4u6h_CD-DJ_D-4u6h_CD-DJ_J.33" "ASN" "D" 33 "-" 6.05 10.2 16.25
+"4u6h_CD-DJ_D-4u6h_CD-DJ_J.34" "GLY" "D" 34 "-" 0.14 0.05 0.19
+"4u6h_CD-DJ_D-4u6h_CD-DJ_J.35" "ASN" "D" 35 "-" 1.44 11.77 13.2
+"4u6h_CD-DJ_D-4u6h_CD-DJ_J.37" "TYR" "D" 37 "-" 1.3 7.85 9.15
+"4u6h_CD-DJ_D-4u6h_CD-DJ_J.55" "LYS" "D" 55 "-" 0.32 0 0.32
+"4u6h_CD-DJ_D-4u6h_CD-DJ_J.96" "SER" "D" 96 "-" 0 0.32 0.32
+"4u6h_CD-DJ_D-4u6h_CD-DJ_J.99" "ASP" "D" 99 "-" 4.7 16.99 21.69
+"4u6h_CD-DJ_D-4u6h_CD-DJ_J.101" "TRP" "D" 101 "-" 2.87 0.44 3.31
+"4u6h_CD-DJ_D-4u6h_CD-DJ_J.244" "GLN" "J" 31 "-" 31.86 58.27 90.13
+"4u6h_CD-DJ_D-4u6h_CD-DJ_J.246" "LYS" "J" 33 "-" 32.88 14.81 47.69

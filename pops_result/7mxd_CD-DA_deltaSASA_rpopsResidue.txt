@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7mxd_CD-DA_A-7mxd_CD-DA_D.246" "ASN" "A" 276 "-" 1.6 10.8 12.4
+"7mxd_CD-DA_A-7mxd_CD-DA_D.248" "THR" "A" 278 "-" 22.97 28.73 51.7
+"7mxd_CD-DA_A-7mxd_CD-DA_D.249" "ASN" "A" 279 "-" 7.49 11.42 18.91
+"7mxd_CD-DA_A-7mxd_CD-DA_D.250" "ASN" "A" 280 "-" 2.6 16.71 19.31
+"7mxd_CD-DA_A-7mxd_CD-DA_D.321" "HIS" "A" 352 "-" 0 0.44 0.44
+"7mxd_CD-DA_A-7mxd_CD-DA_D.322" "PHE" "A" 353 "-" 1.36 0 1.37
+"7mxd_CD-DA_A-7mxd_CD-DA_D.323" "PRO" "A" 354 "-" 0.87 0 0.88
+"7mxd_CD-DA_A-7mxd_CD-DA_D.325" "LYS" "A" 357 "-" 2.99 8.85 11.84
+"7mxd_CD-DA_A-7mxd_CD-DA_D.419" "ARG" "A" 456 "-" 0.08 3.41 3.49
+"7mxd_CD-DA_A-7mxd_CD-DA_D.420" "ASP" "A" 457 "-" 0.11 0.04 0.16
+"7mxd_CD-DA_A-7mxd_CD-DA_D.421" "GLY" "A" 458 "-" 12.11 4.24 16.35
+"7mxd_CD-DA_A-7mxd_CD-DA_D.422" "GLY" "A" 459 "-" 20.24 25.48 45.72
+"7mxd_CD-DA_A-7mxd_CD-DA_D.423" "ASP" "A" 459 "A" 11.85 24.8 36.65
+"7mxd_CD-DA_A-7mxd_CD-DA_D.424" "ALA" "A" 459 "B" 13.87 1.92 15.78
+"7mxd_CD-DA_A-7mxd_CD-DA_D.431" "GLU" "A" 466 "-" 0 0.09 0.09
+"7mxd_CD-DA_A-7mxd_CD-DA_D.473" "ASP" "D" 1 "-" 13.1 20.46 33.56
+"7mxd_CD-DA_A-7mxd_CD-DA_D.474" "ILE" "D" 2 "-" 4.99 0.13 5.12
+"7mxd_CD-DA_A-7mxd_CD-DA_D.500" "TYR" "D" 32 "-" 2.69 0.63 3.33
+"7mxd_CD-DA_A-7mxd_CD-DA_D.559" "TYR" "D" 91 "-" 47.2 11.93 59.13
+"7mxd_CD-DA_A-7mxd_CD-DA_D.560" "GLU" "D" 96 "-" 15.52 47.61 63.13
+"7mxd_CD-DA_A-7mxd_CD-DA_D.561" "PHE" "D" 97 "-" 27.95 0.02 27.97

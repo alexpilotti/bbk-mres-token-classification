@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5wtt_HL-LP_L-5wtt_HL-LP_P.31" "TYR" "L" 31 "-" 26.31 31.41 57.72
+"5wtt_HL-LP_L-5wtt_HL-LP_P.33" "ASP" "L" 33 "-" 0.52 1.41 1.93
+"5wtt_HL-LP_L-5wtt_HL-LP_P.37" "TYR" "L" 37 "-" 12.2 3.66 15.85
+"5wtt_HL-LP_L-5wtt_HL-LP_P.39" "ASN" "L" 39 "-" 0 0.32 0.31
+"5wtt_HL-LP_L-5wtt_HL-LP_P.95" "GLN" "L" 95 "-" 0.04 0.55 0.58
+"5wtt_HL-LP_L-5wtt_HL-LP_P.96" "GLY" "L" 96 "-" 6.75 13.83 20.57
+"5wtt_HL-LP_L-5wtt_HL-LP_P.97" "THR" "L" 97 "-" 1.55 6.91 8.46
+"5wtt_HL-LP_L-5wtt_HL-LP_P.98" "HIS" "L" 98 "-" 3.1 2.54 5.64
+"5wtt_HL-LP_L-5wtt_HL-LP_P.99" "PHE" "L" 99 "-" 76.67 2.76 79.43
+"5wtt_HL-LP_L-5wtt_HL-LP_P.100" "PRO" "L" 100 "-" 2.55 0.69 3.24
+"5wtt_HL-LP_L-5wtt_HL-LP_P.101" "GLN" "L" 101 "-" 15.83 41.93 57.77
+"5wtt_HL-LP_L-5wtt_HL-LP_P.217" "CYS" "P" 1 "-" 15.32 12.97 28.29
+"5wtt_HL-LP_L-5wtt_HL-LP_P.218" "GLY" "P" 2 "-" 26.55 12.39 38.94
+"5wtt_HL-LP_L-5wtt_HL-LP_P.219" "LEU" "P" 3 "-" 99.99 2.4 102.39
+"5wtt_HL-LP_L-5wtt_HL-LP_P.220" "GLU" "P" 4 "-" 4.24 1.42 5.67
+"5wtt_HL-LP_L-5wtt_HL-LP_P.221" "CYS" "P" 5 "-" 23.95 12.72 36.67
+"5wtt_HL-LP_L-5wtt_HL-LP_P.222" "ASN" "P" 6 "-" 7.29 53.22 60.52
+"5wtt_HL-LP_L-5wtt_HL-LP_P.223" "PHE" "P" 7 "-" 31.95 0 31.94

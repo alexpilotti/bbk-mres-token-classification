@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4r2g_QP-PE_E-4r2g_QP-PE_P.137" "ASN" "E" 301 "-" 0.46 8.93 9.39
+"4r2g_QP-PE_E-4r2g_QP-PE_P.139" "ILE" "E" 322 "-" 17.81 10.53 28.34
+"4r2g_QP-PE_E-4r2g_QP-PE_P.140" "ILE" "E" 323 "-" 32.67 2.8 35.47
+"4r2g_QP-PE_E-4r2g_QP-PE_P.141" "GLY" "E" 324 "-" 25.21 17.08 42.29
+"4r2g_QP-PE_E-4r2g_QP-PE_P.142" "ASP" "E" 325 "-" 23.75 56.65 80.4
+"4r2g_QP-PE_E-4r2g_QP-PE_P.143" "ILE" "E" 326 "-" 45.11 1.2 46.3
+"4r2g_QP-PE_E-4r2g_QP-PE_P.325" "LEU" "P" 28 "-" 1.18 0.98 2.17
+"4r2g_QP-PE_E-4r2g_QP-PE_P.326" "GLY" "P" 29 "-" 12.59 2.96 15.56
+"4r2g_QP-PE_E-4r2g_QP-PE_P.327" "SER" "P" 30 "-" 14.87 16.24 31.1
+"4r2g_QP-PE_E-4r2g_QP-PE_P.367" "PHE" "P" 67 "-" 42.66 0 42.66
+"4r2g_QP-PE_E-4r2g_QP-PE_P.393" "SER" "P" 93 "-" 8.63 8.53 17.18
+"4r2g_QP-PE_E-4r2g_QP-PE_P.394" "ARG" "P" 94 "-" 22.24 73.07 95.31

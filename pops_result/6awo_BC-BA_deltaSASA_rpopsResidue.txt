@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6awo_BC-BA_A-6awo_BC-BA_B.133" "THR" "A" 206 "-" 0.5 0 0.5
+"6awo_BC-BA_A-6awo_BC-BA_B.134" "GLY" "A" 207 "-" 0 0.01 0.01
+"6awo_BC-BA_A-6awo_BC-BA_B.545" "GLU" "B" 20 "-" 0.97 0 0.97
+"6awo_BC-BA_A-6awo_BC-BA_B.652" "TYR" "B" 127 "-" 0 0.03 0.04

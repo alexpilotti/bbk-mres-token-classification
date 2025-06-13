@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mu0_GH-GT_G-5mu0_GH-GT_T.31" "ASP" "G" 31 "-" 4.66 5.19 9.86
+"5mu0_GH-GT_G-5mu0_GH-GT_T.32" "ALA" "G" 32 "-" 1.44 0.46 1.9
+"5mu0_GH-GT_G-5mu0_GH-GT_T.33" "TRP" "G" 33 "-" 30.06 2.77 32.83
+"5mu0_GH-GT_G-5mu0_GH-GT_T.53" "ASN" "G" 53 "-" 0.37 4.22 4.61
+"5mu0_GH-GT_G-5mu0_GH-GT_T.56" "ASN" "G" 56 "-" 0.35 5.93 6.28
+"5mu0_GH-GT_G-5mu0_GH-GT_T.101" "LEU" "G" 101 "-" 23.36 3.01 26.37
+"5mu0_GH-GT_G-5mu0_GH-GT_T.102" "THR" "G" 102 "-" 15.84 9.9 25.74
+"5mu0_GH-GT_G-5mu0_GH-GT_T.103" "PHE" "G" 103 "-" 9.42 2.75 12.17
+"5mu0_GH-GT_G-5mu0_GH-GT_T.104" "ASP" "G" 104 "-" 8.02 35.78 43.8
+"5mu0_GH-GT_G-5mu0_GH-GT_T.216" "GLY" "TRUE" 4 "-" 0.25 2.43 2.68
+"5mu0_GH-GT_G-5mu0_GH-GT_T.217" "ALA" "TRUE" 5 "-" 58.26 21.45 79.71
+"5mu0_GH-GT_G-5mu0_GH-GT_T.218" "ARG" "TRUE" 6 "-" 52.48 72.64 125.11
+"5mu0_GH-GT_G-5mu0_GH-GT_T.219" "GLY" "TRUE" 7 "-" 17.82 5.85 23.67
+"5mu0_GH-GT_G-5mu0_GH-GT_T.220" "LEU" "TRUE" 8 "-" 39.26 3.92 43.18
+"5mu0_GH-GT_G-5mu0_GH-GT_T.221" "THR" "TRUE" 9 "-" 66.93 32.33 99.27
+"5mu0_GH-GT_G-5mu0_GH-GT_T.222" "GLY" "TRUE" 10 "-" 9.99 1.72 11.72

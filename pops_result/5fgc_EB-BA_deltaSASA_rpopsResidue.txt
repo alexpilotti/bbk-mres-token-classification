@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5fgc_EB-BA_A-5fgc_EB-BA_B.6" "TRP" "A" 420 "-" 46.77 5.28 52.05
+"5fgc_EB-BA_A-5fgc_EB-BA_B.7" "HIS" "A" 421 "-" 7.48 2.96 10.44
+"5fgc_EB-BA_A-5fgc_EB-BA_B.99" "TRP" "B" 90 "-" 3.42 0.19 3.6
+"5fgc_EB-BA_A-5fgc_EB-BA_B.104" "ASP" "B" 95 "-" 7.63 27.15 34.79
+"5fgc_EB-BA_A-5fgc_EB-BA_B.105" "VAL" "B" 96 "-" 15.8 0.26 16.06

@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7sem_BC-CF_F-7sem_BC-CF_C.113" "VAL" "FALSE" 148 "-" 0.46 0 0.46
+"7sem_BC-CF_F-7sem_BC-CF_C.121" "ARG" "FALSE" 156 "-" 17.23 33.43 50.66
+"7sem_BC-CF_F-7sem_BC-CF_C.196" "VAL" "FALSE" 231 "-" 0 0.06 0.06
+"7sem_BC-CF_F-7sem_BC-CF_C.197" "SER" "FALSE" 232 "-" 1.62 4.93 6.56
+"7sem_BC-CF_F-7sem_BC-CF_C.198" "ASN" "FALSE" 233 "-" 0.55 1.38 1.93
+"7sem_BC-CF_F-7sem_BC-CF_C.199" "MET" "FALSE" 234 "-" 0.95 3.42 4.37
+"7sem_BC-CF_F-7sem_BC-CF_C.200" "PRO" "FALSE" 235 "-" 58.75 10.78 69.53
+"7sem_BC-CF_F-7sem_BC-CF_C.201" "THR" "FALSE" 236 "-" 4.54 18.04 22.58
+"7sem_BC-CF_F-7sem_BC-CF_C.202" "SER" "FALSE" 237 "-" 10.73 1.37 12.1
+"7sem_BC-CF_F-7sem_BC-CF_C.203" "ALA" "FALSE" 238 "-" 0.25 0.63 0.89
+"7sem_BC-CF_F-7sem_BC-CF_C.206" "ILE" "FALSE" 241 "-" 2.8 0 2.8
+"7sem_BC-CF_F-7sem_BC-CF_C.458" "ILE" "C" 27 "C" 0 0.16 0.15
+"7sem_BC-CF_F-7sem_BC-CF_C.459" "GLY" "C" 28 "-" 0.36 6.32 6.68
+"7sem_BC-CF_F-7sem_BC-CF_C.460" "ALA" "C" 29 "-" 3.42 13.78 17.2
+"7sem_BC-CF_F-7sem_BC-CF_C.461" "GLY" "C" 30 "-" 15.52 8.99 24.51
+"7sem_BC-CF_F-7sem_BC-CF_C.462" "TYR" "C" 31 "-" 16.51 10.37 26.88
+"7sem_BC-CF_F-7sem_BC-CF_C.497" "LYS" "C" 66 "-" 0 0.16 0.15
+"7sem_BC-CF_F-7sem_BC-CF_C.522" "TYR" "C" 91 "-" 6.95 10.9 17.85
+"7sem_BC-CF_F-7sem_BC-CF_C.524" "ARG" "C" 93 "-" 4.69 45.13 49.82

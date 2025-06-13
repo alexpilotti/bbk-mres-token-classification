@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6ohg_CB-CA_A-6ohg_CB-CA_C.36" "THR" "A" 596 "-" 0 0.41 0.41
+"6ohg_CB-CA_A-6ohg_CB-CA_C.37" "ASP" "A" 597 "-" 4.75 14.86 19.61
+"6ohg_CB-CA_A-6ohg_CB-CA_C.40" "LYS" "A" 600 "-" 30.09 10.92 41
+"6ohg_CB-CA_A-6ohg_CB-CA_C.41" "PRO" "A" 601 "-" 7.84 7.99 15.82
+"6ohg_CB-CA_A-6ohg_CB-CA_C.42" "THR" "A" 602 "-" 0.25 0.09 0.34
+"6ohg_CB-CA_A-6ohg_CB-CA_C.72" "VAL" "A" 632 "-" 10.13 0 10.13
+"6ohg_CB-CA_A-6ohg_CB-CA_C.73" "GLU" "A" 633 "-" 0.1 1.51 1.61
+"6ohg_CB-CA_A-6ohg_CB-CA_C.75" "LEU" "A" 635 "-" 1.44 0.01 1.46
+"6ohg_CB-CA_A-6ohg_CB-CA_C.76" "TYR" "A" 636 "-" 0.14 0.3 0.43
+"6ohg_CB-CA_A-6ohg_CB-CA_C.153" "ASP" "A" 713 "-" 0.74 0.69 1.44
+"6ohg_CB-CA_A-6ohg_CB-CA_C.271" "SER" "C" 101 "-" 1.22 5.21 6.42
+"6ohg_CB-CA_A-6ohg_CB-CA_C.272" "ALA" "C" 102 "-" 16.39 3.09 19.49
+"6ohg_CB-CA_A-6ohg_CB-CA_C.273" "TYR" "C" 103 "-" 43.12 37.16 80.28
+"6ohg_CB-CA_A-6ohg_CB-CA_C.274" "TRP" "C" 104 "-" 13.67 2.47 16.14

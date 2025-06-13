@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6mam_CD-CL_C-6mam_CD-CL_L.106" "ARG" "C" 106 "-" 6.8 3.22 10.02
+"6mam_CD-CL_C-6mam_CD-CL_L.107" "TYR" "C" 107 "-" 74.84 47.57 122.4
+"6mam_CD-CL_C-6mam_CD-CL_L.108" "PHE" "C" 108 "-" 40.63 7.17 47.8
+"6mam_CD-CL_C-6mam_CD-CL_L.109" "ASP" "C" 109 "-" 4.05 7.38 11.43
+"6mam_CD-CL_C-6mam_CD-CL_L.110" "TRP" "C" 110 "-" 58.46 7.46 65.92
+"6mam_CD-CL_C-6mam_CD-CL_L.111" "LEU" "C" 111 "-" 0.05 0.01 0.06
+"6mam_CD-CL_C-6mam_CD-CL_L.112" "LEU" "C" 112 "-" 31.94 0.11 32.05
+"6mam_CD-CL_C-6mam_CD-CL_L.236" "ASN" "L" 506 "-" 3.61 7.91 11.52
+"6mam_CD-CL_C-6mam_CD-CL_L.237" "ALA" "L" 507 "-" 0.24 0.09 0.35
+"6mam_CD-CL_C-6mam_CD-CL_L.238" "GLN" "L" 508 "-" 2.39 4.97 7.35
+"6mam_CD-CL_C-6mam_CD-CL_L.239" "PRO" "L" 509 "-" 3.5 10.38 13.88
+"6mam_CD-CL_C-6mam_CD-CL_L.240" "LYS" "L" 510 "-" 113.34 33.28 146.63
+"6mam_CD-CL_C-6mam_CD-CL_L.241" "CYS" "L" 511 "-" 15.52 20.03 35.55
+"6mam_CD-CL_C-6mam_CD-CL_L.242" "ASN" "L" 512 "-" 12.86 20.76 33.61
+"6mam_CD-CL_C-6mam_CD-CL_L.243" "PRO" "L" 513 "-" 28.19 0.21 28.39
+"6mam_CD-CL_C-6mam_CD-CL_L.244" "ASN" "L" 514 "-" 0.83 2.08 2.9
+"6mam_CD-CL_C-6mam_CD-CL_L.278" "ASN" "L" 550 "-" 1.37 7.41 8.77
+"6mam_CD-CL_C-6mam_CD-CL_L.284" "CYS" "L" 556 "-" 8.43 0.01 8.44
+"6mam_CD-CL_C-6mam_CD-CL_L.287" "ARG" "L" 559 "-" 0.01 0.24 0.25

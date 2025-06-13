@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6wmw_MN-NB_B-6wmw_MN-NB_N.68" "ILE" "B" 196 "-" 1.76 0 1.76
+"6wmw_MN-NB_B-6wmw_MN-NB_N.72" "GLN" "B" 200 "-" 5.88 30.36 36.24
+"6wmw_MN-NB_B-6wmw_MN-NB_N.225" "ASP" "N" 55 "-" 0.04 1.14 1.19
+"6wmw_MN-NB_B-6wmw_MN-NB_N.226" "GLU" "N" 56 "-" 13.49 26.42 39.91

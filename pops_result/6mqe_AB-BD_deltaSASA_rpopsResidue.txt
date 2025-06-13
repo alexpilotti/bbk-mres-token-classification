@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6mqe_AB-BD_B-6mqe_AB-BD_D.32" "ASP" "B" 32 "-" 2.18 10.44 12.61
+"6mqe_AB-BD_B-6mqe_AB-BD_D.50" "THR" "B" 50 "-" 0.48 0 0.48
+"6mqe_AB-BD_B-6mqe_AB-BD_D.90" "GLN" "B" 90 "-" 0 0.1 0.11
+"6mqe_AB-BD_B-6mqe_AB-BD_D.91" "ASP" "B" 91 "-" 7.75 16.4 24.14
+"6mqe_AB-BD_B-6mqe_AB-BD_D.92" "PHE" "B" 92 "-" 1.21 5.2 6.41
+"6mqe_AB-BD_B-6mqe_AB-BD_D.93" "SER" "B" 93 "-" 4.36 1.18 5.54
+"6mqe_AB-BD_B-6mqe_AB-BD_D.94" "PHE" "B" 94 "-" 69.99 1.05 71.04
+"6mqe_AB-BD_B-6mqe_AB-BD_D.95" "PRO" "B" 95 "-" 0.01 0 0.02
+"6mqe_AB-BD_B-6mqe_AB-BD_D.96" "LEU" "B" 96 "-" 10.57 0.06 10.63
+"6mqe_AB-BD_B-6mqe_AB-BD_D.213" "ALA" "D" 512 "-" 44.7 24.91 69.6
+"6mqe_AB-BD_B-6mqe_AB-BD_D.214" "VAL" "D" 513 "-" 121.17 15.2 136.38
+"6mqe_AB-BD_B-6mqe_AB-BD_D.215" "GLY" "D" 514 "-" 17.07 8.2 25.27
+"6mqe_AB-BD_B-6mqe_AB-BD_D.216" "ILE" "D" 515 "-" 1.36 0.21 1.57

@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5ye4_CD-DF_D-5ye4_CD-DF_F.29" "ILE" "D" 29 "-" 0 0.01 0.01
+"5ye4_CD-DF_D-5ye4_CD-DF_F.30" "ASN" "D" 30 "-" 0.37 0.16 0.53
+"5ye4_CD-DF_D-5ye4_CD-DF_F.32" "TYR" "D" 32 "-" 20.67 20.99 41.66
+"5ye4_CD-DF_D-5ye4_CD-DF_F.46" "LEU" "D" 46 "-" 3.32 0 3.32
+"5ye4_CD-DF_D-5ye4_CD-DF_F.49" "TYR" "D" 49 "-" 14.99 11.52 26.51
+"5ye4_CD-DF_D-5ye4_CD-DF_F.50" "TYR" "D" 50 "-" 0.99 0 1
+"5ye4_CD-DF_D-5ye4_CD-DF_F.55" "GLN" "D" 55 "-" 0.91 8.81 9.72
+"5ye4_CD-DF_D-5ye4_CD-DF_F.56" "PRO" "D" 56 "-" 28.28 0.03 28.3
+"5ye4_CD-DF_D-5ye4_CD-DF_F.91" "TYR" "D" 91 "-" 9.13 2.86 11.99
+"5ye4_CD-DF_D-5ye4_CD-DF_F.92" "ASP" "D" 92 "-" 3.33 14 17.33
+"5ye4_CD-DF_D-5ye4_CD-DF_F.93" "ASN" "D" 93 "-" 0.5 0.16 0.66
+"5ye4_CD-DF_D-5ye4_CD-DF_F.95" "ARG" "D" 95 "-" 0.78 21.13 21.91
+"5ye4_CD-DF_D-5ye4_CD-DF_F.213" "GLY" "FALSE" 2 "-" 14.4 37.34 51.73
+"5ye4_CD-DF_D-5ye4_CD-DF_F.214" "ARG" "FALSE" 3 "-" 104.78 114.7 219.47
+"5ye4_CD-DF_D-5ye4_CD-DF_F.215" "GLY" "FALSE" 4 "-" 15.21 18.82 34.03
+"5ye4_CD-DF_D-5ye4_CD-DF_F.216" "GLY" "FALSE" 6 "-" 55.04 46.43 101.47
+"5ye4_CD-DF_D-5ye4_CD-DF_F.217" "GLY" "FALSE" 7 "-" 36.37 22.57 58.94
+"5ye4_CD-DF_D-5ye4_CD-DF_F.218" "GLY" "FALSE" 9 "-" 20.57 28.1 48.67

@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5jsa_EF-FD_D-5jsa_EF-FD_F.80" "SER" "D" 601 "-" 0 0.37 0.37
+"5jsa_EF-FD_D-5jsa_EF-FD_F.81" "SER" "D" 602 "-" 0.99 2.39 3.38
+"5jsa_EF-FD_D-5jsa_EF-FD_F.82" "TRP" "D" 603 "-" 0.32 0.2 0.51
+"5jsa_EF-FD_D-5jsa_EF-FD_F.83" "SER" "D" 604 "-" 3.77 1.25 5.02
+"5jsa_EF-FD_D-5jsa_EF-FD_F.84" "ASN" "D" 605 "-" 10.38 34.87 45.25
+"5jsa_EF-FD_D-5jsa_EF-FD_F.85" "ARG" "D" 606 "-" 0 0.8 0.8
+"5jsa_EF-FD_D-5jsa_EF-FD_F.98" "GLN" "D" 619 "-" 0 0.11 0.11
+"5jsa_EF-FD_D-5jsa_EF-FD_F.101" "LYS" "D" 622 "-" 43.12 18.21 61.35
+"5jsa_EF-FD_D-5jsa_EF-FD_F.102" "GLU" "D" 623 "-" 28.5 28.49 56.99
+"5jsa_EF-FD_D-5jsa_EF-FD_F.103" "ILE" "D" 624 "-" 0.08 0.13 0.2
+"5jsa_EF-FD_D-5jsa_EF-FD_F.104" "SER" "D" 625 "-" 7.39 3.03 10.42
+"5jsa_EF-FD_D-5jsa_EF-FD_F.105" "ASN" "D" 626 "-" 8.61 38.67 47.27
+"5jsa_EF-FD_D-5jsa_EF-FD_F.106" "TYR" "D" 627 "-" 8.81 21.22 30.03
+"5jsa_EF-FD_D-5jsa_EF-FD_F.160" "SER" "FALSE" 28 "-" 8.06 6.94 14.99
+"5jsa_EF-FD_D-5jsa_EF-FD_F.161" "ILE" "FALSE" 29 "-" 0.1 0.24 0.35
+"5jsa_EF-FD_D-5jsa_EF-FD_F.162" "THR" "FALSE" 30 "-" 68.74 20.72 89.46
+"5jsa_EF-FD_D-5jsa_EF-FD_F.163" "GLY" "FALSE" 30 "A" 10.73 4.73 15.46
+"5jsa_EF-FD_D-5jsa_EF-FD_F.164" "ASN" "FALSE" 31 "-" 3.84 20.33 24.16
+"5jsa_EF-FD_D-5jsa_EF-FD_F.165" "TRP" "FALSE" 32 "-" 27.12 2.24 29.36
+"5jsa_EF-FD_D-5jsa_EF-FD_F.183" "ARG" "FALSE" 50 "-" 3.55 42.92 46.47
+"5jsa_EF-FD_D-5jsa_EF-FD_F.199" "ALA" "FALSE" 66 "-" 0.05 0.77 0.82
+"5jsa_EF-FD_D-5jsa_EF-FD_F.200" "ALA" "FALSE" 67 "-" 0.04 0 0.04
+"5jsa_EF-FD_D-5jsa_EF-FD_F.201" "GLY" "FALSE" 68 "-" 0.03 0.16 0.18
+"5jsa_EF-FD_D-5jsa_EF-FD_F.225" "ASP" "FALSE" 92 "-" 0.08 2.24 2.32

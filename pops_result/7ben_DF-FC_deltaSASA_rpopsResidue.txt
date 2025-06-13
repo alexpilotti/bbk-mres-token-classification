@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7ben_DF-FC_C-7ben_DF-FC_F.139" "SER" "C" 477 "-" 0 0.66 0.66
+"7ben_DF-FC_C-7ben_DF-FC_F.140" "THR" "C" 478 "-" 36.58 12.06 48.63
+"7ben_DF-FC_C-7ben_DF-FC_F.141" "PRO" "C" 479 "-" 0.4 1.04 1.43
+"7ben_DF-FC_C-7ben_DF-FC_F.142" "CYS" "C" 480 "-" 0.45 0.1 0.55
+"7ben_DF-FC_C-7ben_DF-FC_F.146" "GLU" "C" 484 "-" 0 0.51 0.51
+"7ben_DF-FC_C-7ben_DF-FC_F.147" "GLY" "C" 485 "-" 4.16 0.18 4.34
+"7ben_DF-FC_C-7ben_DF-FC_F.148" "PHE" "C" 486 "-" 72.31 4.87 77.19
+"7ben_DF-FC_C-7ben_DF-FC_F.149" "ASN" "C" 487 "-" 0.35 0.05 0.4
+"7ben_DF-FC_C-7ben_DF-FC_F.150" "CYS" "C" 488 "-" 1.98 0 1.97
+"7ben_DF-FC_C-7ben_DF-FC_F.210" "SER" "FALSE" 32 "-" 7.16 8.19 15.35
+"7ben_DF-FC_C-7ben_DF-FC_F.211" "TYR" "FALSE" 33 "-" 24.32 33.48 57.8
+"7ben_DF-FC_C-7ben_DF-FC_F.228" "TYR" "FALSE" 50 "-" 0.39 0 0.38
+"7ben_DF-FC_C-7ben_DF-FC_F.229" "GLY" "FALSE" 51 "-" 0.02 0 0.03
+"7ben_DF-FC_C-7ben_DF-FC_F.270" "TYR" "FALSE" 92 "-" 10.36 2.72 13.08
+"7ben_DF-FC_C-7ben_DF-FC_F.271" "GLY" "FALSE" 93 "-" 0.77 3.09 3.87
+"7ben_DF-FC_C-7ben_DF-FC_F.275" "TYR" "FALSE" 97 "-" 10.13 14.8 24.93

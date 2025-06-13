@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3mlz_HL-LP_L-3mlz_HL-LP_P.31" "ASN" "L" 30 "-" 0 2.19 2.18
+"3mlz_HL-LP_L-3mlz_HL-LP_P.33" "MET" "L" 32 "-" 11.63 0 11.63
+"3mlz_HL-LP_L-3mlz_HL-LP_P.47" "LEU" "L" 46 "-" 2.98 0 2.99
+"3mlz_HL-LP_L-3mlz_HL-LP_P.50" "TYR" "L" 49 "-" 11.7 8.21 19.9
+"3mlz_HL-LP_L-3mlz_HL-LP_P.51" "GLU" "L" 50 "-" 5.04 15.76 20.8
+"3mlz_HL-LP_L-3mlz_HL-LP_P.54" "LYS" "L" 53 "-" 0.2 0.87 1.06
+"3mlz_HL-LP_L-3mlz_HL-LP_P.56" "PRO" "L" 55 "-" 0.9 0 0.9
+"3mlz_HL-LP_L-3mlz_HL-LP_P.215" "THR" "P" 303 "-" 0.7 0 0.71
+"3mlz_HL-LP_L-3mlz_HL-LP_P.217" "LYS" "P" 305 "-" 0.4 0.36 0.74
+"3mlz_HL-LP_L-3mlz_HL-LP_P.220" "HIS" "P" 308 "-" 34.68 12.68 47.36
+"3mlz_HL-LP_L-3mlz_HL-LP_P.221" "ILE" "P" 309 "-" 0.25 1.01 1.27
+"3mlz_HL-LP_L-3mlz_HL-LP_P.222" "GLY" "P" 312 "-" 4.75 0.37 5.11
+"3mlz_HL-LP_L-3mlz_HL-LP_P.223" "PRO" "P" 313 "-" 73.94 0.51 74.45
+"3mlz_HL-LP_L-3mlz_HL-LP_P.225" "ARG" "P" 315 "-" 0.73 11.65 12.38

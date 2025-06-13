@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5ijk_AC-AX_X-5ijk_AC-AX_A.4" "GLU" "X" 5 "-" 44.48 64.61 109.1
+"5ijk_AC-AX_X-5ijk_AC-AX_A.5" "GLN" "X" 6 "-" 36.61 44.03 80.65
+"5ijk_AC-AX_X-5ijk_AC-AX_A.6" "PRO" "X" 7 "-" 35.1 1.6 36.69
+"5ijk_AC-AX_X-5ijk_AC-AX_A.8" "PRO" "X" 9 "-" 10.02 0 10.02
+"5ijk_AC-AX_X-5ijk_AC-AX_A.41" "TRP" "A" 38 "-" 5.56 0 5.55
+"5ijk_AC-AX_X-5ijk_AC-AX_A.58" "ARG" "A" 55 "-" 0.71 18.45 19.16
+"5ijk_AC-AX_X-5ijk_AC-AX_A.60" "LYS" "A" 57 "-" 1.18 3.22 4.4
+"5ijk_AC-AX_X-5ijk_AC-AX_A.113" "VAL" "A" 111 "-" 0.34 1.99 2.33
+"5ijk_AC-AX_X-5ijk_AC-AX_A.114" "ASN" "A" 111 "A" 12.99 30.28 43.26
+"5ijk_AC-AX_X-5ijk_AC-AX_A.115" "HIS" "A" 112 "A" 3.13 1.37 4.5
+"5ijk_AC-AX_X-5ijk_AC-AX_A.116" "ILE" "A" 112 "-" 24.09 1.27 25.36
+"5ijk_AC-AX_X-5ijk_AC-AX_A.117" "THR" "A" 113 "-" 22.04 16.16 38.2
+"5ijk_AC-AX_X-5ijk_AC-AX_A.118" "ILE" "A" 114 "-" 23.12 0.5 23.63

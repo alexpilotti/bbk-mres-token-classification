@@ -1,0 +1,10 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4g80_CD-DJ_D-4g80_CD-DJ_J.30" "SER" "D" 30 "-" 9.17 1.67 10.84
+"4g80_CD-DJ_D-4g80_CD-DJ_J.31" "SER" "D" 31 "-" 11.26 10.04 21.31
+"4g80_CD-DJ_D-4g80_CD-DJ_J.32" "ALA" "D" 32 "-" 0.39 0.22 0.61
+"4g80_CD-DJ_D-4g80_CD-DJ_J.92" "GLN" "D" 92 "-" 2.47 4.85 7.32
+"4g80_CD-DJ_D-4g80_CD-DJ_J.93" "TYR" "D" 93 "-" 0.52 0.53 1.05
+"4g80_CD-DJ_D-4g80_CD-DJ_J.94" "ASN" "D" 94 "-" 5.36 10.77 16.12
+"4g80_CD-DJ_D-4g80_CD-DJ_J.250" "GLU" "J" 144 "-" 24.68 40.11 64.79
+"4g80_CD-DJ_D-4g80_CD-DJ_J.310" "ASP" "J" 204 "-" 0.17 0.11 0.28
+"4g80_CD-DJ_D-4g80_CD-DJ_J.313" "VAL" "J" 207 "-" 21.13 0.04 21.17

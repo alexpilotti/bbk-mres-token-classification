@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8fan_AB-BP_B-8fan_AB-BP_P.92" "MET" "B" 92 "-" 0 0.35 0.36
+"8fan_AB-BP_B-8fan_AB-BP_P.93" "ARG" "B" 93 "-" 0 0.43 0.42
+"8fan_AB-BP_B-8fan_AB-BP_P.95" "TRP" "B" 96 "-" 3 0 3
+"8fan_AB-BP_B-8fan_AB-BP_P.213" "PRO" "P" 8 "-" 6.66 0.27 6.93
+"8fan_AB-BP_B-8fan_AB-BP_P.215" "PRO" "P" 10 "-" 0.85 0 0.84

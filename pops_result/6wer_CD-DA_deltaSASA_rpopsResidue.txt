@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6wer_CD-DA_A-6wer_CD-DA_D.242" "HIS" "A" 269 "-" 7.23 4.63 11.86
+"6wer_CD-DA_A-6wer_CD-DA_D.243" "LEU" "A" 270 "-" 1.18 0 1.18
+"6wer_CD-DA_A-6wer_CD-DA_D.272" "ARG" "A" 299 "-" 0.39 10.6 11
+"6wer_CD-DA_A-6wer_CD-DA_D.275" "THR" "A" 302 "-" 0.02 0.07 0.08
+"6wer_CD-DA_A-6wer_CD-DA_D.276" "ALA" "A" 303 "-" 54.07 12.63 66.71
+"6wer_CD-DA_A-6wer_CD-DA_D.277" "SER" "A" 304 "-" 21.29 7.84 29.14
+"6wer_CD-DA_A-6wer_CD-DA_D.299" "GLU" "A" 326 "-" 10.84 10.33 21.17
+"6wer_CD-DA_A-6wer_CD-DA_D.300" "ASP" "A" 327 "-" 4.31 7.81 12.11
+"6wer_CD-DA_A-6wer_CD-DA_D.303" "TRP" "A" 330 "-" 4.12 0.12 4.24
+"6wer_CD-DA_A-6wer_CD-DA_D.316" "GLU" "A" 343 "-" 0.11 3.29 3.4
+"6wer_CD-DA_A-6wer_CD-DA_D.317" "ASN" "A" 344 "-" 2.12 4.23 6.35
+"6wer_CD-DA_A-6wer_CD-DA_D.318" "LEU" "A" 345 "-" 0.66 2.26 2.92
+"6wer_CD-DA_A-6wer_CD-DA_D.319" "VAL" "A" 346 "-" 23.81 0.48 24.29
+"6wer_CD-DA_A-6wer_CD-DA_D.320" "ASN" "A" 347 "-" 0.57 5.81 6.38
+"6wer_CD-DA_A-6wer_CD-DA_D.321" "SER" "A" 348 "-" 0.64 0.11 0.74
+"6wer_CD-DA_A-6wer_CD-DA_D.322" "LEU" "A" 349 "-" 0 0.16 0.16
+"6wer_CD-DA_A-6wer_CD-DA_D.353" "SER" "D" 31 "-" 0 0.02 0.02
+"6wer_CD-DA_A-6wer_CD-DA_D.354" "TYR" "D" 32 "-" 88.3 43.87 132.16
+"6wer_CD-DA_A-6wer_CD-DA_D.356" "TYR" "D" 34 "-" 35.69 33.35 69.04
+"6wer_CD-DA_A-6wer_CD-DA_D.358" "PHE" "D" 36 "-" 10.77 0 10.76
+"6wer_CD-DA_A-6wer_CD-DA_D.375" "TYR" "D" 53 "-" 6.76 2.75 9.51
+"6wer_CD-DA_A-6wer_CD-DA_D.376" "LEU" "D" 54 "-" 8.12 0 8.12
+"6wer_CD-DA_A-6wer_CD-DA_D.420" "ASN" "D" 98 "-" 2.75 17.15 19.89

@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3ley_HL-LP_L-3ley_HL-LP_P.31" "ASP" "L" 31 "-" 2 9.79 11.79
+"3ley_HL-LP_L-3ley_HL-LP_P.33" "ASP" "L" 33 "-" 1.82 3.79 5.62
+"3ley_HL-LP_L-3ley_HL-LP_P.35" "LYS" "L" 35 "-" 4.23 10.29 14.52
+"3ley_HL-LP_L-3ley_HL-LP_P.37" "TYR" "L" 37 "-" 19.43 8.39 27.83
+"3ley_HL-LP_L-3ley_HL-LP_P.51" "ARG" "L" 51 "-" 0.93 10.02 10.95
+"3ley_HL-LP_L-3ley_HL-LP_P.54" "TYR" "L" 54 "-" 5.39 6.62 12.01
+"3ley_HL-LP_L-3ley_HL-LP_P.55" "LEU" "L" 55 "-" 4.2 0 4.2
+"3ley_HL-LP_L-3ley_HL-LP_P.58" "LYS" "L" 58 "-" 6.63 9.72 16.34
+"3ley_HL-LP_L-3ley_HL-LP_P.96" "GLY" "L" 96 "-" 1.91 7.09 9.01
+"3ley_HL-LP_L-3ley_HL-LP_P.97" "THR" "L" 97 "-" 2.59 8.22 10.81
+"3ley_HL-LP_L-3ley_HL-LP_P.98" "HIS" "L" 98 "-" 1.84 0.96 2.8
+"3ley_HL-LP_L-3ley_HL-LP_P.99" "PHE" "L" 99 "-" 18.29 1.21 19.5
+"3ley_HL-LP_L-3ley_HL-LP_P.101" "TRP" "L" 101 "-" 36.61 3.6 40.21
+"3ley_HL-LP_L-3ley_HL-LP_P.218" "LEU" "P" 661 "-" 22.61 0 22.6
+"3ley_HL-LP_L-3ley_HL-LP_P.219" "GLU" "P" 662 "-" 23.11 51.59 74.7
+"3ley_HL-LP_L-3ley_HL-LP_P.220" "LEU" "P" 663 "-" 0.7 4.05 4.76
+"3ley_HL-LP_L-3ley_HL-LP_P.221" "ASP" "P" 664 "-" 16.93 5.78 22.71
+"3ley_HL-LP_L-3ley_HL-LP_P.222" "LYS" "P" 665 "-" 38.82 20.16 58.98
+"3ley_HL-LP_L-3ley_HL-LP_P.223" "TRP" "P" 666 "-" 68.4 4.88 73.28

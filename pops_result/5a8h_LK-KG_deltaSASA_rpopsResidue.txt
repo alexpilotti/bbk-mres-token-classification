@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5a8h_LK-KG_G-5a8h_LK-KG_K.306" "GLU" "G" 492 "-" 0.82 6.07 6.89
+"5a8h_LK-KG_G-5a8h_LK-KG_K.339" "TRP" "K" 32 "-" 0.07 0 0.07
+"5a8h_LK-KG_G-5a8h_LK-KG_K.357" "ARG" "K" 50 "-" 0.07 3.68 3.75

@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7jmp_HL-LA_A-7jmp_HL-LA_L.126" "SER" "A" 477 "-" 0 2.3 2.31
+"7jmp_HL-LA_A-7jmp_HL-LA_L.127" "THR" "A" 478 "-" 1.22 5.73 6.95
+"7jmp_HL-LA_A-7jmp_HL-LA_L.133" "GLU" "A" 484 "-" 0.06 0.99 1.06
+"7jmp_HL-LA_A-7jmp_HL-LA_L.134" "GLY" "A" 485 "-" 4.95 0.6 5.57
+"7jmp_HL-LA_A-7jmp_HL-LA_L.135" "PHE" "A" 486 "-" 90.77 3.85 94.62
+"7jmp_HL-LA_A-7jmp_HL-LA_L.136" "ASN" "A" 487 "-" 0 1.22 1.22
+"7jmp_HL-LA_A-7jmp_HL-LA_L.195" "TYR" "L" 30 "-" 2.7 0.36 3.06
+"7jmp_HL-LA_A-7jmp_HL-LA_L.197" "LEU" "L" 32 "-" 14.29 0 14.29
+"7jmp_HL-LA_A-7jmp_HL-LA_L.256" "TYR" "L" 91 "-" 8.01 5.74 13.75
+"7jmp_HL-LA_A-7jmp_HL-LA_L.259" "SER" "L" 94 "-" 0.05 0 0.06
+"7jmp_HL-LA_A-7jmp_HL-LA_L.260" "SER" "L" 95 "-" 13.32 19.64 32.96
+"7jmp_HL-LA_A-7jmp_HL-LA_L.261" "THR" "L" 95 "A" 0 0.01 0.01
+"7jmp_HL-LA_A-7jmp_HL-LA_L.262" "TRP" "L" 96 "-" 15.4 0.93 16.33

@@ -1,0 +1,11 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6iuv_CD-DB_B-6iuv_CD-DB_D.70" "PRO" "B" 118 "-" 0.2 0 0.2
+"6iuv_CD-DB_B-6iuv_CD-DB_D.72" "SER" "B" 120 "-" 7.4 11.12 18.52
+"6iuv_CD-DB_B-6iuv_CD-DB_D.73" "SER" "B" 121 "-" 3.53 1.86 5.39
+"6iuv_CD-DB_B-6iuv_CD-DB_D.74" "TRP" "B" 122 "-" 0.03 0.35 0.38
+"6iuv_CD-DB_B-6iuv_CD-DB_D.75" "SER" "B" 123 "-" 19.73 8.63 28.38
+"6iuv_CD-DB_B-6iuv_CD-DB_D.76" "ASN" "B" 124 "-" 0.18 2.23 2.42
+"6iuv_CD-DB_B-6iuv_CD-DB_D.243" "HIS" "D" 31 "-" 10.8 6.93 17.72
+"6iuv_CD-DB_B-6iuv_CD-DB_D.244" "SER" "D" 32 "-" 6.19 12.58 18.77
+"6iuv_CD-DB_B-6iuv_CD-DB_D.245" "ASP" "D" 33 "-" 11.78 4.17 15.95
+"6iuv_CD-DB_B-6iuv_CD-DB_D.247" "TYR" "D" 35 "-" 0.24 0.14 0.38

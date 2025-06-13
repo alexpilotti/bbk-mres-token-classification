@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4yhp_CD-DQ_Q-4yhp_CD-DQ_D.4" "LYS" "Q" 4 "-" 68.63 30.14 98.79
+"4yhp_CD-DQ_Q-4yhp_CD-DQ_D.5" "GLN" "Q" 5 "-" 2.91 7.58 10.49
+"4yhp_CD-DQ_Q-4yhp_CD-DQ_D.6" "THR" "Q" 6 "-" 21.22 14.27 35.5
+"4yhp_CD-DQ_Q-4yhp_CD-DQ_D.7" "ALA" "Q" 7 "-" 58.83 8.96 67.81
+"4yhp_CD-DQ_Q-4yhp_CD-DQ_D.8" "ARG" "Q" 8 "-" 6.52 5.26 11.78
+"4yhp_CD-DQ_Q-4yhp_CD-DQ_D.9" "SER" "Q" 10 "-" 28.89 34.15 63.04
+"4yhp_CD-DQ_Q-4yhp_CD-DQ_D.10" "THR" "Q" 11 "-" 0.19 0.47 0.65
+"4yhp_CD-DQ_Q-4yhp_CD-DQ_D.40" "ILE" "D" 30 "-" 0.55 0 0.56
+"4yhp_CD-DQ_Q-4yhp_CD-DQ_D.100" "TRP" "D" 90 "-" 3.43 0.58 4.01
+"4yhp_CD-DQ_Q-4yhp_CD-DQ_D.101" "ASP" "D" 91 "-" 0 0.01 0.01
+"4yhp_CD-DQ_Q-4yhp_CD-DQ_D.102" "ASP" "D" 92 "-" 19.59 55.29 74.87
+"4yhp_CD-DQ_Q-4yhp_CD-DQ_D.103" "SER" "D" 93 "-" 3.11 9.6 12.71
+"4yhp_CD-DQ_Q-4yhp_CD-DQ_D.104" "ILE" "D" 94 "-" 11.35 4.74 16.09
+"4yhp_CD-DQ_Q-4yhp_CD-DQ_D.105" "ASN" "D" 95 "-" 6.95 31.81 38.76
+"4yhp_CD-DQ_Q-4yhp_CD-DQ_D.106" "ALA" "D" 96 "-" 0.13 0 0.13

@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5nph_HL-LA_A-5nph_HL-LA_L.1" "ASN" "A" 532 "-" 17.23 42.42 59.65
+"5nph_HL-LA_A-5nph_HL-LA_L.2" "GLU" "A" 533 "-" 58.46 75.51 133.97
+"5nph_HL-LA_A-5nph_HL-LA_L.3" "THR" "A" 534 "-" 51.47 15.44 66.91
+"5nph_HL-LA_A-5nph_HL-LA_L.4" "ASP" "A" 535 "-" 4.05 14.51 18.56
+"5nph_HL-LA_A-5nph_HL-LA_L.6" "MET" "A" 537 "-" 48.55 0.4 48.94
+"5nph_HL-LA_A-5nph_HL-LA_L.7" "LEU" "A" 538 "-" 40.84 0.13 40.97
+"5nph_HL-LA_A-5nph_HL-LA_L.8" "LEU" "A" 539 "-" 31.31 0 31.31
+"5nph_HL-LA_A-5nph_HL-LA_L.40" "TYR" "L" 30 "-" 5.56 0 5.56
+"5nph_HL-LA_A-5nph_HL-LA_L.42" "TYR" "L" 32 "-" 14.34 25.69 40.03
+"5nph_HL-LA_A-5nph_HL-LA_L.60" "TYR" "L" 50 "-" 3.2 9.58 12.79
+"5nph_HL-LA_A-5nph_HL-LA_L.101" "THR" "L" 91 "-" 3.15 6 9.15
+"5nph_HL-LA_A-5nph_HL-LA_L.102" "ASN" "L" 92 "-" 1.81 13.36 15.17
+"5nph_HL-LA_A-5nph_HL-LA_L.103" "LYS" "L" 93 "-" 34.87 27.81 62.69
+"5nph_HL-LA_A-5nph_HL-LA_L.104" "TRP" "L" 94 "-" 94.65 13.75 108.41
+"5nph_HL-LA_A-5nph_HL-LA_L.105" "PRO" "L" 95 "-" 0 0.02 0.02
+"5nph_HL-LA_A-5nph_HL-LA_L.106" "LEU" "L" 96 "-" 10.95 0 10.95

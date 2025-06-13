@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5zia_DE-EF_E-5zia_DE-EF_F.31" "TYR" "E" 27 "D" 22.5 15.77 38.26
+"5zia_DE-EF_E-5zia_DE-EF_F.34" "ASN" "E" 28 "-" 0.01 0.27 0.28
+"5zia_DE-EF_E-5zia_DE-EF_F.38" "TYR" "E" 32 "-" 4.07 3.41 7.47
+"5zia_DE-EF_E-5zia_DE-EF_F.97" "TYR" "E" 91 "-" 0.09 0.36 0.44
+"5zia_DE-EF_E-5zia_DE-EF_F.98" "PHE" "E" 92 "-" 24.28 6.76 31.04
+"5zia_DE-EF_E-5zia_DE-EF_F.99" "SER" "E" 93 "-" 4.74 1.99 6.73
+"5zia_DE-EF_E-5zia_DE-EF_F.100" "THR" "E" 94 "-" 8.13 2.42 10.55
+"5zia_DE-EF_E-5zia_DE-EF_F.102" "TRP" "E" 96 "-" 19.64 1.22 20.86
+"5zia_DE-EF_E-5zia_DE-EF_F.219" "SER" "FALSE" 235 "-" 43.97 38.86 82.83
+"5zia_DE-EF_E-5zia_DE-EF_F.220" "PRO" "FALSE" 236 "-" 119 4.1 123.1
+"5zia_DE-EF_E-5zia_DE-EF_F.221" "SER" "FALSE" 237 "-" 53.85 46.05 99.9
+"5zia_DE-EF_E-5zia_DE-EF_F.222" "ALA" "FALSE" 239 "-" 14.72 6.89 21.62
+"5zia_DE-EF_E-5zia_DE-EF_F.223" "LYS" "FALSE" 240 "-" 23.39 4.35 27.73

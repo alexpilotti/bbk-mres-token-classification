@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4ogy_HL-LA_A-4ogy_HL-LA_L.137" "GLU" "A" 527 "-" 16.07 16.34 32.41
+"4ogy_HL-LA_A-4ogy_HL-LA_L.138" "LYS" "A" 528 "-" 66.38 23.23 89.61
+"4ogy_HL-LA_A-4ogy_HL-LA_L.164" "ASP" "A" 554 "-" 7.67 25.13 32.79
+"4ogy_HL-LA_A-4ogy_HL-LA_L.165" "TYR" "A" 555 "-" 0 3.78 3.79
+"4ogy_HL-LA_A-4ogy_HL-LA_L.210" "GLU" "A" 600 "-" 12.56 36.63 49.2
+"4ogy_HL-LA_A-4ogy_HL-LA_L.211" "GLY" "A" 601 "-" 1.09 0.03 1.12
+"4ogy_HL-LA_A-4ogy_HL-LA_L.214" "ARG" "A" 604 "-" 3.51 44.2 47.71
+"4ogy_HL-LA_A-4ogy_HL-LA_L.288" "TYR" "L" 49 "-" 7.12 16.87 23.99
+"4ogy_HL-LA_A-4ogy_HL-LA_L.289" "LYS" "L" 50 "-" 6.65 10.61 17.26
+"4ogy_HL-LA_A-4ogy_HL-LA_L.292" "THR" "L" 53 "-" 10.99 1.41 12.41
+"4ogy_HL-LA_A-4ogy_HL-LA_L.293" "LEU" "L" 54 "-" 12.33 5.47 17.78
+"4ogy_HL-LA_A-4ogy_HL-LA_L.294" "GLU" "L" 55 "-" 1.64 3.76 5.4
+"4ogy_HL-LA_A-4ogy_HL-LA_L.295" "SER" "L" 56 "-" 30.18 32.84 63.02
+"4ogy_HL-LA_A-4ogy_HL-LA_L.296" "GLY" "L" 57 "-" 23.11 7.89 31
+"4ogy_HL-LA_A-4ogy_HL-LA_L.297" "VAL" "L" 58 "-" 0.12 0.78 0.91

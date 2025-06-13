@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6w51_MN-MD_D-6w51_MN-MD_M.151" "HIS" "D" 151 "-" 10.75 9.48 20.23
+"6w51_MN-MD_D-6w51_MN-MD_M.472" "GLY" "M" 198 "-" 0.25 3.64 3.88
+"6w51_MN-MD_D-6w51_MN-MD_M.473" "THR" "M" 199 "-" 11.16 3.07 14.23

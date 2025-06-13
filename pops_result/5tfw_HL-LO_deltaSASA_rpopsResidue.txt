@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5tfw_HL-LO_L-5tfw_HL-LO_O.88" "ARG" "L" 91 "-" 0.06 7.6 7.66
+"5tfw_HL-LO_L-5tfw_HL-LO_O.94" "ARG" "L" 95 "B" 43.69 75.19 118.88
+"5tfw_HL-LO_L-5tfw_HL-LO_O.323" "TRP" "O" 120 "-" 0.54 0.36 0.9
+"5tfw_HL-LO_L-5tfw_HL-LO_O.324" "PHE" "O" 121 "-" 54.79 0 54.8

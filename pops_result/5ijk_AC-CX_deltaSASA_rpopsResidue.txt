@@ -1,0 +1,21 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5ijk_AC-CX_X-5ijk_AC-CX_C.1" "LEU" "X" 2 "-" 14.04 12.67 26.72
+"5ijk_AC-CX_X-5ijk_AC-CX_C.2" "GLN" "X" 3 "-" 30.92 20.93 51.85
+"5ijk_AC-CX_X-5ijk_AC-CX_C.3" "PRO" "X" 4 "-" 88.27 1.88 90.15
+"5ijk_AC-CX_X-5ijk_AC-CX_C.4" "GLU" "X" 5 "-" 45.51 54.3 99.8
+"5ijk_AC-CX_X-5ijk_AC-CX_C.5" "GLN" "X" 6 "-" 38.03 16.05 54.08
+"5ijk_AC-CX_X-5ijk_AC-CX_C.6" "PRO" "X" 7 "-" 1.8 2.95 4.74
+"5ijk_AC-CX_X-5ijk_AC-CX_C.7" "PHE" "X" 8 "-" 92.15 1.72 93.89
+"5ijk_AC-CX_X-5ijk_AC-CX_C.8" "PRO" "X" 9 "-" 1.54 0.03 1.57
+"5ijk_AC-CX_X-5ijk_AC-CX_C.39" "TYR" "C" 31 "-" 22.98 22.79 45.77
+"5ijk_AC-CX_X-5ijk_AC-CX_C.42" "ASN" "C" 34 "-" 2.66 5.97 8.63
+"5ijk_AC-CX_X-5ijk_AC-CX_C.44" "LYS" "C" 36 "-" 17.87 8.92 26.8
+"5ijk_AC-CX_X-5ijk_AC-CX_C.46" "TYR" "C" 38 "-" 7.63 5.09 12.72
+"5ijk_AC-CX_X-5ijk_AC-CX_C.63" "TYR" "C" 55 "-" 0.12 0 0.11
+"5ijk_AC-CX_X-5ijk_AC-CX_C.64" "TRP" "C" 56 "-" 19.96 3.18 23.14
+"5ijk_AC-CX_X-5ijk_AC-CX_C.67" "THR" "C" 66 "-" 0 0.04 0.04
+"5ijk_AC-CX_X-5ijk_AC-CX_C.105" "TYR" "C" 107 "-" 4.17 2.21 6.38
+"5ijk_AC-CX_X-5ijk_AC-CX_C.106" "TYR" "C" 108 "-" 3.5 6.67 10.16
+"5ijk_AC-CX_X-5ijk_AC-CX_C.107" "ARG" "C" 109 "-" 1.95 3.18 5.13
+"5ijk_AC-CX_X-5ijk_AC-CX_C.108" "THR" "C" 113 "-" 22.68 12.99 35.67
+"5ijk_AC-CX_X-5ijk_AC-CX_C.109" "PRO" "C" 114 "-" 12.6 0.18 12.78

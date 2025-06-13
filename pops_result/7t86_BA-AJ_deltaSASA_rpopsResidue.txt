@@ -1,0 +1,3 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7t86_BA-AJ_A-7t86_BA-AJ_J.49" "TYR" "A" 49 "-" 0.05 0 0.04
+"7t86_BA-AJ_A-7t86_BA-AJ_J.217" "SER" "J" 5 "-" 0.06 0 0.07

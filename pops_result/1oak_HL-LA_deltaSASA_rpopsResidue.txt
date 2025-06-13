@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"1oak_HL-LA_L-1oak_HL-LA_A.30" "ASN" "L" 30 "-" 0.94 3.34 4.28
+"1oak_HL-LA_L-1oak_HL-LA_A.32" "TYR" "L" 32 "-" 6.94 16.49 23.43
+"1oak_HL-LA_L-1oak_HL-LA_A.91" "TYR" "L" 91 "-" 0 0.24 0.24
+"1oak_HL-LA_L-1oak_HL-LA_A.92" "GLU" "L" 92 "-" 2.18 11.84 14.02
+"1oak_HL-LA_L-1oak_HL-LA_A.93" "LYS" "L" 93 "-" 0.14 0.05 0.19
+"1oak_HL-LA_L-1oak_HL-LA_A.94" "LEU" "L" 94 "-" 27.52 0 27.52
+"1oak_HL-LA_L-1oak_HL-LA_A.96" "TRP" "L" 96 "-" 7.73 1.4 9.13
+"1oak_HL-LA_L-1oak_HL-LA_A.335" "ARG" "A" 629 "-" 0 0.06 0.06
+"1oak_HL-LA_L-1oak_HL-LA_A.338" "ARG" "A" 632 "-" 33.68 54.71 88.39
+"1oak_HL-LA_L-1oak_HL-LA_A.339" "ASN" "A" 633 "-" 0.04 1.07 1.12
+"1oak_HL-LA_L-1oak_HL-LA_A.342" "ARG" "A" 636 "-" 20.98 80.19 101.18
+"1oak_HL-LA_L-1oak_HL-LA_A.345" "GLN" "A" 639 "-" 0 0.32 0.32

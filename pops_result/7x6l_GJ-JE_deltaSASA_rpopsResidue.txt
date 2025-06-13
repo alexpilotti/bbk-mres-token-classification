@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7x6l_GJ-JE_J-7x6l_GJ-JE_E.32" "TYR" "J" 32 "-" 5.33 8.26 13.6
+"7x6l_GJ-JE_J-7x6l_GJ-JE_E.91" "ALA" "J" 91 "-" 0 0.28 0.28
+"7x6l_GJ-JE_J-7x6l_GJ-JE_E.92" "ASP" "J" 92 "-" 2.36 9.59 11.95
+"7x6l_GJ-JE_J-7x6l_GJ-JE_E.93" "SER" "J" 93 "-" 5.48 4.37 9.86
+"7x6l_GJ-JE_J-7x6l_GJ-JE_E.94" "PHE" "J" 94 "-" 25.73 0.04 25.77
+"7x6l_GJ-JE_J-7x6l_GJ-JE_E.245" "LEU" "E" 38 "-" 15.89 0 15.89
+"7x6l_GJ-JE_J-7x6l_GJ-JE_E.246" "LYS" "E" 39 "-" 11.09 24.84 35.92
+"7x6l_GJ-JE_J-7x6l_GJ-JE_E.249" "GLN" "E" 42 "-" 4.94 0 4.95
+"7x6l_GJ-JE_J-7x6l_GJ-JE_E.250" "ALA" "E" 43 "-" 1.9 0.04 1.94
+"7x6l_GJ-JE_J-7x6l_GJ-JE_E.253" "ASP" "E" 46 "-" 0 0.91 0.9
+"7x6l_GJ-JE_J-7x6l_GJ-JE_E.357" "GLU" "E" 150 "-" 0.43 2.43 2.85
+"7x6l_GJ-JE_J-7x6l_GJ-JE_E.360" "ARG" "E" 153 "-" 0.14 3.82 3.97
+"7x6l_GJ-JE_J-7x6l_GJ-JE_E.361" "ASN" "E" 154 "-" 2.15 10.55 12.7

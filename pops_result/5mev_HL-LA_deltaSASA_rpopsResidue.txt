@@ -1,0 +1,11 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mev_HL-LA_A-5mev_HL-LA_L.136" "VAL" "A" 307 "-" 0.63 0 0.63
+"5mev_HL-LA_A-5mev_HL-LA_L.137" "LYS" "A" 308 "-" 33.87 22.42 56.29
+"5mev_HL-LA_A-5mev_HL-LA_L.138" "GLN" "A" 309 "-" 0 0.33 0.32
+"5mev_HL-LA_A-5mev_HL-LA_L.139" "ARG" "A" 310 "-" 6.43 58.62 65.05
+"5mev_HL-LA_A-5mev_HL-LA_L.181" "SER" "L" 31 "-" 1.23 1.44 2.67
+"5mev_HL-LA_A-5mev_HL-LA_L.182" "ASN" "L" 32 "-" 0.74 4.75 5.51
+"5mev_HL-LA_A-5mev_HL-LA_L.242" "TRP" "L" 92 "-" 8.47 1.05 9.51
+"5mev_HL-LA_A-5mev_HL-LA_L.244" "ASP" "L" 94 "-" 3.85 12.22 16.08
+"5mev_HL-LA_A-5mev_HL-LA_L.247" "ASN" "L" 97 "-" 0 1.1 1.1
+"5mev_HL-LA_A-5mev_HL-LA_L.249" "TRP" "L" 99 "-" 1.81 0.84 2.65

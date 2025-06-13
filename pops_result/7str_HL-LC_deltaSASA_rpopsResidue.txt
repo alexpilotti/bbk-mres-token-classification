@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7str_HL-LC_L-7str_HL-LC_C.29" "VAL" "L" 29 "-" 0.03 0.05 0.07
+"7str_HL-LC_L-7str_HL-LC_C.30" "SER" "L" 30 "-" 6.92 7.54 14.47
+"7str_HL-LC_L-7str_HL-LC_C.31" "SER" "L" 31 "-" 9.58 18.94 28.52
+"7str_HL-LC_L-7str_HL-LC_C.32" "SER" "L" 32 "-" 9.74 7.04 16.77
+"7str_HL-LC_L-7str_HL-LC_C.33" "TYR" "L" 33 "-" 33.25 36.34 69.59
+"7str_HL-LC_L-7str_HL-LC_C.92" "TYR" "L" 92 "-" 8.1 4.88 12.98
+"7str_HL-LC_L-7str_HL-LC_C.93" "GLY" "L" 93 "-" 4.94 13.31 18.25
+"7str_HL-LC_L-7str_HL-LC_C.94" "SER" "L" 94 "-" 2.02 0.55 2.59
+"7str_HL-LC_L-7str_HL-LC_C.97" "TRP" "L" 97 "-" 22.46 0.89 23.35
+"7str_HL-LC_L-7str_HL-LC_C.284" "LEU" "C" 113 "-" 3.14 0.06 3.21
+"7str_HL-LC_L-7str_HL-LC_C.285" "GLY" "C" 114 "-" 1.86 0.29 2.15
+"7str_HL-LC_L-7str_HL-LC_C.290" "ALA" "C" 119 "-" 0.2 2.85 3.06
+"7str_HL-LC_L-7str_HL-LC_C.291" "GLY" "C" 120 "-" 9.24 10.17 19.42
+"7str_HL-LC_L-7str_HL-LC_C.292" "LEU" "C" 121 "-" 0.56 0.99 1.54
+"7str_HL-LC_L-7str_HL-LC_C.293" "PRO" "C" 122 "-" 33.29 0.22 33.51
+"7str_HL-LC_L-7str_HL-LC_C.294" "TYR" "C" 123 "-" 0.14 0.24 0.4
+"7str_HL-LC_L-7str_HL-LC_C.310" "LEU" "C" 139 "-" 19.21 0 19.2
+"7str_HL-LC_L-7str_HL-LC_C.311" "ASN" "C" 140 "-" 10.39 24.81 35.18
+"7str_HL-LC_L-7str_HL-LC_C.312" "THR" "C" 141 "-" 32.03 2.95 34.98
+"7str_HL-LC_L-7str_HL-LC_C.313" "PRO" "C" 142 "-" 50.66 1.03 51.69
+"7str_HL-LC_L-7str_HL-LC_C.315" "ASP" "C" 144 "-" 1.24 8.14 9.39

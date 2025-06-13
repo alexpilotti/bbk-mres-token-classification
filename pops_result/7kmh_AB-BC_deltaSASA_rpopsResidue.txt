@@ -1,0 +1,27 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7kmh_AB-BC_B-7kmh_AB-BC_C.2" "ILE" "B" 2 "-" 0.48 0 0.48
+"7kmh_AB-BC_B-7kmh_AB-BC_C.27" "GLN" "B" 27 "-" 0.25 6.76 7.01
+"7kmh_AB-BC_B-7kmh_AB-BC_C.28" "ASP" "B" 28 "-" 21.03 36.88 57.92
+"7kmh_AB-BC_B-7kmh_AB-BC_C.29" "ILE" "B" 29 "-" 2.22 1.32 3.54
+"7kmh_AB-BC_B-7kmh_AB-BC_C.30" "SER" "B" 30 "-" 8.55 3.83 12.38
+"7kmh_AB-BC_B-7kmh_AB-BC_C.32" "TYR" "B" 32 "-" 8.7 11.71 20.41
+"7kmh_AB-BC_B-7kmh_AB-BC_C.67" "SER" "B" 67 "-" 0.1 0.25 0.36
+"7kmh_AB-BC_B-7kmh_AB-BC_C.90" "GLN" "B" 90 "-" 0 0.02 0.02
+"7kmh_AB-BC_B-7kmh_AB-BC_C.92" "ASP" "B" 92 "-" 5.77 25.89 31.65
+"7kmh_AB-BC_B-7kmh_AB-BC_C.93" "ASN" "B" 93 "-" 3.88 22.16 26.03
+"7kmh_AB-BC_B-7kmh_AB-BC_C.281" "ARG" "C" 403 "-" 0.41 19.03 19.44
+"7kmh_AB-BC_B-7kmh_AB-BC_C.283" "ASP" "C" 405 "-" 1.19 5.88 7.07
+"7kmh_AB-BC_B-7kmh_AB-BC_C.295" "LYS" "C" 417 "-" 2.29 8.64 10.93
+"7kmh_AB-BC_B-7kmh_AB-BC_C.331" "TYR" "C" 453 "-" 0.1 3.07 3.18
+"7kmh_AB-BC_B-7kmh_AB-BC_C.333" "LEU" "C" 455 "-" 0.05 0 0.04
+"7kmh_AB-BC_B-7kmh_AB-BC_C.371" "GLN" "C" 493 "-" 0.04 2.9 2.94
+"7kmh_AB-BC_B-7kmh_AB-BC_C.372" "SER" "C" 494 "-" 0.02 0.97 0.99
+"7kmh_AB-BC_B-7kmh_AB-BC_C.373" "TYR" "C" 495 "-" 0.06 0 0.07
+"7kmh_AB-BC_B-7kmh_AB-BC_C.374" "GLY" "C" 496 "-" 0 0.3 0.3
+"7kmh_AB-BC_B-7kmh_AB-BC_C.376" "GLN" "C" 498 "-" 0 0.79 0.79
+"7kmh_AB-BC_B-7kmh_AB-BC_C.378" "THR" "C" 500 "-" 0.07 1.1 1.18
+"7kmh_AB-BC_B-7kmh_AB-BC_C.379" "ASN" "C" 501 "-" 2.71 3.36 6.06
+"7kmh_AB-BC_B-7kmh_AB-BC_C.380" "GLY" "C" 502 "-" 8.98 4.67 13.65
+"7kmh_AB-BC_B-7kmh_AB-BC_C.381" "VAL" "C" 503 "-" 0 0.12 0.12
+"7kmh_AB-BC_B-7kmh_AB-BC_C.382" "GLY" "C" 504 "-" 0.26 0.02 0.28
+"7kmh_AB-BC_B-7kmh_AB-BC_C.383" "TYR" "C" 505 "-" 57.83 28.77 86.61

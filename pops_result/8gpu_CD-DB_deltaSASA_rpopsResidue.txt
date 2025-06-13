@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8gpu_CD-DB_B-8gpu_CD-DB_D.64" "VAL" "B" 64 "-" 29.22 0.39 29.6
+"8gpu_CD-DB_B-8gpu_CD-DB_D.65" "LEU" "B" 65 "-" 3.1 13.15 16.24
+"8gpu_CD-DB_B-8gpu_CD-DB_D.66" "THR" "B" 66 "-" 12.91 15.46 28.37
+"8gpu_CD-DB_B-8gpu_CD-DB_D.67" "HIS" "B" 67 "-" 59.11 23.98 83.09
+"8gpu_CD-DB_B-8gpu_CD-DB_D.68" "VAL" "B" 68 "-" 0 0.09 0.08
+"8gpu_CD-DB_B-8gpu_CD-DB_D.69" "LYS" "B" 69 "-" 0.47 0 0.47
+"8gpu_CD-DB_B-8gpu_CD-DB_D.89" "ASP" "B" 89 "-" 0.01 1.99 2
+"8gpu_CD-DB_B-8gpu_CD-DB_D.118" "LYS" "B" 118 "-" 26.59 15.95 42.55
+"8gpu_CD-DB_B-8gpu_CD-DB_D.120" "THR" "B" 120 "-" 9.66 2.33 11.98
+"8gpu_CD-DB_B-8gpu_CD-DB_D.419" "THR" "D" 31 "-" 10.05 5.03 15.07
+"8gpu_CD-DB_B-8gpu_CD-DB_D.420" "TYR" "D" 32 "-" 21.47 10.6 32.07
+"8gpu_CD-DB_B-8gpu_CD-DB_D.422" "LEU" "D" 34 "-" 11.58 0 11.58
+"8gpu_CD-DB_B-8gpu_CD-DB_D.440" "GLU" "D" 52 "-" 3.56 14.02 17.57
+"8gpu_CD-DB_B-8gpu_CD-DB_D.481" "TYR" "D" 93 "-" 5.47 6.69 12.16
+"8gpu_CD-DB_B-8gpu_CD-DB_D.483" "ASP" "D" 95 "-" 0 0.01 0.02
+"8gpu_CD-DB_B-8gpu_CD-DB_D.484" "THR" "D" 96 "-" 29.24 8.44 37.69
+"8gpu_CD-DB_B-8gpu_CD-DB_D.487" "PHE" "D" 99 "-" 20.12 0 20.11
+"8gpu_CD-DB_B-8gpu_CD-DB_D.488" "TRP" "D" 100 "-" 8.15 0 8.16

@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5nj3_CD-CB_B-5nj3_CD-CB_C.507" "ASN" "B" 601 "-" 0.24 0.13 0.37
+"5nj3_CD-CB_B-5nj3_CD-CB_C.508" "PRO" "B" 602 "-" 25.31 10.49 35.79
+"5nj3_CD-CB_B-5nj3_CD-CB_C.509" "CYS" "B" 603 "-" 1.99 1.11 3.1
+"5nj3_CD-CB_B-5nj3_CD-CB_C.510" "ASN" "B" 604 "-" 17.5 26.18 43.68
+"5nj3_CD-CB_B-5nj3_CD-CB_C.511" "TYR" "B" 605 "-" 46.76 33.34 80.09
+"5nj3_CD-CB_B-5nj3_CD-CB_C.659" "PHE" "C" 99 "-" 5.57 0 5.57
+"5nj3_CD-CB_B-5nj3_CD-CB_C.660" "TYR" "C" 100 "-" 0.62 0.28 0.89
+"5nj3_CD-CB_B-5nj3_CD-CB_C.661" "GLY" "C" 101 "-" 7 9.41 16.41
+"5nj3_CD-CB_B-5nj3_CD-CB_C.662" "ALA" "C" 102 "-" 33.94 22.36 56.31
+"5nj3_CD-CB_B-5nj3_CD-CB_C.663" "LYS" "C" 103 "-" 4.6 4.48 9.09
+"5nj3_CD-CB_B-5nj3_CD-CB_C.664" "GLY" "C" 104 "-" 3.81 0.98 4.78
+"5nj3_CD-CB_B-5nj3_CD-CB_C.665" "THR" "C" 105 "-" 0 0.01 0.02

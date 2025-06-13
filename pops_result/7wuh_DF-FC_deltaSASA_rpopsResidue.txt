@@ -1,0 +1,21 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7wuh_DF-FC_C-7wuh_DF-FC_F.420" "ILE" "C" 472 "-" 0.57 0 0.56
+"7wuh_DF-FC_C-7wuh_DF-FC_F.422" "GLN" "C" 474 "-" 2.99 7.87 10.86
+"7wuh_DF-FC_C-7wuh_DF-FC_F.423" "ALA" "C" 475 "-" 0.3 4.69 4.99
+"7wuh_DF-FC_C-7wuh_DF-FC_F.424" "GLY" "C" 476 "-" 2.93 5.93 8.85
+"7wuh_DF-FC_C-7wuh_DF-FC_F.425" "SER" "C" 477 "-" 55.51 35.99 91.5
+"7wuh_DF-FC_C-7wuh_DF-FC_F.426" "THR" "C" 478 "-" 28.08 17.18 45.26
+"7wuh_DF-FC_C-7wuh_DF-FC_F.427" "PRO" "C" 479 "-" 43.12 0.73 43.85
+"7wuh_DF-FC_C-7wuh_DF-FC_F.429" "ASN" "C" 481 "-" 0.63 3.98 4.61
+"7wuh_DF-FC_C-7wuh_DF-FC_F.431" "VAL" "C" 483 "-" 8.5 0 8.5
+"7wuh_DF-FC_C-7wuh_DF-FC_F.434" "PHE" "C" 486 "-" 31.36 2.05 33.42
+"7wuh_DF-FC_C-7wuh_DF-FC_F.435" "ASN" "C" 487 "-" 3.48 4.74 8.22
+"7wuh_DF-FC_C-7wuh_DF-FC_F.436" "CYS" "C" 488 "-" 0.21 0 0.2
+"7wuh_DF-FC_C-7wuh_DF-FC_F.1065" "GLN" "FALSE" 27 "-" 0 0.84 0.84
+"7wuh_DF-FC_C-7wuh_DF-FC_F.1069" "TYR" "FALSE" 31 "-" 0.11 0.66 0.78
+"7wuh_DF-FC_C-7wuh_DF-FC_F.1076" "TYR" "FALSE" 38 "-" 32.48 11.11 43.6
+"7wuh_DF-FC_C-7wuh_DF-FC_F.1135" "TYR" "FALSE" 97 "-" 7.34 6.34 13.68
+"7wuh_DF-FC_C-7wuh_DF-FC_F.1136" "TYR" "FALSE" 98 "-" 17.85 15.31 33.15
+"7wuh_DF-FC_C-7wuh_DF-FC_F.1137" "ARG" "FALSE" 99 "-" 4.47 8.31 12.78
+"7wuh_DF-FC_C-7wuh_DF-FC_F.1138" "TYR" "FALSE" 100 "-" 57.39 35.51 92.91
+"7wuh_DF-FC_C-7wuh_DF-FC_F.1140" "LEU" "FALSE" 102 "-" 0.35 0 0.35

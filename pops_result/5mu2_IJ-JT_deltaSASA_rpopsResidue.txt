@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.31" "ASN" "J" 31 "-" 1.79 8.34 10.11
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.32" "TYR" "J" 32 "-" 68.13 20.91 89.05
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.34" "ILE" "J" 34 "-" 11.38 0.1 11.49
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.36" "SER" "J" 36 "-" 2.33 5.43 7.75
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.38" "ASN" "J" 38 "-" 1.82 12.13 13.95
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.40" "PHE" "J" 40 "-" 3.12 0 3.12
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.50" "PHE" "J" 50 "-" 17.08 0 17.09
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.52" "ILE" "J" 52 "-" 0.01 0.14 0.15
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.53" "TYR" "J" 53 "-" 21.28 8.55 29.83
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.54" "ALA" "J" 54 "-" 0.83 0.11 0.92
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.58" "GLN" "J" 58 "-" 0.01 0.39 0.4
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.59" "GLY" "J" 59 "-" 0.44 0 0.44
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.60" "SER" "J" 60 "-" 1.92 0.25 2.16
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.93" "GLN" "J" 93 "-" 0.06 1.73 1.79
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.95" "SER" "J" 95 "-" 12.62 14.06 26.68
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.96" "LYS" "J" 96 "-" 0.21 0.8 1.01
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.100" "TYR" "J" 100 "-" 11.46 16.96 28.41
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.224" "LEU" "TRUE" 17 "-" 117.78 14.31 132.07
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.225" "THR" "TRUE" 18 "-" 77.83 29.02 106.85
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.226" "GLY" "TRUE" 19 "-" 5.29 4.78 10.07
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.227" "PRO" "TRUE" 20 "-" 52.57 0.85 53.42
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.228" "ILE" "TRUE" 21 "-" 73.04 10 83.04
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.229" "GLY" "TRUE" 22 "-" 13.37 13.07 26.44
+"5mu2_IJ-JT_J-5mu2_IJ-JT_T.230" "PRO" "TRUE" 23 "-" 52.59 14.71 67.31

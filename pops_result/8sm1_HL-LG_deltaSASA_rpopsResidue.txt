@@ -1,0 +1,12 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8sm1_HL-LG_G-8sm1_HL-LG_L.18" "GLU" "G" 21 "-" 0.31 5.83 6.14
+"8sm1_HL-LG_G-8sm1_HL-LG_L.211" "GLU" "G" 214 "-" 6.63 9.26 15.9
+"8sm1_HL-LG_G-8sm1_HL-LG_L.214" "GLU" "G" 217 "-" 1.21 4.6 5.82
+"8sm1_HL-LG_G-8sm1_HL-LG_L.285" "ASN" "G" 288 "-" 0 0.54 0.54
+"8sm1_HL-LG_G-8sm1_HL-LG_L.286" "GLY" "G" 289 "-" 0.68 2.94 3.62
+"8sm1_HL-LG_G-8sm1_HL-LG_L.287" "PRO" "G" 290 "-" 1.73 0.08 1.82
+"8sm1_HL-LG_G-8sm1_HL-LG_L.288" "LYS" "G" 291 "-" 1.02 0.07 1.08
+"8sm1_HL-LG_G-8sm1_HL-LG_L.452" "LYS" "L" 31 "-" 4.86 17.46 22.32
+"8sm1_HL-LG_G-8sm1_HL-LG_L.470" "TYR" "L" 49 "-" 0.21 6.31 6.54
+"8sm1_HL-LG_G-8sm1_HL-LG_L.477" "THR" "L" 56 "-" 15.99 2.43 18.42
+"8sm1_HL-LG_G-8sm1_HL-LG_L.515" "SER" "L" 94 "-" 2.73 0.81 3.54

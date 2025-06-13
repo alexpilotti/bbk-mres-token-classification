@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6pec_HL-LA_L-6pec_HL-LA_A.29" "TYR" "L" 32 "-" 16.63 9.63 26.25
+"6pec_HL-LA_L-6pec_HL-LA_A.31" "SER" "L" 34 "-" 0.63 0.36 0.98
+"6pec_HL-LA_L-6pec_HL-LA_A.33" "TYR" "L" 36 "-" 0.01 1.6 1.61
+"6pec_HL-LA_L-6pec_HL-LA_A.43" "LEU" "L" 46 "-" 2.95 0 2.95
+"6pec_HL-LA_L-6pec_HL-LA_A.45" "ILE" "L" 48 "-" 0 0.01 0.01
+"6pec_HL-LA_L-6pec_HL-LA_A.46" "TYR" "L" 49 "-" 3.36 0.01 3.37
+"6pec_HL-LA_L-6pec_HL-LA_A.47" "ASP" "L" 50 "-" 0.25 1.59 1.84
+"6pec_HL-LA_L-6pec_HL-LA_A.86" "GLN" "L" 89 "-" 0 0.63 0.65
+"6pec_HL-LA_L-6pec_HL-LA_A.87" "GLN" "L" 90 "-" 0.01 0.17 0.18
+"6pec_HL-LA_L-6pec_HL-LA_A.88" "TYR" "L" 91 "-" 18.92 7.01 25.93
+"6pec_HL-LA_L-6pec_HL-LA_A.89" "GLU" "L" 92 "-" 3.26 11.53 14.79
+"6pec_HL-LA_L-6pec_HL-LA_A.90" "THR" "L" 93 "-" 4.98 2.15 7.14
+"6pec_HL-LA_L-6pec_HL-LA_A.91" "TYR" "L" 94 "-" 56.86 26.63 83.48
+"6pec_HL-LA_L-6pec_HL-LA_A.92" "PRO" "L" 95 "-" 0.08 0.06 0.14
+"6pec_HL-LA_L-6pec_HL-LA_A.93" "ILE" "L" 96 "-" 19.83 0.11 19.93
+"6pec_HL-LA_L-6pec_HL-LA_A.209" "ALA" "A" 512 "-" 50.48 22.17 72.65
+"6pec_HL-LA_L-6pec_HL-LA_A.210" "VAL" "A" 513 "-" 112.16 9.22 121.38
+"6pec_HL-LA_L-6pec_HL-LA_A.211" "GLY" "A" 514 "-" 15.71 5.96 21.67
+"6pec_HL-LA_L-6pec_HL-LA_A.212" "ILE" "A" 515 "-" 99.57 2.78 102.35
+"6pec_HL-LA_L-6pec_HL-LA_A.213" "GLY" "A" 516 "-" 10.17 4.71 14.88
+"6pec_HL-LA_L-6pec_HL-LA_A.214" "ALA" "A" 517 "-" 0.35 0.09 0.45

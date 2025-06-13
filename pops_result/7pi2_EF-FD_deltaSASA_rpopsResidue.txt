@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7pi2_EF-FD_D-7pi2_EF-FD_F.82" "GLU" "D" 112 "-" 0 0.04 0.05
+"7pi2_EF-FD_D-7pi2_EF-FD_F.83" "GLU" "D" 113 "-" 0.16 1.02 1.17
+"7pi2_EF-FD_D-7pi2_EF-FD_F.107" "TYR" "D" 137 "-" 11.19 6.42 17.61
+"7pi2_EF-FD_D-7pi2_EF-FD_F.108" "SER" "D" 138 "-" 0.24 0.09 0.34
+"7pi2_EF-FD_D-7pi2_EF-FD_F.109" "ASN" "D" 139 "-" 8.04 32.8 40.83
+"7pi2_EF-FD_D-7pi2_EF-FD_F.110" "ASP" "D" 140 "-" 0 0.14 0.14
+"7pi2_EF-FD_D-7pi2_EF-FD_F.113" "GLU" "D" 143 "-" 6.31 28.05 34.34
+"7pi2_EF-FD_D-7pi2_EF-FD_F.114" "TYR" "D" 144 "-" 0 0.09 0.1
+"7pi2_EF-FD_D-7pi2_EF-FD_F.115" "ASN" "D" 145 "-" 20.7 23.46 44.17
+"7pi2_EF-FD_D-7pi2_EF-FD_F.116" "ASN" "D" 146 "-" 1.62 13.21 14.83
+"7pi2_EF-FD_D-7pi2_EF-FD_F.117" "ALA" "D" 147 "-" 20.2 0.7 20.9
+"7pi2_EF-FD_D-7pi2_EF-FD_F.118" "GLU" "D" 148 "-" 0 0.05 0.05
+"7pi2_EF-FD_D-7pi2_EF-FD_F.174" "LYS" "D" 204 "-" 0 0.78 0.78
+"7pi2_EF-FD_D-7pi2_EF-FD_F.351" "SER" "FALSE" 46 "-" 4.19 10.72 14.91
+"7pi2_EF-FD_D-7pi2_EF-FD_F.352" "SER" "FALSE" 47 "-" 2.84 2.61 5.47
+"7pi2_EF-FD_D-7pi2_EF-FD_F.353" "SER" "FALSE" 48 "-" 19.82 30.46 50.28
+"7pi2_EF-FD_D-7pi2_EF-FD_F.354" "TYR" "FALSE" 49 "-" 23.01 29.52 52.53
+"7pi2_EF-FD_D-7pi2_EF-FD_F.374" "ASN" "FALSE" 69 "-" 0 0.51 0.51
+"7pi2_EF-FD_D-7pi2_EF-FD_F.389" "LYS" "FALSE" 84 "-" 0.8 4.3 5.1
+"7pi2_EF-FD_D-7pi2_EF-FD_F.390" "SER" "FALSE" 85 "-" 0.05 0 0.05
+"7pi2_EF-FD_D-7pi2_EF-FD_F.391" "GLY" "FALSE" 86 "-" 6.65 1.96 8.62
+"7pi2_EF-FD_D-7pi2_EF-FD_F.392" "SER" "FALSE" 87 "-" 0 0.07 0.06
+"7pi2_EF-FD_D-7pi2_EF-FD_F.414" "ARG" "FALSE" 109 "-" 2.32 22.68 24.99
+"7pi2_EF-FD_D-7pi2_EF-FD_F.416" "ASN" "FALSE" 111 "-" 4.5 19.48 23.96

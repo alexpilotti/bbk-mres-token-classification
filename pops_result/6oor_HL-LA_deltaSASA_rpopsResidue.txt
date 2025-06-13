@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6oor_HL-LA_A-6oor_HL-LA_L.73" "ARG" "A" 79 "-" 2.8 0.67 3.47
+"6oor_HL-LA_A-6oor_HL-LA_L.77" "GLU" "A" 83 "-" 3.68 21.94 25.62
+"6oor_HL-LA_A-6oor_HL-LA_L.304" "TYR" "L" 31 "-" 3.62 8.39 12
+"6oor_HL-LA_A-6oor_HL-LA_L.305" "THR" "L" 32 "-" 6.3 2.88 9.17

@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8df5_CD-DS_D-8df5_CD-DS_S.30" "SER" "D" 30 "-" 1.27 1.17 2.45
+"8df5_CD-DS_D-8df5_CD-DS_S.31" "SER" "D" 31 "-" 5.57 13.2 18.78
+"8df5_CD-DS_D-8df5_CD-DS_S.32" "THR" "D" 32 "-" 44.72 9.73 54.45
+"8df5_CD-DS_D-8df5_CD-DS_S.33" "SER" "D" 33 "-" 1.16 2.69 3.85
+"8df5_CD-DS_D-8df5_CD-DS_S.51" "GLY" "D" 51 "-" 0.33 0.52 0.86
+"8df5_CD-DS_D-8df5_CD-DS_S.53" "SER" "D" 53 "-" 0 0.79 0.79
+"8df5_CD-DS_D-8df5_CD-DS_S.92" "HIS" "D" 92 "-" 2.45 2.58 5.03
+"8df5_CD-DS_D-8df5_CD-DS_S.93" "ASP" "D" 93 "-" 1.06 4.87 5.93
+"8df5_CD-DS_D-8df5_CD-DS_S.227" "ALA" "S" 344 "-" 0.06 0.35 0.41
+"8df5_CD-DS_D-8df5_CD-DS_S.228" "THR" "S" 345 "-" 47.76 6.86 54.62
+"8df5_CD-DS_D-8df5_CD-DS_S.229" "ARG" "S" 346 "-" 2.01 27.15 29.16
+"8df5_CD-DS_D-8df5_CD-DS_S.323" "ASN" "S" 440 "-" 0.43 4.21 4.64
+"8df5_CD-DS_D-8df5_CD-DS_S.324" "LEU" "S" 441 "-" 29.09 3.17 32.27
+"8df5_CD-DS_D-8df5_CD-DS_S.325" "ASP" "S" 442 "-" 0 0.14 0.15
+"8df5_CD-DS_D-8df5_CD-DS_S.392" "ARG" "S" 509 "-" 0.01 1.21 1.23

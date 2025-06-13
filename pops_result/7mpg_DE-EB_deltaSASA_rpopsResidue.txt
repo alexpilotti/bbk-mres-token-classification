@@ -1,0 +1,7 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7mpg_DE-EB_B-7mpg_DE-EB_E.104" "LYS" "B" 166 "-" 8.07 2.55 10.62
+"7mpg_DE-EB_B-7mpg_DE-EB_E.118" "SER" "B" 180 "-" 1.36 2.79 4.15
+"7mpg_DE-EB_B-7mpg_DE-EB_E.500" "HIS" "E" 49 "-" 0.36 0.02 0.38
+"7mpg_DE-EB_B-7mpg_DE-EB_E.504" "ASN" "E" 53 "-" 0.07 1.49 1.57
+"7mpg_DE-EB_B-7mpg_DE-EB_E.506" "GLU" "E" 55 "-" 0 0.2 0.2
+"7mpg_DE-EB_B-7mpg_DE-EB_E.507" "THR" "E" 56 "-" 14.92 0.42 15.34

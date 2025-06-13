@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6svl_OP-PR_P-6svl_OP-PR_R.30" "TYR" "P" 30 "-" 5.89 0.14 6.03
+"6svl_OP-PR_P-6svl_OP-PR_R.32" "ASN" "P" 32 "-" 0.78 8.93 9.71
+"6svl_OP-PR_P-6svl_OP-PR_R.91" "PHE" "P" 91 "-" 0.34 1.92 2.26
+"6svl_OP-PR_P-6svl_OP-PR_R.92" "TRP" "P" 92 "-" 26.06 0.6 26.66
+"6svl_OP-PR_P-6svl_OP-PR_R.93" "GLY" "P" 93 "-" 5.8 2.73 8.52
+"6svl_OP-PR_P-6svl_OP-PR_R.94" "THR" "P" 94 "-" 0.49 1.78 2.27
+"6svl_OP-PR_P-6svl_OP-PR_R.97" "TRP" "P" 97 "-" 9.17 0.05 9.22
+"6svl_OP-PR_P-6svl_OP-PR_R.193" "THR" "R" 6 "-" 0.43 0 0.42
+"6svl_OP-PR_P-6svl_OP-PR_R.195" "ALA" "R" 8 "-" 10.63 0.67 11.3
+"6svl_OP-PR_P-6svl_OP-PR_R.197" "ASP" "R" 10 "-" 1.65 10.94 12.59
+"6svl_OP-PR_P-6svl_OP-PR_R.229" "THR" "R" 42 "-" 0.63 0 0.63
+"6svl_OP-PR_P-6svl_OP-PR_R.232" "GLN" "R" 45 "-" 14.29 65.29 79.59
+"6svl_OP-PR_P-6svl_OP-PR_R.233" "TRP" "R" 46 "-" 0 0.13 0.15
+"6svl_OP-PR_P-6svl_OP-PR_R.234" "GLN" "R" 47 "-" 2.55 21.44 24
+"6svl_OP-PR_P-6svl_OP-PR_R.246" "TRP" "R" 64 "-" 0.09 0 0.09
+"6svl_OP-PR_P-6svl_OP-PR_R.247" "ARG" "R" 65 "-" 0 1.29 1.29
+"6svl_OP-PR_P-6svl_OP-PR_R.248" "PRO" "R" 66 "-" 13.01 0.02 13.03

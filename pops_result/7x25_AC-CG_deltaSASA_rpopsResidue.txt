@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7x25_AC-CG_C-7x25_AC-CG_G.93" "GLY" "C" 93 "-" 0 0.63 0.62
+"7x25_AC-CG_C-7x25_AC-CG_G.94" "SER" "C" 94 "-" 0.04 0.05 0.08
+"7x25_AC-CG_C-7x25_AC-CG_G.95" "SER" "C" 95 "-" 8.98 10.6 19.57
+"7x25_AC-CG_C-7x25_AC-CG_G.730" "TRP" "G" 535 "-" 0.74 0.05 0.8
+"7x25_AC-CG_C-7x25_AC-CG_G.731" "GLU" "G" 536 "-" 4.57 13.03 17.6

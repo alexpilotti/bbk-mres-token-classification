@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2vwe_EC-CA_A-2vwe_EC-CA_C.5" "VAL" "A" 15 "-" 0.02 0.04 0.06
+"2vwe_EC-CA_A-2vwe_EC-CA_C.6" "SER" "A" 16 "-" 11.93 8.72 20.65
+"2vwe_EC-CA_A-2vwe_EC-CA_C.7" "TRP" "A" 17 "-" 14.99 1.02 16
+"2vwe_EC-CA_A-2vwe_EC-CA_C.8" "ILE" "A" 18 "-" 66.01 0.11 66.13
+"2vwe_EC-CA_A-2vwe_EC-CA_C.9" "ASP" "A" 19 "-" 0.92 6.83 7.76
+"2vwe_EC-CA_A-2vwe_EC-CA_C.11" "TYR" "A" 21 "-" 0.05 0 0.05
+"2vwe_EC-CA_A-2vwe_EC-CA_C.144" "LEU" "C" 46 "-" 1.93 0 1.93
+"2vwe_EC-CA_A-2vwe_EC-CA_C.147" "TYR" "C" 49 "-" 19.02 15.38 34.4
+"2vwe_EC-CA_A-2vwe_EC-CA_C.148" "TYR" "C" 50 "-" 0.18 0 0.18
+"2vwe_EC-CA_A-2vwe_EC-CA_C.151" "THR" "C" 53 "-" 8.58 0 8.58
+"2vwe_EC-CA_A-2vwe_EC-CA_C.152" "LEU" "C" 54 "-" 0.32 3.15 3.48
+"2vwe_EC-CA_A-2vwe_EC-CA_C.153" "HIS" "C" 55 "-" 13.1 7.38 20.48
+"2vwe_EC-CA_A-2vwe_EC-CA_C.154" "SER" "C" 56 "-" 11.59 3.75 15.34

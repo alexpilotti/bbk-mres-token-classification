@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7u8m_TU-UG_G-7u8m_TU-UG_U.80" "ARG" "G" 91 "-" 0.55 0 0.55
+"7u8m_TU-UG_G-7u8m_TU-UG_U.81" "ASN" "G" 92 "-" 0.71 4.42 5.13
+"7u8m_TU-UG_G-7u8m_TU-UG_U.210" "ARG" "G" 220 "-" 0.23 0.17 0.39
+"7u8m_TU-UG_G-7u8m_TU-UG_U.211" "PRO" "G" 221 "-" 74.12 2.78 76.9
+"7u8m_TU-UG_G-7u8m_TU-UG_U.212" "LYS" "G" 222 "-" 35.77 25.34 61.11
+"7u8m_TU-UG_G-7u8m_TU-UG_U.213" "VAL" "G" 223 "-" 37.21 0.66 37.87
+"7u8m_TU-UG_G-7u8m_TU-UG_U.214" "ASN" "G" 224 "-" 1.99 3.55 5.54
+"7u8m_TU-UG_G-7u8m_TU-UG_U.215" "GLY" "G" 225 "-" 0.12 0.32 0.45
+"7u8m_TU-UG_G-7u8m_TU-UG_U.219" "ARG" "G" 229 "-" 0.01 1.94 1.96
+"7u8m_TU-UG_G-7u8m_TU-UG_U.368" "LEU" "U" 46 "-" 2.57 0 2.57
+"7u8m_TU-UG_G-7u8m_TU-UG_U.371" "TYR" "U" 49 "-" 49.65 23.05 72.7
+"7u8m_TU-UG_G-7u8m_TU-UG_U.372" "ALA" "U" 50 "-" 3.11 0.11 3.22
+"7u8m_TU-UG_G-7u8m_TU-UG_U.375" "ASN" "U" 53 "-" 9.55 31.92 41.47
+"7u8m_TU-UG_G-7u8m_TU-UG_U.376" "LEU" "U" 54 "-" 1.25 7.89 9.15
+"7u8m_TU-UG_G-7u8m_TU-UG_U.377" "GLN" "U" 55 "-" 3.56 17.39 20.95
+"7u8m_TU-UG_G-7u8m_TU-UG_U.378" "SER" "U" 56 "-" 12.27 1.91 14.18
+"7u8m_TU-UG_G-7u8m_TU-UG_U.389" "SER" "U" 67 "-" 1.38 4.14 5.52

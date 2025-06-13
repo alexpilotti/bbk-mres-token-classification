@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6cmi_DC-CB_B-6cmi_DC-CB_C.315" "GLN" "B" 490 "-" 0 0.62 0.62
+"6cmi_DC-CB_B-6cmi_DC-CB_C.352" "ASN" "B" 527 "-" 0.01 0.35 0.35
+"6cmi_DC-CB_B-6cmi_DC-CB_C.353" "SER" "B" 528 "-" 0.37 0.41 0.78
+"6cmi_DC-CB_B-6cmi_DC-CB_C.356" "THR" "B" 531 "-" 0.03 0 0.02
+"6cmi_DC-CB_B-6cmi_DC-CB_C.358" "GLU" "B" 533 "-" 1.55 9.19 10.75
+"6cmi_DC-CB_B-6cmi_DC-CB_C.359" "ASN" "B" 534 "-" 0.24 2.95 3.18
+"6cmi_DC-CB_B-6cmi_DC-CB_C.379" "ASP" "B" 554 "-" 3.8 3.25 7.04
+"6cmi_DC-CB_B-6cmi_DC-CB_C.380" "ASP" "B" 555 "-" 23.32 41.54 64.86
+"6cmi_DC-CB_B-6cmi_DC-CB_C.381" "THR" "B" 556 "-" 0 0 0.01
+"6cmi_DC-CB_B-6cmi_DC-CB_C.458" "ARG" "C" 30 "-" 30.02 88.16 118.18
+"6cmi_DC-CB_B-6cmi_DC-CB_C.460" "THR" "C" 32 "-" 7.32 2.99 10.3
+"6cmi_DC-CB_B-6cmi_DC-CB_C.461" "TYR" "C" 33 "-" 4.27 11.37 15.63
+"6cmi_DC-CB_B-6cmi_DC-CB_C.522" "ARG" "C" 94 "-" 0 0.62 0.62

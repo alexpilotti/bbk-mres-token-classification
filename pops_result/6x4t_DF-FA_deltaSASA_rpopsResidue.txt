@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6x4t_DF-FA_A-6x4t_DF-FA_F.34" "TYR" "A" 51 "-" 0.71 1.48 2.19
+"6x4t_DF-FA_A-6x4t_DF-FA_F.50" "ILE" "A" 67 "-" 4.41 0 4.41
+"6x4t_DF-FA_A-6x4t_DF-FA_F.52" "GLN" "A" 69 "-" 21.43 12.74 34.17
+"6x4t_DF-FA_A-6x4t_DF-FA_F.53" "ASN" "A" 70 "-" 0.11 1.35 1.45
+"6x4t_DF-FA_A-6x4t_DF-FA_F.54" "SER" "A" 71 "-" 0.04 0 0.04
+"6x4t_DF-FA_A-6x4t_DF-FA_F.101" "GLN" "A" 118 "-" 5.23 24.34 29.57
+"6x4t_DF-FA_A-6x4t_DF-FA_F.102" "SER" "A" 119 "-" 0 1.16 1.16
+"6x4t_DF-FA_A-6x4t_DF-FA_F.104" "GLY" "A" 121 "-" 1.39 0.1 1.48
+"6x4t_DF-FA_A-6x4t_DF-FA_F.105" "PHE" "A" 122 "-" 23.44 0 23.44
+"6x4t_DF-FA_A-6x4t_DF-FA_F.240" "SER" "FALSE" 30 "-" 0 0 0.01
+"6x4t_DF-FA_A-6x4t_DF-FA_F.241" "ASN" "FALSE" 31 "-" 0.5 6.93 7.43
+"6x4t_DF-FA_A-6x4t_DF-FA_F.242" "TRP" "FALSE" 32 "-" 33.72 0 33.73
+"6x4t_DF-FA_A-6x4t_DF-FA_F.259" "TYR" "FALSE" 49 "-" 20.06 19.52 39.57
+"6x4t_DF-FA_A-6x4t_DF-FA_F.260" "ALA" "FALSE" 50 "-" 2.85 0 2.85
+"6x4t_DF-FA_A-6x4t_DF-FA_F.263" "SER" "FALSE" 53 "-" 1.02 0.27 1.29
+"6x4t_DF-FA_A-6x4t_DF-FA_F.265" "GLN" "FALSE" 55 "-" 1.04 9.83 10.87
+"6x4t_DF-FA_A-6x4t_DF-FA_F.266" "SER" "FALSE" 56 "-" 2.14 2.58 4.73

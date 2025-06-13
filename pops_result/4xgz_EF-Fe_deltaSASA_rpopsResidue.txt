@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.26" "SER" "FALSE" 30 "-" 0.02 1.01 1.03
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.27" "SER" "FALSE" 31 "-" 0.23 0 0.23
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.28" "ALA" "FALSE" 32 "-" 14.65 0.93 15.58
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.45" "TYR" "FALSE" 49 "-" 0.49 0 0.49
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.46" "SER" "FALSE" 50 "-" 2.38 3.88 6.26
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.87" "SER" "FALSE" 91 "-" 8.15 3.79 11.94
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.88" "SER" "FALSE" 92 "-" 4.13 10.61 14.73
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.89" "SER" "FALSE" 93 "-" 31.26 23.9 55.17
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.90" "SER" "FALSE" 94 "-" 7.76 4.99 12.76
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.91" "LEU" "FALSE" 95 "-" 1.49 1.74 3.23
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.92" "ILE" "FALSE" 96 "-" 15.23 0.5 15.74
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.208" "ASN" "e" 1 "-" 7 5.38 12.39
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.209" "LEU" "e" 2 "-" 95.86 2.53 98.39
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.210" "SER" "e" 3 "-" 35.97 20.65 56.61
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.211" "GLU" "e" 4 "-" 0 0.05 0.04
+"4xgz_EF-Fe_F-4xgz_EF-Fe_e.214" "ARG" "e" 7 "-" 1.18 13.37 14.55

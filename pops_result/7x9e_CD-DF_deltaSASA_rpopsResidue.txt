@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7x9e_CD-DF_D-7x9e_CD-DF_F.30" "TYR" "D" 32 "-" 9.08 8.48 17.57
+"7x9e_CD-DF_D-7x9e_CD-DF_F.32" "PHE" "D" 34 "-" 19.78 0 19.78
+"7x9e_CD-DF_D-7x9e_CD-DF_F.91" "TYR" "D" 93 "-" 11.92 6.15 18.06
+"7x9e_CD-DF_D-7x9e_CD-DF_F.93" "GLY" "D" 95 "-" 0.04 3.04 3.08
+"7x9e_CD-DF_D-7x9e_CD-DF_F.94" "ARG" "D" 96 "-" 2.28 0.05 2.33
+"7x9e_CD-DF_D-7x9e_CD-DF_F.95" "ASN" "D" 97 "-" 27.98 62.82 90.8
+"7x9e_CD-DF_D-7x9e_CD-DF_F.96" "ASN" "D" 98 "-" 1.1 1.92 3.01
+"7x9e_CD-DF_D-7x9e_CD-DF_F.97" "LEU" "D" 99 "-" 14.5 0.51 15
+"7x9e_CD-DF_D-7x9e_CD-DF_F.217" "ILE" "FALSE" 818 "-" 4.96 0 4.95
+"7x9e_CD-DF_D-7x9e_CD-DF_F.220" "LEU" "FALSE" 821 "-" 0 0.13 0.13
+"7x9e_CD-DF_D-7x9e_CD-DF_F.221" "LEU" "FALSE" 822 "-" 57.15 3.93 61.08
+"7x9e_CD-DF_D-7x9e_CD-DF_F.222" "PHE" "FALSE" 823 "-" 77.62 8.84 86.46
+"7x9e_CD-DF_D-7x9e_CD-DF_F.223" "ASN" "FALSE" 824 "-" 3.96 2.65 6.61
+"7x9e_CD-DF_D-7x9e_CD-DF_F.224" "LYS" "FALSE" 825 "-" 55.09 40.64 95.74
+"7x9e_CD-DF_D-7x9e_CD-DF_F.225" "VAL" "FALSE" 826 "-" 18.27 1.17 19.44

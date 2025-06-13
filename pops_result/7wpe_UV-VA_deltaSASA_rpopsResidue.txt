@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7wpe_UV-VA_A-7wpe_UV-VA_V.280" "THR" "A" 348 "-" 20.52 7.99 28.52
+"7wpe_UV-VA_A-7wpe_UV-VA_V.281" "ARG" "A" 349 "-" 20.2 30.44 50.63
+"7wpe_UV-VA_A-7wpe_UV-VA_V.375" "LYS" "A" 443 "-" 0 0.61 0.62
+"7wpe_UV-VA_A-7wpe_UV-VA_V.376" "LEU" "A" 444 "-" 3.6 5.39 8.98
+"7wpe_UV-VA_A-7wpe_UV-VA_V.377" "ASP" "A" 445 "-" 0.03 0.94 0.97
+"7wpe_UV-VA_A-7wpe_UV-VA_V.378" "SER" "A" 446 "-" 0 0.26 0.26
+"7wpe_UV-VA_A-7wpe_UV-VA_V.379" "LYS" "A" 447 "-" 36.18 31.54 67.71
+"7wpe_UV-VA_A-7wpe_UV-VA_V.380" "VAL" "A" 448 "-" 7.25 1.19 8.44
+"7wpe_UV-VA_A-7wpe_UV-VA_V.381" "SER" "A" 449 "-" 0.55 1.63 2.17
+"7wpe_UV-VA_A-7wpe_UV-VA_V.382" "GLY" "A" 450 "-" 0.46 0 0.46
+"7wpe_UV-VA_A-7wpe_UV-VA_V.384" "TYR" "A" 452 "-" 0.91 0 0.91
+"7wpe_UV-VA_A-7wpe_UV-VA_V.386" "TYR" "A" 454 "-" 0 0.32 0.32
+"7wpe_UV-VA_A-7wpe_UV-VA_V.444" "ARG" "A" 512 "-" 0 0.2 0.2
+"7wpe_UV-VA_A-7wpe_UV-VA_V.1052" "SER" "V" 297 "-" 1.92 3.9 5.83
+"7wpe_UV-VA_A-7wpe_UV-VA_V.1053" "SER" "V" 298 "-" 1.04 2.02 3.06
+"7wpe_UV-VA_A-7wpe_UV-VA_V.1054" "TRP" "V" 299 "-" 25.7 0.69 26.39
+"7wpe_UV-VA_A-7wpe_UV-VA_V.1071" "TYR" "V" 316 "-" 1.53 0 1.53
+"7wpe_UV-VA_A-7wpe_UV-VA_V.1072" "ASP" "V" 317 "-" 0.67 5.25 5.92
+"7wpe_UV-VA_A-7wpe_UV-VA_V.1113" "TYR" "V" 358 "-" 1.23 1.78 3.02
+"7wpe_UV-VA_A-7wpe_UV-VA_V.1114" "ASP" "V" 359 "-" 1.1 7.36 8.46
+"7wpe_UV-VA_A-7wpe_UV-VA_V.1115" "ASN" "V" 360 "-" 4.79 12.61 17.4
+"7wpe_UV-VA_A-7wpe_UV-VA_V.1116" "LEU" "V" 361 "-" 14.85 0.47 15.32
+"7wpe_UV-VA_A-7wpe_UV-VA_V.1117" "PRO" "V" 362 "-" 0.01 0 0.01

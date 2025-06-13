@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mub_IJ-JK_J-5mub_IJ-JK_K.32" "TYR" "J" 32 "-" 16.71 13.77 30.48
+"5mub_IJ-JK_J-5mub_IJ-JK_K.36" "SER" "J" 36 "-" 0.21 1.75 1.97
+"5mub_IJ-JK_J-5mub_IJ-JK_K.38" "ASN" "J" 38 "-" 1.49 11.59 13.09
+"5mub_IJ-JK_J-5mub_IJ-JK_K.40" "PHE" "J" 40 "-" 3.01 0 3.01
+"5mub_IJ-JK_J-5mub_IJ-JK_K.50" "PHE" "J" 50 "-" 17.41 0 17.42
+"5mub_IJ-JK_J-5mub_IJ-JK_K.52" "ILE" "J" 52 "-" 0 0.12 0.12
+"5mub_IJ-JK_J-5mub_IJ-JK_K.53" "TYR" "J" 53 "-" 21.41 5.81 27.21
+"5mub_IJ-JK_J-5mub_IJ-JK_K.54" "ALA" "J" 54 "-" 0.45 0.11 0.55
+"5mub_IJ-JK_J-5mub_IJ-JK_K.58" "GLN" "J" 58 "-" 0.02 0.42 0.44
+"5mub_IJ-JK_J-5mub_IJ-JK_K.59" "GLY" "J" 59 "-" 1.15 0.05 1.18
+"5mub_IJ-JK_J-5mub_IJ-JK_K.60" "SER" "J" 60 "-" 1.66 2.34 4
+"5mub_IJ-JK_J-5mub_IJ-JK_K.93" "GLN" "J" 93 "-" 0.03 1.1 1.13
+"5mub_IJ-JK_J-5mub_IJ-JK_K.95" "SER" "J" 95 "-" 7.32 7.55 14.87
+"5mub_IJ-JK_J-5mub_IJ-JK_K.100" "TYR" "J" 100 "-" 1.02 1.79 2.8
+"5mub_IJ-JK_J-5mub_IJ-JK_K.221" "GLY" "K" 16 "-" 0.01 0.01 0.02
+"5mub_IJ-JK_J-5mub_IJ-JK_K.222" "LEU" "K" 17 "-" 100.25 16.94 117.19
+"5mub_IJ-JK_J-5mub_IJ-JK_K.223" "THR" "K" 18 "-" 77.74 32.17 109.91
+"5mub_IJ-JK_J-5mub_IJ-JK_K.224" "GLY" "K" 19 "-" 9.15 8.09 17.24
+"5mub_IJ-JK_J-5mub_IJ-JK_K.225" "GLY" "K" 22 "-" 26.04 39.12 65.16

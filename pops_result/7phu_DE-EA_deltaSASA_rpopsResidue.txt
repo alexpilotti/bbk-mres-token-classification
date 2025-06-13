@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7phu_DE-EA_A-7phu_DE-EA_E.53" "LYS" "A" 212 "-" 16.51 24.31 40.82
+"7phu_DE-EA_A-7phu_DE-EA_E.57" "ALA" "A" 216 "-" 5.45 0.52 5.97
+"7phu_DE-EA_A-7phu_DE-EA_E.58" "TYR" "A" 217 "-" 0 0.02 0.02
+"7phu_DE-EA_A-7phu_DE-EA_E.60" "LYS" "A" 219 "-" 1.27 0 1.27
+"7phu_DE-EA_A-7phu_DE-EA_E.61" "VAL" "A" 220 "-" 1.57 0.01 1.57
+"7phu_DE-EA_A-7phu_DE-EA_E.64" "LYS" "A" 223 "-" 0.72 1.09 1.81
+"7phu_DE-EA_A-7phu_DE-EA_E.116" "LYS" "A" 327 "-" 12.16 13.34 25.5
+"7phu_DE-EA_A-7phu_DE-EA_E.117" "ILE" "A" 328 "-" 2.31 0 2.31
+"7phu_DE-EA_A-7phu_DE-EA_E.120" "ASP" "A" 331 "-" 0.23 2.5 2.73
+"7phu_DE-EA_A-7phu_DE-EA_E.340" "LEU" "E" 51 "-" 0.78 0 0.78
+"7phu_DE-EA_A-7phu_DE-EA_E.346" "SER" "E" 57 "-" 0 0.15 0.15
+"7phu_DE-EA_A-7phu_DE-EA_E.347" "SER" "E" 58 "-" 1.86 6.1 7.96
+"7phu_DE-EA_A-7phu_DE-EA_E.348" "LEU" "E" 59 "-" 1.2 2.77 3.98
+"7phu_DE-EA_A-7phu_DE-EA_E.349" "GLU" "E" 60 "-" 2.78 12.51 15.29
+"7phu_DE-EA_A-7phu_DE-EA_E.350" "SER" "E" 61 "-" 24.69 25.19 49.88
+"7phu_DE-EA_A-7phu_DE-EA_E.351" "GLY" "E" 62 "-" 2.48 0.23 2.71

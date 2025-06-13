@@ -1,0 +1,11 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6cnk_GF-FC_C-6cnk_GF-FC_F.132" "GLU" "C" 133 "-" 0.24 3.12 3.36
+"6cnk_GF-FC_C-6cnk_GF-FC_F.134" "LYS" "C" 135 "-" 1.88 0 1.88
+"6cnk_GF-FC_C-6cnk_GF-FC_F.140" "GLN" "C" 141 "-" 2.19 12.32 14.51
+"6cnk_GF-FC_C-6cnk_GF-FC_F.180" "VAL" "C" 181 "-" 2.93 0 2.93
+"6cnk_GF-FC_C-6cnk_GF-FC_F.205" "ARG" "C" 206 "-" 2.16 10.59 12.75
+"6cnk_GF-FC_C-6cnk_GF-FC_F.389" "HIS" "FALSE" 31 "-" 4.05 4.61 8.66
+"6cnk_GF-FC_C-6cnk_GF-FC_F.390" "SER" "FALSE" 32 "-" 2.97 1.28 4.24
+"6cnk_GF-FC_C-6cnk_GF-FC_F.455" "SER" "FALSE" 97 "-" 0 0.04 0.04
+"6cnk_GF-FC_C-6cnk_GF-FC_F.457" "VAL" "FALSE" 99 "-" 12.71 0 12.71
+"6cnk_GF-FC_C-6cnk_GF-FC_F.459" "TRP" "FALSE" 101 "-" 4.51 0 4.51

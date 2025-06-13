@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5xf1_CD-DA_A-5xf1_CD-DA_D.84" "PRO" "A" 110 "-" 36.19 16.61 52.8
+"5xf1_CD-DA_A-5xf1_CD-DA_D.85" "ARG" "A" 111 "-" 53.22 70.57 123.79
+"5xf1_CD-DA_A-5xf1_CD-DA_D.86" "GLY" "A" 112 "-" 2.03 0.82 2.84
+"5xf1_CD-DA_A-5xf1_CD-DA_D.181" "GLY" "A" 207 "-" 0.02 0 0.02
+"5xf1_CD-DA_A-5xf1_CD-DA_D.182" "ASP" "A" 208 "-" 9.02 34.76 43.78
+"5xf1_CD-DA_A-5xf1_CD-DA_D.593" "TYR" "D" 49 "-" 6.16 10.63 16.79
+"5xf1_CD-DA_A-5xf1_CD-DA_D.594" "ALA" "D" 50 "-" 0.28 0 0.28
+"5xf1_CD-DA_A-5xf1_CD-DA_D.597" "SER" "D" 53 "-" 1.23 2.5 3.73
+"5xf1_CD-DA_A-5xf1_CD-DA_D.634" "GLN" "D" 90 "-" 0 0.06 0.06
+"5xf1_CD-DA_A-5xf1_CD-DA_D.635" "HIS" "D" 91 "-" 7.21 6.41 13.62
+"5xf1_CD-DA_A-5xf1_CD-DA_D.636" "ASN" "D" 92 "-" 2.38 15.54 17.92
+"5xf1_CD-DA_A-5xf1_CD-DA_D.637" "SER" "D" 93 "-" 12.75 10.74 23.5
+"5xf1_CD-DA_A-5xf1_CD-DA_D.638" "ASN" "D" 94 "-" 20.96 49.98 70.95
+"5xf1_CD-DA_A-5xf1_CD-DA_D.639" "PRO" "D" 95 "-" 0 0.01 0.01
+"5xf1_CD-DA_A-5xf1_CD-DA_D.640" "LEU" "D" 96 "-" 10.39 0 10.39

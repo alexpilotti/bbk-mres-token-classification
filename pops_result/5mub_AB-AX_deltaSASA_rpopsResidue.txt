@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mub_AB-AX_A-5mub_AB-AX_X.31" "ASP" "A" 31 "-" 3.92 6.7 10.63
+"5mub_AB-AX_A-5mub_AB-AX_X.32" "ALA" "A" 32 "-" 1.35 0.36 1.71
+"5mub_AB-AX_A-5mub_AB-AX_X.33" "TRP" "A" 33 "-" 27.72 2.6 30.32
+"5mub_AB-AX_A-5mub_AB-AX_X.53" "ASN" "A" 53 "-" 0.29 3.83 4.13
+"5mub_AB-AX_A-5mub_AB-AX_X.55" "VAL" "A" 55 "-" 0.81 0 0.82
+"5mub_AB-AX_A-5mub_AB-AX_X.56" "ASN" "A" 56 "-" 0.35 5.94 6.29
+"5mub_AB-AX_A-5mub_AB-AX_X.101" "LEU" "A" 101 "-" 21.96 2.86 24.82
+"5mub_AB-AX_A-5mub_AB-AX_X.102" "THR" "A" 102 "-" 14.78 9.06 23.82
+"5mub_AB-AX_A-5mub_AB-AX_X.103" "PHE" "A" 103 "-" 9.31 1.97 11.29
+"5mub_AB-AX_A-5mub_AB-AX_X.104" "ASP" "A" 104 "-" 8.39 35.87 44.26
+"5mub_AB-AX_A-5mub_AB-AX_X.219" "GLY" "X" 13 "-" 2.23 9.01 11.23
+"5mub_AB-AX_A-5mub_AB-AX_X.220" "ALA" "X" 14 "-" 50.8 20.77 71.57
+"5mub_AB-AX_A-5mub_AB-AX_X.221" "ARG" "X" 15 "-" 55.84 66.61 122.44
+"5mub_AB-AX_A-5mub_AB-AX_X.222" "GLY" "X" 16 "-" 15.22 4.93 20.14
+"5mub_AB-AX_A-5mub_AB-AX_X.223" "LEU" "X" 17 "-" 29.42 3.02 32.44
+"5mub_AB-AX_A-5mub_AB-AX_X.224" "THR" "X" 18 "-" 66.81 37.46 104.27
+"5mub_AB-AX_A-5mub_AB-AX_X.225" "GLY" "X" 19 "-" 10.64 1.96 12.6

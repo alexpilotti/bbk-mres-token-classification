@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3g6j_FE-EB_B-3g6j_FE-EB_E.169" "PHE" "B" 898 "-" 115.53 1.1 116.62
+"3g6j_FE-EB_B-3g6j_FE-EB_E.949" "LEU" "E" 46 "-" 3.68 0 3.68
+"3g6j_FE-EB_B-3g6j_FE-EB_E.952" "TYR" "E" 49 "-" 19.41 13.87 33.28
+"3g6j_FE-EB_B-3g6j_FE-EB_E.958" "TYR" "E" 55 "-" 13.74 5.16 18.9
+"3g6j_FE-EB_B-3g6j_FE-EB_E.959" "SER" "E" 56 "-" 0.35 0.03 0.38

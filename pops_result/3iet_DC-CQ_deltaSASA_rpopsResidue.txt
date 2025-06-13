@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3iet_DC-CQ_C-3iet_DC-CQ_Q.30" "VAL" "C" 27 "C" 0 0.16 0.16
+"3iet_DC-CQ_C-3iet_DC-CQ_Q.31" "HIS" "C" 27 "D" 15.92 12.89 28.81
+"3iet_DC-CQ_C-3iet_DC-CQ_Q.32" "SER" "C" 27 "E" 1.6 1.92 3.52
+"3iet_DC-CQ_C-3iet_DC-CQ_Q.33" "ASN" "C" 28 "-" 0.93 4.6 5.52
+"3iet_DC-CQ_C-3iet_DC-CQ_Q.37" "TYR" "C" 32 "-" 1.19 2.09 3.27
+"3iet_DC-CQ_C-3iet_DC-CQ_Q.96" "SER" "C" 91 "-" 0 0.44 0.45
+"3iet_DC-CQ_C-3iet_DC-CQ_Q.97" "THR" "C" 92 "-" 2.06 6.9 8.96
+"3iet_DC-CQ_C-3iet_DC-CQ_Q.98" "HIS" "C" 93 "-" 12.73 6.88 19.6
+"3iet_DC-CQ_C-3iet_DC-CQ_Q.99" "VAL" "C" 94 "-" 12.08 1.34 13.42
+"3iet_DC-CQ_C-3iet_DC-CQ_Q.218" "GLY" "Q" 212 "-" 43.89 46.16 90.06
+"3iet_DC-CQ_C-3iet_DC-CQ_Q.219" "THR" "Q" 213 "-" 49.51 33.87 83.39
+"3iet_DC-CQ_C-3iet_DC-CQ_Q.220" "LYS" "Q" 214 "-" 1.17 0.54 1.71
+"3iet_DC-CQ_C-3iet_DC-CQ_Q.221" "PRO" "Q" 215 "-" 32.67 0.16 32.83

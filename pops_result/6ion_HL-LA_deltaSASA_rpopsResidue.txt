@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6ion_HL-LA_L-6ion_HL-LA_A.48" "LYS" "L" 49 "-" 3.06 9.32 12.38
+"6ion_HL-LA_L-6ion_HL-LA_A.49" "TYR" "L" 50 "-" 11.4 18.45 29.84
+"6ion_HL-LA_L-6ion_HL-LA_A.93" "TRP" "L" 94 "-" 64.03 6.07 70.1
+"6ion_HL-LA_L-6ion_HL-LA_A.94" "PRO" "L" 95 "-" 15.06 0.08 15.14
+"6ion_HL-LA_L-6ion_HL-LA_A.275" "ARG" "A" 62 "-" 0.73 0 0.73
+"6ion_HL-LA_L-6ion_HL-LA_A.276" "GLY" "A" 63 "-" 11.8 15.92 27.73
+"6ion_HL-LA_L-6ion_HL-LA_A.277" "LEU" "A" 64 "-" 2.95 3.16 6.11
+"6ion_HL-LA_L-6ion_HL-LA_A.278" "ASP" "A" 65 "-" 17.78 12.43 30.21
+"6ion_HL-LA_L-6ion_HL-LA_A.282" "LEU" "A" 69 "-" 0.01 0.02 0.03
+"6ion_HL-LA_L-6ion_HL-LA_A.283" "LEU" "A" 70 "-" 22.21 0.05 22.25
+"6ion_HL-LA_L-6ion_HL-LA_A.284" "ALA" "A" 71 "-" 0.1 0.67 0.76
+"6ion_HL-LA_L-6ion_HL-LA_A.285" "PHE" "A" 72 "-" 15.33 0 15.33
+"6ion_HL-LA_L-6ion_HL-LA_A.334" "ASP" "A" 136 "-" 1.76 5.83 7.59
+"6ion_HL-LA_L-6ion_HL-LA_A.335" "HIS" "A" 137 "-" 24.04 12.4 36.44
+"6ion_HL-LA_L-6ion_HL-LA_A.363" "GLN" "A" 165 "-" 0 0.32 0.32

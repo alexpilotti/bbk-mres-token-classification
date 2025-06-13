@@ -1,0 +1,27 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.31" "GLU" "Y" 31 "-" 3.29 12.94 16.23
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.33" "ASP" "Y" 33 "-" 0.1 1.49 1.59
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.35" "ASN" "Y" 35 "-" 0 0.48 0.47
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.37" "TYR" "Y" 37 "-" 31.51 6.97 38.48
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.39" "ASN" "Y" 39 "-" 0.56 10.63 11.2
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.51" "LEU" "Y" 51 "-" 4.03 0 4.04
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.54" "TYR" "Y" 54 "-" 23.96 8.68 32.64
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.55" "SER" "Y" 55 "-" 3.43 5.47 8.9
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.58" "ASN" "Y" 58 "-" 0.01 0 0.01
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.60" "GLU" "Y" 60 "-" 0.94 3.52 4.46
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.94" "MET" "Y" 94 "-" 1.23 0 1.23
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.95" "GLN" "Y" 95 "-" 0.01 0.01 0.01
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.96" "THR" "Y" 96 "-" 23.88 17.88 41.75
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.97" "THR" "Y" 97 "-" 1.45 7.07 8.52
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.98" "HIS" "Y" 98 "-" 4.24 2.9 7.12
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.99" "ALA" "Y" 99 "-" 34.73 5.35 40.08
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.100" "PRO" "Y" 100 "-" 34.51 0.65 35.15
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.211" "GLN" "x" 412 "-" 49.53 56.85 106.37
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.212" "LEU" "x" 413 "-" 79.44 16.89 96.33
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.213" "ILE" "x" 414 "-" 19.81 4.35 24.16
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.214" "ASN" "x" 415 "-" 21.75 36.45 58.2
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.215" "THR" "x" 416 "-" 0 0.26 0.26
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.216" "ASN" "x" 417 "-" 0.31 0.18 0.49
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.217" "GLY" "x" 418 "-" 1.64 0.09 1.73
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.218" "SER" "x" 419 "-" 1.21 1.01 2.22
+"4wht_XY-Yx_Y-4wht_XY-Yx_x.219" "TRP" "x" 420 "-" 55.33 4.02 59.35

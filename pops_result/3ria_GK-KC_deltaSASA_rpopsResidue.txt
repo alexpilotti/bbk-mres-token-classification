@@ -1,0 +1,26 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3ria_GK-KC_C-3ria_GK-KC_K.22" "THR" "C" 22 "-" 0.16 0 0.16
+"3ria_GK-KC_C-3ria_GK-KC_K.24" "ASN" "C" 24 "-" 11.71 11.67 23.37
+"3ria_GK-KC_C-3ria_GK-KC_K.25" "GLY" "C" 25 "-" 0.52 2.32 2.83
+"3ria_GK-KC_C-3ria_GK-KC_K.26" "GLY" "C" 26 "-" 4.49 0.28 4.76
+"3ria_GK-KC_C-3ria_GK-KC_K.27" "PRO" "C" 27 "-" 15.14 1.35 16.49
+"3ria_GK-KC_C-3ria_GK-KC_K.29" "VAL" "C" 29 "-" 14.63 0.05 14.68
+"3ria_GK-KC_C-3ria_GK-KC_K.155" "THR" "C" 155 "-" 14.65 9.44 24.09
+"3ria_GK-KC_C-3ria_GK-KC_K.156" "LYS" "C" 156 "-" 13.55 1.15 14.7
+"3ria_GK-KC_C-3ria_GK-KC_K.159" "GLU" "C" 159 "-" 10.73 17.76 28.49
+"3ria_GK-KC_C-3ria_GK-KC_K.160" "TYR" "C" 160 "-" 0 0.08 0.07
+"3ria_GK-KC_C-3ria_GK-KC_K.161" "LEU" "C" 161 "-" 26.95 0 26.95
+"3ria_GK-KC_C-3ria_GK-KC_K.190" "TYR" "C" 190 "-" 12.69 1.9 14.58
+"3ria_GK-KC_C-3ria_GK-KC_K.199" "ILE" "C" 199 "-" 16.74 0 16.74
+"3ria_GK-KC_C-3ria_GK-KC_K.365" "THR" "K" 26 "-" 7.07 6.6 13.67
+"3ria_GK-KC_C-3ria_GK-KC_K.366" "GLY" "K" 27 "-" 0.08 0.06 0.14
+"3ria_GK-KC_C-3ria_GK-KC_K.367" "ALA" "K" 28 "-" 0 0.07 0.06
+"3ria_GK-KC_C-3ria_GK-KC_K.369" "THR" "K" 30 "-" 0 0.05 0.05
+"3ria_GK-KC_C-3ria_GK-KC_K.370" "THR" "K" 31 "-" 8.47 8.24 16.71
+"3ria_GK-KC_C-3ria_GK-KC_K.371" "ILE" "K" 32 "-" 67.21 0.27 67.48
+"3ria_GK-KC_C-3ria_GK-KC_K.373" "PHE" "K" 34 "-" 9.49 0 9.48
+"3ria_GK-KC_C-3ria_GK-KC_K.392" "ILE" "K" 53 "-" 48.84 0 48.84
+"3ria_GK-KC_C-3ria_GK-KC_K.432" "TRP" "K" 93 "-" 6.58 0.86 7.43
+"3ria_GK-KC_C-3ria_GK-KC_K.433" "TYR" "K" 94 "-" 0.37 0 0.36
+"3ria_GK-KC_C-3ria_GK-KC_K.434" "SER" "K" 95 "-" 19.39 25.21 44.6
+"3ria_GK-KC_C-3ria_GK-KC_K.435" "ASN" "K" 96 "-" 6.33 3.42 9.75

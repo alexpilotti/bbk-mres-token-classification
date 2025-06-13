@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7amp_HL-LB_B-7amp_HL-LB_L.221" "GLU" "B" 223 "-" 28.79 47.19 75.98
+"7amp_HL-LB_B-7amp_HL-LB_L.222" "TRP" "B" 224 "-" 0.76 6.05 6.8
+"7amp_HL-LB_B-7amp_HL-LB_L.223" "THR" "B" 225 "-" 58.34 12.38 70.72
+"7amp_HL-LB_B-7amp_HL-LB_L.224" "GLN" "B" 226 "-" 0.23 1.53 1.77
+"7amp_HL-LB_B-7amp_HL-LB_L.225" "ASP" "B" 227 "-" 24.85 52.7 77.55
+"7amp_HL-LB_B-7amp_HL-LB_L.276" "ASN" "L" 33 "-" 0.02 0.54 0.56
+"7amp_HL-LB_B-7amp_HL-LB_L.278" "ASN" "L" 35 "-" 0.81 7.43 8.24
+"7amp_HL-LB_B-7amp_HL-LB_L.280" "TYR" "L" 37 "-" 6.83 7.76 14.6
+"7amp_HL-LB_B-7amp_HL-LB_L.297" "TYR" "L" 54 "-" 9.57 18.5 28.07
+"7amp_HL-LB_B-7amp_HL-LB_L.298" "ARG" "L" 55 "-" 2.64 10.89 13.53
+"7amp_HL-LB_B-7amp_HL-LB_L.302" "ARG" "L" 59 "-" 0 1.08 1.08
+"7amp_HL-LB_B-7amp_HL-LB_L.303" "PHE" "L" 60 "-" 6.91 0.22 7.12
+"7amp_HL-LB_B-7amp_HL-LB_L.304" "PRO" "L" 61 "-" 37.29 0.19 37.48
+"7amp_HL-LB_B-7amp_HL-LB_L.305" "GLY" "L" 62 "-" 0.15 1.39 1.54

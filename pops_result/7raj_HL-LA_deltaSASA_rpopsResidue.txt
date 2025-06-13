@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7raj_HL-LA_L-7raj_HL-LA_A.30" "PHE" "L" 27 "C" 0.04 0.28 0.32
+"7raj_HL-LA_L-7raj_HL-LA_A.31" "PHE" "L" 27 "D" 29.99 0.09 30.08
+"7raj_HL-LA_L-7raj_HL-LA_A.33" "SER" "L" 27 "F" 0.03 0 0.03
+"7raj_HL-LA_L-7raj_HL-LA_A.34" "ASN" "L" 28 "-" 0.67 1.93 2.6
+"7raj_HL-LA_L-7raj_HL-LA_A.38" "TYR" "L" 32 "-" 6.98 4.57 11.56
+"7raj_HL-LA_L-7raj_HL-LA_A.56" "TRP" "L" 50 "-" 7.64 0 7.64
+"7raj_HL-LA_L-7raj_HL-LA_A.95" "HIS" "L" 89 "-" 0.41 0.02 0.42
+"7raj_HL-LA_L-7raj_HL-LA_A.97" "TYR" "L" 91 "-" 8.26 3.03 11.3
+"7raj_HL-LA_L-7raj_HL-LA_A.98" "TYR" "L" 92 "-" 17.63 33 50.64
+"7raj_HL-LA_L-7raj_HL-LA_A.99" "SER" "L" 93 "-" 10.47 1.76 12.23
+"7raj_HL-LA_L-7raj_HL-LA_A.100" "SER" "L" 94 "-" 17.29 19.44 36.74
+"7raj_HL-LA_L-7raj_HL-LA_A.101" "PRO" "L" 95 "-" 0.06 0 0.06
+"7raj_HL-LA_L-7raj_HL-LA_A.102" "LEU" "L" 96 "-" 29.16 0.12 29.28
+"7raj_HL-LA_L-7raj_HL-LA_A.218" "ASN" "A" 1 "-" 33.67 44.38 78.05
+"7raj_HL-LA_L-7raj_HL-LA_A.219" "PRO" "A" 2 "-" 112.26 4.31 116.57
+"7raj_HL-LA_L-7raj_HL-LA_A.220" "ASP" "A" 3 "-" 12.12 12.87 25
+"7raj_HL-LA_L-7raj_HL-LA_A.221" "PRO" "A" 4 "-" 0.03 0.02 0.05
+"7raj_HL-LA_L-7raj_HL-LA_A.222" "ASN" "A" 5 "-" 0.14 1.32 1.47
+"7raj_HL-LA_L-7raj_HL-LA_A.223" "ALA" "A" 6 "-" 35.22 13.64 48.85
+"7raj_HL-LA_L-7raj_HL-LA_A.224" "ASN" "A" 7 "-" 8.87 12.23 21.1
+"7raj_HL-LA_L-7raj_HL-LA_A.227" "VAL" "A" 10 "-" 52.79 0 52.79
+"7raj_HL-LA_L-7raj_HL-LA_A.228" "ASP" "A" 11 "-" 0.29 1.68 1.97
+"7raj_HL-LA_L-7raj_HL-LA_A.229" "PRO" "A" 12 "-" 15.57 2.75 18.32
+"7raj_HL-LA_L-7raj_HL-LA_A.230" "ASN" "A" 13 "-" 0 0.33 0.32

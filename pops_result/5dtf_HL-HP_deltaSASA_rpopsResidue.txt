@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5dtf_HL-HP_H-5dtf_HL-HP_P.94" "TRP" "H" 97 "-" 0.03 0 0.03
+"5dtf_HL-HP_H-5dtf_HL-HP_P.95" "ASP" "H" 98 "-" 0.07 0.53 0.61
+"5dtf_HL-HP_H-5dtf_HL-HP_P.96" "ALA" "H" 99 "-" 41.16 23.11 64.29
+"5dtf_HL-HP_H-5dtf_HL-HP_P.97" "SER" "H" 100 "-" 9.08 2.46 11.54
+"5dtf_HL-HP_H-5dtf_HL-HP_P.208" "GLY" "P" 3 "-" 8.63 16.82 25.44
+"5dtf_HL-HP_H-5dtf_HL-HP_P.209" "GLY" "P" 5 "-" 19.64 18.05 37.69
+"5dtf_HL-HP_H-5dtf_HL-HP_P.210" "ALA" "P" 6 "-" 21.47 23.93 45.4

@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"1tzg_IM-MQ_M-1tzg_IM-MQ_Q.31" "ASN" "M" 30 "-" 0.66 4.41 5.07
+"1tzg_IM-MQ_M-1tzg_IM-MQ_Q.33" "LYS" "M" 32 "-" 12.72 9.88 22.61
+"1tzg_IM-MQ_M-1tzg_IM-MQ_Q.90" "GLN" "M" 89 "-" 0.02 2.11 2.14
+"1tzg_IM-MQ_M-1tzg_IM-MQ_Q.91" "GLN" "M" 90 "-" 0.01 0.15 0.16
+"1tzg_IM-MQ_M-1tzg_IM-MQ_Q.92" "TYR" "M" 91 "-" 13.51 5.22 18.74
+"1tzg_IM-MQ_M-1tzg_IM-MQ_Q.93" "GLY" "M" 92 "-" 2.32 6.53 8.84
+"1tzg_IM-MQ_M-1tzg_IM-MQ_Q.94" "GLN" "M" 93 "-" 9.25 4.9 14.15
+"1tzg_IM-MQ_M-1tzg_IM-MQ_Q.95" "SER" "M" 94 "-" 40.56 46.88 87.44
+"1tzg_IM-MQ_M-1tzg_IM-MQ_Q.96" "LEU" "M" 95 "-" 0.79 0.77 1.56
+"1tzg_IM-MQ_M-1tzg_IM-MQ_Q.97" "SER" "M" 96 "-" 8.54 3.04 11.58
+"1tzg_IM-MQ_M-1tzg_IM-MQ_Q.216" "TRP" "Q" 670 "-" 0.83 4.23 5.05
+"1tzg_IM-MQ_M-1tzg_IM-MQ_Q.217" "ASN" "Q" 671 "-" 10.21 22.39 32.6
+"1tzg_IM-MQ_M-1tzg_IM-MQ_Q.218" "TRP" "Q" 672 "-" 9.41 0.94 10.35
+"1tzg_IM-MQ_M-1tzg_IM-MQ_Q.219" "PHE" "Q" 673 "-" 58.27 1 59.27
+"1tzg_IM-MQ_M-1tzg_IM-MQ_Q.220" "ASP" "Q" 674 "-" 4.19 16.04 20.23

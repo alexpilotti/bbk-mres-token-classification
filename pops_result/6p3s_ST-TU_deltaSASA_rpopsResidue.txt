@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6p3s_ST-TU_T-6p3s_ST-TU_U.48" "TYR" "TRUE" 49 "-" 40.47 10.5 50.96
+"6p3s_ST-TU_T-6p3s_ST-TU_U.49" "ALA" "TRUE" 50 "-" 2.43 0 2.43
+"6p3s_ST-TU_T-6p3s_ST-TU_U.51" "SER" "TRUE" 52 "-" 0 0.61 0.61
+"6p3s_ST-TU_T-6p3s_ST-TU_U.52" "ASN" "TRUE" 53 "-" 11.93 0.8 12.73
+"6p3s_ST-TU_T-6p3s_ST-TU_U.53" "LEU" "TRUE" 54 "-" 0.55 4.94 5.49
+"6p3s_ST-TU_T-6p3s_ST-TU_U.54" "GLN" "TRUE" 55 "-" 11.12 32.4 43.52
+"6p3s_ST-TU_T-6p3s_ST-TU_U.55" "SER" "TRUE" 56 "-" 4.64 0.64 5.27
+"6p3s_ST-TU_T-6p3s_ST-TU_U.66" "SER" "TRUE" 67 "-" 0.69 0 0.69
+"6p3s_ST-TU_T-6p3s_ST-TU_U.237" "ASN" "U" 93 "-" 0.75 0 0.75
+"6p3s_ST-TU_T-6p3s_ST-TU_U.369" "ARG" "U" 225 "-" 0.17 0.54 0.71
+"6p3s_ST-TU_T-6p3s_ST-TU_U.370" "SER" "U" 226 "-" 48.3 4.25 52.55
+"6p3s_ST-TU_T-6p3s_ST-TU_U.371" "LYS" "U" 227 "-" 14.39 24.61 39
+"6p3s_ST-TU_T-6p3s_ST-TU_U.372" "VAL" "U" 228 "-" 13.83 0.72 14.55
+"6p3s_ST-TU_T-6p3s_ST-TU_U.373" "ASN" "U" 229 "-" 4.7 2.67 7.37
+"6p3s_ST-TU_T-6p3s_ST-TU_U.374" "GLY" "U" 230 "-" 0 0.17 0.18
+"6p3s_ST-TU_T-6p3s_ST-TU_U.378" "ARG" "U" 234 "-" 0.23 8.42 8.64

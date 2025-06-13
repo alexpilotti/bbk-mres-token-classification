@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4jzn_IP-PK_K-4jzn_IP-PK_P.1" "THR" "K" 435 "-" 0 0.41 0.41
+"4jzn_IP-PK_K-4jzn_IP-PK_P.5" "ALA" "K" 439 "-" 2.59 0.08 2.67
+"4jzn_IP-PK_K-4jzn_IP-PK_P.8" "PHE" "K" 442 "-" 31.13 9.53 40.66
+"4jzn_IP-PK_K-4jzn_IP-PK_P.9" "TYR" "K" 443 "-" 61.59 28.45 90.04
+"4jzn_IP-PK_K-4jzn_IP-PK_P.10" "GLN" "K" 444 "-" 0 0.74 0.73
+"4jzn_IP-PK_K-4jzn_IP-PK_P.11" "HIS" "K" 445 "-" 0.77 0 0.77
+"4jzn_IP-PK_K-4jzn_IP-PK_P.12" "LYS" "K" 446 "-" 135.74 51.16 186.88
+"4jzn_IP-PK_K-4jzn_IP-PK_P.40" "ILE" "P" 27 "-" 0.01 0.19 0.2
+"4jzn_IP-PK_K-4jzn_IP-PK_P.41" "GLY" "P" 28 "-" 1.36 6.7 8.06
+"4jzn_IP-PK_K-4jzn_IP-PK_P.42" "SER" "P" 29 "-" 4.25 14.42 18.67
+"4jzn_IP-PK_K-4jzn_IP-PK_P.43" "LYS" "P" 30 "-" 2.74 3.56 6.29
+"4jzn_IP-PK_K-4jzn_IP-PK_P.44" "SER" "P" 31 "-" 7.59 13.57 21.16
+"4jzn_IP-PK_K-4jzn_IP-PK_P.45" "VAL" "P" 32 "-" 0.03 0.04 0.07
+"4jzn_IP-PK_K-4jzn_IP-PK_P.62" "ASP" "P" 49 "-" 0.01 0 0.02
+"4jzn_IP-PK_K-4jzn_IP-PK_P.63" "ASP" "P" 50 "-" 1.84 7.69 9.53
+"4jzn_IP-PK_K-4jzn_IP-PK_P.78" "ASN" "P" 65 "-" 0.78 2.86 3.64
+"4jzn_IP-PK_K-4jzn_IP-PK_P.103" "TRP" "P" 90 "-" 57.37 7.51 64.89
+"4jzn_IP-PK_K-4jzn_IP-PK_P.104" "ASP" "P" 91 "-" 0.89 0.68 1.58
+"4jzn_IP-PK_K-4jzn_IP-PK_P.105" "SER" "P" 92 "-" 3.68 1.66 5.34
+"4jzn_IP-PK_K-4jzn_IP-PK_P.106" "SER" "P" 93 "-" 17.19 3.67 20.86
+"4jzn_IP-PK_K-4jzn_IP-PK_P.107" "SER" "P" 94 "-" 0.06 0.27 0.33

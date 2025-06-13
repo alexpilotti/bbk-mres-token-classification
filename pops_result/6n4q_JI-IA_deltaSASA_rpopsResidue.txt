@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6n4q_JI-IA_A-6n4q_JI-IA_I.158" "GLY" "A" 877 "-" 0.08 1.3 1.38
+"6n4q_JI-IA_A-6n4q_JI-IA_I.159" "GLU" "A" 878 "-" 30.53 24.54 55.08
+"6n4q_JI-IA_A-6n4q_JI-IA_I.160" "ARG" "A" 879 "-" 16.31 46.38 62.69
+"6n4q_JI-IA_A-6n4q_JI-IA_I.162" "PRO" "A" 881 "-" 0.05 0 0.04
+"6n4q_JI-IA_A-6n4q_JI-IA_I.195" "VAL" "A" 914 "-" 0 0.08 0.08
+"6n4q_JI-IA_A-6n4q_JI-IA_I.196" "TYR" "A" 915 "-" 0 0.2 0.2
+"6n4q_JI-IA_A-6n4q_JI-IA_I.293" "SER" "I" 32 "-" 0.24 0.11 0.35
+"6n4q_JI-IA_A-6n4q_JI-IA_I.294" "ASN" "I" 33 "-" 1.76 1.74 3.5
+"6n4q_JI-IA_A-6n4q_JI-IA_I.296" "PHE" "I" 35 "-" 0.47 0 0.48
+"6n4q_JI-IA_A-6n4q_JI-IA_I.353" "TRP" "I" 92 "-" 33.38 0.05 33.43
+"6n4q_JI-IA_A-6n4q_JI-IA_I.354" "SER" "I" 93 "-" 0 0.22 0.21
+"6n4q_JI-IA_A-6n4q_JI-IA_I.355" "SER" "I" 94 "-" 0.82 1.41 2.23
+"6n4q_JI-IA_A-6n4q_JI-IA_I.356" "HIS" "I" 95 "-" 15.9 9.37 25.27

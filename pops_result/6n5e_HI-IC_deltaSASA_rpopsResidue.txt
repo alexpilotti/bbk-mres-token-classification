@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6n5e_HI-IC_C-6n5e_HI-IC_I.180" "GLY" "C" 218 "-" 0.2 0.01 0.22
+"6n5e_HI-IC_C-6n5e_HI-IC_I.181" "SER" "C" 219 "-" 12.36 31.75 44.12
+"6n5e_HI-IC_C-6n5e_HI-IC_I.182" "ARG" "C" 220 "-" 9.15 5.41 14.58
+"6n5e_HI-IC_C-6n5e_HI-IC_I.183" "PRO" "C" 221 "-" 72.29 1.68 73.97
+"6n5e_HI-IC_C-6n5e_HI-IC_I.184" "TRP" "C" 222 "-" 62.98 8.24 71.22
+"6n5e_HI-IC_C-6n5e_HI-IC_I.189" "SER" "C" 227 "-" 0.57 2.35 2.92
+"6n5e_HI-IC_C-6n5e_HI-IC_I.309" "SER" "I" 32 "-" 0 0.2 0.2
+"6n5e_HI-IC_C-6n5e_HI-IC_I.310" "ASN" "I" 33 "-" 0 0.03 0.03
+"6n5e_HI-IC_C-6n5e_HI-IC_I.311" "TYR" "I" 34 "-" 21.14 18.97 40.11
+"6n5e_HI-IC_C-6n5e_HI-IC_I.313" "ASN" "I" 36 "-" 0 0.09 0.09
+"6n5e_HI-IC_C-6n5e_HI-IC_I.370" "TRP" "I" 93 "-" 33.01 3.99 36.99
+"6n5e_HI-IC_C-6n5e_HI-IC_I.371" "PHE" "I" 94 "-" 0.02 0 0.02
+"6n5e_HI-IC_C-6n5e_HI-IC_I.372" "SER" "I" 95 "-" 15.46 13.22 28.68
+"6n5e_HI-IC_C-6n5e_HI-IC_I.373" "ASN" "I" 96 "-" 0 0.11 0.11
+"6n5e_HI-IC_C-6n5e_HI-IC_I.375" "TRP" "I" 98 "-" 19.21 4.76 23.97

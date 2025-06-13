@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2w65_AB-BE_B-2w65_AB-BE_E.31" "ASP" "B" 31 "-" 0.19 1.77 1.96
+"2w65_AB-BE_B-2w65_AB-BE_E.33" "ASP" "B" 33 "-" 0 0.38 0.38
+"2w65_AB-BE_B-2w65_AB-BE_E.37" "TYR" "B" 37 "-" 14.97 3.31 18.28
+"2w65_AB-BE_B-2w65_AB-BE_E.96" "GLY" "B" 96 "-" 2.57 6.26 8.83
+"2w65_AB-BE_B-2w65_AB-BE_E.97" "THR" "B" 97 "-" 0.19 0.43 0.62
+"2w65_AB-BE_B-2w65_AB-BE_E.98" "HIS" "B" 98 "-" 0.34 0.52 0.86
+"2w65_AB-BE_B-2w65_AB-BE_E.99" "PHE" "B" 99 "-" 43.31 0.82 44.12
+"2w65_AB-BE_B-2w65_AB-BE_E.100" "PRO" "B" 100 "-" 0.39 0.04 0.43
+"2w65_AB-BE_B-2w65_AB-BE_E.101" "LEU" "B" 101 "-" 20.24 0.25 20.49
+"2w65_AB-BE_B-2w65_AB-BE_E.220" "LEU" "E" 4 "-" 56.46 7.6 64.06
+"2w65_AB-BE_B-2w65_AB-BE_E.221" "THR" "E" 5 "-" 64.92 11.3 76.22
+"2w65_AB-BE_B-2w65_AB-BE_E.223" "ARG" "E" 7 "-" 28.57 73.56 102.13

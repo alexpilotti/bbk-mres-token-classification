@@ -1,0 +1,10 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6p50_HL-LC_C-6p50_HL-LC_L.39" "VAL" "C" 58 "-" 0.18 1.94 2.12
+"6p50_HL-LC_C-6p50_HL-LC_L.40" "GLU" "C" 59 "-" 8.16 11.2 19.35
+"6p50_HL-LC_C-6p50_HL-LC_L.41" "VAL" "C" 60 "-" 4.19 0.33 4.52
+"6p50_HL-LC_C-6p50_HL-LC_L.42" "LYS" "C" 61 "-" 78.36 14.39 92.75
+"6p50_HL-LC_C-6p50_HL-LC_L.120" "LYS" "L" 30 "-" 20.21 2.88 23.09
+"6p50_HL-LC_C-6p50_HL-LC_L.122" "TYR" "L" 32 "-" 11.08 22.68 33.75
+"6p50_HL-LC_C-6p50_HL-LC_L.181" "TYR" "L" 91 "-" 1.17 2.42 3.6
+"6p50_HL-LC_C-6p50_HL-LC_L.182" "ASP" "L" 92 "-" 1.17 4.45 5.62
+"6p50_HL-LC_C-6p50_HL-LC_L.183" "ASN" "L" 93 "-" 0 0.05 0.04

@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7jvc_CD-DB_B-7jvc_CD-DB_D.280" "ALA" "B" 372 "-" 0.05 2.41 2.46
+"7jvc_CD-DB_B-7jvc_CD-DB_D.281" "SER" "B" 373 "-" 0.11 0.42 0.53
+"7jvc_CD-DB_B-7jvc_CD-DB_D.282" "PHE" "B" 374 "-" 0.2 2.61 2.8
+"7jvc_CD-DB_B-7jvc_CD-DB_D.283" "SER" "B" 375 "-" 7.78 14.31 22.1
+"7jvc_CD-DB_B-7jvc_CD-DB_D.284" "THR" "B" 376 "-" 6.19 0.54 6.74
+"7jvc_CD-DB_B-7jvc_CD-DB_D.285" "PHE" "B" 377 "-" 3.31 10.63 13.94
+"7jvc_CD-DB_B-7jvc_CD-DB_D.286" "LYS" "B" 378 "-" 10.38 0.29 10.69
+"7jvc_CD-DB_B-7jvc_CD-DB_D.288" "TYR" "B" 380 "-" 0.19 1.18 1.36
+"7jvc_CD-DB_B-7jvc_CD-DB_D.291" "SER" "B" 383 "-" 1.12 0 1.12
+"7jvc_CD-DB_B-7jvc_CD-DB_D.315" "VAL" "B" 407 "-" 0.84 0 0.84
+"7jvc_CD-DB_B-7jvc_CD-DB_D.316" "ARG" "B" 408 "-" 3.73 0.24 3.98
+"7jvc_CD-DB_B-7jvc_CD-DB_D.341" "VAL" "B" 433 "-" 0 0.02 0.01
+"7jvc_CD-DB_B-7jvc_CD-DB_D.1018" "SER" "D" 28 "-" 1.99 0 1.99
+"7jvc_CD-DB_B-7jvc_CD-DB_D.1020" "ALA" "D" 30 "-" 0.78 3.87 4.65
+"7jvc_CD-DB_B-7jvc_CD-DB_D.1021" "SER" "D" 31 "-" 22.05 27.94 49.99
+"7jvc_CD-DB_B-7jvc_CD-DB_D.1022" "ASN" "D" 32 "-" 8.69 2.62 11.31
+"7jvc_CD-DB_B-7jvc_CD-DB_D.1023" "TYR" "D" 33 "-" 1.13 2.05 3.19
+"7jvc_CD-DB_B-7jvc_CD-DB_D.1041" "GLU" "D" 51 "-" 1.36 0 1.37
+"7jvc_CD-DB_B-7jvc_CD-DB_D.1059" "SER" "D" 69 "-" 1.32 0.05 1.36
+"7jvc_CD-DB_B-7jvc_CD-DB_D.1084" "TYR" "D" 94 "-" 0.03 0.8 0.83
+"7jvc_CD-DB_B-7jvc_CD-DB_D.1085" "ASP" "D" 95 "-" 0.59 0.08 0.67
+"7jvc_CD-DB_B-7jvc_CD-DB_D.1086" "SER" "D" 96 "-" 30.62 1.09 31.72

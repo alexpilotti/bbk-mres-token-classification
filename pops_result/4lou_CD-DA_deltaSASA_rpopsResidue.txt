@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4lou_CD-DA_A-4lou_CD-DA_D.364" "PRO" "A" 380 "-" 32.61 2.77 35.38
+"4lou_CD-DA_A-4lou_CD-DA_D.365" "GLN" "A" 381 "-" 21.12 9.48 30.6
+"4lou_CD-DA_A-4lou_CD-DA_D.367" "HIS" "A" 383 "-" 25.5 17.1 42.6
+"4lou_CD-DA_A-4lou_CD-DA_D.534" "TRP" "D" 90 "-" 23.41 4.46 27.86
+"4lou_CD-DA_A-4lou_CD-DA_D.535" "SER" "D" 91 "-" 1.32 8.02 9.34
+"4lou_CD-DA_A-4lou_CD-DA_D.536" "SER" "D" 92 "-" 1.63 0.74 2.37
+"4lou_CD-DA_A-4lou_CD-DA_D.537" "HIS" "D" 93 "-" 34.89 12.51 47.4

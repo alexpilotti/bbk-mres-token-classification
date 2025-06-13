@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8hgm_CD-DB_B-8hgm_CD-DB_D.145" "THR" "B" 478 "-" 23.9 5.16 29.06
+"8hgm_CD-DB_B-8hgm_CD-DB_D.146" "PRO" "B" 479 "-" 0.3 0.49 0.79
+"8hgm_CD-DB_B-8hgm_CD-DB_D.147" "CYS" "B" 480 "-" 0.04 0 0.04
+"8hgm_CD-DB_B-8hgm_CD-DB_D.150" "VAL" "B" 483 "-" 0.05 0 0.04
+"8hgm_CD-DB_B-8hgm_CD-DB_D.152" "GLY" "B" 485 "-" 0.03 0 0.02
+"8hgm_CD-DB_B-8hgm_CD-DB_D.153" "PHE" "B" 486 "-" 59.23 3.46 62.69
+"8hgm_CD-DB_B-8hgm_CD-DB_D.154" "ASN" "B" 487 "-" 0.42 0.08 0.5
+"8hgm_CD-DB_B-8hgm_CD-DB_D.155" "CYS" "B" 488 "-" 0.55 0 0.54
+"8hgm_CD-DB_B-8hgm_CD-DB_D.226" "ASN" "D" 32 "-" 3.48 8.94 12.43
+"8hgm_CD-DB_B-8hgm_CD-DB_D.227" "TYR" "D" 33 "-" 16.44 20.72 37.16
+"8hgm_CD-DB_B-8hgm_CD-DB_D.286" "TYR" "D" 92 "-" 7.74 2.7 10.43
+"8hgm_CD-DB_B-8hgm_CD-DB_D.291" "TRP" "D" 97 "-" 15.98 0 15.97

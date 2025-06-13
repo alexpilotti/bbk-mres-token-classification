@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8ath_EF-FB_B-8ath_EF-FB_F.76" "THR" "B" 109 "-" 5.53 0 5.52
+"8ath_EF-FB_B-8ath_EF-FB_F.117" "ASP" "B" 150 "-" 0.39 0.81 1.2
+"8ath_EF-FB_B-8ath_EF-FB_F.118" "LYS" "B" 151 "-" 7.11 16.65 23.76
+"8ath_EF-FB_B-8ath_EF-FB_F.152" "SER" "B" 185 "-" 0.04 0 0.04
+"8ath_EF-FB_B-8ath_EF-FB_F.153" "ARG" "B" 186 "-" 45.02 111.12 156.14
+"8ath_EF-FB_B-8ath_EF-FB_F.154" "GLY" "B" 187 "-" 3.38 1.06 4.45
+"8ath_EF-FB_B-8ath_EF-FB_F.155" "GLU" "B" 188 "-" 0 0.04 0.03
+"8ath_EF-FB_B-8ath_EF-FB_F.191" "ILE" "FALSE" 29 "-" 0 0.03 0.04
+"8ath_EF-FB_B-8ath_EF-FB_F.192" "ASP" "FALSE" 30 "-" 3.4 11.73 15.13
+"8ath_EF-FB_B-8ath_EF-FB_F.193" "ARG" "FALSE" 31 "-" 5.43 0.74 6.16
+"8ath_EF-FB_B-8ath_EF-FB_F.194" "TYR" "FALSE" 32 "-" 18.28 32.04 50.32
+"8ath_EF-FB_B-8ath_EF-FB_F.195" "MET" "FALSE" 33 "-" 0 0.02 0.03
+"8ath_EF-FB_B-8ath_EF-FB_F.212" "ASP" "FALSE" 50 "-" 5.32 21.36 26.67
+"8ath_EF-FB_B-8ath_EF-FB_F.213" "THR" "FALSE" 51 "-" 0 0.02 0.02
+"8ath_EF-FB_B-8ath_EF-FB_F.253" "TYR" "FALSE" 91 "-" 0.1 0.02 0.12
+"8ath_EF-FB_B-8ath_EF-FB_F.254" "ASP" "FALSE" 92 "-" 0.03 1.37 1.4
+"8ath_EF-FB_B-8ath_EF-FB_F.256" "LEU" "FALSE" 94 "-" 6.03 0 6.03

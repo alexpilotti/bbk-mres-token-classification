@@ -1,0 +1,10 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2or9_IM-MP_M-2or9_IM-MP_P.32" "TYR" "M" 28 "-" 4.11 17.37 21.48
+"2or9_IM-MP_M-2or9_IM-MP_P.95" "THR" "M" 91 "-" 0 0.18 0.17
+"2or9_IM-MP_M-2or9_IM-MP_P.96" "LYS" "M" 92 "-" 1.07 9.38 10.44
+"2or9_IM-MP_M-2or9_IM-MP_P.97" "GLU" "M" 93 "-" 10.94 1.67 12.61
+"2or9_IM-MP_M-2or9_IM-MP_P.98" "VAL" "M" 94 "-" 22.82 5.17 28
+"2or9_IM-MP_M-2or9_IM-MP_P.100" "TRP" "M" 96 "-" 0.23 0.18 0.42
+"2or9_IM-MP_M-2or9_IM-MP_P.219" "GLU" "P" 1 "-" 40.99 50.52 91.51
+"2or9_IM-MP_M-2or9_IM-MP_P.220" "GLN" "P" 2 "-" 7.95 10.2 18.15
+"2or9_IM-MP_M-2or9_IM-MP_P.221" "LYS" "P" 3 "-" 5.21 15.99 21.21

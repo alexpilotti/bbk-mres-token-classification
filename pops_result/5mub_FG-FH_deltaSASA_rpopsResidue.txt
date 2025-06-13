@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mub_FG-FH_F-5mub_FG-FH_H.31" "ASP" "FALSE" 31 "-" 4.85 7.86 12.72
+"5mub_FG-FH_F-5mub_FG-FH_H.32" "ALA" "FALSE" 32 "-" 2.1 0.57 2.67
+"5mub_FG-FH_F-5mub_FG-FH_H.33" "TRP" "FALSE" 33 "-" 27.43 2.55 29.99
+"5mub_FG-FH_F-5mub_FG-FH_H.52" "ARG" "FALSE" 52 "-" 0 0.43 0.44
+"5mub_FG-FH_F-5mub_FG-FH_H.53" "ASN" "FALSE" 53 "-" 0.2 2.28 2.48
+"5mub_FG-FH_F-5mub_FG-FH_H.100" "GLY" "FALSE" 100 "-" 0 0.01 0.01
+"5mub_FG-FH_F-5mub_FG-FH_H.101" "LEU" "FALSE" 101 "-" 24.69 3.05 27.74
+"5mub_FG-FH_F-5mub_FG-FH_H.102" "THR" "FALSE" 102 "-" 16.06 9.71 25.77
+"5mub_FG-FH_F-5mub_FG-FH_H.103" "PHE" "FALSE" 103 "-" 10.53 1.99 12.51
+"5mub_FG-FH_F-5mub_FG-FH_H.104" "ASP" "FALSE" 104 "-" 8.33 36.08 44.42
+"5mub_FG-FH_F-5mub_FG-FH_H.218" "GLY" "H" 13 "-" 2.7 9.61 12.31
+"5mub_FG-FH_F-5mub_FG-FH_H.219" "ALA" "H" 14 "-" 67.55 27.22 94.77
+"5mub_FG-FH_F-5mub_FG-FH_H.220" "ARG" "H" 15 "-" 65.08 50.62 115.72
+"5mub_FG-FH_F-5mub_FG-FH_H.221" "GLY" "H" 16 "-" 15.21 4.9 20.11
+"5mub_FG-FH_F-5mub_FG-FH_H.222" "LEU" "H" 17 "-" 29.64 2.88 32.53
+"5mub_FG-FH_F-5mub_FG-FH_H.223" "THR" "H" 18 "-" 69.96 36.33 106.31
+"5mub_FG-FH_F-5mub_FG-FH_H.224" "GLY" "H" 19 "-" 13.27 2.76 16.03

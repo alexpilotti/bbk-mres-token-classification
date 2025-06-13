@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.31" "ASP" "C" 31 "-" 3.71 4 7.7
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.32" "ALA" "C" 32 "-" 1.93 0.6 2.52
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.33" "TRP" "C" 33 "-" 32.39 2.88 35.27
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.34" "MET" "C" 34 "-" 0 0.02 0.02
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.50" "GLU" "C" 50 "-" 0.14 1.72 1.85
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.52" "ARG" "C" 52 "-" 0.12 3.99 4.11
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.53" "ASN" "C" 53 "-" 0.04 1.47 1.52
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.56" "ASN" "C" 56 "-" 0.06 2.16 2.23
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.100" "GLY" "C" 100 "-" 0.01 0.02 0.02
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.101" "LEU" "C" 101 "-" 26.09 3.17 29.26
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.102" "THR" "C" 102 "-" 17.62 11.65 29.27
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.103" "PHE" "C" 103 "-" 9.76 2.72 12.49
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.104" "ASP" "C" 104 "-" 6.7 31.03 37.73
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.222" "GLY" "Q" 13 "-" 3.17 8.04 11.21
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.223" "GLY" "Q" 14 "-" 41.5 33.16 74.66
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.224" "ARG" "Q" 15 "-" 37.03 42.28 79.31
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.225" "GLY" "Q" 16 "-" 17.09 6.28 23.39
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.226" "LEU" "Q" 17 "-" 33.52 3.63 37.15
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.227" "THR" "Q" 18 "-" 60.96 34.6 95.56
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.228" "GLY" "Q" 19 "-" 10.07 2.26 12.33
+"5mu2_CD-CQ_C-5mu2_CD-CQ_Q.229" "PRO" "Q" 20 "-" 34.95 1.09 36.05

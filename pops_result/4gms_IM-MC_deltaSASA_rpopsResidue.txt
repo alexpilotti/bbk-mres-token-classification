@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4gms_IM-MC_C-4gms_IM-MC_M.122" "THR" "C" 131 "-" 4.27 3.08 7.36
+"4gms_IM-MC_C-4gms_IM-MC_M.146" "TYR" "C" 155 "-" 4.87 1.4 6.29
+"4gms_IM-MC_C-4gms_IM-MC_M.147" "LYS" "C" 156 "-" 6.95 16.59 23.53
+"4gms_IM-MC_C-4gms_IM-MC_M.148" "SER" "C" 157 "-" 13.87 24.43 38.31
+"4gms_IM-MC_C-4gms_IM-MC_M.149" "GLY" "C" 158 "-" 29.46 12.08 41.54
+"4gms_IM-MC_C-4gms_IM-MC_M.150" "SER" "C" 159 "-" 35.14 34.12 69.26
+"4gms_IM-MC_C-4gms_IM-MC_M.151" "THR" "C" 160 "-" 5.87 0.69 6.56
+"4gms_IM-MC_C-4gms_IM-MC_M.184" "ASN" "C" 193 "-" 0 0.15 0.15
+"4gms_IM-MC_C-4gms_IM-MC_M.346" "ASP" "M" 30 "-" 0 0.48 0.48
+"4gms_IM-MC_C-4gms_IM-MC_M.348" "ASN" "M" 32 "-" 0.92 6.59 7.51
+"4gms_IM-MC_C-4gms_IM-MC_M.407" "TYR" "M" 91 "-" 4.65 3.36 8
+"4gms_IM-MC_C-4gms_IM-MC_M.408" "ASN" "M" 92 "-" 2.86 17.29 20.15
+"4gms_IM-MC_C-4gms_IM-MC_M.409" "SER" "M" 93 "-" 14.32 2.39 16.71
+"4gms_IM-MC_C-4gms_IM-MC_M.410" "TYR" "M" 94 "-" 72.63 29.95 102.59
+"4gms_IM-MC_C-4gms_IM-MC_M.412" "TYR" "M" 96 "-" 3.45 7.95 11.4

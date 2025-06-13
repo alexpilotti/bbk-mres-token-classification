@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6cxg_MK-KC_K-6cxg_MK-KC_C.92" "ALA" "K" 92 "-" 0.1 0 0.1
+"6cxg_MK-KC_K-6cxg_MK-KC_C.93" "GLY" "K" 93 "-" 1.37 0.3 1.67
+"6cxg_MK-KC_K-6cxg_MK-KC_C.94" "TYR" "K" 94 "-" 48.19 8.35 56.54
+"6cxg_MK-KC_K-6cxg_MK-KC_C.224" "TRP" "C" 30 "-" 17.83 0 17.83
+"6cxg_MK-KC_K-6cxg_MK-KC_C.226" "PRO" "C" 32 "-" 28.02 0.05 28.08

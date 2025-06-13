@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7vtj_HL-LC_L-7vtj_HL-LC_C.30" "THR" "L" 30 "-" 0.57 3.87 4.43
+"7vtj_HL-LC_L-7vtj_HL-LC_C.31" "TYR" "L" 31 "-" 17.64 8.5 26.14
+"7vtj_HL-LC_L-7vtj_HL-LC_C.32" "THR" "L" 32 "-" 3.51 5.98 9.48
+"7vtj_HL-LC_L-7vtj_HL-LC_C.33" "ILE" "L" 33 "-" 0.02 0.03 0.06
+"7vtj_HL-LC_L-7vtj_HL-LC_C.34" "GLU" "L" 34 "-" 0 0.13 0.12
+"7vtj_HL-LC_L-7vtj_HL-LC_C.94" "VAL" "L" 94 "-" 1.52 0 1.52
+"7vtj_HL-LC_L-7vtj_HL-LC_C.95" "GLY" "L" 95 "-" 3.43 8.06 11.49
+"7vtj_HL-LC_L-7vtj_HL-LC_C.96" "ASP" "L" 96 "-" 5.89 12.77 18.66
+"7vtj_HL-LC_L-7vtj_HL-LC_C.97" "THR" "L" 97 "-" 26.02 25.42 51.44
+"7vtj_HL-LC_L-7vtj_HL-LC_C.101" "GLN" "L" 101 "-" 0 0 0.01
+"7vtj_HL-LC_L-7vtj_HL-LC_C.102" "PHE" "L" 102 "-" 30.03 0.2 30.23
+"7vtj_HL-LC_L-7vtj_HL-LC_C.104" "TYR" "L" 104 "-" 0.33 0 0.33
+"7vtj_HL-LC_L-7vtj_HL-LC_C.220" "VAL" "C" 1 "-" 11.32 14.5 25.82
+"7vtj_HL-LC_L-7vtj_HL-LC_C.221" "GLN" "C" 2 "-" 60.21 84.13 144.34
+"7vtj_HL-LC_L-7vtj_HL-LC_C.222" "ILE" "C" 3 "-" 23.84 15.63 39.47
+"7vtj_HL-LC_L-7vtj_HL-LC_C.223" "ILE" "C" 4 "-" 67.27 2.56 69.83
+"7vtj_HL-LC_L-7vtj_HL-LC_C.224" "TYR" "C" 5 "-" 10.93 15.23 26.17
+"7vtj_HL-LC_L-7vtj_HL-LC_C.225" "LYS" "C" 6 "-" 66.78 21.81 88.6

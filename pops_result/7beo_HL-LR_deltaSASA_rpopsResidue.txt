@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7beo_HL-LR_R-7beo_HL-LR_L.144" "SER" "R" 477 "-" 0 0.63 0.64
+"7beo_HL-LR_R-7beo_HL-LR_L.145" "THR" "R" 478 "-" 36.4 11.14 47.53
+"7beo_HL-LR_R-7beo_HL-LR_L.146" "PRO" "R" 479 "-" 0.38 0.84 1.22
+"7beo_HL-LR_R-7beo_HL-LR_L.147" "CYS" "R" 480 "-" 0.39 0.08 0.48
+"7beo_HL-LR_R-7beo_HL-LR_L.151" "GLU" "R" 484 "-" 0 0.3 0.3
+"7beo_HL-LR_R-7beo_HL-LR_L.152" "GLY" "R" 485 "-" 3.31 0.36 3.67
+"7beo_HL-LR_R-7beo_HL-LR_L.153" "PHE" "R" 486 "-" 73.07 4.68 77.74
+"7beo_HL-LR_R-7beo_HL-LR_L.154" "ASN" "R" 487 "-" 0.21 0.03 0.24
+"7beo_HL-LR_R-7beo_HL-LR_L.155" "CYS" "R" 488 "-" 1.76 0 1.75
+"7beo_HL-LR_R-7beo_HL-LR_L.156" "TYR" "R" 489 "-" 0.05 0 0.04
+"7beo_HL-LR_R-7beo_HL-LR_L.215" "SER" "L" 32 "-" 7.18 4.01 11.2
+"7beo_HL-LR_R-7beo_HL-LR_L.216" "TYR" "L" 33 "-" 20.12 31.87 51.99
+"7beo_HL-LR_R-7beo_HL-LR_L.233" "TYR" "L" 50 "-" 0.37 0 0.36
+"7beo_HL-LR_R-7beo_HL-LR_L.234" "GLY" "L" 51 "-" 0.05 0 0.04
+"7beo_HL-LR_R-7beo_HL-LR_L.275" "TYR" "L" 92 "-" 8.27 2.07 10.34
+"7beo_HL-LR_R-7beo_HL-LR_L.276" "GLY" "L" 93 "-" 0.39 1.99 2.37
+"7beo_HL-LR_R-7beo_HL-LR_L.280" "TRP" "L" 97 "-" 36.29 0.11 36.4

@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4xnz_BC-CA_A-4xnz_BC-CA_C.157" "ASN" "A" 276 "-" 4.03 21.46 25.49
+"4xnz_BC-CA_A-4xnz_BC-CA_C.158" "LEU" "A" 277 "-" 0.03 0 0.03
+"4xnz_BC-CA_A-4xnz_BC-CA_C.159" "THR" "A" 278 "-" 37.2 19.32 56.53
+"4xnz_BC-CA_A-4xnz_BC-CA_C.160" "ASN" "A" 279 "-" 6.11 17.09 23.2
+"4xnz_BC-CA_A-4xnz_BC-CA_C.161" "ASN" "A" 280 "-" 3.96 18.29 22.25
+"4xnz_BC-CA_A-4xnz_BC-CA_C.211" "ASN" "A" 354 "-" 0.99 4.05 5.04
+"4xnz_BC-CA_A-4xnz_BC-CA_C.213" "LYS" "A" 357 "-" 0.49 3.29 3.78
+"4xnz_BC-CA_A-4xnz_BC-CA_C.305" "ARG" "A" 456 "-" 0.08 5.3 5.39
+"4xnz_BC-CA_A-4xnz_BC-CA_C.307" "GLY" "A" 458 "-" 8.59 7.99 16.59
+"4xnz_BC-CA_A-4xnz_BC-CA_C.308" "GLY" "A" 459 "-" 25.78 26.69 52.47
+"4xnz_BC-CA_A-4xnz_BC-CA_C.309" "ALA" "A" 460 "-" 24.09 4.24 28.34
+"4xnz_BC-CA_A-4xnz_BC-CA_C.310" "ASN" "A" 461 "-" 16.24 29.99 46.22
+"4xnz_BC-CA_A-4xnz_BC-CA_C.342" "GLU" "C" 1 "-" 25.35 47.93 73.28
+"4xnz_BC-CA_A-4xnz_BC-CA_C.343" "ILE" "C" 2 "-" 5.04 0 5.04
+"4xnz_BC-CA_A-4xnz_BC-CA_C.368" "GLN" "C" 27 "-" 1.24 7.71 8.95
+"4xnz_BC-CA_A-4xnz_BC-CA_C.371" "ASN" "C" 30 "-" 3.11 14.45 17.56
+"4xnz_BC-CA_A-4xnz_BC-CA_C.431" "PHE" "C" 90 "-" 66.03 0 66.03
+"4xnz_BC-CA_A-4xnz_BC-CA_C.432" "GLU" "C" 91 "-" 13.87 42.19 56.06
+"4xnz_BC-CA_A-4xnz_BC-CA_C.433" "PHE" "C" 92 "-" 6.84 0 6.84

@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4np4_HL-LA_A-4np4_HL-LA_L.199" "THR" "A" 2032 "-" 0.02 0 0.02
+"4np4_HL-LA_A-4np4_HL-LA_L.200" "GLU" "A" 2033 "-" 32.81 19.56 52.38
+"4np4_HL-LA_A-4np4_HL-LA_L.201" "ASP" "A" 2034 "-" 12.94 25.49 38.43
+"4np4_HL-LA_A-4np4_HL-LA_L.202" "GLY" "A" 2035 "-" 0.48 0.34 0.83
+"4np4_HL-LA_A-4np4_HL-LA_L.204" "LYS" "A" 2037 "-" 0.19 0.04 0.23
+"4np4_HL-LA_A-4np4_HL-LA_L.237" "ASP" "A" 2070 "-" 0.47 3.56 4.04
+"4np4_HL-LA_A-4np4_HL-LA_L.238" "ASP" "A" 2071 "-" 0.01 0 0.01
+"4np4_HL-LA_A-4np4_HL-LA_L.239" "SER" "A" 2072 "-" 6.83 18.31 25.13
+"4np4_HL-LA_A-4np4_HL-LA_L.241" "THR" "A" 2074 "-" 2.24 0.83 3.07
+"4np4_HL-LA_A-4np4_HL-LA_L.244" "VAL" "A" 2077 "-" 0.31 0 0.3
+"4np4_HL-LA_A-4np4_HL-LA_L.301" "SER" "L" 30 "-" 1.45 2.29 3.75
+"4np4_HL-LA_A-4np4_HL-LA_L.303" "SER" "L" 32 "-" 6.58 10.07 16.65
+"4np4_HL-LA_A-4np4_HL-LA_L.304" "TYR" "L" 33 "-" 16.33 29.62 45.96
+"4np4_HL-LA_A-4np4_HL-LA_L.321" "TYR" "L" 50 "-" 0.16 0 0.17
+"4np4_HL-LA_A-4np4_HL-LA_L.363" "TYR" "L" 92 "-" 7.14 10.36 17.49
+"4np4_HL-LA_A-4np4_HL-LA_L.365" "SER" "L" 94 "-" 0.28 0.02 0.31
+"4np4_HL-LA_A-4np4_HL-LA_L.366" "SER" "L" 95 "-" 8.24 6.96 15.21
+"4np4_HL-LA_A-4np4_HL-LA_L.368" "TRP" "L" 97 "-" 11.5 0.03 11.52

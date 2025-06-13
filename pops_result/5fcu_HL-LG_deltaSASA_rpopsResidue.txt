@@ -1,0 +1,12 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5fcu_HL-LG_G-5fcu_HL-LG_L.13" "ASP" "G" 57 "-" 0.18 1.31 1.49
+"5fcu_HL-LG_G-5fcu_HL-LG_L.19" "PRO" "G" 76 "-" 33.7 0.08 33.78
+"5fcu_HL-LG_G-5fcu_HL-LG_L.20" "THR" "G" 77 "-" 0.16 3.12 3.26
+"5fcu_HL-LG_G-5fcu_HL-LG_L.21" "ASP" "G" 78 "-" 0.44 0.43 0.88
+"5fcu_HL-LG_G-5fcu_HL-LG_L.22" "PRO" "G" 79 "-" 65.57 5.89 71.46
+"5fcu_HL-LG_G-5fcu_HL-LG_L.23" "ASN" "G" 80 "-" 7.26 5.13 12.39
+"5fcu_HL-LG_G-5fcu_HL-LG_L.136" "TYR" "L" 32 "-" 33.67 35.2 68.87
+"5fcu_HL-LG_G-5fcu_HL-LG_L.150" "LEU" "L" 46 "-" 0.27 0 0.27
+"5fcu_HL-LG_G-5fcu_HL-LG_L.153" "TYR" "L" 49 "-" 7.17 8.3 15.46
+"5fcu_HL-LG_G-5fcu_HL-LG_L.154" "ASP" "L" 50 "-" 3.18 13.74 16.93
+"5fcu_HL-LG_G-5fcu_HL-LG_L.157" "LYS" "L" 53 "-" 7.78 18.58 26.37

@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8fsj_CB-BE_E-8fsj_CB-BE_B.228" "ARG" "E" 648 "-" 0 1.15 1.15
+"8fsj_CB-BE_E-8fsj_CB-BE_B.377" "SER" "B" 93 "-" 0.08 0 0.07
+"8fsj_CB-BE_E-8fsj_CB-BE_B.378" "SER" "B" 94 "-" 0 0.6 0.6

@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5hbv_DC-CB_B-5hbv_DC-CB_C.24" "GLU" "B" 23 "-" 0.37 2.89 3.26
+"5hbv_DC-CB_B-5hbv_DC-CB_C.64" "TYR" "B" 63 "-" 0.35 0.42 0.77
+"5hbv_DC-CB_B-5hbv_DC-CB_C.67" "LYS" "B" 66 "-" 30.55 14.6 45.15
+"5hbv_DC-CB_B-5hbv_DC-CB_C.68" "TRP" "B" 67 "-" 0.39 1.14 1.53
+"5hbv_DC-CB_B-5hbv_DC-CB_C.69" "ASN" "B" 68 "-" 12.19 44.76 56.95
+"5hbv_DC-CB_B-5hbv_DC-CB_C.70" "PRO" "B" 69 "-" 3.86 0.05 3.91
+"5hbv_DC-CB_B-5hbv_DC-CB_C.71" "ASP" "B" 70 "-" 18.51 34.03 52.53
+"5hbv_DC-CB_B-5hbv_DC-CB_C.72" "ASP" "B" 71 "-" 3.8 19.2 23.01
+"5hbv_DC-CB_B-5hbv_DC-CB_C.113" "TYR" "B" 112 "-" 7.01 5.3 12.31
+"5hbv_DC-CB_B-5hbv_DC-CB_C.213" "ASP" "C" 1 "-" 2.1 10.05 12.14
+"5hbv_DC-CB_B-5hbv_DC-CB_C.242" "ASP" "C" 30 "-" 3.55 12.6 16.15
+"5hbv_DC-CB_B-5hbv_DC-CB_C.244" "TYR" "C" 32 "-" 7.16 16.87 24.03
+"5hbv_DC-CB_B-5hbv_DC-CB_C.262" "LYS" "C" 50 "-" 0.14 2.35 2.49
+"5hbv_DC-CB_B-5hbv_DC-CB_C.302" "GLN" "C" 90 "-" 0 0.09 0.08
+"5hbv_DC-CB_B-5hbv_DC-CB_C.303" "TYR" "C" 91 "-" 0.89 3.41 4.3
+"5hbv_DC-CB_B-5hbv_DC-CB_C.304" "ILE" "C" 92 "-" 10.18 14.2 24.4
+"5hbv_DC-CB_B-5hbv_DC-CB_C.305" "ASN" "C" 93 "-" 6.84 24.19 31.02
+"5hbv_DC-CB_B-5hbv_DC-CB_C.306" "GLY" "C" 94 "-" 10.75 5.49 16.23
+"5hbv_DC-CB_B-5hbv_DC-CB_C.307" "TYR" "C" 95 "-" 40.08 27.51 67.59

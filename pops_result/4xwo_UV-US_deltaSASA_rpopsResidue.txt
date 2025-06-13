@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4xwo_UV-US_S-4xwo_UV-US_U.197" "PHE" "S" 246 "-" 29.43 0 29.43
+"4xwo_UV-US_S-4xwo_UV-US_U.198" "LEU" "S" 247 "-" 0.85 0 0.85
+"4xwo_UV-US_S-4xwo_UV-US_U.200" "LEU" "S" 249 "-" 8.82 1.35 10.17
+"4xwo_UV-US_S-4xwo_UV-US_U.201" "TYR" "S" 250 "-" 72.18 27.42 99.61
+"4xwo_UV-US_S-4xwo_UV-US_U.204" "GLU" "S" 253 "-" 9.77 1.45 11.22
+"4xwo_UV-US_S-4xwo_UV-US_U.205" "ARG" "S" 254 "-" 24.32 17.76 42.08
+"4xwo_UV-US_S-4xwo_UV-US_U.208" "GLN" "S" 257 "-" 0.6 0 0.6
+"4xwo_UV-US_S-4xwo_UV-US_U.244" "TYR" "S" 298 "-" 0.86 0.26 1.13
+"4xwo_UV-US_S-4xwo_UV-US_U.246" "ASP" "S" 300 "-" 0.04 0.27 0.31
+"4xwo_UV-US_S-4xwo_UV-US_U.247" "GLN" "S" 301 "-" 19.09 30.4 49.49
+"4xwo_UV-US_S-4xwo_UV-US_U.248" "ILE" "S" 302 "-" 3.27 0.17 3.44
+"4xwo_UV-US_S-4xwo_UV-US_U.250" "GLU" "S" 304 "-" 30.74 57.53 88.28
+"4xwo_UV-US_S-4xwo_UV-US_U.251" "LEU" "S" 305 "-" 39.86 0.39 40.25
+"4xwo_UV-US_S-4xwo_UV-US_U.252" "TYR" "S" 306 "-" 2.08 1.63 3.71
+"4xwo_UV-US_S-4xwo_UV-US_U.326" "TYR" "U" 33 "-" 2.18 3.44 5.63
+"4xwo_UV-US_S-4xwo_UV-US_U.327" "TYR" "U" 34 "-" 39.19 14.13 53.32
+"4xwo_UV-US_S-4xwo_UV-US_U.328" "TYR" "U" 35 "-" 0.19 0.13 0.32
+"4xwo_UV-US_S-4xwo_UV-US_U.350" "TYR" "U" 57 "-" 14.69 8.34 23.02
+"4xwo_UV-US_S-4xwo_UV-US_U.351" "SER" "U" 58 "-" 6.93 5.82 12.75
+"4xwo_UV-US_S-4xwo_UV-US_U.352" "SER" "U" 59 "-" 0.61 0.31 0.93
+"4xwo_UV-US_S-4xwo_UV-US_U.397" "TRP" "U" 104 "-" 71.39 9.09 80.47
+"4xwo_UV-US_S-4xwo_UV-US_U.398" "TYR" "U" 105 "-" 26.23 19.04 45.27
+"4xwo_UV-US_S-4xwo_UV-US_U.399" "ARG" "U" 106 "-" 13.05 14.19 27.23
+"4xwo_UV-US_S-4xwo_UV-US_U.400" "ARG" "U" 107 "-" 0 0.87 0.87

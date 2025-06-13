@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8hpv_RS-SC_C-8hpv_RS-SC_S.359" "ARG" "C" 403 "-" 1.06 33.36 34.42
+"8hpv_RS-SC_C-8hpv_RS-SC_S.361" "ASP" "C" 405 "-" 2.92 6.4 9.32
+"8hpv_RS-SC_C-8hpv_RS-SC_S.362" "GLU" "C" 406 "-" 0.67 0.84 1.52
+"8hpv_RS-SC_C-8hpv_RS-SC_S.364" "ARG" "C" 408 "-" 0.35 11.78 12.12
+"8hpv_RS-SC_C-8hpv_RS-SC_S.365" "GLN" "C" 409 "-" 0.05 3.39 3.45
+"8hpv_RS-SC_C-8hpv_RS-SC_S.373" "LYS" "C" 417 "-" 3.06 4.84 7.91
+"8hpv_RS-SC_C-8hpv_RS-SC_S.452" "GLY" "C" 496 "-" 0.2 0.29 0.49
+"8hpv_RS-SC_C-8hpv_RS-SC_S.454" "GLN" "C" 498 "-" 0.03 2.41 2.44
+"8hpv_RS-SC_C-8hpv_RS-SC_S.456" "THR" "C" 500 "-" 0 0.59 0.59
+"8hpv_RS-SC_C-8hpv_RS-SC_S.457" "ASN" "C" 501 "-" 0.83 3.42 4.25
+"8hpv_RS-SC_C-8hpv_RS-SC_S.458" "GLY" "C" 502 "-" 2.63 1.72 4.35
+"8hpv_RS-SC_C-8hpv_RS-SC_S.459" "VAL" "C" 503 "-" 0.41 2.96 3.38
+"8hpv_RS-SC_C-8hpv_RS-SC_S.460" "GLY" "C" 504 "-" 2.01 0.55 2.56
+"8hpv_RS-SC_C-8hpv_RS-SC_S.461" "TYR" "C" 505 "-" 14.97 4.06 19.03
+"8hpv_RS-SC_C-8hpv_RS-SC_S.1068" "SER" "S" 28 "-" 0.3 4.04 4.34
+"8hpv_RS-SC_C-8hpv_RS-SC_S.1070" "SER" "S" 30 "-" 8.27 13.96 22.24
+"8hpv_RS-SC_C-8hpv_RS-SC_S.1072" "HIS" "S" 32 "-" 13.49 10.7 24.18
+"8hpv_RS-SC_C-8hpv_RS-SC_S.1131" "SER" "S" 91 "-" 0 0.55 0.55
+"8hpv_RS-SC_C-8hpv_RS-SC_S.1132" "TYR" "S" 92 "-" 19.62 33.25 52.88
+"8hpv_RS-SC_C-8hpv_RS-SC_S.1133" "SER" "S" 93 "-" 0.16 0.07 0.24
+"8hpv_RS-SC_C-8hpv_RS-SC_S.1134" "THR" "S" 94 "-" 27.98 16.89 44.88
+"8hpv_RS-SC_C-8hpv_RS-SC_S.1135" "PRO" "S" 95 "-" 10.23 0.05 10.27

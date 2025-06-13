@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7nab_AB-BD_B-7nab_AB-BD_D.49" "TYR" "B" 49 "-" 5.45 6.96 12.41
+"7nab_AB-BD_B-7nab_AB-BD_D.232" "VAL" "D" 1164 "-" 10.48 0 10.48
+"7nab_AB-BD_B-7nab_AB-BD_D.233" "ASP" "D" 1165 "-" 2.3 1.96 4.25

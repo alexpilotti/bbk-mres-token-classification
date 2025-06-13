@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"1hys_DC-CB_B-1hys_DC-CB_C.223" "LYS" "B" 223 "-" 1.45 0 1.44
+"1hys_DC-CB_B-1hys_DC-CB_C.224" "GLU" "B" 224 "-" 17.26 11.08 28.34
+"1hys_DC-CB_B-1hys_DC-CB_C.225" "PRO" "B" 225 "-" 29.55 4.88 34.44
+"1hys_DC-CB_B-1hys_DC-CB_C.226" "PRO" "B" 226 "-" 29.2 0.71 29.91
+"1hys_DC-CB_B-1hys_DC-CB_C.227" "PHE" "B" 227 "-" 14.43 0.12 14.54
+"1hys_DC-CB_B-1hys_DC-CB_C.358" "ARG" "B" 358 "-" 0.33 0 0.33
+"1hys_DC-CB_B-1hys_DC-CB_C.457" "TYR" "C" 32 "-" 15.18 23.29 38.49
+"1hys_DC-CB_B-1hys_DC-CB_C.475" "TYR" "C" 50 "-" 0 0.2 0.2
+"1hys_DC-CB_B-1hys_DC-CB_C.516" "TYR" "C" 91 "-" 9.37 4.23 13.6
+"1hys_DC-CB_B-1hys_DC-CB_C.517" "SER" "C" 92 "-" 1.52 8.59 10.11
+"1hys_DC-CB_B-1hys_DC-CB_C.518" "LYS" "C" 93 "-" 0.4 0.17 0.56
+"1hys_DC-CB_B-1hys_DC-CB_C.519" "PHE" "C" 94 "-" 29.19 0.23 29.42
+"1hys_DC-CB_B-1hys_DC-CB_C.521" "TRP" "C" 96 "-" 0.94 0.11 1.04

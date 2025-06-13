@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8fe3_MN-ND_D-8fe3_MN-ND_N.24" "LEU" "D" 24 "-" 0 0.88 0.89
+"8fe3_MN-ND_D-8fe3_MN-ND_N.25" "PHE" "D" 25 "-" 0.01 0 0.02
+"8fe3_MN-ND_D-8fe3_MN-ND_N.26" "LYS" "D" 26 "-" 12.21 0.5 12.72
+"8fe3_MN-ND_D-8fe3_MN-ND_N.27" "THR" "D" 27 "-" 0.63 2.44 3.09
+"8fe3_MN-ND_D-8fe3_MN-ND_N.28" "GLU" "D" 28 "-" 20.31 18.08 38.39
+"8fe3_MN-ND_D-8fe3_MN-ND_N.29" "ASP" "D" 29 "-" 1.31 1.17 2.48
+"8fe3_MN-ND_D-8fe3_MN-ND_N.30" "GLY" "D" 30 "-" 4.69 2 6.68
+"8fe3_MN-ND_D-8fe3_MN-ND_N.111" "THR" "N" 31 "-" 9.55 0 9.55
+"8fe3_MN-ND_D-8fe3_MN-ND_N.112" "SER" "N" 32 "-" 1.15 0 1.14
+"8fe3_MN-ND_D-8fe3_MN-ND_N.116" "TYR" "N" 36 "-" 0.12 0 0.13
+"8fe3_MN-ND_D-8fe3_MN-ND_N.175" "ILE" "N" 95 "-" 0.4 3.42 3.82
+"8fe3_MN-ND_D-8fe3_MN-ND_N.176" "ARG" "N" 96 "-" 12.04 28.71 40.75
+"8fe3_MN-ND_D-8fe3_MN-ND_N.177" "GLU" "N" 97 "-" 6.89 4.58 11.47
+"8fe3_MN-ND_D-8fe3_MN-ND_N.178" "LEU" "N" 98 "-" 0 0.44 0.43

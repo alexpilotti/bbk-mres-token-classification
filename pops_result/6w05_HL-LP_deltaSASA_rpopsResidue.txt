@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6w05_HL-LP_L-6w05_HL-LP_P.32" "LYS" "L" 32 "-" 0 0.24 0.25
+"6w05_HL-LP_L-6w05_HL-LP_P.90" "GLN" "L" 90 "-" 0 0.04 0.04
+"6w05_HL-LP_L-6w05_HL-LP_P.91" "TYR" "L" 91 "-" 1.81 3.29 5.11
+"6w05_HL-LP_L-6w05_HL-LP_P.92" "ASN" "L" 92 "-" 1.97 9.3 11.27
+"6w05_HL-LP_L-6w05_HL-LP_P.93" "ASN" "L" 93 "-" 5.57 3.18 8.75
+"6w05_HL-LP_L-6w05_HL-LP_P.94" "GLY" "L" 94 "-" 5.36 3.18 8.55
+"6w05_HL-LP_L-6w05_HL-LP_P.95" "PHE" "L" 96 "-" 45.83 0.15 45.97
+"6w05_HL-LP_L-6w05_HL-LP_P.213" "ASN" "P" 1 "-" 0 0.39 0.39
+"6w05_HL-LP_L-6w05_HL-LP_P.214" "PRO" "P" 2 "-" 29.66 6.56 36.23
+"6w05_HL-LP_L-6w05_HL-LP_P.215" "ASN" "P" 3 "-" 21.02 65.98 87.01
+"6w05_HL-LP_L-6w05_HL-LP_P.216" "ALA" "P" 4 "-" 0 0.15 0.14
+"6w05_HL-LP_L-6w05_HL-LP_P.218" "PRO" "P" 6 "-" 0.23 0 0.23

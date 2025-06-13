@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6mek_BD-DA_A-6mek_BD-DA_D.8" "ASN" "A" 430 "-" 0.08 1.02 1.11
+"6mek_BD-DA_A-6mek_BD-DA_D.10" "SER" "A" 432 "-" 0.4 0.22 0.63
+"6mek_BD-DA_A-6mek_BD-DA_D.214" "TYR" "D" 49 "-" 0 1.71 1.7
+"6mek_BD-DA_A-6mek_BD-DA_D.221" "SER" "D" 56 "-" 0.86 0 0.85

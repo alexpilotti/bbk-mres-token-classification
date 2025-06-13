@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3klh_DC-CB_B-3klh_DC-CB_C.222" "GLN" "B" 222 "-" 0 1.14 1.14
+"3klh_DC-CB_B-3klh_DC-CB_C.223" "LYS" "B" 223 "-" 14.75 7.55 22.3
+"3klh_DC-CB_B-3klh_DC-CB_C.224" "GLU" "B" 224 "-" 19.9 43.77 63.67
+"3klh_DC-CB_B-3klh_DC-CB_C.225" "PRO" "B" 225 "-" 59.07 3.44 62.51
+"3klh_DC-CB_B-3klh_DC-CB_C.226" "PRO" "B" 226 "-" 15.84 0.5 16.33
+"3klh_DC-CB_B-3klh_DC-CB_C.227" "PHE" "B" 227 "-" 12.98 0.02 13
+"3klh_DC-CB_B-3klh_DC-CB_C.358" "ARG" "B" 358 "-" 3 28.38 31.38
+"3klh_DC-CB_B-3klh_DC-CB_C.458" "SER" "C" 30 "-" 0.66 0.27 0.93
+"3klh_DC-CB_B-3klh_DC-CB_C.460" "TYR" "C" 32 "-" 20.67 30.74 51.41
+"3klh_DC-CB_B-3klh_DC-CB_C.478" "TYR" "C" 50 "-" 0.39 6.06 6.45
+"3klh_DC-CB_B-3klh_DC-CB_C.519" "TYR" "C" 91 "-" 7.41 3.78 11.18
+"3klh_DC-CB_B-3klh_DC-CB_C.520" "SER" "C" 92 "-" 6 15.7 21.7
+"3klh_DC-CB_B-3klh_DC-CB_C.521" "LYS" "C" 93 "-" 10.15 1.05 11.21
+"3klh_DC-CB_B-3klh_DC-CB_C.522" "PHE" "C" 94 "-" 31.18 2.32 33.51
+"3klh_DC-CB_B-3klh_DC-CB_C.524" "TRP" "C" 96 "-" 1.13 0.06 1.18

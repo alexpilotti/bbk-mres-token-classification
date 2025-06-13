@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5wth_ED-EB_B-5wth_ED-EB_E.58" "LEU" "B" 62 "-" 6.85 0 6.85
+"5wth_ED-EB_B-5wth_ED-EB_E.60" "HIS" "B" 64 "-" 0.03 0 0.03
+"5wth_ED-EB_B-5wth_ED-EB_E.61" "SER" "B" 65 "-" 2.73 8.35 11.08
+"5wth_ED-EB_B-5wth_ED-EB_E.87" "GLN" "B" 91 "-" 1.79 18.09 19.88
+"5wth_ED-EB_B-5wth_ED-EB_E.199" "ASN" "B" 203 "-" 0 0.13 0.13
+"5wth_ED-EB_B-5wth_ED-EB_E.320" "VAL" "E" 103 "-" 32.96 0 32.96
+"5wth_ED-EB_B-5wth_ED-EB_E.321" "ALA" "E" 104 "-" 11.63 3.41 15.04

@@ -1,0 +1,26 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8db4_CD-DE_D-8db4_CD-DE_E.30" "SER" "D" 30 "-" 7.83 9.38 17.21
+"8db4_CD-DE_D-8db4_CD-DE_E.31" "THR" "D" 31 "-" 5.09 8.06 13.16
+"8db4_CD-DE_D-8db4_CD-DE_E.32" "TYR" "D" 32 "-" 51.81 46.04 97.85
+"8db4_CD-DE_D-8db4_CD-DE_E.33" "LEU" "D" 33 "-" 0.05 0.19 0.24
+"8db4_CD-DE_D-8db4_CD-DE_E.34" "ASN" "D" 34 "-" 0.35 4.1 4.45
+"8db4_CD-DE_D-8db4_CD-DE_E.46" "LEU" "D" 46 "-" 3.32 0 3.31
+"8db4_CD-DE_D-8db4_CD-DE_E.49" "TYR" "D" 49 "-" 26.78 12.61 39.39
+"8db4_CD-DE_D-8db4_CD-DE_E.50" "ALA" "D" 50 "-" 12.41 1.18 13.6
+"8db4_CD-DE_D-8db4_CD-DE_E.51" "ALA" "D" 51 "-" 0 0.04 0.03
+"8db4_CD-DE_D-8db4_CD-DE_E.54" "LEU" "D" 54 "-" 0 0.02 0.01
+"8db4_CD-DE_D-8db4_CD-DE_E.55" "HIS" "D" 55 "-" 10.23 5.35 15.59
+"8db4_CD-DE_D-8db4_CD-DE_E.56" "SER" "D" 56 "-" 0 0.08 0.09
+"8db4_CD-DE_D-8db4_CD-DE_E.91" "SER" "D" 91 "-" 2.26 4.17 6.42
+"8db4_CD-DE_D-8db4_CD-DE_E.92" "TYR" "D" 92 "-" 18.75 32.27 51.02
+"8db4_CD-DE_D-8db4_CD-DE_E.93" "SER" "D" 93 "-" 6.74 1.26 8
+"8db4_CD-DE_D-8db4_CD-DE_E.253" "GLU" "E" 99 "-" 0.11 0.62 0.73
+"8db4_CD-DE_D-8db4_CD-DE_E.254" "ASN" "E" 100 "-" 17.42 33.57 50.99
+"8db4_CD-DE_D-8db4_CD-DE_E.255" "ASN" "E" 101 "-" 0.1 0.25 0.35
+"8db4_CD-DE_D-8db4_CD-DE_E.256" "GLN" "E" 102 "-" 21.98 38.26 60.24
+"8db4_CD-DE_D-8db4_CD-DE_E.259" "MET" "E" 105 "-" 0.03 0 0.04
+"8db4_CD-DE_D-8db4_CD-DE_E.297" "ARG" "E" 143 "-" 47.59 73.19 120.78
+"8db4_CD-DE_D-8db4_CD-DE_E.298" "ALA" "E" 144 "-" 2.98 8.16 11.13
+"8db4_CD-DE_D-8db4_CD-DE_E.299" "PRO" "E" 145 "-" 2.48 0.82 3.3
+"8db4_CD-DE_D-8db4_CD-DE_E.300" "GLN" "E" 146 "-" 34.3 69.85 104.15
+"8db4_CD-DE_D-8db4_CD-DE_E.301" "ARG" "E" 147 "-" 52.83 103 155.84

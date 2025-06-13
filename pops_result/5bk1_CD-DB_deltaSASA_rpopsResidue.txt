@@ -1,0 +1,26 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5bk1_CD-DB_D-5bk1_CD-DB_B.22" "SER" "D" 29 "-" 0.01 1.88 1.89
+"5bk1_CD-DB_D-5bk1_CD-DB_B.23" "VAL" "D" 30 "-" 0.79 1.1 1.89
+"5bk1_CD-DB_D-5bk1_CD-DB_B.24" "SER" "D" 31 "-" 12.63 7.1 19.74
+"5bk1_CD-DB_D-5bk1_CD-DB_B.25" "SER" "D" 32 "-" 0 0.13 0.14
+"5bk1_CD-DB_D-5bk1_CD-DB_B.49" "TYR" "D" 56 "-" 1.97 1.51 3.48
+"5bk1_CD-DB_D-5bk1_CD-DB_B.50" "SER" "D" 57 "-" 0.66 0 0.65
+"5bk1_CD-DB_D-5bk1_CD-DB_B.60" "ARG" "D" 67 "-" 0 0.56 0.56
+"5bk1_CD-DB_D-5bk1_CD-DB_B.85" "SER" "D" 92 "-" 0 0.47 0.47
+"5bk1_CD-DB_D-5bk1_CD-DB_B.86" "PRO" "D" 93 "-" 0.46 4.94 5.4
+"5bk1_CD-DB_D-5bk1_CD-DB_B.87" "GLN" "D" 94 "-" 7 38.04 45.04
+"5bk1_CD-DB_D-5bk1_CD-DB_B.88" "GLY" "D" 95 "-" 10.08 3.78 13.86
+"5bk1_CD-DB_D-5bk1_CD-DB_B.89" "TYR" "D" 96 "-" 8.36 2.07 10.43
+"5bk1_CD-DB_D-5bk1_CD-DB_B.250" "ASP" "B" 41 "-" 0.09 0.5 0.59
+"5bk1_CD-DB_D-5bk1_CD-DB_B.251" "LYS" "B" 42 "-" 3.24 3 6.24
+"5bk1_CD-DB_D-5bk1_CD-DB_B.361" "GLN" "B" 152 "-" 6.44 9.23 15.67
+"5bk1_CD-DB_D-5bk1_CD-DB_B.362" "GLU" "B" 153 "-" 0.92 6.43 7.34
+"5bk1_CD-DB_D-5bk1_CD-DB_B.415" "ALA" "B" 206 "-" 0 0.13 0.14
+"5bk1_CD-DB_D-5bk1_CD-DB_B.416" "ASP" "B" 207 "-" 7.35 7.13 14.49
+"5bk1_CD-DB_D-5bk1_CD-DB_B.417" "THR" "B" 208 "-" 0.01 0.03 0.04
+"5bk1_CD-DB_D-5bk1_CD-DB_B.418" "ASP" "B" 209 "-" 3.86 12.57 16.45
+"5bk1_CD-DB_D-5bk1_CD-DB_B.420" "SER" "B" 211 "-" 12.55 6.98 19.52
+"5bk1_CD-DB_D-5bk1_CD-DB_B.421" "ILE" "B" 212 "-" 3.9 0.01 3.91
+"5bk1_CD-DB_D-5bk1_CD-DB_B.424" "ALA" "B" 215 "-" 0.3 0 0.3
+"5bk1_CD-DB_D-5bk1_CD-DB_B.553" "ARG" "B" 344 "-" 0.27 0 0.28
+"5bk1_CD-DB_D-5bk1_CD-DB_B.557" "ILE" "B" 348 "-" 0.7 0 0.7

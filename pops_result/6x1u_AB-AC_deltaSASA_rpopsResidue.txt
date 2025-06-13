@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6x1u_AB-AC_A-6x1u_AB-AC_C.48" "TRP" "A" 50 "-" 1.14 0 1.14
+"6x1u_AB-AC_A-6x1u_AB-AC_C.52" "ARG" "A" 54 "-" 1.26 14.6 15.84
+"6x1u_AB-AC_A-6x1u_AB-AC_C.214" "GLY" "C" 4 "-" 7.71 19.15 26.86

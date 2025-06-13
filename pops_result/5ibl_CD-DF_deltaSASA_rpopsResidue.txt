@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5ibl_CD-DF_D-5ibl_CD-DF_F.28" "SER" "D" 28 "-" 2.18 5.32 7.5
+"5ibl_CD-DF_D-5ibl_CD-DF_F.29" "VAL" "D" 29 "-" 1.27 4.19 5.47
+"5ibl_CD-DF_D-5ibl_CD-DF_F.30" "ASP" "D" 30 "-" 11.66 22.64 34.3
+"5ibl_CD-DF_D-5ibl_CD-DF_F.31" "SER" "D" 31 "-" 11.38 14.86 26.25
+"5ibl_CD-DF_D-5ibl_CD-DF_F.32" "SER" "D" 32 "-" 17.74 10.69 28.42
+"5ibl_CD-DF_D-5ibl_CD-DF_F.50" "PHE" "D" 50 "-" 9.52 0.09 9.61
+"5ibl_CD-DF_D-5ibl_CD-DF_F.51" "ALA" "D" 51 "-" 10.4 3.01 13.41
+"5ibl_CD-DF_D-5ibl_CD-DF_F.52" "GLY" "D" 52 "-" 0.53 0.09 0.63
+"5ibl_CD-DF_D-5ibl_CD-DF_F.53" "SER" "D" 53 "-" 9.7 6.95 16.65
+"5ibl_CD-DF_D-5ibl_CD-DF_F.54" "SER" "D" 54 "-" 6.11 10.26 16.38
+"5ibl_CD-DF_D-5ibl_CD-DF_F.67" "THR" "D" 67 "-" 0.91 2.95 3.86
+"5ibl_CD-DF_D-5ibl_CD-DF_F.354" "LYS" "FALSE" 156 "-" 4.21 5.92 10.12
+"5ibl_CD-DF_D-5ibl_CD-DF_F.356" "GLY" "FALSE" 158 "-" 1.71 0 1.71
+"5ibl_CD-DF_D-5ibl_CD-DF_F.357" "ASN" "FALSE" 159 "-" 21.42 31.25 52.67
+"5ibl_CD-DF_D-5ibl_CD-DF_F.385" "THR" "FALSE" 187 "-" 1.17 0.25 1.41
+"5ibl_CD-DF_D-5ibl_CD-DF_F.386" "SER" "FALSE" 188 "-" 5.77 5.94 11.72
+"5ibl_CD-DF_D-5ibl_CD-DF_F.387" "ALA" "FALSE" 189 "-" 30.25 2.37 32.63
+"5ibl_CD-DF_D-5ibl_CD-DF_F.388" "ASP" "FALSE" 190 "-" 0 0.04 0.04
+"5ibl_CD-DF_D-5ibl_CD-DF_F.390" "GLN" "FALSE" 192 "-" 16.58 38.07 54.64
+"5ibl_CD-DF_D-5ibl_CD-DF_F.391" "SER" "FALSE" 193 "-" 8.99 3.9 12.89
+"5ibl_CD-DF_D-5ibl_CD-DF_F.392" "LEU" "FALSE" 194 "-" 0 0.01 0.02
+"5ibl_CD-DF_D-5ibl_CD-DF_F.394" "GLN" "FALSE" 196 "-" 0.49 1 1.49
+"5ibl_CD-DF_D-5ibl_CD-DF_F.396" "ALA" "FALSE" 198 "-" 0.1 0 0.1

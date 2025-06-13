@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.28" "PHE" "I" 29 "-" 0 0.04 0.05
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.29" "THR" "I" 30 "-" 0.36 2.06 2.42
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.30" "THR" "I" 31 "-" 2.72 14.16 16.88
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.31" "ALA" "I" 32 "-" 8.34 3.77 12.1
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.32" "GLY" "I" 33 "-" 7.93 4.95 12.89
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.33" "MET" "I" 34 "-" 0 0.15 0.15
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.34" "GLN" "I" 35 "-" 0.1 1.58 1.69
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.46" "TRP" "I" 47 "-" 0.01 0 0.01
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.49" "TRP" "I" 50 "-" 32.97 0.83 33.79
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.50" "ILE" "I" 51 "-" 0.05 0.57 0.62
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.51" "ASN" "I" 52 "-" 3.57 18.15 21.71
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.52" "THR" "I" 52 "A" 1.56 1.63 3.19
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.53" "ARG" "I" 53 "-" 10.55 0.39 10.94
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.58" "LYS" "I" 58 "-" 0.93 1.35 2.28
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.98" "GLU" "I" 95 "-" 8.97 10.33 19.3
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.99" "GLY" "I" 96 "-" 6.51 10.2 16.71
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.100" "PRO" "I" 97 "-" 81.66 2.87 84.53
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.101" "GLY" "I" 98 "-" 2.3 1.63 3.93
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.211" "TYR" "Q" 4 "-" 43.58 33.34 76.92
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.212" "PRO" "Q" 5 "-" 23.01 8.63 31.65
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.213" "GLY" "Q" 6 "-" 12.72 2.61 15.32
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.214" "GLN" "Q" 7 "-" 76.43 113.15 189.57
+"2zpk_IM-IQ_I-2zpk_IM-IQ_Q.215" "VAL" "Q" 8 "-" 73.79 12.15 85.94

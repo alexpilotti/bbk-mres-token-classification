@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8rmo_HL-HF_F-8rmo_HL-HF_H.1" "ASP" "FALSE" 1 "-" 4.11 0.01 4.12
+"8rmo_HL-HF_F-8rmo_HL-HF_H.2" "TYR" "FALSE" 2 "-" 79.14 30.95 110.09
+"8rmo_HL-HF_F-8rmo_HL-HF_H.3" "LYS" "FALSE" 3 "-" 25.05 11.97 37.04
+"8rmo_HL-HF_F-8rmo_HL-HF_H.4" "ASP" "FALSE" 4 "-" 0.15 0.12 0.27
+"8rmo_HL-HF_F-8rmo_HL-HF_H.5" "ASP" "FALSE" 5 "-" 12.64 11.56 24.2
+"8rmo_HL-HF_F-8rmo_HL-HF_H.6" "ASP" "FALSE" 6 "-" 35.05 50.52 85.57
+"8rmo_HL-HF_F-8rmo_HL-HF_H.38" "THR" "H" 33 "-" 7.4 1.77 9.17
+"8rmo_HL-HF_F-8rmo_HL-HF_H.40" "HIS" "H" 35 "-" 2.41 1.51 3.91
+"8rmo_HL-HF_F-8rmo_HL-HF_H.55" "TYR" "H" 50 "-" 10.28 13.32 23.6
+"8rmo_HL-HF_F-8rmo_HL-HF_H.57" "ASN" "H" 52 "-" 1.37 8.1 9.47
+"8rmo_HL-HF_F-8rmo_HL-HF_H.62" "TYR" "H" 57 "-" 0.56 0 0.56
+"8rmo_HL-HF_F-8rmo_HL-HF_H.104" "GLU" "H" 99 "-" 2.39 5.69 8.08
+"8rmo_HL-HF_F-8rmo_HL-HF_H.105" "LYS" "H" 100 "-" 9.37 1.7 11.06
+"8rmo_HL-HF_F-8rmo_HL-HF_H.106" "PHE" "H" 101 "-" 67.6 2.32 69.93
+"8rmo_HL-HF_F-8rmo_HL-HF_H.107" "TYR" "H" 102 "-" 0.55 0 0.55
+"8rmo_HL-HF_F-8rmo_HL-HF_H.109" "TYR" "H" 104 "-" 0.05 0 0.04

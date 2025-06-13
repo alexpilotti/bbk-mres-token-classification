@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8tgo_SP-PR_P-8tgo_SP-PR_R.22" "LEU" "P" 28 "-" 0.3 4.31 4.61
+"8tgo_SP-PR_P-8tgo_SP-PR_R.23" "GLY" "P" 29 "-" 4.64 0.54 5.19
+"8tgo_SP-PR_P-8tgo_SP-PR_R.24" "SER" "P" 30 "-" 8.05 11.07 19.12
+"8tgo_SP-PR_P-8tgo_SP-PR_R.64" "PHE" "P" 67 "C" 31.38 0 31.37
+"8tgo_SP-PR_P-8tgo_SP-PR_R.90" "SER" "P" 93 "-" 6.21 8.47 14.68
+"8tgo_SP-PR_P-8tgo_SP-PR_R.91" "ARG" "P" 94 "-" 26.23 78.4 104.65
+"8tgo_SP-PR_P-8tgo_SP-PR_R.92" "SER" "P" 95 "-" 1.84 2.17 4.01
+"8tgo_SP-PR_P-8tgo_SP-PR_R.93" "GLY" "P" 95 "A" 7.56 3.19 10.76
+"8tgo_SP-PR_P-8tgo_SP-PR_R.94" "PHE" "P" 95 "B" 3.14 0.13 3.26
+"8tgo_SP-PR_P-8tgo_SP-PR_R.310" "THR" "R" 135 "-" 12.59 0.3 12.9
+"8tgo_SP-PR_P-8tgo_SP-PR_R.312" "ASN" "R" 137 "-" 12.34 39.39 51.72
+"8tgo_SP-PR_P-8tgo_SP-PR_R.313" "ILE" "R" 138 "-" 7.58 1.04 8.62
+"8tgo_SP-PR_P-8tgo_SP-PR_R.485" "ASP" "R" 321 "A" 0.04 0.69 0.73
+"8tgo_SP-PR_P-8tgo_SP-PR_R.486" "ILE" "R" 322 "-" 1.56 2.11 3.67
+"8tgo_SP-PR_P-8tgo_SP-PR_R.487" "ILE" "R" 323 "-" 7.94 0.61 8.56
+"8tgo_SP-PR_P-8tgo_SP-PR_R.488" "GLY" "R" 324 "-" 22.1 12.72 34.82
+"8tgo_SP-PR_P-8tgo_SP-PR_R.489" "ASP" "R" 325 "-" 22.25 47.17 69.4
+"8tgo_SP-PR_P-8tgo_SP-PR_R.490" "ILE" "R" 326 "-" 14.6 1.79 16.39

@@ -1,0 +1,9 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6x1t_HL-HM_H-6x1t_HL-HM_M.53" "TYR" "H" 54 "-" 14.53 1.1 15.62
+"6x1t_HL-HM_H-6x1t_HL-HM_M.55" "ARG" "H" 56 "-" 0.48 1.98 2.46
+"6x1t_HL-HM_H-6x1t_HL-HM_M.100" "VAL" "H" 98 "-" 1.22 0 1.21
+"6x1t_HL-HM_H-6x1t_HL-HM_M.103" "SER" "H" 100 "A" 0.1 1.29 1.39
+"6x1t_HL-HM_H-6x1t_HL-HM_M.223" "ILE" "M" 3 "-" 2.08 0 2.08
+"6x1t_HL-HM_H-6x1t_HL-HM_M.224" "ILE" "M" 4 "-" 3.17 0.71 3.88
+"6x1t_HL-HM_H-6x1t_HL-HM_M.225" "GLY" "M" 6 "-" 10.86 5.59 16.46
+"6x1t_HL-HM_H-6x1t_HL-HM_M.226" "SER" "M" 7 "-" 2.52 0.22 2.74

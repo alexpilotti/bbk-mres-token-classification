@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7np1_JN-NC_C-7np1_JN-NC_N.68" "ARG" "C" 403 "-" 0.15 1.33 1.49
+"7np1_JN-NC_C-7np1_JN-NC_N.70" "ASP" "C" 405 "-" 1.52 3.13 4.66
+"7np1_JN-NC_C-7np1_JN-NC_N.73" "ARG" "C" 408 "-" 2.58 22.65 25.24
+"7np1_JN-NC_C-7np1_JN-NC_N.118" "TYR" "C" 453 "-" 0 0.08 0.08
+"7np1_JN-NC_C-7np1_JN-NC_N.151" "PHE" "C" 486 "-" 16.22 0 16.22
+"7np1_JN-NC_C-7np1_JN-NC_N.163" "GLN" "C" 498 "-" 0 2.39 2.39
+"7np1_JN-NC_C-7np1_JN-NC_N.165" "THR" "C" 500 "-" 2.39 6.34 8.73
+"7np1_JN-NC_C-7np1_JN-NC_N.166" "ASN" "C" 501 "-" 1.74 3.82 5.56
+"7np1_JN-NC_C-7np1_JN-NC_N.167" "GLY" "C" 502 "-" 6.07 2.93 9
+"7np1_JN-NC_C-7np1_JN-NC_N.168" "VAL" "C" 503 "-" 0.03 0.19 0.21
+"7np1_JN-NC_C-7np1_JN-NC_N.169" "GLY" "C" 504 "-" 0.88 0.31 1.19
+"7np1_JN-NC_C-7np1_JN-NC_N.170" "TYR" "C" 505 "-" 47.76 26.2 73.95
+"7np1_JN-NC_C-7np1_JN-NC_N.218" "SER" "N" 28 "-" 1.75 0.31 2.06
+"7np1_JN-NC_C-7np1_JN-NC_N.220" "SER" "N" 30 "-" 4.95 13.15 18.1
+"7np1_JN-NC_C-7np1_JN-NC_N.222" "TYR" "N" 32 "-" 29.3 20.76 50.05
+"7np1_JN-NC_C-7np1_JN-NC_N.246" "SER" "N" 56 "-" 10.34 10.95 21.29
+"7np1_JN-NC_C-7np1_JN-NC_N.258" "GLU" "N" 68 "-" 3.39 10.46 13.86
+"7np1_JN-NC_C-7np1_JN-NC_N.281" "SER" "N" 91 "-" 0.03 1.15 1.18
+"7np1_JN-NC_C-7np1_JN-NC_N.282" "TYR" "N" 92 "-" 25.13 32.29 57.42
+"7np1_JN-NC_C-7np1_JN-NC_N.283" "SER" "N" 93 "-" 0.17 0.42 0.6
+"7np1_JN-NC_C-7np1_JN-NC_N.284" "THR" "N" 94 "-" 21.01 5.38 26.39

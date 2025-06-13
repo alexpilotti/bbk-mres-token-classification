@@ -1,0 +1,3 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3idy_BC-CA_A-3idy_BC-CA_C.230" "ARG" "A" 419 "-" 0 0.21 0.22
+"3idy_BC-CA_A-3idy_BC-CA_C.335" "TYR" "C" 32 "-" 0 0.14 0.14

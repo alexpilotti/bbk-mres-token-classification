@@ -1,0 +1,7 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5ds8_HL-HP_H-5ds8_HL-HP_P.97" "ASP" "H" 98 "-" 0 0.24 0.24
+"5ds8_HL-HP_H-5ds8_HL-HP_P.98" "ALA" "H" 99 "-" 38 20.44 58.43
+"5ds8_HL-HP_H-5ds8_HL-HP_P.99" "SER" "H" 100 "-" 5.91 8.61 14.51
+"5ds8_HL-HP_H-5ds8_HL-HP_P.204" "GLY" "P" 3 "-" 5.69 9.58 15.27
+"5ds8_HL-HP_H-5ds8_HL-HP_P.205" "GLY" "P" 5 "-" 19.52 19.01 38.53
+"5ds8_HL-HP_H-5ds8_HL-HP_P.206" "ALA" "P" 6 "-" 22.92 26.39 49.31

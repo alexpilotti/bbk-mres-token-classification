@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7qtj_BC-CA_C-7qtj_BC-CA_A.32" "TYR" "C" 32 "-" 8.56 15.55 24.11
+"7qtj_BC-CA_C-7qtj_BC-CA_A.91" "LEU" "C" 91 "-" 0 0.26 0.26
+"7qtj_BC-CA_C-7qtj_BC-CA_A.92" "HIS" "C" 92 "-" 8.75 9.59 18.33
+"7qtj_BC-CA_C-7qtj_BC-CA_A.330" "VAL" "A" 445 "-" 70.9 0.03 70.92
+"7qtj_BC-CA_C-7qtj_BC-CA_A.384" "PRO" "A" 499 "-" 6.37 0 6.37

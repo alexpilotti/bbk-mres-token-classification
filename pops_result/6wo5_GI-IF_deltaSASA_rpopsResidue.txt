@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6wo5_GI-IF_I-6wo5_GI-IF_F.32" "TYR" "I" 32 "-" 10.13 12.91 23.05
+"6wo5_GI-IF_I-6wo5_GI-IF_F.49" "TYR" "I" 49 "-" 2.52 11.66 14.17
+"6wo5_GI-IF_I-6wo5_GI-IF_F.91" "HIS" "I" 91 "-" 0.1 0.06 0.16
+"6wo5_GI-IF_I-6wo5_GI-IF_F.92" "ASP" "I" 92 "-" 0 0.44 0.43
+"6wo5_GI-IF_I-6wo5_GI-IF_F.93" "ASN" "I" 93 "-" 1.13 8.12 9.25
+"6wo5_GI-IF_I-6wo5_GI-IF_F.94" "LEU" "I" 94 "-" 56.9 2.93 59.82
+"6wo5_GI-IF_I-6wo5_GI-IF_F.95" "PRO" "I" 95 "-" 0.28 0.05 0.32
+"6wo5_GI-IF_I-6wo5_GI-IF_F.218" "LEU" "FALSE" 427 "-" 6.74 0 6.73
+"6wo5_GI-IF_I-6wo5_GI-IF_F.221" "ASN" "FALSE" 430 "-" 0 0.66 0.66
+"6wo5_GI-IF_I-6wo5_GI-IF_F.222" "GLU" "FALSE" 431 "-" 23.52 16.73 40.24
+"6wo5_GI-IF_I-6wo5_GI-IF_F.240" "LYS" "FALSE" 500 "-" 0 0.18 0.19
+"6wo5_GI-IF_I-6wo5_GI-IF_F.268" "SER" "FALSE" 528 "-" 0 0.16 0.16
+"6wo5_GI-IF_I-6wo5_GI-IF_F.269" "TRP" "FALSE" 529 "-" 11.43 2.8 14.24
+"6wo5_GI-IF_I-6wo5_GI-IF_F.271" "ALA" "FALSE" 531 "-" 11.37 0.08 11.45

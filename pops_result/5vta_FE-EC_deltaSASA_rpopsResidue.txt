@@ -1,0 +1,27 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5vta_FE-EC_C-5vta_FE-EC_E.56" "GLU" "C" 94 "-" 0.28 4.98 5.27
+"5vta_FE-EC_C-5vta_FE-EC_E.57" "ILE" "C" 95 "-" 1.8 7.13 8.93
+"5vta_FE-EC_C-5vta_FE-EC_E.58" "PHE" "C" 96 "-" 12.71 3.81 16.52
+"5vta_FE-EC_C-5vta_FE-EC_E.59" "GLY" "C" 97 "-" 18.08 3.83 21.91
+"5vta_FE-EC_C-5vta_FE-EC_E.60" "ASP" "C" 98 "-" 29.69 25.27 54.96
+"5vta_FE-EC_C-5vta_FE-EC_E.61" "SER" "C" 99 "-" 12.8 14.77 27.57
+"5vta_FE-EC_C-5vta_FE-EC_E.62" "ILE" "C" 100 "-" 0 0.03 0.03
+"5vta_FE-EC_C-5vta_FE-EC_E.78" "TYR" "C" 116 "-" 6.53 2.38 8.9
+"5vta_FE-EC_C-5vta_FE-EC_E.79" "ASN" "C" 117 "-" 7.37 30.25 37.62
+"5vta_FE-EC_C-5vta_FE-EC_E.203" "ASP" "C" 241 "-" 6.47 30.18 36.65
+"5vta_FE-EC_C-5vta_FE-EC_E.204" "GLU" "C" 242 "-" 3.09 5.12 8.21
+"5vta_FE-EC_C-5vta_FE-EC_E.708" "SER" "C" 746 "-" 1.93 0 1.93
+"5vta_FE-EC_C-5vta_FE-EC_E.709" "THR" "C" 747 "-" 11.22 0.13 11.35
+"5vta_FE-EC_C-5vta_FE-EC_E.752" "ARG" "E" 24 "-" 0.7 9.06 9.76
+"5vta_FE-EC_C-5vta_FE-EC_E.753" "ALA" "E" 25 "-" 0.01 1.14 1.16
+"5vta_FE-EC_C-5vta_FE-EC_E.754" "SER" "E" 26 "-" 0.14 2.93 3.07
+"5vta_FE-EC_C-5vta_FE-EC_E.755" "SER" "E" 27 "-" 0.01 0 0.01
+"5vta_FE-EC_C-5vta_FE-EC_E.758" "CYS" "E" 30 "-" 5.9 0 5.89
+"5vta_FE-EC_C-5vta_FE-EC_E.759" "ASN" "E" 31 "-" 0.27 3.85 4.12
+"5vta_FE-EC_C-5vta_FE-EC_E.794" "SER" "E" 66 "-" 4.01 6.52 10.53
+"5vta_FE-EC_C-5vta_FE-EC_E.796" "THR" "E" 68 "-" 6.51 7.19 13.7
+"5vta_FE-EC_C-5vta_FE-EC_E.818" "TRP" "E" 90 "-" 51.96 14.5 66.46
+"5vta_FE-EC_C-5vta_FE-EC_E.819" "SER" "E" 91 "-" 9.2 19.49 28.69
+"5vta_FE-EC_C-5vta_FE-EC_E.820" "ASN" "E" 92 "-" 6.09 17.55 23.65
+"5vta_FE-EC_C-5vta_FE-EC_E.821" "HIS" "E" 93 "-" 47.44 25.5 72.93
+"5vta_FE-EC_C-5vta_FE-EC_E.822" "PRO" "E" 94 "-" 0.26 0.04 0.3

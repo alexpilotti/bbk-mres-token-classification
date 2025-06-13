@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7vac_FE-FI_F-7vac_FE-FI_I.28" "ASP" "FALSE" 29 "-" 0.03 1.26 1.3
+"7vac_FE-FI_F-7vac_FE-FI_I.30" "SER" "FALSE" 31 "-" 0 0.06 0.07
+"7vac_FE-FI_F-7vac_FE-FI_I.31" "GLY" "FALSE" 32 "-" 6.48 12.09 18.58
+"7vac_FE-FI_F-7vac_FE-FI_I.32" "TYR" "FALSE" 33 "-" 7.92 2.17 10.09
+"7vac_FE-FI_F-7vac_FE-FI_I.33" "TRP" "FALSE" 34 "-" 28.19 4.11 32.3
+"7vac_FE-FI_F-7vac_FE-FI_I.47" "TRP" "FALSE" 48 "-" 0.2 0 0.2
+"7vac_FE-FI_F-7vac_FE-FI_I.50" "GLU" "FALSE" 51 "-" 1.3 7.94 9.24
+"7vac_FE-FI_F-7vac_FE-FI_I.53" "PRO" "FALSE" 54 "-" 2.85 0 2.85
+"7vac_FE-FI_F-7vac_FE-FI_I.59" "ASN" "FALSE" 60 "-" 0.14 2.48 2.61
+"7vac_FE-FI_F-7vac_FE-FI_I.99" "TYR" "FALSE" 100 "-" 14.19 3.87 18.06
+"7vac_FE-FI_F-7vac_FE-FI_I.100" "TYR" "FALSE" 101 "-" 49.59 15.92 65.51
+"7vac_FE-FI_F-7vac_FE-FI_I.101" "GLU" "FALSE" 102 "-" 45.48 34.29 79.77
+"7vac_FE-FI_F-7vac_FE-FI_I.102" "GLY" "FALSE" 103 "-" 7.15 4.09 11.24
+"7vac_FE-FI_F-7vac_FE-FI_I.103" "PHE" "FALSE" 104 "-" 4.72 0.34 5.07
+"7vac_FE-FI_F-7vac_FE-FI_I.212" "SER" "I" 6 "-" 0.79 5.59 6.38
+"7vac_FE-FI_F-7vac_FE-FI_I.213" "THR" "I" 7 "-" 38.23 9.34 47.57
+"7vac_FE-FI_F-7vac_FE-FI_I.214" "ALA" "I" 8 "-" 68.93 14.1 83.02
+"7vac_FE-FI_F-7vac_FE-FI_I.215" "PRO" "I" 9 "-" 92.46 19.04 111.5
+"7vac_FE-FI_F-7vac_FE-FI_I.216" "PRO" "I" 10 "-" 47.21 8.28 55.48
+"7vac_FE-FI_F-7vac_FE-FI_I.217" "ALA" "I" 11 "-" 68.14 10.43 78.57
+"7vac_FE-FI_F-7vac_FE-FI_I.218" "HIS" "I" 12 "-" 37.72 24.8 62.52

@@ -1,0 +1,12 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7x6o_CD-DB_B-7x6o_CD-DB_D.34" "LEU" "B" 38 "-" 6.7 0 6.7
+"7x6o_CD-DB_B-7x6o_CD-DB_D.35" "LYS" "B" 39 "-" 23.31 30.69 54
+"7x6o_CD-DB_B-7x6o_CD-DB_D.38" "GLN" "B" 42 "-" 3.27 0 3.26
+"7x6o_CD-DB_B-7x6o_CD-DB_D.39" "ASN" "B" 43 "-" 0.62 6.13 6.76
+"7x6o_CD-DB_B-7x6o_CD-DB_D.42" "ASP" "B" 46 "-" 0 0.67 0.67
+"7x6o_CD-DB_B-7x6o_CD-DB_D.53" "GLU" "B" 57 "-" 0.25 2.06 2.31
+"7x6o_CD-DB_B-7x6o_CD-DB_D.197" "TYR" "D" 32 "-" 7.12 15.36 22.48
+"7x6o_CD-DB_B-7x6o_CD-DB_D.218" "ARG" "D" 53 "-" 0 3.83 3.84
+"7x6o_CD-DB_B-7x6o_CD-DB_D.257" "ASP" "D" 92 "-" 3.78 12.27 16.05
+"7x6o_CD-DB_B-7x6o_CD-DB_D.258" "SER" "D" 93 "-" 0.06 0 0.06
+"7x6o_CD-DB_B-7x6o_CD-DB_D.259" "PHE" "D" 94 "-" 2.13 0 2.13

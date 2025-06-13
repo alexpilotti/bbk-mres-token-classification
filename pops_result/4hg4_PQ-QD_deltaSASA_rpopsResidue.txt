@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4hg4_PQ-QD_D-4hg4_PQ-QD_Q.125" "THR" "D" 128 "-" 9.38 13.71 23.09
+"4hg4_PQ-QD_D-4hg4_PQ-QD_Q.126" "GLN" "D" 129 "-" 20.99 32.69 53.68
+"4hg4_PQ-QD_D-4hg4_PQ-QD_Q.127" "HIS" "D" 130 "-" 0.02 0.06 0.08
+"4hg4_PQ-QD_D-4hg4_PQ-QD_Q.154" "LYS" "D" 157 "-" 45.06 32.92 77.98
+"4hg4_PQ-QD_D-4hg4_PQ-QD_Q.155" "GLY" "D" 158 "-" 9.69 3.74 13.43
+"4hg4_PQ-QD_D-4hg4_PQ-QD_Q.156" "SER" "D" 159 "-" 1.34 1.82 3.17
+"4hg4_PQ-QD_D-4hg4_PQ-QD_Q.157" "ASP" "D" 160 "-" 0.8 1.11 1.91
+"4hg4_PQ-QD_D-4hg4_PQ-QD_Q.159" "PRO" "D" 162 "-" 0.37 0 0.37
+"4hg4_PQ-QD_D-4hg4_PQ-QD_Q.354" "ARG" "Q" 30 "-" 16.36 48.1 64.46
+"4hg4_PQ-QD_D-4hg4_PQ-QD_Q.356" "TYR" "Q" 32 "-" 19.28 33.32 52.6
+"4hg4_PQ-QD_D-4hg4_PQ-QD_Q.373" "TYR" "Q" 49 "-" 0.53 0 0.53
+"4hg4_PQ-QD_D-4hg4_PQ-QD_Q.374" "ASP" "Q" 50 "-" 0.15 6.73 6.86
+"4hg4_PQ-QD_D-4hg4_PQ-QD_Q.415" "TYR" "Q" 91 "-" 10.13 3.93 14.05
+"4hg4_PQ-QD_D-4hg4_PQ-QD_Q.416" "ASP" "Q" 92 "-" 3.34 12.14 15.47
+"4hg4_PQ-QD_D-4hg4_PQ-QD_Q.417" "ASN" "Q" 93 "-" 0.07 0.23 0.29

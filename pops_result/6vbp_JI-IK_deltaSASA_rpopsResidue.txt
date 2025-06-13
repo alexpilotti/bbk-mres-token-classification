@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6vbp_JI-IK_I-6vbp_JI-IK_K.31" "HIS" "I" 27 "D" 2.37 1.19 3.56
+"6vbp_JI-IK_I-6vbp_JI-IK_K.33" "SER" "I" 27 "F" 0.79 0.99 1.78
+"6vbp_JI-IK_I-6vbp_JI-IK_K.34" "ASN" "I" 28 "-" 0.31 3.17 3.49
+"6vbp_JI-IK_I-6vbp_JI-IK_K.38" "TYR" "I" 32 "-" 3.43 6.31 9.73
+"6vbp_JI-IK_I-6vbp_JI-IK_K.56" "TRP" "I" 50 "-" 0.12 0 0.12
+"6vbp_JI-IK_I-6vbp_JI-IK_K.96" "GLN" "I" 90 "-" 0.01 0.13 0.14
+"6vbp_JI-IK_I-6vbp_JI-IK_K.97" "TYR" "I" 91 "-" 3.04 3.11 6.15
+"6vbp_JI-IK_I-6vbp_JI-IK_K.98" "TYR" "I" 92 "-" 0.82 4.11 4.94
+"6vbp_JI-IK_I-6vbp_JI-IK_K.99" "SER" "I" 93 "-" 4.25 1.98 6.22
+"6vbp_JI-IK_I-6vbp_JI-IK_K.100" "THR" "I" 94 "-" 12.07 18.31 30.38
+"6vbp_JI-IK_I-6vbp_JI-IK_K.101" "PRO" "I" 95 "-" 0.02 0 0.02
+"6vbp_JI-IK_I-6vbp_JI-IK_K.102" "LEU" "I" 96 "-" 25.31 0.11 25.42
+"6vbp_JI-IK_I-6vbp_JI-IK_K.221" "HIS" "K" 173 "-" 46.22 12.82 59.04
+"6vbp_JI-IK_I-6vbp_JI-IK_K.222" "ALA" "K" 174 "-" 2.96 1.48 4.44
+"6vbp_JI-IK_I-6vbp_JI-IK_K.223" "LEU" "K" 175 "-" 90.95 0.71 91.66
+"6vbp_JI-IK_I-6vbp_JI-IK_K.224" "PHE" "K" 176 "-" 22.22 0 22.22

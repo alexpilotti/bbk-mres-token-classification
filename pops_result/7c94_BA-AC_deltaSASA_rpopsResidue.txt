@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7c94_BA-AC_A-7c94_BA-AC_C.100" "THR" "A" 100 "-" 11.02 8.04 19.07
+"7c94_BA-AC_A-7c94_BA-AC_C.102" "PRO" "A" 102 "-" 2.23 0 2.23
+"7c94_BA-AC_A-7c94_BA-AC_C.225" "ARG" "C" 79 "-" 3.15 30.05 33.21

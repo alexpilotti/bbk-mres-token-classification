@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5kzp_HL-LA_L-5kzp_HL-LA_A.1" "GLU" "L" 1 "-" 0.15 2.96 3.11
+"5kzp_HL-LA_L-5kzp_HL-LA_A.91" "ARG" "L" 91 "-" 5.49 18.66 24.14
+"5kzp_HL-LA_L-5kzp_HL-LA_A.92" "SER" "L" 92 "-" 0.84 10.92 11.74
+"5kzp_HL-LA_L-5kzp_HL-LA_A.93" "ASN" "L" 93 "-" 6.92 19.89 26.81
+"5kzp_HL-LA_L-5kzp_HL-LA_A.94" "TRP" "L" 94 "-" 92.17 7.94 100.12
+"5kzp_HL-LA_L-5kzp_HL-LA_A.95" "ILE" "L" 96 "-" 32.51 0.3 32.81
+"5kzp_HL-LA_L-5kzp_HL-LA_A.217" "ASN" "A" 415 "-" 3.85 11.11 14.96
+"5kzp_HL-LA_L-5kzp_HL-LA_A.218" "THR" "A" 416 "-" 0 0.08 0.08
+"5kzp_HL-LA_L-5kzp_HL-LA_A.219" "ASN" "A" 417 "-" 4.15 11.43 15.58
+"5kzp_HL-LA_L-5kzp_HL-LA_A.220" "GLY" "A" 418 "-" 18.59 11.56 30.15
+"5kzp_HL-LA_L-5kzp_HL-LA_A.221" "SER" "A" 419 "-" 5.33 7.92 13.25
+"5kzp_HL-LA_L-5kzp_HL-LA_A.222" "TRP" "A" 420 "-" 58.9 12.24 71.13
+"5kzp_HL-LA_L-5kzp_HL-LA_A.223" "HIS" "A" 421 "-" 0 0.01 0.01

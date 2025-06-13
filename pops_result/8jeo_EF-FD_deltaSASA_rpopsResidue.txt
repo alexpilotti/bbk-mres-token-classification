@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8jeo_EF-FD_D-8jeo_EF-FD_F.56" "ILE" "D" 77 "-" 4.35 0.42 4.77
+"8jeo_EF-FD_D-8jeo_EF-FD_F.57" "SER" "D" 78 "-" 0.02 0.19 0.22
+"8jeo_EF-FD_D-8jeo_EF-FD_F.58" "PRO" "D" 79 "-" 52.3 13.89 66.21
+"8jeo_EF-FD_D-8jeo_EF-FD_F.59" "SER" "D" 80 "-" 5.52 9.15 14.67
+"8jeo_EF-FD_D-8jeo_EF-FD_F.61" "LYS" "D" 82 "-" 58.16 15 73.17
+"8jeo_EF-FD_D-8jeo_EF-FD_F.62" "ASP" "D" 83 "-" 4 0.87 4.85
+"8jeo_EF-FD_D-8jeo_EF-FD_F.64" "VAL" "D" 85 "-" 0.01 0.75 0.76
+"8jeo_EF-FD_D-8jeo_EF-FD_F.65" "ALA" "D" 86 "-" 0.39 0 0.39
+"8jeo_EF-FD_D-8jeo_EF-FD_F.66" "PRO" "D" 87 "-" 0.28 0 0.28
+"8jeo_EF-FD_D-8jeo_EF-FD_F.138" "TYR" "FALSE" 31 "-" 23 25.94 48.93
+"8jeo_EF-FD_D-8jeo_EF-FD_F.140" "SER" "FALSE" 33 "-" 0 0.08 0.08
+"8jeo_EF-FD_D-8jeo_EF-FD_F.141" "ASN" "FALSE" 34 "-" 0 0.35 0.35
+"8jeo_EF-FD_D-8jeo_EF-FD_F.145" "TYR" "FALSE" 38 "-" 3.41 3.55 6.95
+"8jeo_EF-FD_D-8jeo_EF-FD_F.204" "TYR" "FALSE" 97 "-" 0.01 0.49 0.5
+"8jeo_EF-FD_D-8jeo_EF-FD_F.205" "TYR" "FALSE" 98 "-" 8.16 17.39 25.54
+"8jeo_EF-FD_D-8jeo_EF-FD_F.206" "SER" "FALSE" 99 "-" 4.51 2.47 6.98
+"8jeo_EF-FD_D-8jeo_EF-FD_F.207" "THR" "FALSE" 100 "-" 24.24 24.91 49.15
+"8jeo_EF-FD_D-8jeo_EF-FD_F.209" "PHE" "FALSE" 102 "-" 6.23 0 6.23

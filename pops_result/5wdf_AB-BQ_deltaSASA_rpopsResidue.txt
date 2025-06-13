@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5wdf_AB-BQ_B-5wdf_AB-BQ_Q.88" "ARG" "B" 91 "-" 0.12 7.05 7.17
+"5wdf_AB-BQ_B-5wdf_AB-BQ_Q.93" "SER" "B" 95 "A" 0.02 0.04 0.06
+"5wdf_AB-BQ_B-5wdf_AB-BQ_Q.94" "ARG" "B" 95 "B" 55.61 57.97 113.58
+"5wdf_AB-BQ_B-5wdf_AB-BQ_Q.201" "ASN" "Q" 671 "-" 0 0.19 0.19
+"5wdf_AB-BQ_B-5wdf_AB-BQ_Q.202" "TRP" "Q" 672 "-" 0.34 0.28 0.63
+"5wdf_AB-BQ_B-5wdf_AB-BQ_Q.203" "PHE" "Q" 673 "-" 50.96 0.01 50.97
+"5wdf_AB-BQ_B-5wdf_AB-BQ_Q.207" "LYS" "Q" 677 "-" 1.8 3.55 5.35

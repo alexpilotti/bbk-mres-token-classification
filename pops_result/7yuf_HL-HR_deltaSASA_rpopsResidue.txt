@@ -1,0 +1,3 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7yuf_HL-HR_H-7yuf_HL-HR_R.29" "ASN" "H" 32 "-" 0.03 0.6 0.63
+"7yuf_HL-HR_H-7yuf_HL-HR_R.355" "ASN" "R" 225 "-" 0.02 1.87 1.89

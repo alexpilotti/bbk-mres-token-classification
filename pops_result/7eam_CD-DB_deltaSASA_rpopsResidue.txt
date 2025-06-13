@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7eam_CD-DB_B-7eam_CD-DB_D.34" "ARG" "B" 357 "-" 4.42 37.84 42.27
+"7eam_CD-DB_B-7eam_CD-DB_D.36" "SER" "B" 359 "-" 0 0.1 0.1
+"7eam_CD-DB_B-7eam_CD-DB_D.70" "THR" "B" 393 "-" 2.6 0 2.6
+"7eam_CD-DB_B-7eam_CD-DB_D.71" "ASN" "B" 394 "-" 0.01 2.37 2.39
+"7eam_CD-DB_B-7eam_CD-DB_D.73" "TYR" "B" 396 "-" 0.65 4.2 4.85
+"7eam_CD-DB_B-7eam_CD-DB_D.139" "LYS" "B" 462 "-" 1.54 6.6 8.13
+"7eam_CD-DB_B-7eam_CD-DB_D.193" "GLU" "B" 516 "-" 2.37 11.93 14.3
+"7eam_CD-DB_B-7eam_CD-DB_D.195" "LEU" "B" 518 "-" 41.19 0 41.19
+"7eam_CD-DB_B-7eam_CD-DB_D.196" "HIS" "B" 519 "-" 7.47 12.96 20.42
+"7eam_CD-DB_B-7eam_CD-DB_D.197" "ALA" "B" 520 "-" 16.68 1.21 17.89
+"7eam_CD-DB_B-7eam_CD-DB_D.198" "PRO" "B" 521 "-" 5.16 0.04 5.21
+"7eam_CD-DB_B-7eam_CD-DB_D.232" "ASN" "D" 28 "-" 0.05 1.81 1.86
+"7eam_CD-DB_B-7eam_CD-DB_D.234" "HIS" "D" 30 "-" 16.36 10.11 26.46
+"7eam_CD-DB_B-7eam_CD-DB_D.236" "TYR" "D" 32 "-" 13.14 25.72 38.86
+"7eam_CD-DB_B-7eam_CD-DB_D.253" "TYR" "D" 49 "-" 0 2.26 2.27
+"7eam_CD-DB_B-7eam_CD-DB_D.260" "ASP" "D" 56 "-" 0.34 2.57 2.92
+"7eam_CD-DB_B-7eam_CD-DB_D.296" "TRP" "D" 92 "-" 9.98 0 9.98
+"7eam_CD-DB_B-7eam_CD-DB_D.297" "SER" "D" 93 "-" 5.25 12.35 17.6
+"7eam_CD-DB_B-7eam_CD-DB_D.298" "THR" "D" 94 "-" 14.27 0.95 15.22

@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5hd8_EF-FB_B-5hd8_EF-FB_F.354" "PRO" "B" 380 "-" 28.01 2.23 30.24
+"5hd8_EF-FB_B-5hd8_EF-FB_F.355" "GLN" "B" 381 "-" 26.34 5.98 32.33
+"5hd8_EF-FB_B-5hd8_EF-FB_F.357" "HIS" "B" 383 "-" 28.8 19.33 48.13
+"5hd8_EF-FB_B-5hd8_EF-FB_F.522" "TRP" "FALSE" 90 "-" 24.07 5.4 29.47
+"5hd8_EF-FB_B-5hd8_EF-FB_F.523" "SER" "FALSE" 91 "-" 2.19 8.81 11
+"5hd8_EF-FB_B-5hd8_EF-FB_F.524" "SER" "FALSE" 92 "-" 2.03 0.75 2.78
+"5hd8_EF-FB_B-5hd8_EF-FB_F.525" "HIS" "FALSE" 93 "-" 30.17 10.01 40.18

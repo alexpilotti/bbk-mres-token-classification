@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7t86_DC-CG_C-7t86_DC-CG_G.49" "TYR" "C" 49 "-" 2.29 7.64 9.93
+"7t86_DC-CG_C-7t86_DC-CG_G.214" "SER" "G" 1 "-" 8.95 2.03 10.98
+"7t86_DC-CG_C-7t86_DC-CG_G.215" "ASP" "G" 2 "-" 0.12 0.17 0.28
+"7t86_DC-CG_C-7t86_DC-CG_G.218" "SER" "G" 5 "-" 0.2 0 0.19

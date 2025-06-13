@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7zwm_DE-EA_A-7zwm_DE-EA_E.19" "GLU" "A" 205 "-" 2.69 5.73 8.44
+"7zwm_DE-EA_A-7zwm_DE-EA_E.20" "SER" "A" 206 "-" 16.35 24.76 41.11
+"7zwm_DE-EA_A-7zwm_DE-EA_E.22" "PHE" "A" 208 "-" 0.94 5.11 6.06
+"7zwm_DE-EA_A-7zwm_DE-EA_E.23" "VAL" "A" 209 "-" 45.03 0.34 45.37
+"7zwm_DE-EA_A-7zwm_DE-EA_E.24" "SER" "A" 210 "-" 8.41 17.51 25.92
+"7zwm_DE-EA_A-7zwm_DE-EA_E.25" "ASN" "A" 211 "-" 0.11 2.07 2.17
+"7zwm_DE-EA_A-7zwm_DE-EA_E.28" "GLU" "A" 214 "-" 0.4 3.62 4.02
+"7zwm_DE-EA_A-7zwm_DE-EA_E.87" "LYS" "A" 278 "-" 0.63 3.51 4.14
+"7zwm_DE-EA_A-7zwm_DE-EA_E.91" "TYR" "A" 282 "-" 0.19 0 0.19
+"7zwm_DE-EA_A-7zwm_DE-EA_E.268" "TYR" "E" 31 "-" 27.82 34.17 61.98
+"7zwm_DE-EA_A-7zwm_DE-EA_E.270" "SER" "E" 33 "-" 7.99 5.45 13.44
+"7zwm_DE-EA_A-7zwm_DE-EA_E.271" "ASN" "E" 34 "-" 1.87 3.94 5.81
+"7zwm_DE-EA_A-7zwm_DE-EA_E.275" "TYR" "E" 38 "-" 0.96 3.4 4.37
+"7zwm_DE-EA_A-7zwm_DE-EA_E.293" "TRP" "E" 56 "-" 0.3 0 0.3
+"7zwm_DE-EA_A-7zwm_DE-EA_E.334" "TYR" "E" 97 "-" 0 0.2 0.19
+"7zwm_DE-EA_A-7zwm_DE-EA_E.335" "TYR" "E" 98 "-" 0.13 3.19 3.31
+"7zwm_DE-EA_A-7zwm_DE-EA_E.336" "SER" "E" 99 "-" 8.78 1.19 9.98
+"7zwm_DE-EA_A-7zwm_DE-EA_E.337" "TYR" "E" 100 "-" 33.08 7.28 40.35

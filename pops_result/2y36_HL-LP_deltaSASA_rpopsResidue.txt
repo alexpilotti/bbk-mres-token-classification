@@ -1,0 +1,10 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2y36_HL-LP_L-2y36_HL-LP_P.34" "TYR" "L" 34 "-" 3.03 0.83 3.86
+"2y36_HL-LP_L-2y36_HL-LP_P.93" "TRP" "L" 93 "-" 16.84 1.83 18.67
+"2y36_HL-LP_L-2y36_HL-LP_P.95" "SER" "L" 95 "-" 3.68 14.01 17.68
+"2y36_HL-LP_L-2y36_HL-LP_P.96" "ASN" "L" 96 "-" 15.37 17.87 33.25
+"2y36_HL-LP_L-2y36_HL-LP_P.97" "HIS" "L" 97 "-" 0.5 0.05 0.56
+"2y36_HL-LP_L-2y36_HL-LP_P.98" "TRP" "L" 98 "-" 9.8 3.44 13.24
+"2y36_HL-LP_L-2y36_HL-LP_P.212" "ASP" "P" 1 "-" 30.16 26.37 56.53
+"2y36_HL-LP_L-2y36_HL-LP_P.213" "LEU" "P" 2 "-" 31.91 7.77 39.68
+"2y36_HL-LP_L-2y36_HL-LP_P.214" "TRP" "P" 3 "-" 112.54 12.28 124.82

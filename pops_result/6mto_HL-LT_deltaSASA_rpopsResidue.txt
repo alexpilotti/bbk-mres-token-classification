@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6mto_HL-LT_L-6mto_HL-LT_T.30" "ARG" "L" 29 "-" 7.89 33.22 41.12
+"6mto_HL-LT_L-6mto_HL-LT_T.31" "ASN" "L" 30 "-" 0 2.83 2.83
+"6mto_HL-LT_L-6mto_HL-LT_T.33" "ASN" "L" 32 "-" 0.01 1.25 1.27
+"6mto_HL-LT_L-6mto_HL-LT_T.50" "TYR" "L" 49 "-" 0.06 0 0.06
+"6mto_HL-LT_L-6mto_HL-LT_T.90" "GLN" "L" 89 "-" 0.01 1.9 1.92
+"6mto_HL-LT_L-6mto_HL-LT_T.91" "GLN" "L" 90 "-" 0.03 0.46 0.49
+"6mto_HL-LT_L-6mto_HL-LT_T.92" "TYR" "L" 91 "-" 13.97 7.21 21.18
+"6mto_HL-LT_L-6mto_HL-LT_T.93" "GLY" "L" 92 "-" 1.78 4.17 5.95
+"6mto_HL-LT_L-6mto_HL-LT_T.94" "GLY" "L" 93 "-" 5.15 9.19 14.34
+"6mto_HL-LT_L-6mto_HL-LT_T.95" "SER" "L" 94 "-" 11.82 15.85 27.67
+"6mto_HL-LT_L-6mto_HL-LT_T.96" "PHE" "L" 95 "-" 5.23 2.01 7.24
+"6mto_HL-LT_L-6mto_HL-LT_T.97" "GLY" "L" 96 "-" 4.68 3.19 7.87
+"6mto_HL-LT_L-6mto_HL-LT_T.320" "GLY" "TRUE" 118 "-" 0 0.37 0.37
+"6mto_HL-LT_L-6mto_HL-LT_T.321" "ASN" "TRUE" 119 "-" 6.76 29.16 35.93
+"6mto_HL-LT_L-6mto_HL-LT_T.322" "TRP" "TRUE" 120 "-" 2.13 0.13 2.25
+"6mto_HL-LT_L-6mto_HL-LT_T.323" "PHE" "TRUE" 121 "-" 74.43 0.03 74.46
+"6mto_HL-LT_L-6mto_HL-LT_T.324" "ASP" "TRUE" 122 "-" 4.22 19.08 23.3
+"6mto_HL-LT_L-6mto_HL-LT_T.368" "PHE" "TRUE" 166 "-" 0.05 0 0.05

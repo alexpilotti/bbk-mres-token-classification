@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mp5_HL-LJ_J-5mp5_HL-LJ_L.3" "PRO" "J" 301 "-" 61.66 26.96 88.61
+"5mp5_HL-LJ_J-5mp5_HL-LJ_L.4" "GLY" "J" 302 "-" 23.46 7.27 30.72
+"5mp5_HL-LJ_J-5mp5_HL-LJ_L.5" "GLY" "J" 303 "-" 54.82 47.95 102.76
+"5mp5_HL-LJ_J-5mp5_HL-LJ_L.6" "GLY" "J" 304 "-" 52.91 32.05 84.97
+"5mp5_HL-LJ_J-5mp5_HL-LJ_L.37" "ASN" "L" 31 "-" 2.08 15.24 17.32
+"5mp5_HL-LJ_J-5mp5_HL-LJ_L.40" "THR" "L" 34 "-" 0.59 0.07 0.66
+"5mp5_HL-LJ_J-5mp5_HL-LJ_L.44" "TYR" "L" 38 "-" 11.18 2.44 13.62
+"5mp5_HL-LJ_J-5mp5_HL-LJ_L.103" "SER" "L" 97 "-" 1.13 4.92 6.04
+"5mp5_HL-LJ_J-5mp5_HL-LJ_L.104" "PHE" "L" 98 "-" 13.52 9.27 22.78
+"5mp5_HL-LJ_J-5mp5_HL-LJ_L.105" "TYR" "L" 99 "-" 20.16 2.95 23.12
+"5mp5_HL-LJ_J-5mp5_HL-LJ_L.106" "LEU" "L" 100 "-" 13.6 1.08 14.68
+"5mp5_HL-LJ_J-5mp5_HL-LJ_L.107" "ARG" "L" 101 "-" 1.17 14.28 15.46

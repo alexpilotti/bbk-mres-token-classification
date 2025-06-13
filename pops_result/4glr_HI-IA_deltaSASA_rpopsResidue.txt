@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4glr_HI-IA_A-4glr_HI-IA_I.1" "LYS" "A" 225 "-" 90.16 13.95 104.1
+"4glr_HI-IA_A-4glr_HI-IA_I.4" "VAL" "A" 228 "-" 76.67 1.7 78.36
+"4glr_HI-IA_A-4glr_HI-IA_I.5" "VAL" "A" 229 "-" 0.79 0 0.8
+"4glr_HI-IA_A-4glr_HI-IA_I.34" "TYR" "I" 31 "-" 8.28 1.97 10.24
+"4glr_HI-IA_A-4glr_HI-IA_I.35" "ASP" "I" 32 "-" 2.55 9.03 11.58
+"4glr_HI-IA_A-4glr_HI-IA_I.54" "TRP" "I" 50 "-" 34.61 3.01 37.62
+"4glr_HI-IA_A-4glr_HI-IA_I.95" "TYR" "I" 91 "-" 9.66 5.57 15.22

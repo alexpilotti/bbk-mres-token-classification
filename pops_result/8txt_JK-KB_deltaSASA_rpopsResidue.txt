@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8txt_JK-KB_B-8txt_JK-KB_K.19" "ASP" "B" 19 "-" 0.7 0.77 1.47
+"8txt_JK-KB_B-8txt_JK-KB_K.36" "ALA" "B" 36 "-" 0 0.11 0.11
+"8txt_JK-KB_B-8txt_JK-KB_K.37" "ASP" "B" 37 "-" 0.13 1.8 1.94
+"8txt_JK-KB_B-8txt_JK-KB_K.38" "LYS" "B" 38 "-" 53.77 27.85 81.62
+"8txt_JK-KB_B-8txt_JK-KB_K.39" "GLU" "B" 39 "-" 13.18 21.17 34.35
+"8txt_JK-KB_B-8txt_JK-KB_K.42" "GLN" "B" 42 "-" 9.4 11.52 20.93
+"8txt_JK-KB_B-8txt_JK-KB_K.43" "LYS" "B" 43 "-" 1.31 0 1.3
+"8txt_JK-KB_B-8txt_JK-KB_K.150" "GLU" "B" 150 "-" 2.27 5.68 7.95
+"8txt_JK-KB_B-8txt_JK-KB_K.153" "ARG" "B" 153 "-" 0.01 0.03 0.03
+"8txt_JK-KB_B-8txt_JK-KB_K.154" "ASN" "B" 154 "-" 2.72 2.88 5.6
+"8txt_JK-KB_B-8txt_JK-KB_K.203" "GLN" "K" 27 "-" 0.94 4.43 5.37
+"8txt_JK-KB_B-8txt_JK-KB_K.204" "SER" "K" 28 "-" 1.38 0.51 1.89
+"8txt_JK-KB_B-8txt_JK-KB_K.208" "TYR" "K" 32 "-" 28.17 40.77 68.95
+"8txt_JK-KB_B-8txt_JK-KB_K.267" "ASN" "K" 91 "-" 0 0.94 0.94
+"8txt_JK-KB_B-8txt_JK-KB_K.268" "TYR" "K" 92 "-" 19.51 30.81 50.32
+"8txt_JK-KB_B-8txt_JK-KB_K.269" "ASN" "K" 93 "-" 1.71 5.85 7.56
+"8txt_JK-KB_B-8txt_JK-KB_K.270" "THR" "K" 94 "-" 2.11 7.88 9.99

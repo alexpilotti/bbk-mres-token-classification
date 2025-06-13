@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5hys_AB-BG_B-5hys_AB-BG_G.31" "TYR" "B" 31 "-" 0 0.24 0.24
+"5hys_AB-BG_B-5hys_AB-BG_G.32" "ASP" "B" 32 "-" 6.64 17.11 23.75
+"5hys_AB-BG_B-5hys_AB-BG_G.33" "GLY" "B" 33 "-" 7.05 7.14 14.19
+"5hys_AB-BG_B-5hys_AB-BG_G.34" "ASP" "B" 34 "-" 4 14.34 18.34
+"5hys_AB-BG_B-5hys_AB-BG_G.36" "TYR" "B" 36 "-" 0.85 2.73 3.58
+"5hys_AB-BG_B-5hys_AB-BG_G.53" "TYR" "B" 53 "-" 6.85 14.96 21.8
+"5hys_AB-BG_B-5hys_AB-BG_G.57" "TYR" "B" 57 "-" 23.7 14.36 38.07
+"5hys_AB-BG_B-5hys_AB-BG_G.257" "ASN" "G" 371 "-" 0 0.05 0.05
+"5hys_AB-BG_B-5hys_AB-BG_G.303" "GLN" "G" 417 "-" 1.43 13.15 14.57
+"5hys_AB-BG_B-5hys_AB-BG_G.305" "ARG" "G" 419 "-" 16.05 70.14 86.19
+"5hys_AB-BG_B-5hys_AB-BG_G.307" "THR" "G" 421 "-" 4.17 0 4.16
+"5hys_AB-BG_B-5hys_AB-BG_G.314" "ALA" "G" 428 "-" 8.16 2.39 10.55
+"5hys_AB-BG_B-5hys_AB-BG_G.315" "LEU" "G" 429 "-" 0.17 0.02 0.17
+"5hys_AB-BG_B-5hys_AB-BG_G.316" "MET" "G" 430 "-" 42.31 2.73 45.04
+"5hys_AB-BG_B-5hys_AB-BG_G.318" "SER" "G" 432 "-" 0.5 0.63 1.13

@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6q18_HL-LA_A-6q18_HL-LA_L.138" "ARG" "A" 189 "-" 5.11 5.8 10.91
+"6q18_HL-LA_A-6q18_HL-LA_L.240" "TYR" "L" 30 "-" 0 0.05 0.05
+"6q18_HL-LA_A-6q18_HL-LA_L.306" "ARG" "L" 96 "-" 1.52 18.56 20.08

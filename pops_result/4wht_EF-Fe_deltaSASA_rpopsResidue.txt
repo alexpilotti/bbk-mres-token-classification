@@ -1,0 +1,27 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4wht_EF-Fe_F-4wht_EF-Fe_e.31" "GLU" "FALSE" 31 "-" 3.46 14.51 17.99
+"4wht_EF-Fe_F-4wht_EF-Fe_e.33" "ASP" "FALSE" 33 "-" 0.09 1.14 1.23
+"4wht_EF-Fe_F-4wht_EF-Fe_e.35" "ASN" "FALSE" 35 "-" 0.94 4.15 5.1
+"4wht_EF-Fe_F-4wht_EF-Fe_e.36" "THR" "FALSE" 36 "-" 0 0.02 0.02
+"4wht_EF-Fe_F-4wht_EF-Fe_e.37" "TYR" "FALSE" 37 "-" 30.4 6.66 37.05
+"4wht_EF-Fe_F-4wht_EF-Fe_e.39" "ASN" "FALSE" 39 "-" 0.62 11.57 12.19
+"4wht_EF-Fe_F-4wht_EF-Fe_e.51" "LEU" "FALSE" 51 "-" 5.58 0 5.58
+"4wht_EF-Fe_F-4wht_EF-Fe_e.54" "TYR" "FALSE" 54 "-" 20.69 3.67 24.37
+"4wht_EF-Fe_F-4wht_EF-Fe_e.55" "SER" "FALSE" 55 "-" 7.23 7.9 15.13
+"4wht_EF-Fe_F-4wht_EF-Fe_e.58" "ASN" "FALSE" 58 "-" 0.93 6.81 7.73
+"4wht_EF-Fe_F-4wht_EF-Fe_e.60" "GLU" "FALSE" 60 "-" 0.89 3.5 4.39
+"4wht_EF-Fe_F-4wht_EF-Fe_e.94" "MET" "FALSE" 94 "-" 1.14 0 1.15
+"4wht_EF-Fe_F-4wht_EF-Fe_e.96" "THR" "FALSE" 96 "-" 22.72 19.7 42.42
+"4wht_EF-Fe_F-4wht_EF-Fe_e.97" "THR" "FALSE" 97 "-" 1.56 7.02 8.58
+"4wht_EF-Fe_F-4wht_EF-Fe_e.98" "HIS" "FALSE" 98 "-" 4.17 2.98 7.16
+"4wht_EF-Fe_F-4wht_EF-Fe_e.99" "ALA" "FALSE" 99 "-" 33.51 5.51 39.02
+"4wht_EF-Fe_F-4wht_EF-Fe_e.100" "PRO" "FALSE" 100 "-" 34.57 0.61 35.19
+"4wht_EF-Fe_F-4wht_EF-Fe_e.216" "GLN" "e" 412 "-" 74.88 82.05 156.93
+"4wht_EF-Fe_F-4wht_EF-Fe_e.217" "LEU" "e" 413 "-" 75.14 15.57 90.71
+"4wht_EF-Fe_F-4wht_EF-Fe_e.218" "ILE" "e" 414 "-" 18.24 5.16 23.41
+"4wht_EF-Fe_F-4wht_EF-Fe_e.219" "ASN" "e" 415 "-" 22.43 39.74 62.18
+"4wht_EF-Fe_F-4wht_EF-Fe_e.220" "THR" "e" 416 "-" 0 0.25 0.25
+"4wht_EF-Fe_F-4wht_EF-Fe_e.221" "ASN" "e" 417 "-" 0.04 0.44 0.47
+"4wht_EF-Fe_F-4wht_EF-Fe_e.222" "GLY" "e" 418 "-" 0.86 0.03 0.89
+"4wht_EF-Fe_F-4wht_EF-Fe_e.223" "SER" "e" 419 "-" 1.45 1.01 2.46
+"4wht_EF-Fe_F-4wht_EF-Fe_e.224" "TRP" "e" 420 "-" 48.83 4.52 53.35

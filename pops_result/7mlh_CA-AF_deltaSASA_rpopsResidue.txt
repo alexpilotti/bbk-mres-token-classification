@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7mlh_CA-AF_A-7mlh_CA-AF_F.30" "ASN" "A" 30 "-" 0 0.93 0.94
+"7mlh_CA-AF_A-7mlh_CA-AF_F.32" "TRP" "A" 32 "-" 19.99 2.28 22.26
+"7mlh_CA-AF_A-7mlh_CA-AF_F.50" "LYS" "A" 50 "-" 0.08 0 0.07
+"7mlh_CA-AF_A-7mlh_CA-AF_F.91" "TYR" "A" 91 "-" 2.12 3.33 5.44
+"7mlh_CA-AF_A-7mlh_CA-AF_F.92" "HIS" "A" 92 "-" 4.52 11.84 16.36
+"7mlh_CA-AF_A-7mlh_CA-AF_F.93" "SER" "A" 93 "-" 5.13 3.45 8.58
+"7mlh_CA-AF_A-7mlh_CA-AF_F.94" "HIS" "A" 94 "-" 24.45 9.37 33.82
+"7mlh_CA-AF_A-7mlh_CA-AF_F.95" "ARG" "A" 95 "-" 6.76 34.61 41.38
+"7mlh_CA-AF_A-7mlh_CA-AF_F.267" "ILE" "FALSE" 58 "-" 0 0.17 0.18
+"7mlh_CA-AF_A-7mlh_CA-AF_F.268" "ASP" "FALSE" 59 "-" 9.39 13.57 22.96
+"7mlh_CA-AF_A-7mlh_CA-AF_F.269" "GLY" "FALSE" 60 "-" 20.13 20.98 41.12
+"7mlh_CA-AF_A-7mlh_CA-AF_F.270" "LEU" "FALSE" 61 "-" 55.91 0.4 56.32
+"7mlh_CA-AF_A-7mlh_CA-AF_F.271" "GLU" "FALSE" 62 "-" 0.25 0.29 0.54
+"7mlh_CA-AF_A-7mlh_CA-AF_F.311" "GLU" "FALSE" 102 "-" 10.89 4.99 15.89
+"7mlh_CA-AF_A-7mlh_CA-AF_F.312" "ASN" "FALSE" 103 "-" 12.55 29.85 42.39
+"7mlh_CA-AF_A-7mlh_CA-AF_F.314" "VAL" "FALSE" 105 "-" 1.51 0 1.5
+"7mlh_CA-AF_A-7mlh_CA-AF_F.335" "LYS" "FALSE" 126 "-" 0 0.21 0.21

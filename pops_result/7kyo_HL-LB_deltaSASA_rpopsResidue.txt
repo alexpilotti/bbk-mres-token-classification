@@ -1,0 +1,26 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7kyo_HL-LB_B-7kyo_HL-LB_L.27" "PRO" "B" 27 "-" 20.21 0.14 20.35
+"7kyo_HL-LB_B-7kyo_HL-LB_L.107" "LYS" "B" 107 "-" 9.08 15.52 24.6
+"7kyo_HL-LB_B-7kyo_HL-LB_L.109" "LYS" "B" 109 "-" 39.48 25.15 64.64
+"7kyo_HL-LB_B-7kyo_HL-LB_L.110" "HIS" "B" 110 "-" 0.1 0 0.1
+"7kyo_HL-LB_B-7kyo_HL-LB_L.112" "LYS" "B" 112 "-" 0.61 1.75 2.36
+"7kyo_HL-LB_B-7kyo_HL-LB_L.113" "LYS" "B" 113 "-" 6.74 7.46 14.19
+"7kyo_HL-LB_B-7kyo_HL-LB_L.151" "GLU" "B" 151 "-" 0.69 5.54 6.23
+"7kyo_HL-LB_B-7kyo_HL-LB_L.153" "ASP" "B" 153 "-" 0.31 2.6 2.91
+"7kyo_HL-LB_B-7kyo_HL-LB_L.180" "LYS" "B" 180 "-" 2.4 1.65 4.05
+"7kyo_HL-LB_B-7kyo_HL-LB_L.181" "LYS" "B" 181 "-" 39.1 31.33 70.43
+"7kyo_HL-LB_B-7kyo_HL-LB_L.182" "ALA" "B" 182 "-" 18.72 14.31 33.02
+"7kyo_HL-LB_B-7kyo_HL-LB_L.183" "GLY" "B" 183 "-" 9.62 2.41 12.02
+"7kyo_HL-LB_B-7kyo_HL-LB_L.184" "LYS" "B" 184 "-" 7.35 16.26 23.61
+"7kyo_HL-LB_B-7kyo_HL-LB_L.265" "TYR" "L" 31 "-" 14.31 1.79 16.1
+"7kyo_HL-LB_B-7kyo_HL-LB_L.266" "ASP" "L" 32 "-" 14.81 31.71 46.51
+"7kyo_HL-LB_B-7kyo_HL-LB_L.267" "GLY" "L" 33 "-" 0.47 0.21 0.67
+"7kyo_HL-LB_B-7kyo_HL-LB_L.268" "ASP" "L" 34 "-" 5.83 23.41 29.24
+"7kyo_HL-LB_B-7kyo_HL-LB_L.270" "TYR" "L" 36 "-" 1.26 9.55 10.81
+"7kyo_HL-LB_B-7kyo_HL-LB_L.284" "LEU" "L" 50 "-" 0.28 0 0.27
+"7kyo_HL-LB_B-7kyo_HL-LB_L.287" "TYR" "L" 53 "-" 12.14 20.7 32.83
+"7kyo_HL-LB_B-7kyo_HL-LB_L.291" "ASN" "L" 57 "-" 1.93 13.86 15.8
+"7kyo_HL-LB_B-7kyo_HL-LB_L.292" "LEU" "L" 58 "-" 1.38 7.71 9.09
+"7kyo_HL-LB_B-7kyo_HL-LB_L.293" "GLU" "L" 59 "-" 12.1 24.84 36.94
+"7kyo_HL-LB_B-7kyo_HL-LB_L.294" "SER" "L" 60 "-" 48.96 32.66 81.62
+"7kyo_HL-LB_B-7kyo_HL-LB_L.295" "GLY" "L" 61 "-" 0.29 1.09 1.38

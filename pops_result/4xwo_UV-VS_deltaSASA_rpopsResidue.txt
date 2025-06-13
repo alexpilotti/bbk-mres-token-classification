@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4xwo_UV-VS_S-4xwo_UV-VS_V.204" "GLU" "S" 253 "-" 3.1 7.78 10.88
+"4xwo_UV-VS_S-4xwo_UV-VS_V.207" "ILE" "S" 256 "-" 4.29 0.07 4.35
+"4xwo_UV-VS_S-4xwo_UV-VS_V.208" "GLN" "S" 257 "-" 5.5 24.6 30.09
+"4xwo_UV-VS_S-4xwo_UV-VS_V.211" "ILE" "S" 260 "-" 11.94 0 11.94
+"4xwo_UV-VS_S-4xwo_UV-VS_V.217" "VAL" "S" 266 "-" 0.13 0 0.12
+"4xwo_UV-VS_S-4xwo_UV-VS_V.250" "GLU" "S" 304 "-" 14.16 39.68 53.85
+"4xwo_UV-VS_S-4xwo_UV-VS_V.251" "LEU" "S" 305 "-" 24.49 3.2 27.69
+"4xwo_UV-VS_S-4xwo_UV-VS_V.252" "TYR" "S" 306 "-" 4.96 1.32 6.28
+"4xwo_UV-VS_S-4xwo_UV-VS_V.253" "GLU" "S" 307 "-" 13.68 52.64 66.33
+"4xwo_UV-VS_S-4xwo_UV-VS_V.254" "ASP" "S" 308 "-" 5.93 22.94 28.87
+"4xwo_UV-VS_S-4xwo_UV-VS_V.255" "PHE" "S" 309 "-" 6.78 0 6.78
+"4xwo_UV-VS_S-4xwo_UV-VS_V.324" "VAL" "V" 30 "-" 0.01 0.12 0.13
+"4xwo_UV-VS_S-4xwo_UV-VS_V.325" "SER" "V" 31 "-" 13.37 12.67 26.05
+"4xwo_UV-VS_S-4xwo_UV-VS_V.326" "SER" "V" 32 "-" 9.43 8.16 17.58
+"4xwo_UV-VS_S-4xwo_UV-VS_V.327" "ALA" "V" 33 "-" 0.61 0.37 0.99
+"4xwo_UV-VS_S-4xwo_UV-VS_V.344" "TYR" "V" 50 "-" 6.93 0.79 7.74
+"4xwo_UV-VS_S-4xwo_UV-VS_V.345" "SER" "V" 51 "-" 3.63 5.83 9.46
+"4xwo_UV-VS_S-4xwo_UV-VS_V.348" "SER" "V" 54 "-" 0.07 0.03 0.11
+"4xwo_UV-VS_S-4xwo_UV-VS_V.361" "ARG" "V" 67 "-" 0 0.63 0.63
+"4xwo_UV-VS_S-4xwo_UV-VS_V.386" "TYR" "V" 92 "-" 0.47 0.23 0.7
+"4xwo_UV-VS_S-4xwo_UV-VS_V.388" "TYR" "V" 94 "-" 118.61 48.04 166.65
+"4xwo_UV-VS_S-4xwo_UV-VS_V.389" "TYR" "V" 95 "-" 1.12 0.49 1.62

@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5x8l_SN-ND_D-5x8l_SN-ND_N.1" "ALA" "D" 18 "-" 5.16 2.35 7.52
+"5x8l_SN-ND_D-5x8l_SN-ND_N.32" "ASP" "D" 49 "-" 7.07 26.47 33.53
+"5x8l_SN-ND_D-5x8l_SN-ND_N.33" "LEU" "D" 50 "-" 0.1 0.03 0.12
+"5x8l_SN-ND_D-5x8l_SN-ND_N.34" "ALA" "D" 51 "-" 25.63 11.15 36.78
+"5x8l_SN-ND_D-5x8l_SN-ND_N.35" "ALA" "D" 52 "-" 17.01 2.88 19.89
+"5x8l_SN-ND_D-5x8l_SN-ND_N.36" "LEU" "D" 53 "-" 0 0.05 0.04
+"5x8l_SN-ND_D-5x8l_SN-ND_N.37" "ILE" "D" 54 "-" 10.74 0 10.75
+"5x8l_SN-ND_D-5x8l_SN-ND_N.51" "VAL" "D" 68 "-" 9.91 0 9.91
+"5x8l_SN-ND_D-5x8l_SN-ND_N.52" "HIS" "D" 69 "-" 34.16 19.21 53.39
+"5x8l_SN-ND_D-5x8l_SN-ND_N.100" "SER" "D" 117 "-" 0 0.56 0.56
+"5x8l_SN-ND_D-5x8l_SN-ND_N.101" "TYR" "D" 118 "-" 0.48 0.18 0.66
+"5x8l_SN-ND_D-5x8l_SN-ND_N.102" "GLY" "D" 119 "-" 22.69 12.33 35.02
+"5x8l_SN-ND_D-5x8l_SN-ND_N.103" "GLY" "D" 120 "-" 7.05 3.09 10.14
+"5x8l_SN-ND_D-5x8l_SN-ND_N.104" "ALA" "D" 121 "-" 0 0.15 0.15
+"5x8l_SN-ND_D-5x8l_SN-ND_N.148" "ALA" "N" 32 "-" 1.9 0 1.9
+"5x8l_SN-ND_D-5x8l_SN-ND_N.165" "TYR" "N" 49 "-" 0.67 0.23 0.9
+"5x8l_SN-ND_D-5x8l_SN-ND_N.169" "PHE" "N" 53 "-" 1.27 0 1.26
+"5x8l_SN-ND_D-5x8l_SN-ND_N.207" "TYR" "N" 91 "-" 13.35 3.24 16.59
+"5x8l_SN-ND_D-5x8l_SN-ND_N.208" "LEU" "N" 92 "-" 18.2 6.51 24.7
+"5x8l_SN-ND_D-5x8l_SN-ND_N.209" "TYR" "N" 93 "-" 37.7 16.25 53.95
+"5x8l_SN-ND_D-5x8l_SN-ND_N.210" "HIS" "N" 94 "-" 27.36 15.22 42.58
+"5x8l_SN-ND_D-5x8l_SN-ND_N.211" "PRO" "N" 95 "-" 1.2 0.08 1.28

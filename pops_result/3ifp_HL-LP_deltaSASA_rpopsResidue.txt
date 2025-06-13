@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3ifp_HL-LP_L-3ifp_HL-LP_P.30" "VAL" "L" 30 "-" 0.06 0.93 0.99
+"3ifp_HL-LP_L-3ifp_HL-LP_P.31" "HIS" "L" 31 "-" 21.38 16.99 38.37
+"3ifp_HL-LP_L-3ifp_HL-LP_P.32" "SER" "L" 32 "-" 16.02 11.46 27.48
+"3ifp_HL-LP_L-3ifp_HL-LP_P.33" "ASN" "L" 33 "-" 3.46 8.65 12.11
+"3ifp_HL-LP_L-3ifp_HL-LP_P.37" "TYR" "L" 37 "-" 15.82 7.63 23.45
+"3ifp_HL-LP_L-3ifp_HL-LP_P.96" "GLY" "L" 96 "-" 1.61 7.66 9.27
+"3ifp_HL-LP_L-3ifp_HL-LP_P.97" "SER" "L" 97 "-" 2.97 10.21 13.2
+"3ifp_HL-LP_L-3ifp_HL-LP_P.98" "HIS" "L" 98 "-" 11.96 6.87 18.83
+"3ifp_HL-LP_L-3ifp_HL-LP_P.99" "VAL" "L" 99 "-" 41.1 4.43 45.53
+"3ifp_HL-LP_L-3ifp_HL-LP_P.101" "LEU" "L" 101 "-" 29.92 0.04 29.96
+"3ifp_HL-LP_L-3ifp_HL-LP_P.219" "ALA" "P" 2 "-" 5.71 25.69 31.41
+"3ifp_HL-LP_L-3ifp_HL-LP_P.220" "GLU" "P" 3 "-" 69.73 83.74 153.48
+"3ifp_HL-LP_L-3ifp_HL-LP_P.221" "PHE" "P" 4 "-" 55.31 8.2 63.52
+"3ifp_HL-LP_L-3ifp_HL-LP_P.222" "ARG" "P" 5 "-" 0.58 0.26 0.84
+"3ifp_HL-LP_L-3ifp_HL-LP_P.223" "HIS" "P" 6 "-" 49.38 23.19 72.57
+"3ifp_HL-LP_L-3ifp_HL-LP_P.224" "ASP" "P" 7 "-" 3.86 14.22 18.08

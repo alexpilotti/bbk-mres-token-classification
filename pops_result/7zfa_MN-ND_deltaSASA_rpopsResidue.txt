@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7zfa_MN-ND_D-7zfa_MN-ND_N.13" "THR" "D" 345 "-" 11.73 2.71 14.44
+"7zfa_MN-ND_D-7zfa_MN-ND_N.14" "ARG" "D" 346 "-" 8.43 60.77 69.19
+"7zfa_MN-ND_D-7zfa_MN-ND_N.109" "LEU" "D" 441 "-" 0.55 0 0.54
+"7zfa_MN-ND_D-7zfa_MN-ND_N.112" "LYS" "D" 444 "-" 20.06 11.3 31.36
+"7zfa_MN-ND_D-7zfa_MN-ND_N.113" "VAL" "D" 445 "-" 0.45 0 0.45
+"7zfa_MN-ND_D-7zfa_MN-ND_N.114" "SER" "D" 446 "-" 9.17 10.21 19.36
+"7zfa_MN-ND_D-7zfa_MN-ND_N.115" "GLY" "D" 447 "-" 0 0.33 0.34
+"7zfa_MN-ND_D-7zfa_MN-ND_N.225" "SER" "N" 30 "-" 3.92 6.89 10.82
+"7zfa_MN-ND_D-7zfa_MN-ND_N.226" "SER" "N" 31 "-" 0.04 0.96 0.99
+"7zfa_MN-ND_D-7zfa_MN-ND_N.227" "PHE" "N" 32 "-" 1.64 0.25 1.88
+"7zfa_MN-ND_D-7zfa_MN-ND_N.229" "HIS" "N" 34 "-" 0.58 0.23 0.81
+"7zfa_MN-ND_D-7zfa_MN-ND_N.245" "ASP" "N" 50 "-" 1.7 6.71 8.42
+"7zfa_MN-ND_D-7zfa_MN-ND_N.286" "SER" "N" 91 "-" 0.69 5.03 5.72
+"7zfa_MN-ND_D-7zfa_MN-ND_N.287" "TYR" "N" 92 "-" 0.53 4.13 4.66
+"7zfa_MN-ND_D-7zfa_MN-ND_N.288" "GLU" "N" 93 "-" 1.51 0.64 2.14
+"7zfa_MN-ND_D-7zfa_MN-ND_N.289" "ASN" "N" 94 "-" 8.79 30.94 39.73
+"7zfa_MN-ND_D-7zfa_MN-ND_N.291" "LEU" "N" 96 "-" 0.13 0 0.12

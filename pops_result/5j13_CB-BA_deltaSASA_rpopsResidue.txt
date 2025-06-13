@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5j13_CB-BA_A-5j13_CB-BA_B.35" "ASN" "A" 64 "-" 5.93 2.42 8.34
+"5j13_CB-BA_A-5j13_CB-BA_B.106" "ARG" "A" 153 "-" 0 1.19 1.19
+"5j13_CB-BA_A-5j13_CB-BA_B.158" "ASP" "B" 52 "-" 0 0.67 0.68
+"5j13_CB-BA_A-5j13_CB-BA_B.164" "SER" "B" 58 "-" 2.07 1.55 3.62
+"5j13_CB-BA_A-5j13_CB-BA_B.165" "TRP" "B" 59 "-" 0.83 0 0.82

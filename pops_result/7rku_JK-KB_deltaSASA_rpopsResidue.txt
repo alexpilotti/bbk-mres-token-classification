@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7rku_JK-KB_B-7rku_JK-KB_K.46" "LYS" "B" 378 "-" 4.94 8.9 13.84
+"7rku_JK-KB_B-7rku_JK-KB_K.73" "ASP" "B" 405 "-" 0 1.51 1.51
+"7rku_JK-KB_B-7rku_JK-KB_K.76" "ARG" "B" 408 "-" 22.84 56.49 79.33
+"7rku_JK-KB_B-7rku_JK-KB_K.77" "GLN" "B" 409 "-" 0.15 0.42 0.58
+"7rku_JK-KB_B-7rku_JK-KB_K.82" "GLN" "B" 414 "-" 1.76 18.19 19.95
+"7rku_JK-KB_B-7rku_JK-KB_K.83" "THR" "B" 415 "-" 6.96 15.02 21.97
+"7rku_JK-KB_B-7rku_JK-KB_K.84" "GLY" "B" 416 "-" 3.47 1.13 4.61
+"7rku_JK-KB_B-7rku_JK-KB_K.85" "LYS" "B" 417 "-" 0 1.34 1.34
+"7rku_JK-KB_B-7rku_JK-KB_K.228" "TRP" "K" 32 "-" 0.66 0 0.66
+"7rku_JK-KB_B-7rku_JK-KB_K.245" "TYR" "K" 47 "-" 13.38 23.61 36.99
+"7rku_JK-KB_B-7rku_JK-KB_K.246" "LYS" "K" 48 "-" 2.98 6.74 9.73
+"7rku_JK-KB_B-7rku_JK-KB_K.248" "SER" "K" 50 "-" 0.03 0.36 0.39
+"7rku_JK-KB_B-7rku_JK-KB_K.249" "SER" "K" 51 "-" 6.64 4.81 11.44
+"7rku_JK-KB_B-7rku_JK-KB_K.250" "LEU" "K" 52 "-" 2.56 5.51 8.07
+"7rku_JK-KB_B-7rku_JK-KB_K.251" "GLU" "K" 53 "-" 1.82 11.43 13.25
+"7rku_JK-KB_B-7rku_JK-KB_K.252" "SER" "K" 54 "-" 27.18 19.11 46.29

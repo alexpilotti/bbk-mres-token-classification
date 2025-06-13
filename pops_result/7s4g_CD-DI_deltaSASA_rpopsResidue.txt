@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7s4g_CD-DI_D-7s4g_CD-DI_I.31" "LEU" "D" 31 "-" 21.23 0 21.23
+"7s4g_CD-DI_D-7s4g_CD-DI_I.32" "SER" "D" 32 "-" 0.15 0.91 1.06
+"7s4g_CD-DI_D-7s4g_CD-DI_I.33" "GLY" "D" 33 "-" 18.8 15.02 33.83
+"7s4g_CD-DI_D-7s4g_CD-DI_I.34" "ASN" "D" 34 "-" 11.91 6.26 18.17
+"7s4g_CD-DI_D-7s4g_CD-DI_I.36" "GLU" "D" 36 "-" 0.05 0 0.05
+"7s4g_CD-DI_D-7s4g_CD-DI_I.38" "TYR" "D" 38 "-" 0 0.62 0.62
+"7s4g_CD-DI_D-7s4g_CD-DI_I.98" "TYR" "D" 98 "-" 0.22 0.76 0.98
+"7s4g_CD-DI_D-7s4g_CD-DI_I.219" "ASP" "I" 95 "-" 3.52 14.23 17.76
+"7s4g_CD-DI_D-7s4g_CD-DI_I.220" "CYS" "I" 96 "-" 15.28 0.85 16.14
+"7s4g_CD-DI_D-7s4g_CD-DI_I.221" "TYR" "I" 97 "-" 0.71 0.63 1.33
+"7s4g_CD-DI_D-7s4g_CD-DI_I.225" "LEU" "I" 101 "-" 12.9 5.69 18.59
+"7s4g_CD-DI_D-7s4g_CD-DI_I.226" "CYS" "I" 102 "-" 31.24 8.64 39.88
+"7s4g_CD-DI_D-7s4g_CD-DI_I.227" "ASN" "I" 103 "-" 10.73 9.06 19.79

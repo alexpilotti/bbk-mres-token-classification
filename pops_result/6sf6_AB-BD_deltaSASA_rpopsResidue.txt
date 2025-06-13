@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6sf6_AB-BD_B-6sf6_AB-BD_D.31" "HIS" "B" 31 "-" 6.61 6.98 13.58
+"6sf6_AB-BD_B-6sf6_AB-BD_D.32" "SER" "B" 32 "-" 0 0.49 0.49
+"6sf6_AB-BD_B-6sf6_AB-BD_D.33" "ASN" "B" 33 "-" 0.56 0.15 0.71
+"6sf6_AB-BD_B-6sf6_AB-BD_D.37" "TYR" "B" 37 "-" 2.53 0 2.53
+"6sf6_AB-BD_B-6sf6_AB-BD_D.39" "GLU" "B" 39 "-" 0.01 0.19 0.2
+"6sf6_AB-BD_B-6sf6_AB-BD_D.94" "PHE" "B" 94 "-" 0.82 0 0.81
+"6sf6_AB-BD_B-6sf6_AB-BD_D.96" "GLY" "B" 96 "-" 1.08 2 3.07
+"6sf6_AB-BD_B-6sf6_AB-BD_D.97" "SER" "B" 97 "-" 0.02 0.19 0.21
+"6sf6_AB-BD_B-6sf6_AB-BD_D.99" "VAL" "B" 99 "-" 14.87 0.06 14.92
+"6sf6_AB-BD_B-6sf6_AB-BD_D.101" "PHE" "B" 101 "-" 21.22 0 21.22
+"6sf6_AB-BD_B-6sf6_AB-BD_D.221" "LEU" "D" 245 "-" 2.98 0 2.99
+"6sf6_AB-BD_B-6sf6_AB-BD_D.222" "GLU" "D" 246 "-" 0.01 0.4 0.41
+"6sf6_AB-BD_B-6sf6_AB-BD_D.223" "ARG" "D" 247 "-" 39.6 85.92 125.52
+"6sf6_AB-BD_B-6sf6_AB-BD_D.224" "ASP" "D" 248 "-" 14.64 5.4 20.04
+"6sf6_AB-BD_B-6sf6_AB-BD_D.225" "GLY" "D" 249 "-" 1.26 0.27 1.51

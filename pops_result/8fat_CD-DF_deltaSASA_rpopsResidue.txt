@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8fat_CD-DF_D-8fat_CD-DF_F.29" "HIS" "D" 27 "D" 16.15 10.75 26.9
+"8fat_CD-DF_D-8fat_CD-DF_F.31" "ASN" "D" 28 "-" 0.8 3.98 4.78
+"8fat_CD-DF_D-8fat_CD-DF_F.33" "ILE" "D" 30 "-" 0.23 0 0.23
+"8fat_CD-DF_D-8fat_CD-DF_F.35" "TYR" "D" 32 "-" 13.5 6.94 20.44
+"8fat_CD-DF_D-8fat_CD-DF_F.93" "GLN" "D" 90 "-" 0 0.01 0.01
+"8fat_CD-DF_D-8fat_CD-DF_F.94" "THR" "D" 91 "-" 9.45 24.73 34.18
+"8fat_CD-DF_D-8fat_CD-DF_F.95" "THR" "D" 92 "-" 2.19 8.14 10.33
+"8fat_CD-DF_D-8fat_CD-DF_F.96" "GLN" "D" 93 "-" 15.92 29.94 45.87
+"8fat_CD-DF_D-8fat_CD-DF_F.97" "PHE" "D" 94 "-" 112.78 1.33 114.12
+"8fat_CD-DF_D-8fat_CD-DF_F.98" "PRO" "D" 95 "-" 0.7 0 0.71
+"8fat_CD-DF_D-8fat_CD-DF_F.99" "ILE" "D" 96 "-" 6.61 0 6.61
+"8fat_CD-DF_D-8fat_CD-DF_F.216" "ASP" "FALSE" 3 "-" 10.01 12.75 22.75
+"8fat_CD-DF_D-8fat_CD-DF_F.217" "PRO" "FALSE" 4 "-" 15.8 8.32 24.12
+"8fat_CD-DF_D-8fat_CD-DF_F.218" "ASN" "FALSE" 5 "-" 0.22 0.71 0.93
+"8fat_CD-DF_D-8fat_CD-DF_F.219" "ALA" "FALSE" 6 "-" 10.85 8.72 19.57
+"8fat_CD-DF_D-8fat_CD-DF_F.220" "ASN" "FALSE" 7 "-" 6.57 30.68 37.25
+"8fat_CD-DF_D-8fat_CD-DF_F.221" "PRO" "FALSE" 8 "-" 72.13 5.02 77.13
+"8fat_CD-DF_D-8fat_CD-DF_F.222" "ASN" "FALSE" 9 "-" 16.75 42.17 58.92
+"8fat_CD-DF_D-8fat_CD-DF_F.223" "VAL" "FALSE" 10 "-" 7.62 0 7.61
+"8fat_CD-DF_D-8fat_CD-DF_F.224" "ASP" "FALSE" 11 "-" 1.12 0.12 1.23
+"8fat_CD-DF_D-8fat_CD-DF_F.225" "PRO" "FALSE" 12 "-" 15.1 0.11 15.2

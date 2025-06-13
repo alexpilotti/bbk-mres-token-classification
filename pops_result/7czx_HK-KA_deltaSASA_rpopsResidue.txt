@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7czx_HK-KA_A-7czx_HK-KA_K.405" "VAL" "A" 483 "-" 17.17 0 17.17
+"7czx_HK-KA_A-7czx_HK-KA_K.406" "GLU" "A" 484 "-" 1.35 3.18 4.53
+"7czx_HK-KA_A-7czx_HK-KA_K.407" "GLY" "A" 485 "-" 2.8 0.26 3.06
+"7czx_HK-KA_A-7czx_HK-KA_K.408" "PHE" "A" 486 "-" 135.64 0.8 136.45
+"7czx_HK-KA_A-7czx_HK-KA_K.409" "ASN" "A" 487 "-" 1.86 12.96 14.81
+"7czx_HK-KA_A-7czx_HK-KA_K.1037" "TYR" "K" 31 "-" 42.79 34.59 77.38
+"7czx_HK-KA_A-7czx_HK-KA_K.1038" "SER" "K" 32 "-" 0 0.03 0.03
+"7czx_HK-KA_A-7czx_HK-KA_K.1044" "TYR" "K" 38 "-" 4.28 7.33 11.61
+"7czx_HK-KA_A-7czx_HK-KA_K.1103" "TYR" "K" 97 "-" 0 0.17 0.17
+"7czx_HK-KA_A-7czx_HK-KA_K.1104" "TYR" "K" 98 "-" 18.25 11.13 29.38
+"7czx_HK-KA_A-7czx_HK-KA_K.1105" "SER" "K" 99 "-" 8.65 3.1 11.75
+"7czx_HK-KA_A-7czx_HK-KA_K.1106" "THR" "K" 100 "-" 15.24 3.69 18.92

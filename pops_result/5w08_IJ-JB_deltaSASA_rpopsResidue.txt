@@ -1,0 +1,7 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5w08_IJ-JB_B-5w08_IJ-JB_J.119" "LEU" "B" 157 "-" 12.53 0.54 13.07
+"5w08_IJ-JB_B-5w08_IJ-JB_J.120" "ASN" "B" 158 "-" 16.95 28.1 45.05
+"5w08_IJ-JB_B-5w08_IJ-JB_J.122" "LYS" "B" 160 "-" 37.64 6.82 44.45
+"5w08_IJ-JB_B-5w08_IJ-JB_J.325" "TYR" "J" 51 "-" 6.12 5.13 11.25
+"5w08_IJ-JB_B-5w08_IJ-JB_J.326" "GLU" "J" 52 "-" 8.52 18.98 27.5
+"5w08_IJ-JB_B-5w08_IJ-JB_J.329" "ARG" "J" 55 "-" 5.84 26.5 32.33

@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3rif_HL-LA_A-3rif_HL-LA_L.24" "ASN" "A" 24 "-" 14.29 15.68 29.98
+"3rif_HL-LA_A-3rif_HL-LA_L.25" "GLY" "A" 25 "-" 0.33 2.13 2.46
+"3rif_HL-LA_A-3rif_HL-LA_L.26" "GLY" "A" 26 "-" 4.95 0.41 5.37
+"3rif_HL-LA_A-3rif_HL-LA_L.27" "PRO" "A" 27 "-" 14.86 0.89 15.75
+"3rif_HL-LA_A-3rif_HL-LA_L.29" "VAL" "A" 29 "-" 14.52 0.03 14.56
+"3rif_HL-LA_A-3rif_HL-LA_L.155" "THR" "A" 155 "-" 17.64 10.66 28.3
+"3rif_HL-LA_A-3rif_HL-LA_L.156" "LYS" "A" 156 "-" 12.04 1.17 13.21
+"3rif_HL-LA_A-3rif_HL-LA_L.159" "GLU" "A" 159 "-" 11.53 18.61 30.14
+"3rif_HL-LA_A-3rif_HL-LA_L.161" "LEU" "A" 161 "-" 29.45 0 29.44
+"3rif_HL-LA_A-3rif_HL-LA_L.190" "TYR" "A" 190 "-" 13.34 1.96 15.3
+"3rif_HL-LA_A-3rif_HL-LA_L.192" "THR" "A" 192 "-" 0 0.01 0.02
+"3rif_HL-LA_A-3rif_HL-LA_L.199" "ILE" "A" 199 "-" 13.85 0 13.84
+"3rif_HL-LA_A-3rif_HL-LA_L.366" "THR" "L" 26 "-" 9.84 9.47 19.31
+"3rif_HL-LA_A-3rif_HL-LA_L.367" "GLY" "L" 27 "-" 0.37 0.19 0.55
+"3rif_HL-LA_A-3rif_HL-LA_L.368" "ALA" "L" 28 "-" 0 0.08 0.08
+"3rif_HL-LA_A-3rif_HL-LA_L.371" "THR" "L" 31 "-" 8.28 8.53 16.8
+"3rif_HL-LA_A-3rif_HL-LA_L.372" "ILE" "L" 32 "-" 64.05 0.3 64.36
+"3rif_HL-LA_A-3rif_HL-LA_L.374" "PHE" "L" 34 "-" 8.38 0 8.38
+"3rif_HL-LA_A-3rif_HL-LA_L.393" "ILE" "L" 53 "-" 43.11 0 43.12
+"3rif_HL-LA_A-3rif_HL-LA_L.433" "TRP" "L" 93 "-" 6.4 0.93 7.35
+"3rif_HL-LA_A-3rif_HL-LA_L.434" "TYR" "L" 94 "-" 0.38 0 0.38
+"3rif_HL-LA_A-3rif_HL-LA_L.435" "SER" "L" 95 "-" 21.02 28.12 49.14
+"3rif_HL-LA_A-3rif_HL-LA_L.436" "ASN" "L" 96 "-" 7.46 3.2 10.67

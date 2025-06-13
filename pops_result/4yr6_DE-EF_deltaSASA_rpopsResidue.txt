@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4yr6_DE-EF_E-4yr6_DE-EF_F.30" "TYR" "E" 30 "-" 18.66 8.02 26.68
+"4yr6_DE-EF_E-4yr6_DE-EF_F.32" "TYR" "E" 32 "-" 21.39 29.37 50.76
+"4yr6_DE-EF_E-4yr6_DE-EF_F.91" "PHE" "E" 91 "-" 4.62 5.04 9.66
+"4yr6_DE-EF_E-4yr6_DE-EF_F.92" "TRP" "E" 92 "-" 33.39 3.59 36.97
+"4yr6_DE-EF_E-4yr6_DE-EF_F.93" "ASP" "E" 93 "-" 9.6 9.69 19.29
+"4yr6_DE-EF_E-4yr6_DE-EF_F.94" "THR" "E" 94 "-" 19.23 18.56 37.79
+"4yr6_DE-EF_E-4yr6_DE-EF_F.96" "TRP" "E" 96 "-" 18.01 0.82 18.83
+"4yr6_DE-EF_E-4yr6_DE-EF_F.212" "LYS" "FALSE" 1 "-" 122.57 49.32 171.89
+"4yr6_DE-EF_E-4yr6_DE-EF_F.213" "LEU" "FALSE" 2 "-" 4.3 7.55 11.85
+"4yr6_DE-EF_E-4yr6_DE-EF_F.214" "ARG" "FALSE" 3 "-" 48.85 36.81 85.66
+"4yr6_DE-EF_E-4yr6_DE-EF_F.215" "GLY" "FALSE" 4 "-" 0 0.27 0.27
+"4yr6_DE-EF_E-4yr6_DE-EF_F.216" "VAL" "FALSE" 5 "-" 0.04 0.84 0.88
+"4yr6_DE-EF_E-4yr6_DE-EF_F.217" "LEU" "FALSE" 6 "-" 8.31 12.65 20.95
+"4yr6_DE-EF_E-4yr6_DE-EF_F.218" "GLN" "FALSE" 7 "-" 26.09 38.43 64.51
+"4yr6_DE-EF_E-4yr6_DE-EF_F.219" "GLY" "FALSE" 8 "-" 14.84 10.52 25.36
+"4yr6_DE-EF_E-4yr6_DE-EF_F.220" "HIS" "FALSE" 9 "-" 0.33 0.15 0.48

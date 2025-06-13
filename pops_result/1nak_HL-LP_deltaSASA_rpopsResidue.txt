@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"1nak_HL-LP_L-1nak_HL-LP_P.37" "TYR" "L" 32 "-" 19.54 10.46 30
+"1nak_HL-LP_L-1nak_HL-LP_P.39" "HIS" "L" 34 "-" 2.85 2.53 5.39
+"1nak_HL-LP_L-1nak_HL-LP_P.41" "PHE" "L" 36 "-" 0.72 0 0.73
+"1nak_HL-LP_L-1nak_HL-LP_P.51" "LEU" "L" 46 "-" 7.4 0 7.39
+"1nak_HL-LP_L-1nak_HL-LP_P.54" "TYR" "L" 49 "-" 15.79 7.63 23.41
+"1nak_HL-LP_L-1nak_HL-LP_P.55" "LYS" "L" 50 "-" 3.98 12.17 16.14
+"1nak_HL-LP_L-1nak_HL-LP_P.60" "PHE" "L" 55 "-" 13.96 0 13.95
+"1nak_HL-LP_L-1nak_HL-LP_P.94" "PHE" "L" 89 "-" 0.3 0 0.29
+"1nak_HL-LP_L-1nak_HL-LP_P.96" "THR" "L" 91 "-" 4.22 5.96 10.19
+"1nak_HL-LP_L-1nak_HL-LP_P.97" "THR" "L" 92 "-" 0.62 1.45 2.06
+"1nak_HL-LP_L-1nak_HL-LP_P.101" "TYR" "L" 96 "-" 17.16 22.05 39.2
+"1nak_HL-LP_L-1nak_HL-LP_P.218" "LYS" "P" 312 "-" 1.09 3.51 4.59
+"1nak_HL-LP_L-1nak_HL-LP_P.220" "ILE" "P" 314 "-" 68.57 3.91 72.47
+"1nak_HL-LP_L-1nak_HL-LP_P.221" "HIS" "P" 315 "-" 3.95 7.14 11.08
+"1nak_HL-LP_L-1nak_HL-LP_P.222" "ILE" "P" 316 "-" 71.87 6.73 78.6
+"1nak_HL-LP_L-1nak_HL-LP_P.223" "GLY" "P" 319 "-" 3.36 1.86 5.22
+"1nak_HL-LP_L-1nak_HL-LP_P.224" "PRO" "P" 320 "-" 40.16 3.42 43.58
+"1nak_HL-LP_L-1nak_HL-LP_P.225" "GLY" "P" 321 "-" 0 0.19 0.19
+"1nak_HL-LP_L-1nak_HL-LP_P.226" "ARG" "P" 322 "-" 19.26 67.14 86.4

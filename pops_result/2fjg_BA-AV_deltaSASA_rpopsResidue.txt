@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2fjg_BA-AV_V-2fjg_BA-AV_A.12" "TYR" "V" 25 "-" 0 0.12 0.12
+"2fjg_BA-AV_V-2fjg_BA-AV_A.48" "CYS" "V" 61 "-" 0 0.06 0.06
+"2fjg_BA-AV_V-2fjg_BA-AV_A.49" "ASN" "V" 62 "-" 0.05 0.17 0.23
+"2fjg_BA-AV_V-2fjg_BA-AV_A.50" "ASP" "V" 63 "-" 7.57 20.59 28.15
+"2fjg_BA-AV_V-2fjg_BA-AV_A.51" "GLU" "V" 64 "-" 6.17 7.92 14.08
+"2fjg_BA-AV_V-2fjg_BA-AV_A.52" "GLY" "V" 65 "-" 0 0.01 0.01
+"2fjg_BA-AV_V-2fjg_BA-AV_A.53" "LEU" "V" 66 "-" 13.04 0.06 13.1
+"2fjg_BA-AV_V-2fjg_BA-AV_A.91" "CYS" "V" 104 "-" 0.05 0.86 0.91
+"2fjg_BA-AV_V-2fjg_BA-AV_A.93" "PRO" "V" 106 "-" 36.52 0.03 36.55
+"2fjg_BA-AV_V-2fjg_BA-AV_A.123" "ASP" "A" 28 "-" 10.58 12.42 23
+"2fjg_BA-AV_V-2fjg_BA-AV_A.124" "VAL" "A" 29 "-" 0.04 0.08 0.11
+"2fjg_BA-AV_V-2fjg_BA-AV_A.125" "SER" "A" 30 "-" 4.31 8.8 13.1
+"2fjg_BA-AV_V-2fjg_BA-AV_A.187" "TYR" "A" 92 "-" 38.37 30.96 69.32
+"2fjg_BA-AV_V-2fjg_BA-AV_A.188" "THR" "A" 93 "-" 5.97 0 5.97

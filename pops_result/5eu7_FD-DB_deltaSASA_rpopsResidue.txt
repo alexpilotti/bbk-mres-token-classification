@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5eu7_FD-DB_B-5eu7_FD-DB_D.88" "SER" "B" 153 "-" 0 0.21 0.21
+"5eu7_FD-DB_B-5eu7_FD-DB_D.122" "ARG" "B" 187 "-" 0.21 2.53 2.74
+"5eu7_FD-DB_B-5eu7_FD-DB_D.123" "LYS" "B" 188 "-" 32.36 2.33 34.7
+"5eu7_FD-DB_B-5eu7_FD-DB_D.124" "GLY" "B" 189 "-" 35.32 18.54 53.87
+"5eu7_FD-DB_B-5eu7_FD-DB_D.125" "GLY" "B" 190 "-" 20.16 6.32 26.48
+"5eu7_FD-DB_B-5eu7_FD-DB_D.126" "ILE" "B" 191 "-" 0.07 1.43 1.51
+"5eu7_FD-DB_B-5eu7_FD-DB_D.174" "SER" "D" 30 "-" 0.23 0.68 0.9
+"5eu7_FD-DB_B-5eu7_FD-DB_D.175" "SER" "D" 31 "-" 9.49 12.98 22.47
+"5eu7_FD-DB_B-5eu7_FD-DB_D.176" "ALA" "D" 32 "-" 0.01 0 0.02
+"5eu7_FD-DB_B-5eu7_FD-DB_D.193" "TYR" "D" 49 "-" 0.14 0.1 0.25
+"5eu7_FD-DB_B-5eu7_FD-DB_D.194" "SER" "D" 50 "-" 9.36 17.36 26.72
+"5eu7_FD-DB_B-5eu7_FD-DB_D.195" "ALA" "D" 51 "-" 2.35 0.09 2.44
+"5eu7_FD-DB_B-5eu7_FD-DB_D.196" "SER" "D" 52 "-" 8.02 18.17 26.19
+"5eu7_FD-DB_B-5eu7_FD-DB_D.197" "SER" "D" 53 "-" 3.64 7.53 11.18
+"5eu7_FD-DB_B-5eu7_FD-DB_D.236" "SER" "D" 92 "-" 0 0.13 0.13

@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7lde_KJ-JD_D-7lde_KJ-JD_J.1" "ASN" "D" 4 "-" 1.52 4.89 6.41
+"7lde_KJ-JD_D-7lde_KJ-JD_J.2" "SER" "D" 5 "-" 15.79 7.62 23.41
+"7lde_KJ-JD_D-7lde_KJ-JD_J.33" "ARG" "D" 36 "-" 4.69 0.15 4.84
+"7lde_KJ-JD_D-7lde_KJ-JD_J.34" "LEU" "D" 37 "-" 0 0.15 0.16
+"7lde_KJ-JD_D-7lde_KJ-JD_J.35" "THR" "D" 38 "-" 2.83 0 2.82
+"7lde_KJ-JD_D-7lde_KJ-JD_J.37" "HIS" "D" 40 "-" 7.43 6.29 13.72
+"7lde_KJ-JD_D-7lde_KJ-JD_J.808" "SER" "J" 31 "-" 11.95 3.36 15.32
+"7lde_KJ-JD_D-7lde_KJ-JD_J.810" "TYR" "J" 33 "-" 0.24 0 0.25
+"7lde_KJ-JD_D-7lde_KJ-JD_J.869" "GLY" "J" 92 "-" 0 0.98 0.97
+"7lde_KJ-JD_D-7lde_KJ-JD_J.870" "ASN" "J" 93 "-" 4.52 16 20.52
+"7lde_KJ-JD_D-7lde_KJ-JD_J.871" "THR" "J" 94 "-" 19.56 1.29 20.85
+"7lde_KJ-JD_D-7lde_KJ-JD_J.872" "LEU" "J" 95 "-" 7.03 3.38 10.41

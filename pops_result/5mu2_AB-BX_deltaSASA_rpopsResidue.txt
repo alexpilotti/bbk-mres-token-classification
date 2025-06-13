@@ -1,0 +1,27 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mu2_AB-BX_B-5mu2_AB-BX_X.31" "ASN" "B" 31 "-" 1.48 7.88 9.36
+"5mu2_AB-BX_B-5mu2_AB-BX_X.32" "TYR" "B" 32 "-" 62.83 24.43 87.26
+"5mu2_AB-BX_B-5mu2_AB-BX_X.34" "ILE" "B" 34 "-" 8.33 0.08 8.4
+"5mu2_AB-BX_B-5mu2_AB-BX_X.36" "SER" "B" 36 "-" 1.94 5.45 7.4
+"5mu2_AB-BX_B-5mu2_AB-BX_X.38" "ASN" "B" 38 "-" 1.64 11.4 13.04
+"5mu2_AB-BX_B-5mu2_AB-BX_X.40" "PHE" "B" 40 "-" 2.84 0 2.84
+"5mu2_AB-BX_B-5mu2_AB-BX_X.50" "PHE" "B" 50 "-" 15.85 0 15.85
+"5mu2_AB-BX_B-5mu2_AB-BX_X.52" "ILE" "B" 52 "-" 0 0.12 0.12
+"5mu2_AB-BX_B-5mu2_AB-BX_X.53" "TYR" "B" 53 "-" 20.75 8.17 28.92
+"5mu2_AB-BX_B-5mu2_AB-BX_X.54" "ALA" "B" 54 "-" 0.71 0.08 0.8
+"5mu2_AB-BX_B-5mu2_AB-BX_X.58" "GLN" "B" 58 "-" 0.01 0.38 0.39
+"5mu2_AB-BX_B-5mu2_AB-BX_X.59" "GLY" "B" 59 "-" 0.44 0 0.44
+"5mu2_AB-BX_B-5mu2_AB-BX_X.60" "SER" "B" 60 "-" 1.77 0.24 2.01
+"5mu2_AB-BX_B-5mu2_AB-BX_X.93" "GLN" "B" 93 "-" 0.05 1.55 1.61
+"5mu2_AB-BX_B-5mu2_AB-BX_X.95" "SER" "B" 95 "-" 12.41 14.04 26.46
+"5mu2_AB-BX_B-5mu2_AB-BX_X.96" "LYS" "B" 96 "-" 0.23 0.95 1.17
+"5mu2_AB-BX_B-5mu2_AB-BX_X.97" "GLY" "B" 97 "-" 0 0.02 0.02
+"5mu2_AB-BX_B-5mu2_AB-BX_X.98" "VAL" "B" 98 "-" 0.18 0 0.17
+"5mu2_AB-BX_B-5mu2_AB-BX_X.100" "TYR" "B" 100 "-" 12.61 17.82 30.43
+"5mu2_AB-BX_B-5mu2_AB-BX_X.225" "LEU" "X" 17 "-" 116.39 13.63 130.01
+"5mu2_AB-BX_B-5mu2_AB-BX_X.226" "THR" "X" 18 "-" 75.07 26.13 101.2
+"5mu2_AB-BX_B-5mu2_AB-BX_X.227" "GLY" "X" 19 "-" 5.31 4.77 10.08
+"5mu2_AB-BX_B-5mu2_AB-BX_X.228" "PRO" "X" 20 "-" 55.68 0.92 56.6
+"5mu2_AB-BX_B-5mu2_AB-BX_X.229" "ILE" "X" 21 "-" 64.65 8.63 73.28
+"5mu2_AB-BX_B-5mu2_AB-BX_X.230" "GLY" "X" 22 "-" 10.19 9.82 20.01
+"5mu2_AB-BX_B-5mu2_AB-BX_X.231" "PRO" "X" 23 "-" 62.6 5.83 68.44

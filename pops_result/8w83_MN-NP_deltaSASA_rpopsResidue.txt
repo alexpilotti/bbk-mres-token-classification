@@ -1,0 +1,3 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8w83_MN-NP_N-8w83_MN-NP_P.50" "TYR" "N" 50 "-" 15.24 21.64 36.88
+"8w83_MN-NP_N-8w83_MN-NP_P.216" "PHE" "P" 2 "-" 20.04 0 20.04

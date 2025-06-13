@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7s4g_EF-FG_F-7s4g_EF-FG_G.31" "LEU" "FALSE" 31 "-" 28.08 0 28.08
+"7s4g_EF-FG_F-7s4g_EF-FG_G.32" "SER" "FALSE" 32 "-" 0.11 0.64 0.75
+"7s4g_EF-FG_F-7s4g_EF-FG_G.33" "GLY" "FALSE" 33 "-" 19.27 15.97 35.24
+"7s4g_EF-FG_F-7s4g_EF-FG_G.34" "ASN" "FALSE" 34 "-" 13.66 7.01 20.68
+"7s4g_EF-FG_F-7s4g_EF-FG_G.36" "GLU" "FALSE" 36 "-" 0.1 0 0.09
+"7s4g_EF-FG_F-7s4g_EF-FG_G.38" "TYR" "FALSE" 38 "-" 0 0.89 0.89
+"7s4g_EF-FG_F-7s4g_EF-FG_G.98" "TYR" "FALSE" 98 "-" 1.04 2.66 3.7
+"7s4g_EF-FG_F-7s4g_EF-FG_G.219" "ASP" "G" 95 "-" 4.48 15.45 19.93
+"7s4g_EF-FG_F-7s4g_EF-FG_G.220" "CYS" "G" 96 "-" 15.81 0.95 16.76
+"7s4g_EF-FG_F-7s4g_EF-FG_G.221" "TYR" "G" 97 "-" 1.07 0.73 1.8
+"7s4g_EF-FG_F-7s4g_EF-FG_G.225" "LEU" "G" 101 "-" 11.38 6.55 17.93
+"7s4g_EF-FG_F-7s4g_EF-FG_G.226" "CYS" "G" 102 "-" 31.91 6.77 38.68
+"7s4g_EF-FG_F-7s4g_EF-FG_G.227" "ASN" "G" 103 "-" 15.91 14.49 30.4

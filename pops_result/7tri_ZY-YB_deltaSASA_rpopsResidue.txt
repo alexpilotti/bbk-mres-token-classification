@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.95" "THR" "B" 135 "-" 0 0.47 0.47
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.97" "TYR" "B" 137 "-" 3.05 0 3.05
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.100" "LYS" "B" 140 "-" 0.01 0 0.01
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.103" "SER" "B" 143 "-" 0 0.81 0.81
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.104" "ILE" "B" 144 "-" 18.41 0 18.41
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.105" "LYS" "B" 145 "-" 35.15 34.72 69.87
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.115" "HIS" "B" 155 "-" 0.21 0 0.21
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.117" "LEU" "B" 157 "-" 0.04 0 0.03
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.118" "LYS" "B" 158 "-" 10.59 2.89 13.48
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.302" "SER" "Y" 30 "-" 3.64 2.65 6.29
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.303" "THR" "Y" 31 "-" 16.97 14.18 31.13
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.304" "ASP" "Y" 32 "-" 2.25 9.31 11.57
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.321" "TYR" "Y" 49 "-" 0.1 0.12 0.22
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.322" "ASP" "Y" 50 "-" 1.01 5.15 6.16
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.324" "ILE" "Y" 52 "-" 2.81 0 2.81
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.328" "SER" "Y" 56 "-" 11.29 3.3 14.59
+"7tri_ZY-YB_B-7tri_ZY-YB_Y.339" "SER" "Y" 67 "-" 4.26 1.54 5.8

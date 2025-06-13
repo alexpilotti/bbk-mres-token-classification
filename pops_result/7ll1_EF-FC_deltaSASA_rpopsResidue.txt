@@ -1,0 +1,13 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7ll1_EF-FC_C-7ll1_EF-FC_F.401" "ASP" "C" 457 "-" 0.58 0 0.58
+"7ll1_EF-FC_C-7ll1_EF-FC_F.402" "GLY" "C" 458 "-" 9.57 6.07 15.64
+"7ll1_EF-FC_C-7ll1_EF-FC_F.403" "GLY" "C" 459 "-" 4.7 15.42 20.12
+"7ll1_EF-FC_C-7ll1_EF-FC_F.404" "SER" "C" 460 "-" 7.81 16.02 23.82
+"7ll1_EF-FC_C-7ll1_EF-FC_F.405" "THR" "C" 461 "-" 19.14 3.76 22.9
+"7ll1_EF-FC_C-7ll1_EF-FC_F.406" "ASN" "C" 462 "-" 37.35 41.73 79.08
+"7ll1_EF-FC_C-7ll1_EF-FC_F.407" "SER" "C" 463 "-" 0 0.1 0.1
+"7ll1_EF-FC_C-7ll1_EF-FC_F.477" "TYR" "FALSE" 28 "-" 1.52 0.03 1.56
+"7ll1_EF-FC_C-7ll1_EF-FC_F.540" "ASP" "FALSE" 91 "-" 0 0.11 0.11
+"7ll1_EF-FC_C-7ll1_EF-FC_F.541" "TYR" "FALSE" 92 "-" 7.27 15.59 22.86
+"7ll1_EF-FC_C-7ll1_EF-FC_F.542" "TYR" "FALSE" 93 "-" 38.59 10.66 49.25
+"7ll1_EF-FC_C-7ll1_EF-FC_F.543" "TRP" "FALSE" 94 "-" 44.3 10.72 55.02

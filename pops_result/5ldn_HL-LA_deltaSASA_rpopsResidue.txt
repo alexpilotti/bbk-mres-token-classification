@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5ldn_HL-LA_A-5ldn_HL-LA_L.258" "ASP" "A" 277 "-" 3.34 13.27 16.62
+"5ldn_HL-LA_A-5ldn_HL-LA_L.958" "ASN" "L" 51 "-" 0.08 2.07 2.15
+"5ldn_HL-LA_A-5ldn_HL-LA_L.977" "GLN" "L" 70 "-" 1.22 7.04 8.26

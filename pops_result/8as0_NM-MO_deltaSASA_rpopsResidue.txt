@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8as0_NM-MO_M-8as0_NM-MO_O.1" "ASP" "M" 1 "-" 0.5 4.57 5.06
+"8as0_NM-MO_M-8as0_NM-MO_O.32" "TYR" "M" 32 "-" 0.66 0 0.66
+"8as0_NM-MO_M-8as0_NM-MO_O.91" "ASP" "M" 91 "-" 0.91 4.57 5.48
+"8as0_NM-MO_M-8as0_NM-MO_O.92" "TYR" "M" 92 "-" 9.23 15.77 25.01
+"8as0_NM-MO_M-8as0_NM-MO_O.93" "GLY" "M" 93 "-" 13.6 2.53 16.13
+"8as0_NM-MO_M-8as0_NM-MO_O.94" "LEU" "M" 94 "-" 47.09 20.05 67.14
+"8as0_NM-MO_M-8as0_NM-MO_O.95" "PRO" "M" 95 "-" 8.57 0.32 8.9
+"8as0_NM-MO_M-8as0_NM-MO_O.96" "PHE" "M" 96 "-" 18.92 0 18.92
+"8as0_NM-MO_M-8as0_NM-MO_O.214" "ARG" "O" 30 "-" 38.38 45.39 83.76
+"8as0_NM-MO_M-8as0_NM-MO_O.215" "PRO" "O" 31 "-" 8.29 1.27 9.56
+"8as0_NM-MO_M-8as0_NM-MO_O.216" "TRP" "O" 32 "-" 46.78 8.65 55.43
+"8as0_NM-MO_M-8as0_NM-MO_O.217" "ASN" "O" 33 "-" 0.09 3.67 3.76
+"8as0_NM-MO_M-8as0_NM-MO_O.218" "PRO" "O" 34 "-" 0.16 0 0.16
+"8as0_NM-MO_M-8as0_NM-MO_O.319" "LYS" "O" 135 "-" 0.1 0 0.1

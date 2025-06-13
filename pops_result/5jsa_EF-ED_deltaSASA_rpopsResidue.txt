@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5jsa_EF-ED_D-5jsa_EF-ED_E.85" "ARG" "D" 606 "-" 0 1.94 1.94
+"5jsa_EF-ED_D-5jsa_EF-ED_E.94" "MET" "D" 615 "-" 0.7 0 0.71
+"5jsa_EF-ED_D-5jsa_EF-ED_E.96" "TRP" "D" 617 "-" 0.04 0.41 0.45
+"5jsa_EF-ED_D-5jsa_EF-ED_E.97" "LEU" "D" 618 "-" 55.38 3.16 58.54
+"5jsa_EF-ED_D-5jsa_EF-ED_E.98" "GLN" "D" 619 "-" 8.38 16.95 25.34
+"5jsa_EF-ED_D-5jsa_EF-ED_E.99" "TRP" "D" 620 "-" 0.01 0 0.01
+"5jsa_EF-ED_D-5jsa_EF-ED_E.100" "ASP" "D" 621 "-" 11.27 17.67 28.94
+"5jsa_EF-ED_D-5jsa_EF-ED_E.101" "LYS" "D" 622 "-" 74.33 46.91 121.26
+"5jsa_EF-ED_D-5jsa_EF-ED_E.102" "GLU" "D" 623 "-" 5.7 9.82 15.52
+"5jsa_EF-ED_D-5jsa_EF-ED_E.104" "SER" "D" 625 "-" 0.1 0.86 0.96
+"5jsa_EF-ED_D-5jsa_EF-ED_E.238" "ASP" "E" 106 "-" 0 0.02 0.02
+"5jsa_EF-ED_D-5jsa_EF-ED_E.239" "LYS" "E" 107 "-" 21.66 21.94 43.61
+"5jsa_EF-ED_D-5jsa_EF-ED_E.240" "TRP" "E" 108 "-" 87.67 5.63 93.3
+"5jsa_EF-ED_D-5jsa_EF-ED_E.241" "SER" "E" 109 "-" 1.82 3.22 5.05
+"5jsa_EF-ED_D-5jsa_EF-ED_E.242" "GLY" "E" 110 "-" 4.76 1.69 6.45
+"5jsa_EF-ED_D-5jsa_EF-ED_E.243" "LEU" "E" 111 "-" 0 0.02 0.01
+"5jsa_EF-ED_D-5jsa_EF-ED_E.244" "HIS" "E" 112 "-" 3.65 4.17 7.83
+"5jsa_EF-ED_D-5jsa_EF-ED_E.245" "HIS" "E" 113 "-" 23.58 13.29 36.86
+"5jsa_EF-ED_D-5jsa_EF-ED_E.246" "ASP" "E" 114 "-" 9.19 24.2 33.39

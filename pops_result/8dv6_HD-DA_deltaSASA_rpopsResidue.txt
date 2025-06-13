@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8dv6_HD-DA_A-8dv6_HD-DA_D.64" "SER" "A" 64 "-" 0.86 1.59 2.45
+"8dv6_HD-DA_A-8dv6_HD-DA_D.65" "ILE" "A" 65 "-" 8.66 8.99 17.65
+"8dv6_HD-DA_A-8dv6_HD-DA_D.66" "SER" "A" 66 "-" 32.47 11.17 43.64
+"8dv6_HD-DA_A-8dv6_HD-DA_D.67" "ASP" "A" 67 "-" 18.84 25.47 44.31
+"8dv6_HD-DA_A-8dv6_HD-DA_D.68" "MET" "A" 68 "-" 11.55 1.48 13.03
+"8dv6_HD-DA_A-8dv6_HD-DA_D.69" "ALA" "A" 69 "-" 0.39 0 0.4
+"8dv6_HD-DA_A-8dv6_HD-DA_D.84" "LYS" "A" 84 "-" 0.86 3.3 4.15
+"8dv6_HD-DA_A-8dv6_HD-DA_D.90" "TYR" "A" 90 "-" 0.61 2.7 3.31
+"8dv6_HD-DA_A-8dv6_HD-DA_D.117" "ALA" "A" 117 "-" 0.18 0 0.17
+"8dv6_HD-DA_A-8dv6_HD-DA_D.118" "LYS" "A" 118 "-" 16.59 25.69 42.29
+"8dv6_HD-DA_A-8dv6_HD-DA_D.120" "ALA" "A" 120 "-" 1.05 0 1.04
+"8dv6_HD-DA_A-8dv6_HD-DA_D.255" "VAL" "A" 255 "-" 0.04 0.7 0.73
+"8dv6_HD-DA_A-8dv6_HD-DA_D.430" "SER" "D" 26 "-" 0 0.14 0.13
+"8dv6_HD-DA_A-8dv6_HD-DA_D.434" "GLY" "D" 30 "-" 0 0.21 0.21
+"8dv6_HD-DA_A-8dv6_HD-DA_D.435" "GLY" "D" 31 "-" 2 4.76 6.76
+"8dv6_HD-DA_A-8dv6_HD-DA_D.436" "TYR" "D" 32 "-" 17.17 8.52 25.68
+"8dv6_HD-DA_A-8dv6_HD-DA_D.438" "TYR" "D" 34 "-" 12.99 28.5 41.5
+"8dv6_HD-DA_A-8dv6_HD-DA_D.497" "TYR" "D" 93 "-" 7.91 12.24 20.15
+"8dv6_HD-DA_A-8dv6_HD-DA_D.498" "THR" "D" 94 "-" 0.01 0.23 0.24
+"8dv6_HD-DA_A-8dv6_HD-DA_D.499" "SER" "D" 95 "-" 3.72 7.44 11.16
+"8dv6_HD-DA_A-8dv6_HD-DA_D.500" "ARG" "D" 96 "-" 0.13 0.1 0.23
+"8dv6_HD-DA_A-8dv6_HD-DA_D.501" "ARG" "D" 97 "-" 33.55 66.81 100.37

@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4ala_HL-LC_C-4ala_HL-LC_L.15" "GLU" "C" 314 "-" 0.05 0.72 0.78
+"4ala_HL-LC_C-4ala_HL-LC_L.16" "THR" "C" 315 "-" 5.47 0.97 6.44
+"4ala_HL-LC_C-4ala_HL-LC_L.17" "GLN" "C" 316 "-" 42.08 45.88 87.95
+"4ala_HL-LC_C-4ala_HL-LC_L.18" "HIS" "C" 317 "-" 38.19 14.44 52.63
+"4ala_HL-LC_C-4ala_HL-LC_L.20" "THR" "C" 319 "-" 1.75 0.14 1.89
+"4ala_HL-LC_C-4ala_HL-LC_L.22" "LEU" "C" 321 "-" 16.25 0 16.25
+"4ala_HL-LC_C-4ala_HL-LC_L.42" "LEU" "C" 351 "-" 0 0.25 0.25
+"4ala_HL-LC_C-4ala_HL-LC_L.43" "ILE" "C" 352 "-" 28.32 5.41 33.74
+"4ala_HL-LC_C-4ala_HL-LC_L.44" "THR" "C" 353 "-" 0.54 0.45 0.98
+"4ala_HL-LC_C-4ala_HL-LC_L.45" "ALA" "C" 354 "-" 14.73 0.31 15.04
+"4ala_HL-LC_C-4ala_HL-LC_L.57" "ASN" "C" 366 "-" 0 1.52 1.53
+"4ala_HL-LC_C-4ala_HL-LC_L.59" "GLU" "C" 368 "-" 6.42 23.87 30.3
+"4ala_HL-LC_C-4ala_HL-LC_L.61" "GLU" "C" 370 "-" 0 3.24 3.23
+"4ala_HL-LC_C-4ala_HL-LC_L.105" "GLN" "L" 27 "-" 1.61 7.17 8.78
+"4ala_HL-LC_C-4ala_HL-LC_L.108" "ARG" "L" 30 "-" 0.05 3.17 3.22
+"4ala_HL-LC_C-4ala_HL-LC_L.110" "SER" "L" 32 "-" 0.04 0.05 0.09
+"4ala_HL-LC_C-4ala_HL-LC_L.169" "HIS" "L" 91 "-" 1.65 4.79 6.44
+"4ala_HL-LC_C-4ala_HL-LC_L.170" "TRP" "L" 92 "-" 14.88 7.58 22.46
+"4ala_HL-LC_C-4ala_HL-LC_L.171" "THR" "L" 93 "-" 33.56 2.87 36.42
+"4ala_HL-LC_C-4ala_HL-LC_L.172" "TYR" "L" 94 "-" 76.82 36.45 113.28
+"4ala_HL-LC_C-4ala_HL-LC_L.174" "TYR" "L" 96 "-" 16.81 16.94 33.74

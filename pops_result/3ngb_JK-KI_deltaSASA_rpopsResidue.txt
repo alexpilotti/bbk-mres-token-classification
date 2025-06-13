@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3ngb_JK-KI_I-3ngb_JK-KI_K.160" "ASN" "I" 276 "-" 1.91 6.38 8.28
+"3ngb_JK-KI_I-3ngb_JK-KI_K.162" "THR" "I" 278 "-" 39.88 15.12 55.01
+"3ngb_JK-KI_I-3ngb_JK-KI_K.163" "ASN" "I" 279 "-" 5.54 9.3 14.83
+"3ngb_JK-KI_I-3ngb_JK-KI_K.164" "ASN" "I" 280 "-" 3.15 18.29 21.44
+"3ngb_JK-KI_I-3ngb_JK-KI_K.313" "ARG" "I" 456 "-" 0 0.37 0.37
+"3ngb_JK-KI_I-3ngb_JK-KI_K.314" "ASP" "I" 457 "-" 0.02 0.04 0.07
+"3ngb_JK-KI_I-3ngb_JK-KI_K.315" "GLY" "I" 458 "-" 11.39 2.43 13.82
+"3ngb_JK-KI_I-3ngb_JK-KI_K.316" "GLY" "I" 459 "-" 24 23.26 47.26
+"3ngb_JK-KI_I-3ngb_JK-KI_K.317" "ALA" "I" 460 "-" 2.03 3.86 5.88
+"3ngb_JK-KI_I-3ngb_JK-KI_K.318" "ASN" "I" 461 "-" 11.67 46.57 58.25
+"3ngb_JK-KI_I-3ngb_JK-KI_K.350" "GLU" "K" 1 "-" 0.21 0.56 0.76
+"3ngb_JK-KI_I-3ngb_JK-KI_K.351" "ILE" "K" 2 "-" 18.55 3.26 21.81
+"3ngb_JK-KI_I-3ngb_JK-KI_K.352" "VAL" "K" 3 "-" 3.44 0.36 3.81
+"3ngb_JK-KI_I-3ngb_JK-KI_K.376" "GLN" "K" 27 "-" 4.98 18.93 23.9
+"3ngb_JK-KI_I-3ngb_JK-KI_K.438" "TYR" "K" 91 "-" 61.38 35.53 96.91
+"3ngb_JK-KI_I-3ngb_JK-KI_K.439" "GLU" "K" 96 "-" 10.78 12.85 23.63
+"3ngb_JK-KI_I-3ngb_JK-KI_K.440" "PHE" "K" 97 "-" 20.91 0 20.9

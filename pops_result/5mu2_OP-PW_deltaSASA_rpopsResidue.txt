@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mu2_OP-PW_P-5mu2_OP-PW_W.31" "ASN" "P" 31 "-" 1.94 7.44 9.39
+"5mu2_OP-PW_P-5mu2_OP-PW_W.32" "TYR" "P" 32 "-" 26.56 2.65 29.21
+"5mu2_OP-PW_P-5mu2_OP-PW_W.33" "GLY" "P" 33 "-" 0.03 0 0.04
+"5mu2_OP-PW_P-5mu2_OP-PW_W.34" "ILE" "P" 34 "-" 11.4 0.47 11.87
+"5mu2_OP-PW_P-5mu2_OP-PW_W.35" "SER" "P" 35 "-" 0.02 0.06 0.08
+"5mu2_OP-PW_P-5mu2_OP-PW_W.36" "SER" "P" 36 "-" 1.98 4.93 6.92
+"5mu2_OP-PW_P-5mu2_OP-PW_W.38" "ASN" "P" 38 "-" 1.71 11.53 13.23
+"5mu2_OP-PW_P-5mu2_OP-PW_W.40" "PHE" "P" 40 "-" 3.06 0 3.06
+"5mu2_OP-PW_P-5mu2_OP-PW_W.50" "PHE" "P" 50 "-" 17.72 0 17.72
+"5mu2_OP-PW_P-5mu2_OP-PW_W.52" "ILE" "P" 52 "-" 0 0.12 0.12
+"5mu2_OP-PW_P-5mu2_OP-PW_W.53" "TYR" "P" 53 "-" 20.97 8.08 29.05
+"5mu2_OP-PW_P-5mu2_OP-PW_W.54" "ALA" "P" 54 "-" 0.46 0.07 0.53
+"5mu2_OP-PW_P-5mu2_OP-PW_W.58" "GLN" "P" 58 "-" 0 0.15 0.15
+"5mu2_OP-PW_P-5mu2_OP-PW_W.59" "GLY" "P" 59 "-" 0.41 0 0.41
+"5mu2_OP-PW_P-5mu2_OP-PW_W.60" "SER" "P" 60 "-" 1.63 0.23 1.86
+"5mu2_OP-PW_P-5mu2_OP-PW_W.93" "GLN" "P" 93 "-" 0.05 1.43 1.46
+"5mu2_OP-PW_P-5mu2_OP-PW_W.95" "SER" "P" 95 "-" 11.76 13.09 24.84
+"5mu2_OP-PW_P-5mu2_OP-PW_W.96" "LYS" "P" 96 "-" 0.18 0.77 0.95
+"5mu2_OP-PW_P-5mu2_OP-PW_W.100" "TYR" "P" 100 "-" 10.04 16.17 26.21
+"5mu2_OP-PW_P-5mu2_OP-PW_W.222" "LEU" "W" 17 "-" 112.2 10.61 122.81
+"5mu2_OP-PW_P-5mu2_OP-PW_W.223" "THR" "W" 18 "-" 79.96 26.05 106.01
+"5mu2_OP-PW_P-5mu2_OP-PW_W.224" "GLY" "W" 19 "-" 4.27 3.88 8.15
+"5mu2_OP-PW_P-5mu2_OP-PW_W.225" "PRO" "W" 20 "-" 53.54 0.83 54.37
+"5mu2_OP-PW_P-5mu2_OP-PW_W.226" "ILE" "W" 21 "-" 133.53 8.97 142.51

@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6ccb_DE-EC_C-6ccb_DE-EC_E.101" "PHE" "C" 134 "-" 0.97 0 0.97
+"6ccb_DE-EC_C-6ccb_DE-EC_E.249" "ASN" "C" 301 "-" 0 0.89 0.9
+"6ccb_DE-EC_C-6ccb_DE-EC_E.268" "ALA" "C" 321 "A" 11.2 0.99 12.19
+"6ccb_DE-EC_C-6ccb_DE-EC_E.269" "ILE" "C" 322 "-" 1.53 6.7 8.23
+"6ccb_DE-EC_C-6ccb_DE-EC_E.270" "ILE" "C" 323 "-" 34.04 0.72 34.76
+"6ccb_DE-EC_C-6ccb_DE-EC_E.271" "GLY" "C" 324 "-" 12.95 20.71 33.65
+"6ccb_DE-EC_C-6ccb_DE-EC_E.272" "ASN" "C" 325 "-" 9.04 33.59 42.63
+"6ccb_DE-EC_C-6ccb_DE-EC_E.273" "ILE" "C" 326 "-" 4.59 0.34 4.93
+"6ccb_DE-EC_C-6ccb_DE-EC_E.460" "ALA" "E" 27 "-" 0 0.14 0.14
+"6ccb_DE-EC_C-6ccb_DE-EC_E.461" "LEU" "E" 28 "-" 1.7 1.07 2.78
+"6ccb_DE-EC_C-6ccb_DE-EC_E.462" "GLY" "E" 29 "-" 11.99 1.81 13.8
+"6ccb_DE-EC_C-6ccb_DE-EC_E.463" "SER" "E" 30 "-" 13.84 15.29 29.14
+"6ccb_DE-EC_C-6ccb_DE-EC_E.503" "PHE" "E" 67 "-" 7.28 0 7.28
+"6ccb_DE-EC_C-6ccb_DE-EC_E.529" "SER" "E" 93 "-" 16.87 10.68 27.55
+"6ccb_DE-EC_C-6ccb_DE-EC_E.530" "ARG" "E" 94 "-" 25.87 55.03 80.9

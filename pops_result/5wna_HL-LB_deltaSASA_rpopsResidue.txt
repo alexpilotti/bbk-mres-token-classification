@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5wna_HL-LB_L-5wna_HL-LB_B.32" "HIS" "L" 32 "-" 19.16 12.64 31.81
+"5wna_HL-LB_L-5wna_HL-LB_B.50" "GLU" "L" 50 "-" 2.35 5.74 8.08
+"5wna_HL-LB_L-5wna_HL-LB_B.90" "GLN" "L" 90 "-" 0 0.01 0.02
+"5wna_HL-LB_L-5wna_HL-LB_B.91" "ARG" "L" 91 "-" 5.09 14.08 19.17
+"5wna_HL-LB_L-5wna_HL-LB_B.92" "ASN" "L" 92 "-" 2.62 12.36 14.97
+"5wna_HL-LB_L-5wna_HL-LB_B.93" "ASN" "L" 93 "-" 4.96 6.52 11.49
+"5wna_HL-LB_L-5wna_HL-LB_B.94" "TRP" "L" 94 "-" 116 9.15 125.15
+"5wna_HL-LB_L-5wna_HL-LB_B.95" "TYR" "L" 95 "-" 14.68 14.58 29.26
+"5wna_HL-LB_L-5wna_HL-LB_B.212" "ASN" "B" 161 "-" 20.8 22.84 43.64
+"5wna_HL-LB_L-5wna_HL-LB_B.213" "ASP" "B" 162 "-" 3.54 4.56 8.09
+"5wna_HL-LB_L-5wna_HL-LB_B.214" "PHE" "B" 163 "-" 61.5 3.2 64.71
+"5wna_HL-LB_L-5wna_HL-LB_B.215" "HIS" "B" 164 "-" 0.01 0.03 0.04
+"5wna_HL-LB_L-5wna_HL-LB_B.216" "PHE" "B" 165 "-" 45.18 0.06 45.25
+"5wna_HL-LB_L-5wna_HL-LB_B.219" "PHE" "B" 168 "-" 38.78 1.02 39.8
+"5wna_HL-LB_L-5wna_HL-LB_B.220" "ASN" "B" 169 "-" 1.47 15.9 17.37

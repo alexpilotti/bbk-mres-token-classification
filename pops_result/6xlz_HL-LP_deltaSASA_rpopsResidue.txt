@@ -1,0 +1,21 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6xlz_HL-LP_P-6xlz_HL-LP_L.7" "GLU" "P" 185 "-" 0.01 0.65 0.65
+"6xlz_HL-LP_P-6xlz_HL-LP_L.8" "GLU" "P" 186 "-" 10.96 39.99 50.95
+"6xlz_HL-LP_P-6xlz_HL-LP_L.9" "GLU" "P" 186 "A" 10.78 18.21 28.99
+"6xlz_HL-LP_P-6xlz_HL-LP_L.10" "ARG" "P" 186 "B" 34.05 57.39 91.44
+"6xlz_HL-LP_P-6xlz_HL-LP_L.11" "LYS" "P" 186 "C" 139.86 52.93 192.79
+"6xlz_HL-LP_P-6xlz_HL-LP_L.12" "GLY" "P" 186 "D" 0.16 1.35 1.52
+"6xlz_HL-LP_P-6xlz_HL-LP_L.13" "ASN" "P" 187 "-" 2.8 7.32 10.12
+"6xlz_HL-LP_P-6xlz_HL-LP_L.49" "LEU" "L" 28 "-" 0.01 0.16 0.17
+"6xlz_HL-LP_P-6xlz_HL-LP_L.50" "ASP" "L" 29 "-" 4.94 9.29 14.23
+"6xlz_HL-LP_P-6xlz_HL-LP_L.51" "SER" "L" 30 "-" 2.8 10.31 13.11
+"6xlz_HL-LP_P-6xlz_HL-LP_L.52" "GLU" "L" 31 "-" 5.95 18.66 24.61
+"6xlz_HL-LP_P-6xlz_HL-LP_L.53" "TYR" "L" 32 "-" 39.52 17.79 57.32
+"6xlz_HL-LP_P-6xlz_HL-LP_L.54" "VAL" "L" 33 "-" 0 0.01 0.01
+"6xlz_HL-LP_P-6xlz_HL-LP_L.71" "ARG" "L" 50 "-" 2.48 33.94 36.42
+"6xlz_HL-LP_P-6xlz_HL-LP_L.72" "ASP" "L" 51 "-" 1.47 7.22 8.68
+"6xlz_HL-LP_P-6xlz_HL-LP_L.87" "ILE" "L" 66 "-" 2.14 0 2.13
+"6xlz_HL-LP_P-6xlz_HL-LP_L.114" "ALA" "L" 91 "-" 2.39 0.04 2.43
+"6xlz_HL-LP_P-6xlz_HL-LP_L.115" "ASP" "L" 92 "-" 0 0.02 0.01
+"6xlz_HL-LP_P-6xlz_HL-LP_L.118" "TYR" "L" 95 "-" 49.75 23.34 73.09
+"6xlz_HL-LP_P-6xlz_HL-LP_L.120" "TRP" "L" 96 "-" 10.45 3.46 13.91

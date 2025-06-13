@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8sdg_GI-IC_I-8sdg_GI-IC_C.30" "SER" "I" 30 "-" 2.63 2.26 4.89
+"8sdg_GI-IC_I-8sdg_GI-IC_C.31" "THR" "I" 31 "-" 0.93 0 0.93
+"8sdg_GI-IC_I-8sdg_GI-IC_C.32" "TRP" "I" 32 "-" 25.5 0.88 26.39
+"8sdg_GI-IC_I-8sdg_GI-IC_C.50" "LYS" "I" 50 "-" 10.67 20.08 30.73
+"8sdg_GI-IC_I-8sdg_GI-IC_C.67" "SER" "I" 67 "-" 8.7 4.64 13.32
+"8sdg_GI-IC_I-8sdg_GI-IC_C.94" "ASP" "I" 94 "-" 3.85 14.93 18.78
+"8sdg_GI-IC_I-8sdg_GI-IC_C.236" "LYS" "C" 356 "-" 5.33 0.2 5.53
+"8sdg_GI-IC_I-8sdg_GI-IC_C.237" "ARG" "C" 357 "-" 13.21 16.64 29.85
+"8sdg_GI-IC_I-8sdg_GI-IC_C.274" "ASN" "C" 394 "-" 0.17 4.97 5.14
+"8sdg_GI-IC_I-8sdg_GI-IC_C.276" "TYR" "C" 396 "-" 4.23 9.73 13.96
+"8sdg_GI-IC_I-8sdg_GI-IC_C.396" "GLU" "C" 516 "-" 0.39 2.48 2.86
+"8sdg_GI-IC_I-8sdg_GI-IC_C.397" "HIS" "C" 519 "-" 11.49 3.19 14.68
+"8sdg_GI-IC_I-8sdg_GI-IC_C.398" "ALA" "C" 520 "-" 1.99 0 1.99
+"8sdg_GI-IC_I-8sdg_GI-IC_C.399" "PRO" "C" 521 "-" 4.2 0 4.2

@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5gkr_AB-AT_A-5gkr_AB-AT_T.32" "PHE" "A" 33 "-" 15.24 0 15.23
+"5gkr_AB-AT_A-5gkr_AB-AT_T.49" "TYR" "A" 50 "-" 3.69 9.72 13.4
+"5gkr_AB-AT_A-5gkr_AB-AT_T.51" "TYR" "A" 52 "-" 13.18 11.51 24.69
+"5gkr_AB-AT_A-5gkr_AB-AT_T.53" "SER" "A" 54 "-" 8.55 20.73 29.27
+"5gkr_AB-AT_A-5gkr_AB-AT_T.54" "GLY" "A" 55 "-" 6.39 4.93 11.33
+"5gkr_AB-AT_A-5gkr_AB-AT_T.55" "SER" "A" 56 "-" 27.96 30.98 58.94
+"5gkr_AB-AT_A-5gkr_AB-AT_T.56" "THR" "A" 57 "-" 0.2 2.87 3.07
+"5gkr_AB-AT_A-5gkr_AB-AT_T.57" "ASN" "A" 58 "-" 3.3 18.07 21.37
+"5gkr_AB-AT_A-5gkr_AB-AT_T.97" "HIS" "A" 95 "-" 2.48 2.34 4.82
+"5gkr_AB-AT_A-5gkr_AB-AT_T.98" "ARG" "A" 96 "-" 0.41 0.24 0.64
+"5gkr_AB-AT_A-5gkr_AB-AT_T.99" "ASN" "A" 97 "-" 3.76 6.63 10.39
+"5gkr_AB-AT_A-5gkr_AB-AT_T.100" "TRP" "A" 98 "-" 109.47 6.66 116.12
+"5gkr_AB-AT_A-5gkr_AB-AT_T.101" "LEU" "A" 99 "-" 0 0.05 0.04
+"5gkr_AB-AT_A-5gkr_AB-AT_T.208" "DT" "TRUE" 1 "-" 61.09 71.06 132.15
+"5gkr_AB-AT_A-5gkr_AB-AT_T.209" "DT" "TRUE" 2 "-" 67.96 72.71 140.67
+"5gkr_AB-AT_A-5gkr_AB-AT_T.210" "DT" "TRUE" 3 "-" 145.01 114.49 259.51
+"5gkr_AB-AT_A-5gkr_AB-AT_T.211" "DT" "TRUE" 4 "-" 0.48 4.69 5.16

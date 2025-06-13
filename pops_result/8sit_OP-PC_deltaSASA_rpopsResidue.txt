@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8sit_OP-PC_C-8sit_OP-PC_P.45" "LYS" "C" 378 "-" 10.15 12.09 22.24
+"8sit_OP-PC_C-8sit_OP-PC_P.72" "ASP" "C" 405 "-" 2.06 0 2.05
+"8sit_OP-PC_C-8sit_OP-PC_P.74" "VAL" "C" 407 "-" 0.88 0 0.89
+"8sit_OP-PC_C-8sit_OP-PC_P.75" "ARG" "C" 408 "-" 25.16 20.06 45.22
+"8sit_OP-PC_C-8sit_OP-PC_P.76" "GLN" "C" 409 "-" 0.39 0.67 1.06
+"8sit_OP-PC_C-8sit_OP-PC_P.78" "ALA" "C" 411 "-" 0.47 0 0.46
+"8sit_OP-PC_C-8sit_OP-PC_P.81" "GLN" "C" 414 "-" 1.65 17.55 19.19
+"8sit_OP-PC_C-8sit_OP-PC_P.82" "THR" "C" 415 "-" 5.88 15.18 21.06
+"8sit_OP-PC_C-8sit_OP-PC_P.83" "GLY" "C" 416 "-" 1.33 0.45 1.79
+"8sit_OP-PC_C-8sit_OP-PC_P.84" "LYS" "C" 417 "-" 0.59 2.32 2.93
+"8sit_OP-PC_C-8sit_OP-PC_P.241" "TYR" "P" 49 "-" 12.53 21.46 34
+"8sit_OP-PC_C-8sit_OP-PC_P.242" "ASP" "P" 50 "-" 1.69 8.04 9.73
+"8sit_OP-PC_C-8sit_OP-PC_P.245" "ASP" "P" 53 "-" 4.85 16.82 21.67
+"8sit_OP-PC_C-8sit_OP-PC_P.246" "ARG" "P" 54 "-" 1.05 9.73 10.78
+"8sit_OP-PC_C-8sit_OP-PC_P.247" "PRO" "P" 55 "-" 3.62 0.68 4.3
+"8sit_OP-PC_C-8sit_OP-PC_P.248" "SER" "P" 56 "-" 42.01 38.25 80.26

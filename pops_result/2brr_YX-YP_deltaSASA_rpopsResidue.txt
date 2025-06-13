@@ -1,0 +1,26 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2brr_YX-YP_P-2brr_YX-YP_Y.1" "VAL" "P" 3 "-" 56.76 0 56.76
+"2brr_YX-YP_P-2brr_YX-YP_Y.3" "ASN" "P" 5 "-" 14.77 24.82 39.59
+"2brr_YX-YP_P-2brr_YX-YP_Y.4" "ASN" "P" 6 "-" 9.12 6.08 15.2
+"2brr_YX-YP_P-2brr_YX-YP_Y.5" "LYS" "P" 7 "-" 0 0 0.01
+"2brr_YX-YP_P-2brr_YX-YP_Y.6" "VAL" "P" 8 "-" 54.7 0.57 55.28
+"2brr_YX-YP_P-2brr_YX-YP_Y.7" "ALA" "P" 9 "-" 0.53 1.58 2.12
+"2brr_YX-YP_P-2brr_YX-YP_Y.8" "THR" "P" 10 "-" 35.59 25.7 61.29
+"2brr_YX-YP_P-2brr_YX-YP_Y.9" "HIS" "P" 11 "-" 115.97 84.05 200.02
+"2brr_YX-YP_P-2brr_YX-YP_Y.39" "THR" "Y" 30 "-" 0.07 1.53 1.6
+"2brr_YX-YP_P-2brr_YX-YP_Y.40" "ASN" "Y" 31 "-" 1.74 5.18 6.91
+"2brr_YX-YP_P-2brr_YX-YP_Y.41" "TYR" "Y" 32 "-" 0.94 1.82 2.76
+"2brr_YX-YP_P-2brr_YX-YP_Y.42" "GLY" "Y" 33 "-" 4.08 1.61 5.69
+"2brr_YX-YP_P-2brr_YX-YP_Y.43" "MET" "Y" 34 "-" 0 0.09 0.08
+"2brr_YX-YP_P-2brr_YX-YP_Y.59" "TRP" "Y" 50 "-" 20.91 0.06 20.97
+"2brr_YX-YP_P-2brr_YX-YP_Y.60" "ILE" "Y" 51 "-" 0.02 0.3 0.32
+"2brr_YX-YP_P-2brr_YX-YP_Y.61" "ASN" "Y" 52 "-" 1.89 15.58 17.47
+"2brr_YX-YP_P-2brr_YX-YP_Y.62" "THR" "Y" 52 "A" 0.97 1.03 2
+"2brr_YX-YP_P-2brr_YX-YP_Y.63" "TYR" "Y" 53 "-" 49.68 17.82 67.51
+"2brr_YX-YP_P-2brr_YX-YP_Y.64" "THR" "Y" 54 "-" 2.51 0.05 2.56
+"2brr_YX-YP_P-2brr_YX-YP_Y.108" "ASP" "Y" 95 "-" 1.59 7.12 8.7
+"2brr_YX-YP_P-2brr_YX-YP_Y.110" "TYR" "Y" 97 "-" 5.68 16.53 22.21
+"2brr_YX-YP_P-2brr_YX-YP_Y.113" "THR" "Y" 100 "-" 10.64 0.7 11.34
+"2brr_YX-YP_P-2brr_YX-YP_Y.114" "TYR" "Y" 100 "A" 53.77 35.02 88.79
+"2brr_YX-YP_P-2brr_YX-YP_Y.115" "PRO" "Y" 100 "B" 10.07 0.04 10.1
+"2brr_YX-YP_P-2brr_YX-YP_Y.117" "TYR" "Y" 100 "D" 11.98 8.05 20.03

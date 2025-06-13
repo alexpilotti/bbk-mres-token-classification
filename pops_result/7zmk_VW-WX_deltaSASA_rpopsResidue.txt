@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7zmk_VW-WX_W-7zmk_VW-WX_X.30" "SER" "W" 30 "-" 2.65 1.95 4.58
+"7zmk_VW-WX_W-7zmk_VW-WX_X.31" "LYS" "W" 31 "-" 9.68 6.44 16.11
+"7zmk_VW-WX_W-7zmk_VW-WX_X.32" "TYR" "W" 32 "-" 20.49 25.21 45.7
+"7zmk_VW-WX_W-7zmk_VW-WX_X.92" "ASN" "W" 92 "-" 0.07 6.48 6.54
+"7zmk_VW-WX_W-7zmk_VW-WX_X.94" "TYR" "W" 94 "-" 25.06 25.61 50.65
+"7zmk_VW-WX_W-7zmk_VW-WX_X.224" "TYR" "X" 24 "-" 0.58 1.71 2.29
+"7zmk_VW-WX_W-7zmk_VW-WX_X.229" "GLN" "X" 29 "-" 9.24 28.81 38.05
+"7zmk_VW-WX_W-7zmk_VW-WX_X.251" "MET" "X" 51 "-" 0.03 0.76 0.79
+"7zmk_VW-WX_W-7zmk_VW-WX_X.252" "THR" "X" 52 "-" 1.08 0.82 1.88
+"7zmk_VW-WX_W-7zmk_VW-WX_X.254" "GLU" "X" 54 "-" 18.83 16.35 35.18
+"7zmk_VW-WX_W-7zmk_VW-WX_X.255" "GLY" "X" 55 "-" 0.98 1.06 2.04
+"7zmk_VW-WX_W-7zmk_VW-WX_X.306" "GLU" "X" 106 "-" 0 0.45 0.45
+"7zmk_VW-WX_W-7zmk_VW-WX_X.320" "TYR" "X" 120 "-" 0 1.78 1.78
+"7zmk_VW-WX_W-7zmk_VW-WX_X.322" "LYS" "X" 122 "-" 1.08 4.26 5.35
+"7zmk_VW-WX_W-7zmk_VW-WX_X.348" "GLU" "X" 148 "-" 3.95 23.01 26.96
+"7zmk_VW-WX_W-7zmk_VW-WX_X.432" "ARG" "X" 232 "-" 0 1.35 1.35

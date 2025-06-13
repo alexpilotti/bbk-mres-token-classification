@@ -1,0 +1,3 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5e8e_BA-AH_A-5e8e_BA-AH_H.49" "TYR" "A" 49 "-" 1.43 4.36 5.78
+"5e8e_BA-AH_A-5e8e_BA-AH_H.237" "SER" "H" 342 "-" 2.79 4.95 7.73

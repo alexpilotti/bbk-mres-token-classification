@@ -1,0 +1,3 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4fqi_HL-LB_B-4fqi_HL-LB_L.19" "ASP" "B" 19 "-" 0 2.8 2.81
+"4fqi_HL-LB_B-4fqi_HL-LB_L.207" "ARG" "L" 31 "-" 0.06 2 2.06

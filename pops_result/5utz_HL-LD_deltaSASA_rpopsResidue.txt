@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5utz_HL-LD_L-5utz_HL-LD_D.29" "ILE" "L" 29 "-" 0 0.11 0.11
+"5utz_HL-LD_L-5utz_HL-LD_D.30" "ALA" "L" 30 "-" 6.42 11.92 18.35
+"5utz_HL-LD_L-5utz_HL-LD_D.31" "SER" "L" 31 "-" 4.28 12.66 16.94
+"5utz_HL-LD_L-5utz_HL-LD_D.32" "ASN" "L" 32 "-" 1.13 4.19 5.32
+"5utz_HL-LD_L-5utz_HL-LD_D.33" "TYR" "L" 33 "-" 33.74 26.62 60.37
+"5utz_HL-LD_L-5utz_HL-LD_D.52" "ASP" "L" 52 "-" 1.12 5.45 6.58
+"5utz_HL-LD_L-5utz_HL-LD_D.67" "ILE" "L" 67 "-" 0.11 0 0.11
+"5utz_HL-LD_L-5utz_HL-LD_D.94" "TYR" "L" 94 "-" 16.42 4.72 21.13
+"5utz_HL-LD_L-5utz_HL-LD_D.95" "ASP" "L" 95 "-" 1.36 7.32 8.68
+"5utz_HL-LD_L-5utz_HL-LD_D.96" "SER" "L" 96 "-" 22.91 33.92 56.83
+"5utz_HL-LD_L-5utz_HL-LD_D.97" "SER" "L" 97 "-" 2.85 9.38 12.23
+"5utz_HL-LD_L-5utz_HL-LD_D.98" "ASN" "L" 98 "-" 4.76 1.61 6.38
+"5utz_HL-LD_L-5utz_HL-LD_D.99" "VAL" "L" 99 "-" 13.04 1.24 14.28
+"5utz_HL-LD_L-5utz_HL-LD_D.282" "ASN" "D" 71 "-" 0.12 2.09 2.22
+"5utz_HL-LD_L-5utz_HL-LD_D.285" "GLN" "D" 74 "-" 0.84 1.68 2.52
+"5utz_HL-LD_L-5utz_HL-LD_D.286" "SER" "D" 75 "-" 0.84 0.99 1.84
+"5utz_HL-LD_L-5utz_HL-LD_D.287" "LYS" "D" 76 "-" 132.23 46.2 178.43
+"5utz_HL-LD_L-5utz_HL-LD_D.288" "ASN" "D" 77 "-" 8.52 22.46 30.98
+"5utz_HL-LD_L-5utz_HL-LD_D.290" "HIS" "D" 79 "-" 33.49 15.83 49.32
+"5utz_HL-LD_L-5utz_HL-LD_D.292" "ARG" "D" 81 "-" 21.81 73.38 95.19
+"5utz_HL-LD_L-5utz_HL-LD_D.293" "PRO" "D" 82 "-" 1.58 0.03 1.61
+"5utz_HL-LD_L-5utz_HL-LD_D.294" "ARG" "D" 83 "-" 0.44 0 0.44
+"5utz_HL-LD_L-5utz_HL-LD_D.295" "ASP" "D" 84 "-" 1.36 8.06 9.42

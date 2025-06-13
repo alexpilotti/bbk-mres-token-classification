@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7mta_HL-LG_G-7mta_HL-LG_L.271" "GLU" "G" 433 "-" 12.19 14.87 27.06
+"7mta_HL-LG_G-7mta_HL-LG_L.272" "LYS" "G" 434 "-" 1.16 0 1.16
+"7mta_HL-LG_G-7mta_HL-LG_L.277" "ARG" "G" 439 "-" 0.53 3.28 3.81
+"7mta_HL-LG_G-7mta_HL-LG_L.278" "ASP" "G" 440 "-" 0.77 1.43 2.2
+"7mta_HL-LG_G-7mta_HL-LG_L.376" "SER" "L" 31 "-" 6.65 10.47 17.1
+"7mta_HL-LG_G-7mta_HL-LG_L.377" "SER" "L" 32 "-" 8.23 16.86 25.1
+"7mta_HL-LG_G-7mta_HL-LG_L.396" "SER" "L" 51 "-" 0.58 0.23 0.81

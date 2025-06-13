@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7v3l_HI-IC_C-7v3l_HI-IC_I.398" "VAL" "C" 420 "-" 8.07 6.57 14.63
+"7v3l_HI-IC_C-7v3l_HI-IC_I.399" "ASN" "C" 421 "-" 20.64 39.93 60.57
+"7v3l_HI-IC_C-7v3l_HI-IC_I.400" "ASP" "C" 422 "-" 15.12 2.9 18.02
+"7v3l_HI-IC_C-7v3l_HI-IC_I.401" "PHE" "C" 423 "-" 5.69 4.22 9.9
+"7v3l_HI-IC_C-7v3l_HI-IC_I.402" "THR" "C" 424 "-" 1.1 0.04 1.14
+"7v3l_HI-IC_C-7v3l_HI-IC_I.428" "LEU" "C" 450 "-" 9.13 0.05 9.18
+"7v3l_HI-IC_C-7v3l_HI-IC_I.431" "LYS" "C" 453 "-" 61.26 44.14 105.4
+"7v3l_HI-IC_C-7v3l_HI-IC_I.1154" "SER" "I" 31 "-" 0 0.13 0.12
+"7v3l_HI-IC_C-7v3l_HI-IC_I.1155" "ILE" "I" 32 "-" 1.17 0.55 1.72
+"7v3l_HI-IC_C-7v3l_HI-IC_I.1158" "TRP" "I" 35 "-" 6.45 0 6.44
+"7v3l_HI-IC_C-7v3l_HI-IC_I.1217" "TYR" "I" 94 "-" 0 0.04 0.04
+"7v3l_HI-IC_C-7v3l_HI-IC_I.1218" "ASP" "I" 95 "-" 2.08 7.47 9.55
+"7v3l_HI-IC_C-7v3l_HI-IC_I.1219" "ASN" "I" 96 "-" 21.43 9.15 30.59
+"7v3l_HI-IC_C-7v3l_HI-IC_I.1220" "TYR" "I" 97 "-" 68.82 48.28 117.11
+"7v3l_HI-IC_C-7v3l_HI-IC_I.1221" "SER" "I" 98 "-" 13.5 6.08 19.58

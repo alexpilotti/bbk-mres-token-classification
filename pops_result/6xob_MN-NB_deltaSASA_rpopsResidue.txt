@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6xob_MN-NB_B-6xob_MN-NB_N.181" "HIS" "B" 181 "-" 4.78 4.96 9.73
+"6xob_MN-NB_B-6xob_MN-NB_N.182" "SER" "B" 182 "-" 3.12 5.1 8.22
+"6xob_MN-NB_B-6xob_MN-NB_N.183" "ALA" "B" 183 "-" 24.74 0.8 25.53
+"6xob_MN-NB_B-6xob_MN-NB_N.184" "LYS" "B" 184 "-" 2.83 0.09 2.94
+"6xob_MN-NB_B-6xob_MN-NB_N.212" "ASP" "B" 212 "-" 0.09 1.56 1.65
+"6xob_MN-NB_B-6xob_MN-NB_N.213" "HIS" "B" 213 "-" 0.69 2.09 2.78
+"6xob_MN-NB_B-6xob_MN-NB_N.214" "THR" "B" 214 "-" 0.13 0.03 0.16
+"6xob_MN-NB_B-6xob_MN-NB_N.215" "THR" "B" 215 "-" 12.93 9.15 22.08
+"6xob_MN-NB_B-6xob_MN-NB_N.415" "GLU" "N" 1 "-" 0.62 0 0.62
+"6xob_MN-NB_B-6xob_MN-NB_N.416" "ILE" "N" 2 "-" 0.32 0.05 0.37
+"6xob_MN-NB_B-6xob_MN-NB_N.446" "ASN" "N" 32 "-" 19.93 0.43 20.36
+"6xob_MN-NB_B-6xob_MN-NB_N.508" "TRP" "N" 94 "-" 0.05 0 0.05
+"6xob_MN-NB_B-6xob_MN-NB_N.509" "LEU" "N" 95 "-" 39.27 12.95 52.22
+"6xob_MN-NB_B-6xob_MN-NB_N.510" "THR" "N" 96 "-" 24.67 4.92 29.59
+"6xob_MN-NB_B-6xob_MN-NB_N.511" "PHE" "N" 97 "-" 0 0.15 0.15

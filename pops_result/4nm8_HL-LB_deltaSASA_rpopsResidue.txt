@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4nm8_HL-LB_B-4nm8_HL-LB_L.18" "ILE" "B" 18 "-" 34.33 12.28 46.61
+"4nm8_HL-LB_B-4nm8_HL-LB_L.19" "ASP" "B" 19 "-" 40.25 39.45 79.7
+"4nm8_HL-LB_B-4nm8_HL-LB_L.20" "GLY" "B" 20 "-" 1.24 0.88 2.12
+"4nm8_HL-LB_B-4nm8_HL-LB_L.21" "TRP" "B" 21 "-" 0.07 0 0.06
+"4nm8_HL-LB_B-4nm8_HL-LB_L.36" "ALA" "B" 36 "-" 2.07 0.53 2.6
+"4nm8_HL-LB_B-4nm8_HL-LB_L.38" "LEU" "B" 38 "-" 68.73 0.01 68.74
+"4nm8_HL-LB_B-4nm8_HL-LB_L.41" "THR" "B" 41 "-" 0.13 0 0.13
+"4nm8_HL-LB_B-4nm8_HL-LB_L.42" "GLN" "B" 42 "-" 0 0.87 0.87
+"4nm8_HL-LB_B-4nm8_HL-LB_L.204" "SER" "L" 27 "E" 0.07 0.52 0.59
+"4nm8_HL-LB_B-4nm8_HL-LB_L.205" "SER" "L" 27 "F" 10.52 19.03 29.54
+"4nm8_HL-LB_B-4nm8_HL-LB_L.206" "THR" "L" 28 "-" 17.95 1.55 19.49
+"4nm8_HL-LB_B-4nm8_HL-LB_L.207" "ASN" "L" 29 "-" 0.05 0.7 0.74
+"4nm8_HL-LB_B-4nm8_HL-LB_L.208" "LYS" "L" 30 "-" 9.9 19.15 29.05
+"4nm8_HL-LB_B-4nm8_HL-LB_L.210" "TYR" "L" 32 "-" 4.12 8.21 12.33
+"4nm8_HL-LB_B-4nm8_HL-LB_L.228" "TRP" "L" 50 "-" 12.43 1.84 14.27
+"4nm8_HL-LB_B-4nm8_HL-LB_L.269" "TYR" "L" 91 "-" 0.26 0 0.26

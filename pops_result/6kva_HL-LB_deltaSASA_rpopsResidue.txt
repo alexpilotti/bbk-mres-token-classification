@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6kva_HL-LB_l-6kva_HL-LB_b.32" "ARG" "l" 34 "-" 0.37 9.25 9.62
+"6kva_HL-LB_l-6kva_HL-LB_b.34" "TYR" "l" 36 "-" 7.49 5.04 12.54
+"6kva_HL-LB_l-6kva_HL-LB_b.36" "TYR" "l" 38 "-" 6.62 12.25 18.87
+"6kva_HL-LB_l-6kva_HL-LB_b.46" "PHE" "l" 48 "-" 8.86 0.02 8.88
+"6kva_HL-LB_l-6kva_HL-LB_b.49" "ARG" "l" 51 "-" 1.16 19.82 20.98
+"6kva_HL-LB_l-6kva_HL-LB_b.95" "ALA" "l" 97 "-" 0.04 0 0.04
+"6kva_HL-LB_l-6kva_HL-LB_b.97" "TRP" "l" 99 "-" 17.19 2.41 19.59
+"6kva_HL-LB_l-6kva_HL-LB_b.102" "TRP" "l" 104 "-" 25.12 5.59 30.7
+"6kva_HL-LB_l-6kva_HL-LB_b.104" "PHE" "l" 106 "-" 10.29 0 10.29
+"6kva_HL-LB_l-6kva_HL-LB_b.219" "GLU" "b" 12 "-" 14.05 31.3 45.35
+"6kva_HL-LB_l-6kva_HL-LB_b.220" "ASP" "b" 13 "-" 0.03 0.34 0.37
+"6kva_HL-LB_l-6kva_HL-LB_b.221" "PHE" "b" 14 "-" 73.89 4.36 78.25
+"6kva_HL-LB_l-6kva_HL-LB_b.222" "TRP" "b" 15 "-" 69.05 12.38 81.42
+"6kva_HL-LB_l-6kva_HL-LB_b.223" "LYS" "b" 16 "-" 9.03 2.92 11.95
+"6kva_HL-LB_l-6kva_HL-LB_b.224" "GLY" "b" 17 "-" 48.27 32.96 81.22

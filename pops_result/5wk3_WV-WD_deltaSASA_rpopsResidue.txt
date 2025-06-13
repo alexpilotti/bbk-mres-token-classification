@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5wk3_WV-WD_W-5wk3_WV-WD_D.32" "TYR" "W" 32 "-" 0.07 0 0.07
+"5wk3_WV-WD_W-5wk3_WV-WD_D.33" "TRP" "W" 33 "-" 11.96 3.15 15.11
+"5wk3_WV-WD_W-5wk3_WV-WD_D.50" "ILE" "W" 50 "-" 0.01 0 0.02
+"5wk3_WV-WD_W-5wk3_WV-WD_D.52" "ASP" "W" 52 "-" 0.59 3.62 4.21
+"5wk3_WV-WD_W-5wk3_WV-WD_D.54" "SER" "W" 54 "-" 0 0.77 0.77
+"5wk3_WV-WD_W-5wk3_WV-WD_D.55" "ASP" "W" 55 "-" 3.45 11.09 14.52
+"5wk3_WV-WD_W-5wk3_WV-WD_D.57" "ASP" "W" 57 "-" 4.88 12.95 17.82
+"5wk3_WV-WD_W-5wk3_WV-WD_D.59" "ARG" "W" 59 "-" 4.17 31.12 35.3
+"5wk3_WV-WD_W-5wk3_WV-WD_D.99" "VAL" "W" 99 "-" 3.78 0.27 4.05
+"5wk3_WV-WD_W-5wk3_WV-WD_D.100" "GLY" "W" 100 "-" 0.72 2.77 3.5
+"5wk3_WV-WD_W-5wk3_WV-WD_D.101" "PRO" "W" 101 "-" 3.22 3.55 6.79
+"5wk3_WV-WD_W-5wk3_WV-WD_D.102" "ALA" "W" 102 "-" 1.49 2.29 3.77
+"5wk3_WV-WD_W-5wk3_WV-WD_D.103" "ASP" "W" 103 "-" 10.67 14.04 24.72
+"5wk3_WV-WD_W-5wk3_WV-WD_D.104" "VAL" "W" 104 "-" 74.67 5.09 79.76
+"5wk3_WV-WD_W-5wk3_WV-WD_D.105" "TRP" "W" 105 "-" 44.47 5.95 50.41
+"5wk3_WV-WD_W-5wk3_WV-WD_D.106" "ASP" "W" 106 "-" 1.51 1.1 2.61
+"5wk3_WV-WD_W-5wk3_WV-WD_D.233" "LEU" "D" 21 "-" 47.15 1.26 48.41
+"5wk3_WV-WD_W-5wk3_WV-WD_D.234" "ARG" "D" 22 "-" 97.68 136.27 233.95
+"5wk3_WV-WD_W-5wk3_WV-WD_D.235" "LYS" "D" 23 "-" 44.87 40.43 85.29
+"5wk3_WV-WD_W-5wk3_WV-WD_D.236" "LEU" "D" 24 "-" 0 0.08 0.08
+"5wk3_WV-WD_W-5wk3_WV-WD_D.256" "VAL" "D" 44 "-" 26.04 0 26.05
+"5wk3_WV-WD_W-5wk3_WV-WD_D.257" "GLN" "D" 45 "-" 3.39 9.45 12.84
+"5wk3_WV-WD_W-5wk3_WV-WD_D.276" "TYR" "D" 64 "-" 30.38 21.6 51.98
+"5wk3_WV-WD_W-5wk3_WV-WD_D.280" "LEU" "D" 68 "-" 0.31 0 0.31

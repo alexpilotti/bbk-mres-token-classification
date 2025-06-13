@@ -1,0 +1,11 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5y9f_LK-KA_A-5y9f_LK-KA_K.262" "ASP" "A" 281 "-" 0.18 2.2 2.38
+"5y9f_LK-KA_A-5y9f_LK-KA_K.263" "ILE" "A" 282 "-" 0.16 0 0.15
+"5y9f_LK-KA_A-5y9f_LK-KA_K.264" "ARG" "A" 283 "-" 22.58 86.77 109.35
+"5y9f_LK-KA_A-5y9f_LK-KA_K.451" "HIS" "K" 31 "-" 3.93 3.23 7.16
+"5y9f_LK-KA_A-5y9f_LK-KA_K.457" "TYR" "K" 37 "-" 2.89 0 2.88
+"5y9f_LK-KA_A-5y9f_LK-KA_K.516" "SER" "K" 96 "-" 1.02 2.54 3.55
+"5y9f_LK-KA_A-5y9f_LK-KA_K.517" "THR" "K" 97 "-" 0.29 2.05 2.35
+"5y9f_LK-KA_A-5y9f_LK-KA_K.518" "HIS" "K" 98 "-" 0.19 0.08 0.26
+"5y9f_LK-KA_A-5y9f_LK-KA_K.519" "VAL" "K" 99 "-" 10.97 0.21 11.18
+"5y9f_LK-KA_A-5y9f_LK-KA_K.521" "PHE" "K" 101 "-" 17.77 0 17.77

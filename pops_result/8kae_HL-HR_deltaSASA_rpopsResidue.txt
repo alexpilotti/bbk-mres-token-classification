@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8kae_HL-HR_H-8kae_HL-HR_R.29" "ASN" "H" 32 "-" 0.36 3.27 3.63
+"8kae_HL-HR_H-8kae_HL-HR_R.354" "LYS" "R" 224 "-" 0.15 0 0.14
+"8kae_HL-HR_H-8kae_HL-HR_R.355" "ASN" "R" 225 "-" 0.47 6.38 6.85

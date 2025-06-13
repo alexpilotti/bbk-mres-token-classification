@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8vm9_AB-BC_C-8vm9_AB-BC_B.60" "A" "C" 60 "-" 63.84 68.57 132.41
+"8vm9_AB-BC_C-8vm9_AB-BC_B.61" "C" "C" 61 "-" 0 0.04 0.05
+"8vm9_AB-BC_C-8vm9_AB-BC_B.177" "SER" "B" 92 "-" 13.3 14.21 27.53
+"8vm9_AB-BC_C-8vm9_AB-BC_B.178" "TYR" "B" 93 "-" 1 3.76 4.76
+"8vm9_AB-BC_C-8vm9_AB-BC_B.179" "SER" "B" 94 "-" 2.82 1.17 3.99
+"8vm9_AB-BC_C-8vm9_AB-BC_B.180" "PHE" "B" 95 "-" 81.88 0.86 82.74
+"8vm9_AB-BC_C-8vm9_AB-BC_B.182" "SER" "B" 97 "-" 1.19 0 1.2

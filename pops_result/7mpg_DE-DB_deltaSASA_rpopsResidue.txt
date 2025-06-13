@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7mpg_DE-DB_B-7mpg_DE-DB_D.94" "LYS" "B" 156 "-" 17.49 17.47 34.96
+"7mpg_DE-DB_B-7mpg_DE-DB_D.95" "VAL" "B" 157 "-" 3.09 0.11 3.2
+"7mpg_DE-DB_B-7mpg_DE-DB_D.97" "HIS" "B" 159 "-" 0.16 0.86 1.02
+"7mpg_DE-DB_B-7mpg_DE-DB_D.98" "LEU" "B" 160 "-" 60.5 0.35 60.84
+"7mpg_DE-DB_B-7mpg_DE-DB_D.99" "GLU" "B" 161 "-" 23.09 2 25.1
+"7mpg_DE-DB_B-7mpg_DE-DB_D.100" "GLY" "B" 162 "-" 3.1 1.19 4.28
+"7mpg_DE-DB_B-7mpg_DE-DB_D.101" "GLU" "B" 163 "-" 0.3 0.03 0.32
+"7mpg_DE-DB_B-7mpg_DE-DB_D.119" "LEU" "B" 181 "-" 0.05 0.31 0.37
+"7mpg_DE-DB_B-7mpg_DE-DB_D.120" "SER" "B" 182 "-" 16.93 25.83 42.76
+"7mpg_DE-DB_B-7mpg_DE-DB_D.121" "ASN" "B" 183 "-" 15 15.49 30.49
+"7mpg_DE-DB_B-7mpg_DE-DB_D.122" "GLY" "B" 184 "-" 10.74 2.73 13.47
+"7mpg_DE-DB_B-7mpg_DE-DB_D.123" "VAL" "B" 185 "-" 0 0.07 0.08
+"7mpg_DE-DB_B-7mpg_DE-DB_D.452" "VAL" "D" 2 "-" 1.84 0 1.84
+"7mpg_DE-DB_B-7mpg_DE-DB_D.476" "GLY" "D" 26 "-" 2.17 6.4 8.56
+"7mpg_DE-DB_B-7mpg_DE-DB_D.477" "PHE" "D" 27 "-" 2.22 0.47 2.69
+"7mpg_DE-DB_B-7mpg_DE-DB_D.478" "SER" "D" 28 "-" 10.37 22.84 33.2
+"7mpg_DE-DB_B-7mpg_DE-DB_D.481" "HIS" "D" 31 "-" 30.49 19.4 49.89
+"7mpg_DE-DB_B-7mpg_DE-DB_D.482" "TYR" "D" 32 "-" 6.32 16.03 22.35
+"7mpg_DE-DB_B-7mpg_DE-DB_D.549" "ASP" "D" 95 "-" 0 0.06 0.06
+"7mpg_DE-DB_B-7mpg_DE-DB_D.550" "ARG" "D" 96 "-" 1.11 9.23 10.32
+"7mpg_DE-DB_B-7mpg_DE-DB_D.551" "ILE" "D" 97 "-" 20.83 0.76 21.59
+"7mpg_DE-DB_B-7mpg_DE-DB_D.552" "VAL" "D" 98 "-" 24.09 1.97 26.06
+"7mpg_DE-DB_B-7mpg_DE-DB_D.553" "ASP" "D" 99 "-" 0.99 4.65 5.65
+"7mpg_DE-DB_B-7mpg_DE-DB_D.558" "TYR" "D" 100 "D" 0.06 0 0.06

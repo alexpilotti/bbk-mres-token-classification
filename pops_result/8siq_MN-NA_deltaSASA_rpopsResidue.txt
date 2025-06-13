@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8siq_MN-NA_A-8siq_MN-NA_N.106" "ASN" "A" 439 "-" 0.06 0.38 0.43
+"8siq_MN-NA_A-8siq_MN-NA_N.107" "ASN" "A" 440 "-" 29.48 58.22 87.7
+"8siq_MN-NA_A-8siq_MN-NA_N.108" "LEU" "A" 441 "-" 2.05 0.39 2.44
+"8siq_MN-NA_A-8siq_MN-NA_N.110" "SER" "A" 443 "-" 0.37 3.13 3.5
+"8siq_MN-NA_A-8siq_MN-NA_N.111" "LYS" "A" 444 "-" 0.19 0.05 0.24
+"8siq_MN-NA_A-8siq_MN-NA_N.112" "VAL" "A" 445 "-" 46.13 0.23 46.37
+"8siq_MN-NA_A-8siq_MN-NA_N.166" "PRO" "A" 499 "-" 2.69 0 2.68
+"8siq_MN-NA_A-8siq_MN-NA_N.287" "SER" "N" 91 "-" 0 0.16 0.15
+"8siq_MN-NA_A-8siq_MN-NA_N.288" "TYR" "N" 92 "-" 5.77 8.18 13.95
+"8siq_MN-NA_A-8siq_MN-NA_N.289" "SER" "N" 93 "-" 1.74 1.48 3.23
+"8siq_MN-NA_A-8siq_MN-NA_N.290" "THR" "N" 94 "-" 43.02 2.29 45.31
+"8siq_MN-NA_A-8siq_MN-NA_N.291" "PRO" "N" 95 "-" 2.93 0.01 2.94
+"8siq_MN-NA_A-8siq_MN-NA_N.292" "ARG" "N" 95 "A" 20.53 18.5 39.04
+"8siq_MN-NA_A-8siq_MN-NA_N.293" "GLN" "N" 95 "B" 0 0.64 0.64
+"8siq_MN-NA_A-8siq_MN-NA_N.294" "TRP" "N" 96 "-" 0.06 0 0.07

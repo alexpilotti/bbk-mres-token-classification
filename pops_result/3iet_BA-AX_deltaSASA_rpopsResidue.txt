@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3iet_BA-AX_A-3iet_BA-AX_X.30" "HIS" "A" 27 "D" 16.39 13.93 30.32
+"3iet_BA-AX_A-3iet_BA-AX_X.31" "SER" "A" 27 "E" 0.22 0.1 0.32
+"3iet_BA-AX_A-3iet_BA-AX_X.32" "ASN" "A" 28 "-" 6.26 11.84 18.1
+"3iet_BA-AX_A-3iet_BA-AX_X.34" "ASN" "A" 30 "-" 0.52 6.5 7.02
+"3iet_BA-AX_A-3iet_BA-AX_X.36" "TYR" "A" 32 "-" 6.46 7.89 14.35
+"3iet_BA-AX_A-3iet_BA-AX_X.54" "LYS" "A" 50 "-" 3.83 8.96 12.79
+"3iet_BA-AX_A-3iet_BA-AX_X.95" "SER" "A" 91 "-" 0.01 0.37 0.37
+"3iet_BA-AX_A-3iet_BA-AX_X.96" "THR" "A" 92 "-" 2.75 7.93 10.68
+"3iet_BA-AX_A-3iet_BA-AX_X.97" "HIS" "A" 93 "-" 12.09 6.39 18.48
+"3iet_BA-AX_A-3iet_BA-AX_X.98" "VAL" "A" 94 "-" 12.98 1.67 14.64
+"3iet_BA-AX_A-3iet_BA-AX_X.99" "PRO" "A" 95 "-" 0.02 0 0.02
+"3iet_BA-AX_A-3iet_BA-AX_X.216" "GLY" "X" 1 "-" 43.41 45.24 88.65
+"3iet_BA-AX_A-3iet_BA-AX_X.217" "THR" "X" 2 "-" 54.98 30.67 85.64
+"3iet_BA-AX_A-3iet_BA-AX_X.218" "LYS" "X" 3 "-" 1.19 0.48 1.69
+"3iet_BA-AX_A-3iet_BA-AX_X.219" "PRO" "X" 4 "-" 18.88 0.17 19.05
+"3iet_BA-AX_A-3iet_BA-AX_X.220" "PRO" "X" 5 "-" 0.15 0 0.16
+"3iet_BA-AX_A-3iet_BA-AX_X.223" "GLU" "X" 8 "-" 15.24 44.02 59.25
+"3iet_BA-AX_A-3iet_BA-AX_X.224" "LEU" "X" 9 "-" 2.24 9.39 11.63

@@ -1,0 +1,26 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3uaj_CD-DB_B-3uaj_CD-DB_D.162" "LYS" "B" 174 "-" 8.23 2.53 10.77
+"3uaj_CD-DB_B-3uaj_CD-DB_D.163" "LEU" "B" 175 "-" 0.19 0.33 0.53
+"3uaj_CD-DB_B-3uaj_CD-DB_D.164" "PRO" "B" 176 "-" 46.06 1.13 47.19
+"3uaj_CD-DB_B-3uaj_CD-DB_D.165" "ASP" "B" 177 "-" 13.18 35.22 48.39
+"3uaj_CD-DB_B-3uaj_CD-DB_D.166" "TYR" "B" 178 "-" 0 0.07 0.07
+"3uaj_CD-DB_B-3uaj_CD-DB_D.167" "GLY" "B" 179 "-" 0.02 0.14 0.16
+"3uaj_CD-DB_B-3uaj_CD-DB_D.269" "ARG" "B" 293 "-" 17.07 58.59 75.66
+"3uaj_CD-DB_B-3uaj_CD-DB_D.271" "LYS" "B" 295 "-" 1.16 0 1.16
+"3uaj_CD-DB_B-3uaj_CD-DB_D.274" "SER" "B" 298 "-" 19.37 15.34 34.71
+"3uaj_CD-DB_B-3uaj_CD-DB_D.275" "TYR" "B" 299 "-" 2.73 2.29 5.02
+"3uaj_CD-DB_B-3uaj_CD-DB_D.307" "ALA" "B" 331 "-" 0 0.08 0.07
+"3uaj_CD-DB_B-3uaj_CD-DB_D.308" "PRO" "B" 332 "-" 13.27 0 13.27
+"3uaj_CD-DB_B-3uaj_CD-DB_D.335" "GLU" "B" 359 "-" 0 0.07 0.07
+"3uaj_CD-DB_B-3uaj_CD-DB_D.336" "ASN" "B" 360 "-" 0.61 9.06 9.67
+"3uaj_CD-DB_B-3uaj_CD-DB_D.372" "GLU" "D" 2 "-" 5.86 11.32 17.18
+"3uaj_CD-DB_B-3uaj_CD-DB_D.398" "GLN" "D" 28 "-" 5.62 12.86 18.49
+"3uaj_CD-DB_B-3uaj_CD-DB_D.399" "ASP" "D" 29 "-" 10.24 10.4 20.64
+"3uaj_CD-DB_B-3uaj_CD-DB_D.400" "ILE" "D" 30 "-" 0 0.02 0.02
+"3uaj_CD-DB_B-3uaj_CD-DB_D.401" "SER" "D" 31 "-" 0.39 0 0.39
+"3uaj_CD-DB_B-3uaj_CD-DB_D.403" "ARG" "D" 33 "-" 5.56 27.16 32.72
+"3uaj_CD-DB_B-3uaj_CD-DB_D.462" "PHE" "D" 92 "-" 2.38 3.11 5.49
+"3uaj_CD-DB_B-3uaj_CD-DB_D.463" "ASN" "D" 93 "-" 3.73 17.56 21.28
+"3uaj_CD-DB_B-3uaj_CD-DB_D.464" "SER" "D" 94 "-" 14.03 2.24 16.27
+"3uaj_CD-DB_B-3uaj_CD-DB_D.465" "TYR" "D" 95 "-" 51.65 21.76 73.43
+"3uaj_CD-DB_B-3uaj_CD-DB_D.466" "PRO" "D" 96 "-" 0 0.03 0.04

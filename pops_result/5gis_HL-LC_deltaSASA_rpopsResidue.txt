@@ -1,0 +1,21 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5gis_HL-LC_L-5gis_HL-LC_C.34" "HIS" "L" 34 "-" 3.47 2.38 5.85
+"5gis_HL-LC_L-5gis_HL-LC_C.36" "TYR" "L" 36 "-" 0.74 3.34 4.08
+"5gis_HL-LC_L-5gis_HL-LC_C.46" "LEU" "L" 46 "-" 13.88 0 13.88
+"5gis_HL-LC_L-5gis_HL-LC_C.48" "ILE" "L" 48 "-" 0 0.04 0.03
+"5gis_HL-LC_L-5gis_HL-LC_C.49" "ARG" "L" 49 "-" 17.22 83.56 100.78
+"5gis_HL-LC_L-5gis_HL-LC_C.50" "TYR" "L" 50 "-" 20.59 27.41 48
+"5gis_HL-LC_L-5gis_HL-LC_C.55" "ILE" "L" 55 "-" 13.08 0.09 13.16
+"5gis_HL-LC_L-5gis_HL-LC_C.56" "SER" "L" 56 "-" 20.15 8.5 28.65
+"5gis_HL-LC_L-5gis_HL-LC_C.89" "GLN" "L" 89 "-" 0.11 2.22 2.33
+"5gis_HL-LC_L-5gis_HL-LC_C.91" "SER" "L" 91 "-" 3.1 1.97 5.06
+"5gis_HL-LC_L-5gis_HL-LC_C.94" "TRP" "L" 94 "-" 0.01 0 0.02
+"5gis_HL-LC_L-5gis_HL-LC_C.96" "PHE" "L" 96 "-" 12.52 0 12.52
+"5gis_HL-LC_L-5gis_HL-LC_C.213" "ILE" "C" 168 "-" 35.88 3.13 39
+"5gis_HL-LC_L-5gis_HL-LC_C.214" "THR" "C" 169 "-" 23.76 5.83 29.6
+"5gis_HL-LC_L-5gis_HL-LC_C.215" "ILE" "C" 170 "-" 111.75 11.6 123.36
+"5gis_HL-LC_L-5gis_HL-LC_C.216" "GLY" "C" 171 "-" 12.89 5.34 18.23
+"5gis_HL-LC_L-5gis_HL-LC_C.217" "SER" "C" 172 "-" 2.61 0.64 3.26
+"5gis_HL-LC_L-5gis_HL-LC_C.219" "ALA" "C" 174 "-" 0.48 0 0.48
+"5gis_HL-LC_L-5gis_HL-LC_C.220" "HIS" "C" 175 "-" 46.13 28.51 74.63
+"5gis_HL-LC_L-5gis_HL-LC_C.221" "GLY" "C" 176 "-" 5.45 7.64 13.09

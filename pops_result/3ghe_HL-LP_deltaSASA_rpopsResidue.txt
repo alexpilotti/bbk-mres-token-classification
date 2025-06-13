@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3ghe_HL-LP_L-3ghe_HL-LP_P.29" "VAL" "L" 27 "C" 0.29 0.11 0.41
+"3ghe_HL-LP_L-3ghe_HL-LP_P.30" "ASN" "L" 28 "-" 19.94 47.02 66.94
+"3ghe_HL-LP_L-3ghe_HL-LP_P.31" "GLY" "L" 29 "-" 2.37 0.74 3.1
+"3ghe_HL-LP_L-3ghe_HL-LP_P.32" "TYR" "L" 30 "-" 0 0.02 0.02
+"3ghe_HL-LP_L-3ghe_HL-LP_P.34" "TYR" "L" 32 "-" 30.11 10.52 40.62
+"3ghe_HL-LP_L-3ghe_HL-LP_P.93" "TYR" "L" 91 "-" 9.71 3.91 13.63
+"3ghe_HL-LP_L-3ghe_HL-LP_P.94" "THR" "L" 92 "-" 0 0.04 0.04
+"3ghe_HL-LP_L-3ghe_HL-LP_P.95" "SER" "L" 93 "-" 0.04 0.07 0.1
+"3ghe_HL-LP_L-3ghe_HL-LP_P.98" "PRO" "L" 95 "A" 3.07 4.87 7.94
+"3ghe_HL-LP_L-3ghe_HL-LP_P.99" "TYR" "L" 95 "B" 27.4 3.62 31.02
+"3ghe_HL-LP_L-3ghe_HL-LP_P.100" "VAL" "L" 96 "-" 18.48 0.55 19.03
+"3ghe_HL-LP_L-3ghe_HL-LP_P.102" "PHE" "L" 98 "-" 0.39 0 0.39
+"3ghe_HL-LP_L-3ghe_HL-LP_P.216" "LYS" "P" 305 "-" 10.42 13.88 24.31
+"3ghe_HL-LP_L-3ghe_HL-LP_P.218" "ILE" "P" 307 "-" 37.47 0 37.47
+"3ghe_HL-LP_L-3ghe_HL-LP_P.220" "ILE" "P" 309 "-" 89.38 5.15 94.53
+"3ghe_HL-LP_L-3ghe_HL-LP_P.221" "GLY" "P" 312 "-" 4.45 4.22 8.67
+"3ghe_HL-LP_L-3ghe_HL-LP_P.222" "PRO" "P" 313 "-" 49.25 1.44 50.69
+"3ghe_HL-LP_L-3ghe_HL-LP_P.223" "GLY" "P" 314 "-" 23.54 20.77 44.32
+"3ghe_HL-LP_L-3ghe_HL-LP_P.224" "ARG" "P" 315 "-" 6.8 3.15 9.94
+"3ghe_HL-LP_L-3ghe_HL-LP_P.225" "ALA" "P" 316 "-" 28.18 8.25 36.42
+"3ghe_HL-LP_L-3ghe_HL-LP_P.227" "TYR" "P" 318 "-" 0.02 0 0.02

@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8udz_CD-CB_B-8udz_CD-CB_C.2" "ASP" "B" 37 "-" 8.78 15.45 24.22
+"8udz_CD-CB_B-8udz_CD-CB_C.3" "MET" "B" 38 "-" 0.01 0.07 0.09
+"8udz_CD-CB_B-8udz_CD-CB_C.4" "GLU" "B" 39 "-" 32 48.23 80.23
+"8udz_CD-CB_B-8udz_CD-CB_C.5" "LEU" "B" 40 "-" 48.23 0.18 48.4
+"8udz_CD-CB_B-8udz_CD-CB_C.7" "LYS" "B" 42 "-" 16.26 3.13 19.4
+"8udz_CD-CB_B-8udz_CD-CB_C.8" "ARG" "B" 43 "-" 17.89 41.28 59.16
+"8udz_CD-CB_B-8udz_CD-CB_C.11" "ILE" "B" 46 "-" 30.43 0 30.43
+"8udz_CD-CB_B-8udz_CD-CB_C.12" "GLU" "B" 47 "-" 2 9.01 11.01
+"8udz_CD-CB_B-8udz_CD-CB_C.15" "ARG" "B" 50 "-" 0.77 10.05 10.82
+"8udz_CD-CB_B-8udz_CD-CB_C.322" "THR" "C" 28 "-" 0 0.55 0.55
+"8udz_CD-CB_B-8udz_CD-CB_C.325" "SER" "C" 31 "-" 6.5 7.55 14.05
+"8udz_CD-CB_B-8udz_CD-CB_C.326" "TYR" "C" 32 "-" 13.99 19.32 33.32
+"8udz_CD-CB_B-8udz_CD-CB_C.327" "VAL" "C" 33 "-" 7.89 0.43 8.32
+"8udz_CD-CB_B-8udz_CD-CB_C.347" "HIS" "C" 53 "-" 3.71 1.72 5.43
+"8udz_CD-CB_B-8udz_CD-CB_C.392" "ARG" "C" 98 "-" 0.06 3.98 4.04
+"8udz_CD-CB_B-8udz_CD-CB_C.393" "PRO" "C" 99 "-" 0.01 0.26 0.27
+"8udz_CD-CB_B-8udz_CD-CB_C.394" "ARG" "C" 100 "-" 11.81 2.12 13.92
+"8udz_CD-CB_B-8udz_CD-CB_C.395" "ILE" "C" 101 "-" 65.21 12.28 77.49
+"8udz_CD-CB_B-8udz_CD-CB_C.396" "ALA" "C" 102 "-" 4.75 0.3 5.04
+"8udz_CD-CB_B-8udz_CD-CB_C.398" "ARG" "C" 104 "-" 3.96 37.38 41.35
+"8udz_CD-CB_B-8udz_CD-CB_C.399" "ARG" "C" 105 "-" 9.19 21.81 31
+"8udz_CD-CB_B-8udz_CD-CB_C.403" "GLY" "C" 109 "-" 0.11 0 0.11
+"8udz_CD-CB_B-8udz_CD-CB_C.404" "TYR" "C" 110 "-" 0.31 0 0.31

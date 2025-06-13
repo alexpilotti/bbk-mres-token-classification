@@ -1,0 +1,9 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"1tzi_BA-AV_A-1tzi_BA-AV_V.29" "TYR" "A" 29 "-" 22.09 12.89 34.98
+"1tzi_BA-AV_A-1tzi_BA-AV_V.92" "TYR" "A" 92 "-" 11.24 26.65 37.9
+"1tzi_BA-AV_A-1tzi_BA-AV_V.265" "ASP" "V" 63 "-" 2.54 10.82 13.36
+"1tzi_BA-AV_A-1tzi_BA-AV_V.267" "GLY" "V" 65 "-" 0.64 1.67 2.31
+"1tzi_BA-AV_A-1tzi_BA-AV_V.268" "LEU" "V" 66 "-" 15.12 0 15.12
+"1tzi_BA-AV_A-1tzi_BA-AV_V.306" "CYS" "V" 104 "-" 0 0.19 0.19
+"1tzi_BA-AV_A-1tzi_BA-AV_V.307" "ARG" "V" 105 "-" 0.07 2.51 2.57
+"1tzi_BA-AV_A-1tzi_BA-AV_V.308" "PRO" "V" 106 "-" 25.61 0.07 25.67

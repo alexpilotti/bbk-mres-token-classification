@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4yo0_CD-DF_D-4yo0_CD-DF_F.30" "SER" "D" 50 "-" 0 0.02 0.01
+"4yo0_CD-DF_D-4yo0_CD-DF_F.31" "ASN" "D" 51 "-" 0.58 8.05 8.64
+"4yo0_CD-DF_D-4yo0_CD-DF_F.32" "TYR" "D" 52 "-" 1.43 0 1.44
+"4yo0_CD-DF_D-4yo0_CD-DF_F.34" "ASN" "D" 54 "-" 0 0.51 0.51
+"4yo0_CD-DF_D-4yo0_CD-DF_F.50" "ARG" "D" 70 "-" 0 0.05 0.05
+"4yo0_CD-DF_D-4yo0_CD-DF_F.91" "HIS" "D" 111 "-" 4.07 2.33 6.4
+"4yo0_CD-DF_D-4yo0_CD-DF_F.92" "SER" "D" 112 "-" 0 0.04 0.05
+"4yo0_CD-DF_D-4yo0_CD-DF_F.93" "TYR" "D" 113 "-" 25.28 8.53 33.81
+"4yo0_CD-DF_D-4yo0_CD-DF_F.94" "SER" "D" 114 "-" 0.95 5.79 6.73
+"4yo0_CD-DF_D-4yo0_CD-DF_F.95" "SER" "D" 115 "-" 6.71 13.66 20.37
+"4yo0_CD-DF_D-4yo0_CD-DF_F.96" "GLY" "D" 116 "-" 5.82 2.88 8.71
+"4yo0_CD-DF_D-4yo0_CD-DF_F.97" "ILE" "D" 117 "-" 58.16 0.87 59.03
+"4yo0_CD-DF_D-4yo0_CD-DF_F.210" "VAL" "FALSE" 4 "-" 35.36 28.64 64
+"4yo0_CD-DF_D-4yo0_CD-DF_F.211" "ALA" "FALSE" 5 "-" 5.55 8.41 13.96
+"4yo0_CD-DF_D-4yo0_CD-DF_F.212" "MET" "FALSE" 6 "-" 96.36 6.04 102.4
+"4yo0_CD-DF_D-4yo0_CD-DF_F.213" "PRO" "FALSE" 7 "-" 77.81 4.32 82.12
+"4yo0_CD-DF_D-4yo0_CD-DF_F.214" "GLY" "FALSE" 8 "-" 0.22 0.11 0.33
+"4yo0_CD-DF_D-4yo0_CD-DF_F.220" "VAL" "FALSE" 14 "-" 0.05 0 0.05

@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3sob_HL-LB_L-3sob_HL-LB_B.2" "ILE" "L" 2 "-" 0.07 0 0.07
+"3sob_HL-LB_L-3sob_HL-LB_B.27" "GLN" "L" 27 "-" 0 0.07 0.07
+"3sob_HL-LB_L-3sob_HL-LB_B.28" "ASP" "L" 28 "-" 5.98 9.14 15.13
+"3sob_HL-LB_L-3sob_HL-LB_B.29" "VAL" "L" 29 "-" 0.08 0.1 0.17
+"3sob_HL-LB_L-3sob_HL-LB_B.30" "SER" "L" 30 "-" 12.7 14.32 27.02
+"3sob_HL-LB_L-3sob_HL-LB_B.31" "THR" "L" 31 "-" 2.95 1.51 4.46
+"3sob_HL-LB_L-3sob_HL-LB_B.67" "SER" "L" 67 "-" 0.29 1.53 1.82
+"3sob_HL-LB_L-3sob_HL-LB_B.92" "TYR" "L" 92 "-" 18.35 30.97 49.32
+"3sob_HL-LB_L-3sob_HL-LB_B.93" "THR" "L" 93 "-" 6.76 9.79 16.55
+"3sob_HL-LB_L-3sob_HL-LB_B.94" "THR" "L" 94 "-" 0.04 0 0.04
+"3sob_HL-LB_L-3sob_HL-LB_B.222" "ARG" "B" 28 "-" 0.07 0 0.07
+"3sob_HL-LB_L-3sob_HL-LB_B.223" "ARG" "B" 29 "-" 10.83 53.63 64.46
+"3sob_HL-LB_L-3sob_HL-LB_B.245" "GLU" "B" 51 "-" 8.93 26.56 35.49
+"3sob_HL-LB_L-3sob_HL-LB_B.265" "SER" "B" 71 "-" 0.43 0.08 0.5
+"3sob_HL-LB_L-3sob_HL-LB_B.439" "HIS" "B" 245 "-" 0.08 0.15 0.24
+"3sob_HL-LB_L-3sob_HL-LB_B.460" "PHE" "B" 266 "-" 45.82 0.22 46.04

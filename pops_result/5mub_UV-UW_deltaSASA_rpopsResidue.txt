@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mub_UV-UW_U-5mub_UV-UW_W.31" "ASP" "U" 31 "-" 5.87 8.73 14.6
+"5mub_UV-UW_U-5mub_UV-UW_W.32" "ALA" "U" 32 "-" 2.36 0.63 2.99
+"5mub_UV-UW_U-5mub_UV-UW_W.33" "TRP" "U" 33 "-" 26.22 2.68 28.9
+"5mub_UV-UW_U-5mub_UV-UW_W.53" "ASN" "U" 53 "-" 0.2 2.35 2.55
+"5mub_UV-UW_U-5mub_UV-UW_W.56" "ASN" "U" 56 "-" 0.02 1.42 1.46
+"5mub_UV-UW_U-5mub_UV-UW_W.100" "GLY" "U" 100 "-" 0 0.01 0.01
+"5mub_UV-UW_U-5mub_UV-UW_W.101" "LEU" "U" 101 "-" 26.51 2.99 29.51
+"5mub_UV-UW_U-5mub_UV-UW_W.102" "THR" "U" 102 "-" 14.87 9.07 23.94
+"5mub_UV-UW_U-5mub_UV-UW_W.103" "PHE" "U" 103 "-" 8.46 1.9 10.37
+"5mub_UV-UW_U-5mub_UV-UW_W.104" "ASP" "U" 104 "-" 8.55 36.06 44.61
+"5mub_UV-UW_U-5mub_UV-UW_W.219" "GLY" "W" 13 "-" 4.99 14.13 19.13
+"5mub_UV-UW_U-5mub_UV-UW_W.220" "ALA" "W" 14 "-" 66.83 24.52 91.36
+"5mub_UV-UW_U-5mub_UV-UW_W.221" "ARG" "W" 15 "-" 70.91 49.92 120.83
+"5mub_UV-UW_U-5mub_UV-UW_W.222" "GLY" "W" 16 "-" 15.01 5.57 20.59
+"5mub_UV-UW_U-5mub_UV-UW_W.223" "LEU" "W" 17 "-" 36.81 3.36 40.16
+"5mub_UV-UW_U-5mub_UV-UW_W.224" "THR" "W" 18 "-" 65.97 30.81 96.78
+"5mub_UV-UW_U-5mub_UV-UW_W.225" "GLY" "W" 19 "-" 13.73 3.15 16.88

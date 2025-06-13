@@ -1,0 +1,6 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7jtf_CD-DF_D-7jtf_CD-DF_F.91" "ASP" "D" 92 "-" 0 0.6 0.6
+"7jtf_CD-DF_D-7jtf_CD-DF_F.93" "HIS" "D" 94 "-" 20.76 12.26 33.02
+"7jtf_CD-DF_D-7jtf_CD-DF_F.95" "TYR" "D" 96 "-" 2.07 10.52 12.58
+"7jtf_CD-DF_D-7jtf_CD-DF_F.234" "TYR" "FALSE" 443 "-" 20.11 10.89 31
+"7jtf_CD-DF_D-7jtf_CD-DF_F.235" "ALA" "FALSE" 444 "-" 0 0.74 0.74

@@ -1,0 +1,5 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6lxi_CD-DB_B-6lxi_CD-DB_D.166" "ASN" "B" 248 "-" 0 0.92 0.92
+"6lxi_CD-DB_B-6lxi_CD-DB_D.261" "ALA" "B" 343 "-" 1.24 0 1.24
+"6lxi_CD-DB_B-6lxi_CD-DB_D.418" "TYR" "D" 32 "-" 0.44 0 0.44
+"6lxi_CD-DB_B-6lxi_CD-DB_D.481" "ARG" "D" 95 "-" 0 0.41 0.4

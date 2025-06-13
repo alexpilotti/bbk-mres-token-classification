@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.35" "HIS" "N" 35 "-" 0.59 0.74 1.32
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.50" "TYR" "N" 50 "-" 4.82 7.46 12.28
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.52" "SER" "N" 52 "-" 0.06 0 0.06
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.57" "THR" "N" 56 "-" 5.2 4.03 9.23
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.59" "TYR" "N" 58 "-" 18.85 26.99 45.85
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.99" "SER" "N" 95 "-" 0.8 1.68 2.48
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.102" "ILE" "N" 98 "-" 0 0.13 0.14
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.103" "GLU" "N" 99 "-" 0 0.01 0.02
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.104" "ARG" "N" 100 "-" 7.72 2.77 10.48
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.105" "TYR" "N" 100 "A" 0.43 2.73 3.17
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.106" "ASP" "N" 100 "B" 25.66 45.99 71.66
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.107" "GLY" "N" 100 "C" 17.34 4.17 21.51
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.108" "THR" "N" 100 "D" 15.76 12.65 28.42
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.109" "TYR" "N" 100 "E" 26.15 0.76 26.9
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.110" "TYR" "N" 100 "F" 32.33 18.71 51.03
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.111" "VAL" "N" 100 "G" 0.01 0.07 0.08
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.227" "LEU" "Q" 38 "-" 0.08 0.25 0.32
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.228" "PRO" "Q" 39 "-" 43.51 5.27 48.76
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.229" "GLY" "Q" 40 "-" 28.58 22.24 50.81
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.230" "ARG" "Q" 41 "-" 10.47 31.68 42.14
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.231" "TRP" "Q" 42 "-" 73.27 2.25 75.51
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.232" "LYS" "Q" 43 "-" 39.88 16.08 55.96
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.233" "PRO" "Q" 44 "-" 4.42 1.97 6.39
+"2hrp_NM-NQ_N-2hrp_NM-NQ_Q.234" "LYS" "Q" 45 "-" 45.26 4.4 49.67

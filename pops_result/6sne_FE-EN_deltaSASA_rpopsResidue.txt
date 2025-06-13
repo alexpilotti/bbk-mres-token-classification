@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6sne_FE-EN_E-6sne_FE-EN_N.30" "THR" "E" 30 "-" 5.15 6.09 11.25
+"6sne_FE-EN_E-6sne_FE-EN_N.32" "TYR" "E" 32 "-" 23.66 36.73 60.39
+"6sne_FE-EN_E-6sne_FE-EN_N.91" "ALA" "E" 91 "-" 0.04 1.49 1.53
+"6sne_FE-EN_E-6sne_FE-EN_N.92" "HIS" "E" 92 "-" 8.57 10.55 19.13
+"6sne_FE-EN_E-6sne_FE-EN_N.93" "SER" "E" 93 "-" 1.64 1 2.64
+"6sne_FE-EN_E-6sne_FE-EN_N.94" "THR" "E" 94 "-" 29.47 13.28 42.75
+"6sne_FE-EN_E-6sne_FE-EN_N.96" "TRP" "E" 96 "-" 43.75 0.38 44.12
+"6sne_FE-EN_E-6sne_FE-EN_N.211" "TRP" "N" 670 "-" 12.79 3.74 16.54
+"6sne_FE-EN_E-6sne_FE-EN_N.214" "PHE" "N" 673 "-" 45.04 0.01 45.05
+"6sne_FE-EN_E-6sne_FE-EN_N.215" "ASN" "N" 674 "-" 6.62 37.93 44.55
+"6sne_FE-EN_E-6sne_FE-EN_N.217" "THR" "N" 676 "-" 0.02 0.23 0.25
+"6sne_FE-EN_E-6sne_FE-EN_N.218" "ASN" "N" 677 "-" 8.98 49.47 58.44
+"6sne_FE-EN_E-6sne_FE-EN_N.219" "TRP" "N" 678 "-" 0.35 0 0.35
+"6sne_FE-EN_E-6sne_FE-EN_N.221" "TRP" "N" 680 "-" 7.17 0.36 7.53
+"6sne_FE-EN_E-6sne_FE-EN_N.222" "TYR" "N" 681 "-" 7.27 15.71 22.98

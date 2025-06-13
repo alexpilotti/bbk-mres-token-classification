@@ -1,0 +1,4 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8wsn_BC-CD_C-8wsn_BC-CD_D.49" "TYR" "C" 49 "-" 2.24 1.57 3.81
+"8wsn_BC-CD_C-8wsn_BC-CD_D.469" "SER" "D" 277 "-" 0.28 3.93 4.2
+"8wsn_BC-CD_C-8wsn_BC-CD_D.471" "SER" "D" 279 "-" 0 0.21 0.21

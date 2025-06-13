@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7pry_HL-LE_L-7pry_HL-LE_E.27" "GLN" "L" 27 "-" 7.28 11.3 18.59
+"7pry_HL-LE_L-7pry_HL-LE_E.28" "SER" "L" 28 "-" 0.46 0 0.46
+"7pry_HL-LE_L-7pry_HL-LE_E.29" "VAL" "L" 29 "-" 1.18 0 1.18
+"7pry_HL-LE_L-7pry_HL-LE_E.91" "ARG" "L" 91 "-" 2.11 41.42 43.53
+"7pry_HL-LE_L-7pry_HL-LE_E.92" "SER" "L" 92 "-" 0.01 0.09 0.1
+"7pry_HL-LE_L-7pry_HL-LE_E.93" "ASN" "L" 93 "-" 13.69 27.21 40.9
+"7pry_HL-LE_L-7pry_HL-LE_E.94" "TRP" "L" 94 "-" 1.93 0 1.92
+"7pry_HL-LE_L-7pry_HL-LE_E.96" "PRO" "L" 96 "-" 0.23 0 0.23
+"7pry_HL-LE_L-7pry_HL-LE_E.327" "VAL" "E" 445 "-" 0.03 0.41 0.43
+"7pry_HL-LE_L-7pry_HL-LE_E.328" "GLY" "E" 446 "-" 3.07 6.79 9.86
+"7pry_HL-LE_L-7pry_HL-LE_E.329" "GLY" "E" 447 "-" 0.88 0.18 1.06
+"7pry_HL-LE_L-7pry_HL-LE_E.331" "TYR" "E" 449 "-" 25.84 8.03 33.87
+"7pry_HL-LE_L-7pry_HL-LE_E.365" "VAL" "E" 483 "-" 1.1 0 1.1
+"7pry_HL-LE_L-7pry_HL-LE_E.366" "LYS" "E" 484 "-" 1.81 2.67 4.48
+"7pry_HL-LE_L-7pry_HL-LE_E.367" "GLY" "E" 485 "-" 4.66 0.4 5.06
+"7pry_HL-LE_L-7pry_HL-LE_E.375" "GLN" "E" 493 "-" 0 1.15 1.15
+"7pry_HL-LE_L-7pry_HL-LE_E.380" "GLN" "E" 498 "-" 0.28 4.67 4.95

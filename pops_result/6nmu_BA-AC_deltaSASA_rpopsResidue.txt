@@ -1,0 +1,21 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6nmu_BA-AC_A-6nmu_BA-AC_C.29" "VAL" "A" 29 "-" 0 0.04 0.04
+"6nmu_BA-AC_A-6nmu_BA-AC_C.30" "GLY" "A" 30 "-" 0.19 0 0.2
+"6nmu_BA-AC_A-6nmu_BA-AC_C.32" "LYS" "A" 32 "-" 22.86 30.96 53.82
+"6nmu_BA-AC_A-6nmu_BA-AC_C.50" "ASP" "A" 50 "-" 0 0.02 0.01
+"6nmu_BA-AC_A-6nmu_BA-AC_C.91" "TYR" "A" 91 "-" 0.46 2.2 2.66
+"6nmu_BA-AC_A-6nmu_BA-AC_C.92" "TYR" "A" 92 "-" 15.22 25.86 41.07
+"6nmu_BA-AC_A-6nmu_BA-AC_C.93" "TYR" "A" 93 "-" 11.96 1.59 13.55
+"6nmu_BA-AC_A-6nmu_BA-AC_C.94" "TRP" "A" 94 "-" 14.54 1.92 16.46
+"6nmu_BA-AC_A-6nmu_BA-AC_C.228" "ALA" "C" 17 "-" 15.32 0.52 15.85
+"6nmu_BA-AC_A-6nmu_BA-AC_C.229" "GLY" "C" 18 "-" 0.17 0.2 0.37
+"6nmu_BA-AC_A-6nmu_BA-AC_C.258" "GLU" "C" 47 "-" 2.25 5.36 7.61
+"6nmu_BA-AC_A-6nmu_BA-AC_C.270" "ARG" "C" 59 "-" 3.75 7.35 11.11
+"6nmu_BA-AC_A-6nmu_BA-AC_C.290" "GLY" "C" 79 "-" 0 0.25 0.24
+"6nmu_BA-AC_A-6nmu_BA-AC_C.291" "ALA" "C" 80 "-" 10.03 3.08 13.12
+"6nmu_BA-AC_A-6nmu_BA-AC_C.292" "ILE" "C" 81 "-" 0.22 0.48 0.69
+"6nmu_BA-AC_A-6nmu_BA-AC_C.293" "THR" "C" 82 "-" 31.08 8.62 39.7
+"6nmu_BA-AC_A-6nmu_BA-AC_C.294" "PRO" "C" 83 "-" 58.47 1.13 59.6
+"6nmu_BA-AC_A-6nmu_BA-AC_C.295" "ALA" "C" 84 "-" 40.04 5.89 45.92
+"6nmu_BA-AC_A-6nmu_BA-AC_C.296" "ASP" "C" 85 "-" 0.28 1.51 1.79
+"6nmu_BA-AC_A-6nmu_BA-AC_C.325" "VAL" "C" 114 "-" 0.09 0 0.09

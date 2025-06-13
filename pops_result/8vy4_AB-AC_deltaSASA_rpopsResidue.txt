@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8vy4_AB-AC_A-8vy4_AB-AC_C.29" "SER" "A" 30 "-" 0.02 1.17 1.18
+"8vy4_AB-AC_A-8vy4_AB-AC_C.30" "ASN" "A" 31 "-" 0.05 0 0.06
+"8vy4_AB-AC_A-8vy4_AB-AC_C.31" "ALA" "A" 32 "-" 5.18 0.29 5.46
+"8vy4_AB-AC_A-8vy4_AB-AC_C.48" "PHE" "A" 49 "-" 14.79 0 14.78
+"8vy4_AB-AC_A-8vy4_AB-AC_C.49" "VAL" "A" 50 "-" 0 0.06 0.07
+"8vy4_AB-AC_A-8vy4_AB-AC_C.50" "ALA" "A" 51 "-" 6.55 0.2 6.75
+"8vy4_AB-AC_A-8vy4_AB-AC_C.51" "VAL" "A" 52 "-" 33.45 1.29 34.74
+"8vy4_AB-AC_A-8vy4_AB-AC_C.52" "THR" "A" 53 "-" 15.33 0.98 16.32
+"8vy4_AB-AC_A-8vy4_AB-AC_C.54" "TYR" "A" 55 "-" 0 0 0.01
+"8vy4_AB-AC_A-8vy4_AB-AC_C.56" "TYR" "A" 57 "-" 4.84 3.41 8.25
+"8vy4_AB-AC_A-8vy4_AB-AC_C.95" "ARG" "A" 96 "-" 0.18 9.35 9.53
+"8vy4_AB-AC_A-8vy4_AB-AC_C.100" "ILE" "A" 101 "-" 7.71 0 7.7
+"8vy4_AB-AC_A-8vy4_AB-AC_C.216" "ASP" "C" 2 "-" 26.88 68.98 95.87
+"8vy4_AB-AC_A-8vy4_AB-AC_C.217" "GLY" "C" 3 "-" 25.74 25.42 51.15
+"8vy4_AB-AC_A-8vy4_AB-AC_C.218" "ASN" "C" 4 "-" 12.7 11.44 24.14
+"8vy4_AB-AC_A-8vy4_AB-AC_C.219" "GLU" "C" 5 "-" 0 0.24 0.23

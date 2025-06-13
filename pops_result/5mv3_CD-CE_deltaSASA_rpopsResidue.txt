@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mv3_CD-CE_C-5mv3_CD-CE_E.31" "ASP" "C" 31 "-" 5.15 19.42 24.57
+"5mv3_CD-CE_C-5mv3_CD-CE_E.32" "ALA" "C" 32 "-" 1.46 0.48 1.94
+"5mv3_CD-CE_C-5mv3_CD-CE_E.33" "TRP" "C" 33 "-" 33.6 3.02 36.62
+"5mv3_CD-CE_C-5mv3_CD-CE_E.50" "GLU" "C" 50 "-" 0.07 1.02 1.09
+"5mv3_CD-CE_C-5mv3_CD-CE_E.52" "ARG" "C" 52 "-" 0.25 5.54 5.79
+"5mv3_CD-CE_C-5mv3_CD-CE_E.53" "ASN" "C" 53 "-" 0.15 3.71 3.85
+"5mv3_CD-CE_C-5mv3_CD-CE_E.55" "VAL" "C" 55 "-" 1.95 0 1.94
+"5mv3_CD-CE_C-5mv3_CD-CE_E.56" "ASN" "C" 56 "-" 0.48 6.43 6.91
+"5mv3_CD-CE_C-5mv3_CD-CE_E.100" "GLY" "C" 100 "-" 0.01 0.01 0.01
+"5mv3_CD-CE_C-5mv3_CD-CE_E.101" "LEU" "C" 101 "-" 29.85 2.84 32.7
+"5mv3_CD-CE_C-5mv3_CD-CE_E.102" "THR" "C" 102 "-" 16.58 9.59 26.17
+"5mv3_CD-CE_C-5mv3_CD-CE_E.103" "PHE" "C" 103 "-" 10.49 2.25 12.74
+"5mv3_CD-CE_C-5mv3_CD-CE_E.104" "ASP" "C" 104 "-" 8.33 37.5 45.83
+"5mv3_CD-CE_C-5mv3_CD-CE_E.214" "GLY" "E" 13 "-" 7.85 9.45 17.3
+"5mv3_CD-CE_C-5mv3_CD-CE_E.215" "GLY" "E" 14 "-" 41.33 32.85 74.18
+"5mv3_CD-CE_C-5mv3_CD-CE_E.216" "ARG" "E" 15 "-" 47.1 71.58 118.67
+"5mv3_CD-CE_C-5mv3_CD-CE_E.217" "GLY" "E" 16 "-" 16.08 5.49 21.58
+"5mv3_CD-CE_C-5mv3_CD-CE_E.218" "LEU" "E" 17 "-" 36.99 3.49 40.48
+"5mv3_CD-CE_C-5mv3_CD-CE_E.219" "THR" "E" 18 "-" 65.69 35.55 101.24
+"5mv3_CD-CE_C-5mv3_CD-CE_E.220" "GLY" "E" 19 "-" 9.47 1.97 11.44
+"5mv3_CD-CE_C-5mv3_CD-CE_E.221" "PRO" "E" 20 "-" 43.53 1.9 45.43

@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8vue_GH-HD_D-8vue_GH-HD_H.19" "ASP" "D" 353 "-" 16.7 22 38.71
+"8vue_GH-HD_D-8vue_GH-HD_H.20" "GLY" "D" 354 "-" 3.16 1.05 4.22
+"8vue_GH-HD_D-8vue_GH-HD_H.21" "TRP" "D" 355 "-" 0 0.03 0.04
+"8vue_GH-HD_D-8vue_GH-HD_H.36" "ALA" "D" 370 "-" 2.23 0 2.24
+"8vue_GH-HD_D-8vue_GH-HD_H.38" "LYS" "D" 372 "-" 85.39 18.46 103.86
+"8vue_GH-HD_D-8vue_GH-HD_H.39" "GLU" "D" 373 "-" 4.5 0.69 5.2
+"8vue_GH-HD_D-8vue_GH-HD_H.41" "THR" "D" 375 "-" 3.2 0.35 3.54
+"8vue_GH-HD_D-8vue_GH-HD_H.42" "GLN" "D" 376 "-" 16.21 23.24 39.44
+"8vue_GH-HD_D-8vue_GH-HD_H.45" "ILE" "D" 379 "-" 7.44 0 7.45
+"8vue_GH-HD_D-8vue_GH-HD_H.46" "ASP" "D" 380 "-" 0.11 1.11 1.21
+"8vue_GH-HD_D-8vue_GH-HD_H.150" "GLU" "D" 484 "-" 4.61 20.51 25.11
+"8vue_GH-HD_D-8vue_GH-HD_H.153" "ARG" "D" 487 "-" 0.09 2.95 3.05
+"8vue_GH-HD_D-8vue_GH-HD_H.165" "ALA" "H" 1 "-" 26.86 3.01 29.89
+"8vue_GH-HD_D-8vue_GH-HD_H.166" "ILE" "H" 2 "-" 1.29 0.5 1.79
+"8vue_GH-HD_D-8vue_GH-HD_H.191" "GLN" "H" 27 "-" 2.67 22.63 25.3
+"8vue_GH-HD_D-8vue_GH-HD_H.192" "ALA" "H" 28 "-" 0.96 1.24 2.2
+"8vue_GH-HD_D-8vue_GH-HD_H.193" "THR" "H" 29 "-" 22.75 2.17 24.92
+"8vue_GH-HD_D-8vue_GH-HD_H.194" "SER" "H" 30 "-" 12.25 4.85 17.09
+"8vue_GH-HD_D-8vue_GH-HD_H.195" "SER" "H" 31 "-" 5.64 3.5 9.13
+"8vue_GH-HD_D-8vue_GH-HD_H.196" "TYR" "H" 32 "-" 55.96 40.49 96.46
+"8vue_GH-HD_D-8vue_GH-HD_H.254" "LEU" "H" 90 "-" 0.7 0.45 1.15
+"8vue_GH-HD_D-8vue_GH-HD_H.255" "SER" "H" 91 "-" 3.51 4.31 7.81
+"8vue_GH-HD_D-8vue_GH-HD_H.256" "LYS" "H" 96 "-" 10.22 9.16 19.38

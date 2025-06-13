@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6pis_IM-MA_A-6pis_IM-MA_M.29" "PRO" "A" 56 "-" 0.34 4.34 4.69
+"6pis_IM-MA_A-6pis_IM-MA_M.30" "HIS" "A" 57 "-" 31.5 14.13 45.63
+"6pis_IM-MA_A-6pis_IM-MA_M.32" "GLN" "A" 59 "-" 0.11 0.06 0.17
+"6pis_IM-MA_A-6pis_IM-MA_M.33" "GLN" "A" 60 "-" 22.34 28.36 50.7
+"6pis_IM-MA_A-6pis_IM-MA_M.34" "ALA" "A" 61 "-" 0 0.12 0.11
+"6pis_IM-MA_A-6pis_IM-MA_M.36" "LYS" "A" 63 "-" 74.15 41.72 115.87
+"6pis_IM-MA_A-6pis_IM-MA_M.37" "LYS" "A" 64 "-" 39.67 8.17 47.84
+"6pis_IM-MA_A-6pis_IM-MA_M.40" "HIS" "A" 67 "-" 55.51 28.26 83.78
+"6pis_IM-MA_A-6pis_IM-MA_M.44" "GLN" "A" 71 "-" 3.77 8.83 12.59
+"6pis_IM-MA_A-6pis_IM-MA_M.47" "ARG" "A" 74 "-" 0.87 7.78 8.65
+"6pis_IM-MA_A-6pis_IM-MA_M.237" "ILE" "M" 2 "-" 0.36 0 0.36
+"6pis_IM-MA_A-6pis_IM-MA_M.262" "GLN" "M" 27 "-" 4.87 8.45 13.32
+"6pis_IM-MA_A-6pis_IM-MA_M.263" "ASN" "M" 28 "-" 8.23 25.71 33.94
+"6pis_IM-MA_A-6pis_IM-MA_M.264" "ILE" "M" 29 "-" 0.24 0.01 0.25
+"6pis_IM-MA_A-6pis_IM-MA_M.265" "ASN" "M" 30 "-" 5.73 16.92 22.65
+"6pis_IM-MA_A-6pis_IM-MA_M.267" "TYR" "M" 32 "-" 18.81 25.07 43.89
+"6pis_IM-MA_A-6pis_IM-MA_M.302" "TYR" "M" 67 "-" 21.83 23.67 45.5
+"6pis_IM-MA_A-6pis_IM-MA_M.303" "GLY" "M" 68 "-" 1.83 0.18 2.01
+"6pis_IM-MA_A-6pis_IM-MA_M.304" "THR" "M" 69 "-" 0.43 0.14 0.58
+"6pis_IM-MA_A-6pis_IM-MA_M.326" "GLY" "M" 91 "-" 0.38 1.94 2.32
+"6pis_IM-MA_A-6pis_IM-MA_M.327" "TYR" "M" 92 "-" 40.78 6.75 47.53
+"6pis_IM-MA_A-6pis_IM-MA_M.328" "THR" "M" 93 "-" 16.5 11.28 27.79
+"6pis_IM-MA_A-6pis_IM-MA_M.330" "ARG" "M" 95 "-" 1.26 27.19 28.46

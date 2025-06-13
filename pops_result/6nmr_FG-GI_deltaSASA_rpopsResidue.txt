@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6nmr_FG-GI_G-6nmr_FG-GI_I.30" "LYS" "G" 30 "-" 16.64 31.19 47.84
+"6nmr_FG-GI_G-6nmr_FG-GI_I.31" "ASN" "G" 31 "-" 0 0.53 0.53
+"6nmr_FG-GI_G-6nmr_FG-GI_I.32" "ASP" "G" 32 "-" 0.22 2.39 2.61
+"6nmr_FG-GI_G-6nmr_FG-GI_I.46" "LEU" "G" 46 "-" 1.13 0 1.13
+"6nmr_FG-GI_G-6nmr_FG-GI_I.49" "TYR" "G" 49 "-" 12.98 11.44 24.42
+"6nmr_FG-GI_G-6nmr_FG-GI_I.50" "ALA" "G" 50 "-" 2.73 0.23 2.96
+"6nmr_FG-GI_G-6nmr_FG-GI_I.52" "ARG" "G" 52 "-" 3.54 14.74 18.29
+"6nmr_FG-GI_G-6nmr_FG-GI_I.53" "ILE" "G" 53 "-" 20.19 0 20.19
+"6nmr_FG-GI_G-6nmr_FG-GI_I.55" "GLU" "G" 55 "-" 2.4 11.42 13.82
+"6nmr_FG-GI_G-6nmr_FG-GI_I.56" "THR" "G" 56 "-" 3.3 0.07 3.38
+"6nmr_FG-GI_G-6nmr_FG-GI_I.91" "TYR" "G" 91 "-" 0.01 0.71 0.72
+"6nmr_FG-GI_G-6nmr_FG-GI_I.92" "TYR" "G" 92 "-" 9.51 14.71 24.22
+"6nmr_FG-GI_G-6nmr_FG-GI_I.93" "ASP" "G" 93 "-" 0.37 0.11 0.49
+"6nmr_FG-GI_G-6nmr_FG-GI_I.94" "TRP" "G" 94 "-" 1.85 1.78 3.65
+"6nmr_FG-GI_G-6nmr_FG-GI_I.95" "PRO" "G" 95 "-" 13.15 0.33 13.47
+"6nmr_FG-GI_G-6nmr_FG-GI_I.97" "PHE" "G" 97 "-" 0.17 0 0.17
+"6nmr_FG-GI_G-6nmr_FG-GI_I.264" "GLN" "I" 52 "-" 2.29 8.71 11.01
+"6nmr_FG-GI_G-6nmr_FG-GI_I.265" "LYS" "I" 53 "-" 85.09 27.43 112.52
+"6nmr_FG-GI_G-6nmr_FG-GI_I.278" "LEU" "I" 66 "-" 57.61 0.39 57.99
+"6nmr_FG-GI_G-6nmr_FG-GI_I.279" "THR" "I" 67 "-" 35.66 3.24 38.9
+"6nmr_FG-GI_G-6nmr_FG-GI_I.280" "LYS" "I" 68 "-" 0 0.05 0.06
+"6nmr_FG-GI_G-6nmr_FG-GI_I.281" "ARG" "I" 69 "-" 28.09 77.83 105.92
+"6nmr_FG-GI_G-6nmr_FG-GI_I.308" "LYS" "I" 96 "-" 15.87 29.62 45.5
+"6nmr_FG-GI_G-6nmr_FG-GI_I.310" "SER" "I" 98 "-" 1.88 0 1.88

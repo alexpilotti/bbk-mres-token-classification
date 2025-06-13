@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6xpr_EF-FD_D-6xpr_EF-FD_F.180" "PHE" "D" 219 "-" 6.25 0 6.26
+"6xpr_EF-FD_D-6xpr_EF-FD_F.181" "ARG" "D" 220 "-" 0.03 0.1 0.12
+"6xpr_EF-FD_D-6xpr_EF-FD_F.182" "PRO" "D" 221 "-" 49.29 1.83 51.12
+"6xpr_EF-FD_D-6xpr_EF-FD_F.183" "ARG" "D" 222 "-" 15.47 39.89 55.36
+"6xpr_EF-FD_D-6xpr_EF-FD_F.184" "ILE" "D" 223 "-" 28.69 0.7 29.38
+"6xpr_EF-FD_D-6xpr_EF-FD_F.185" "ARG" "D" 224 "-" 5.77 2.27 8.04
+"6xpr_EF-FD_D-6xpr_EF-FD_F.186" "ASN" "D" 225 "-" 11.04 33.71 44.75
+"6xpr_EF-FD_D-6xpr_EF-FD_F.187" "ILE" "D" 226 "-" 0 0.06 0.05
+"6xpr_EF-FD_D-6xpr_EF-FD_F.190" "ARG" "D" 229 "-" 0.11 6.96 7.08
+"6xpr_EF-FD_D-6xpr_EF-FD_F.315" "LEU" "FALSE" 46 "-" 7.27 0 7.27
+"6xpr_EF-FD_D-6xpr_EF-FD_F.318" "TYR" "FALSE" 49 "-" 46.9 13.43 60.33
+"6xpr_EF-FD_D-6xpr_EF-FD_F.319" "VAL" "FALSE" 50 "-" 1.45 0 1.45
+"6xpr_EF-FD_D-6xpr_EF-FD_F.322" "ASN" "FALSE" 53 "-" 12.71 33.97 46.68
+"6xpr_EF-FD_D-6xpr_EF-FD_F.323" "LEU" "FALSE" 54 "-" 4.28 5.07 9.37
+"6xpr_EF-FD_D-6xpr_EF-FD_F.324" "GLN" "FALSE" 55 "-" 6.89 20.63 27.52
+"6xpr_EF-FD_D-6xpr_EF-FD_F.325" "SER" "FALSE" 56 "-" 27.09 12.01 39.1
+"6xpr_EF-FD_D-6xpr_EF-FD_F.326" "GLY" "FALSE" 57 "-" 0 0.28 0.29

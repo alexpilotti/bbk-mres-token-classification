@@ -1,0 +1,7 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7l09_MK-MA_A-7l09_MK-MA_M.761" "ASP" "A" 936 "-" 5.48 6.99 12.47
+"7l09_MK-MA_A-7l09_MK-MA_M.762" "SER" "A" 937 "-" 2.05 0.75 2.81
+"7l09_MK-MA_A-7l09_MK-MA_M.765" "SER" "A" 940 "-" 11.1 4.38 15.48
+"7l09_MK-MA_A-7l09_MK-MA_M.766" "THR" "A" 941 "-" 1.9 4.52 6.43
+"7l09_MK-MA_A-7l09_MK-MA_M.1075" "ARG" "M" 99 "-" 42.37 53.45 95.81
+"7l09_MK-MA_A-7l09_MK-MA_M.1076" "LEU" "M" 100 "-" 0.9 0.46 1.36

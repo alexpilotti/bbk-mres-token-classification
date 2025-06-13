@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6bzu_GH-HL_H-6bzu_GH-HL_L.30" "ALA" "H" 27 "D" 3.14 0.16 3.31
+"6bzu_GH-HL_H-6bzu_GH-HL_L.31" "HIS" "H" 28 "-" 51.84 27.35 79.19
+"6bzu_GH-HL_H-6bzu_GH-HL_L.33" "TYR" "H" 30 "-" 7.17 0.46 7.64
+"6bzu_GH-HL_H-6bzu_GH-HL_L.35" "PHE" "H" 32 "-" 18.74 0 18.73
+"6bzu_GH-HL_H-6bzu_GH-HL_L.94" "ASN" "H" 91 "-" 1.1 8.73 9.83
+"6bzu_GH-HL_H-6bzu_GH-HL_L.95" "ASN" "H" 92 "-" 1.98 11.15 13.12
+"6bzu_GH-HL_H-6bzu_GH-HL_L.96" "GLU" "H" 93 "-" 18.92 9.35 28.27
+"6bzu_GH-HL_H-6bzu_GH-HL_L.97" "ASP" "H" 94 "-" 9.29 2.72 12.02
+"6bzu_GH-HL_H-6bzu_GH-HL_L.99" "TRP" "H" 96 "-" 34.74 1.55 36.29
+"6bzu_GH-HL_H-6bzu_GH-HL_L.217" "LEU" "L" 413 "-" 42.63 0 42.63
+"6bzu_GH-HL_H-6bzu_GH-HL_L.219" "ASN" "L" 415 "-" 1.28 5.2 6.48
+"6bzu_GH-HL_H-6bzu_GH-HL_L.221" "ASN" "L" 417 "-" 0.34 4.99 5.32
+"6bzu_GH-HL_H-6bzu_GH-HL_L.222" "GLY" "L" 418 "-" 17.62 12.93 30.56
+"6bzu_GH-HL_H-6bzu_GH-HL_L.223" "SER" "L" 419 "-" 16.31 21.94 38.26
+"6bzu_GH-HL_H-6bzu_GH-HL_L.224" "TRP" "L" 420 "-" 42.58 14.92 57.5
+"6bzu_GH-HL_H-6bzu_GH-HL_L.225" "HIS" "L" 421 "-" 6.4 0.62 7.01
+"6bzu_GH-HL_H-6bzu_GH-HL_L.226" "ILE" "L" 422 "-" 1.37 0.74 2.11

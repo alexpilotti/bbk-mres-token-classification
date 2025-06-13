@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7kqi_AC-CB_C-7kqi_AC-CB_B.29" "ILE" "C" 28 "-" 0.17 1.55 1.72
+"7kqi_AC-CB_C-7kqi_AC-CB_B.30" "ARG" "C" 29 "-" 7.17 1.91 9.09
+"7kqi_AC-CB_C-7kqi_AC-CB_B.31" "GLN" "C" 30 "-" 0.56 0.21 0.77
+"7kqi_AC-CB_C-7kqi_AC-CB_B.32" "CYS" "C" 31 "-" 5.51 0.05 5.56
+"7kqi_AC-CB_C-7kqi_AC-CB_B.91" "PHE" "C" 90 "-" 0.01 0 0.02
+"7kqi_AC-CB_C-7kqi_AC-CB_B.92" "ALA" "C" 91 "-" 1.63 0.08 1.72
+"7kqi_AC-CB_C-7kqi_AC-CB_B.306" "ARG" "B" 149 "-" 12.31 52.37 64.69

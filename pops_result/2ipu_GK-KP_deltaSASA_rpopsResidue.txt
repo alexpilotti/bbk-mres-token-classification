@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2ipu_GK-KP_K-2ipu_GK-KP_P.30" "VAL" "K" 27 "C" 0.05 0.83 0.87
+"2ipu_GK-KP_K-2ipu_GK-KP_P.31" "HIS" "K" 27 "D" 23.25 17.73 40.98
+"2ipu_GK-KP_K-2ipu_GK-KP_P.32" "SER" "K" 27 "E" 16.89 10.04 26.94
+"2ipu_GK-KP_K-2ipu_GK-KP_P.33" "ASN" "K" 28 "-" 10.2 15.72 25.93
+"2ipu_GK-KP_K-2ipu_GK-KP_P.35" "ASN" "K" 30 "-" 0 0.86 0.85
+"2ipu_GK-KP_K-2ipu_GK-KP_P.37" "TYR" "K" 32 "-" 16.35 8.25 24.6
+"2ipu_GK-KP_K-2ipu_GK-KP_P.39" "GLU" "K" 34 "-" 0 0.03 0.03
+"2ipu_GK-KP_K-2ipu_GK-KP_P.94" "PHE" "K" 89 "-" 0.01 0 0.02
+"2ipu_GK-KP_K-2ipu_GK-KP_P.96" "GLY" "K" 91 "-" 2.2 9.44 11.63
+"2ipu_GK-KP_K-2ipu_GK-KP_P.97" "SER" "K" 92 "-" 2.86 10.46 13.31
+"2ipu_GK-KP_K-2ipu_GK-KP_P.98" "HIS" "K" 93 "-" 13.83 7.74 21.56
+"2ipu_GK-KP_K-2ipu_GK-KP_P.99" "VAL" "K" 94 "-" 52.13 6.85 58.98
+"2ipu_GK-KP_K-2ipu_GK-KP_P.100" "PRO" "K" 95 "-" 0 0.01 0.01
+"2ipu_GK-KP_K-2ipu_GK-KP_P.101" "LEU" "K" 96 "-" 29.33 0.04 29.36
+"2ipu_GK-KP_K-2ipu_GK-KP_P.220" "ALA" "P" 2 "-" 12.93 41.12 54.05
+"2ipu_GK-KP_K-2ipu_GK-KP_P.221" "GLU" "P" 3 "-" 70.14 90.02 160.15
+"2ipu_GK-KP_K-2ipu_GK-KP_P.222" "PHE" "P" 4 "-" 65.47 8.06 73.53
+"2ipu_GK-KP_K-2ipu_GK-KP_P.223" "ARG" "P" 5 "-" 0.58 0.22 0.8
+"2ipu_GK-KP_K-2ipu_GK-KP_P.224" "HIS" "P" 6 "-" 55.75 29.54 85.29
+"2ipu_GK-KP_K-2ipu_GK-KP_P.225" "ASP" "P" 7 "-" 4.07 10.86 14.94
+"2ipu_GK-KP_K-2ipu_GK-KP_P.226" "SER" "P" 8 "-" 19.3 15.89 35.19

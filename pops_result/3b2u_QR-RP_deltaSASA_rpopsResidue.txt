@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3b2u_QR-RP_R-3b2u_QR-RP_P.2" "ILE" "R" 2 "-" 0.17 0 0.18
+"3b2u_QR-RP_R-3b2u_QR-RP_P.27" "GLN" "R" 27 "-" 6.88 23.88 30.77
+"3b2u_QR-RP_R-3b2u_QR-RP_P.32" "TYR" "R" 32 "-" 41.29 38.83 80.12
+"3b2u_QR-RP_R-3b2u_QR-RP_P.50" "ASP" "R" 50 "-" 0.59 3.8 4.39
+"3b2u_QR-RP_R-3b2u_QR-RP_P.91" "TYR" "R" 91 "-" 7.88 8.51 16.38
+"3b2u_QR-RP_R-3b2u_QR-RP_P.92" "GLY" "R" 92 "-" 7.63 20.74 28.37
+"3b2u_QR-RP_R-3b2u_QR-RP_P.93" "SER" "R" 93 "-" 18.28 17.06 35.34
+"3b2u_QR-RP_R-3b2u_QR-RP_P.94" "THR" "R" 94 "-" 53.51 14.8 68.3
+"3b2u_QR-RP_R-3b2u_QR-RP_P.96" "LEU" "R" 96 "-" 8.12 0 8.12
+"3b2u_QR-RP_R-3b2u_QR-RP_P.346" "ASN" "P" 442 "-" 0.01 0.05 0.07
+"3b2u_QR-RP_R-3b2u_QR-RP_P.347" "LYS" "P" 443 "-" 6.86 1.11 7.97
+"3b2u_QR-RP_R-3b2u_QR-RP_P.348" "ASN" "P" 444 "-" 0 0.02 0.02
+"3b2u_QR-RP_R-3b2u_QR-RP_P.367" "LYS" "P" 463 "-" 0 1.75 1.75
+"3b2u_QR-RP_R-3b2u_QR-RP_P.368" "THR" "P" 464 "-" 0.64 5.05 5.7
+"3b2u_QR-RP_R-3b2u_QR-RP_P.369" "LYS" "P" 465 "-" 16.64 13.06 29.7
+"3b2u_QR-RP_R-3b2u_QR-RP_P.370" "ILE" "P" 466 "-" 5.8 13.6 19.4
+"3b2u_QR-RP_R-3b2u_QR-RP_P.371" "ILE" "P" 467 "-" 31.53 0.86 32.4
+"3b2u_QR-RP_R-3b2u_QR-RP_P.372" "SER" "P" 468 "-" 23.53 25.71 49.23
+"3b2u_QR-RP_R-3b2u_QR-RP_P.373" "ASN" "P" 469 "-" 1.79 13.1 14.89
+"3b2u_QR-RP_R-3b2u_QR-RP_P.374" "ARG" "P" 470 "-" 3.15 3.04 6.18
+"3b2u_QR-RP_R-3b2u_QR-RP_P.375" "GLY" "P" 471 "-" 8.93 3.74 12.66
+"3b2u_QR-RP_R-3b2u_QR-RP_P.376" "GLU" "P" 472 "-" 1.24 0.74 1.98
+"3b2u_QR-RP_R-3b2u_QR-RP_P.377" "ASN" "P" 473 "-" 12.76 32.95 45.71

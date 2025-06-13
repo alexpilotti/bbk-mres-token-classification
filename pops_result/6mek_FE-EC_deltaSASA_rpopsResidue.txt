@@ -1,0 +1,16 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6mek_FE-EC_C-6mek_FE-EC_E.90" "PRO" "C" 545 "-" 1.8 0 1.81
+"6mek_FE-EC_C-6mek_FE-EC_E.91" "LEU" "C" 546 "-" 31.32 0 31.31
+"6mek_FE-EC_C-6mek_FE-EC_E.113" "PRO" "C" 568 "-" 0.03 0.11 0.14
+"6mek_FE-EC_C-6mek_FE-EC_E.114" "CYS" "C" 569 "-" 10.61 0.24 10.85
+"6mek_FE-EC_C-6mek_FE-EC_E.115" "ALA" "C" 570 "-" 3.95 0.46 4.4
+"6mek_FE-EC_C-6mek_FE-EC_E.121" "ARG" "C" 596 "-" 17.21 65.33 82.55
+"6mek_FE-EC_C-6mek_FE-EC_E.122" "CYS" "C" 597 "-" 1.37 0 1.38
+"6mek_FE-EC_C-6mek_FE-EC_E.196" "SER" "E" 27 "A" 0 0.01 0.01
+"6mek_FE-EC_C-6mek_FE-EC_E.200" "SER" "E" 30 "-" 3.34 8.32 11.66
+"6mek_FE-EC_C-6mek_FE-EC_E.201" "ASN" "E" 31 "-" 1.61 7.03 8.64
+"6mek_FE-EC_C-6mek_FE-EC_E.202" "TYR" "E" 32 "-" 12.03 23.57 35.6
+"6mek_FE-EC_C-6mek_FE-EC_E.223" "GLN" "E" 53 "-" 0.11 1.74 1.86
+"6mek_FE-EC_C-6mek_FE-EC_E.261" "TRP" "E" 91 "-" 13.83 0 13.84
+"6mek_FE-EC_C-6mek_FE-EC_E.263" "ASP" "E" 93 "-" 4.24 13.07 17.29
+"6mek_FE-EC_C-6mek_FE-EC_E.269" "TRP" "E" 96 "-" 0.01 0 0.01

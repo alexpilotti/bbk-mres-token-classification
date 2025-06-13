@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6azm_BA-AE_A-6azm_BA-AE_E.30" "LEU" "A" 27 "C" 0.02 0 0.01
+"6azm_BA-AE_A-6azm_BA-AE_E.31" "TYR" "A" 27 "D" 26.37 17.07 43.45
+"6azm_BA-AE_A-6azm_BA-AE_E.34" "ASN" "A" 28 "-" 0.6 3.86 4.46
+"6azm_BA-AE_A-6azm_BA-AE_E.36" "LYS" "A" 30 "-" 5.77 3.25 9.03
+"6azm_BA-AE_A-6azm_BA-AE_E.38" "TYR" "A" 32 "-" 8.73 7.82 16.54
+"6azm_BA-AE_A-6azm_BA-AE_E.55" "TYR" "A" 49 "-" 0.02 0 0.03
+"6azm_BA-AE_A-6azm_BA-AE_E.56" "TRP" "A" 50 "-" 11.94 1.43 13.37
+"6azm_BA-AE_A-6azm_BA-AE_E.97" "TYR" "A" 91 "-" 2.76 1.29 4.03
+"6azm_BA-AE_A-6azm_BA-AE_E.98" "TYR" "A" 92 "-" 12.88 15.85 28.73
+"6azm_BA-AE_A-6azm_BA-AE_E.99" "SER" "A" 93 "-" 2.29 0.18 2.46
+"6azm_BA-AE_A-6azm_BA-AE_E.221" "ASN" "E" 3 "-" 0 0.15 0.15
+"6azm_BA-AE_A-6azm_BA-AE_E.222" "PRO" "E" 4 "-" 34.02 11.59 45.6
+"6azm_BA-AE_A-6azm_BA-AE_E.223" "ASN" "E" 5 "-" 19.11 37.93 57.04
+"6azm_BA-AE_A-6azm_BA-AE_E.224" "ALA" "E" 6 "-" 30.91 10.5 41.41
+"6azm_BA-AE_A-6azm_BA-AE_E.225" "ASN" "E" 7 "-" 4.07 7.68 11.75
+"6azm_BA-AE_A-6azm_BA-AE_E.226" "PRO" "E" 8 "-" 84.42 13.23 97.65
+"6azm_BA-AE_A-6azm_BA-AE_E.227" "ASN" "E" 9 "-" 3.8 11.77 15.55

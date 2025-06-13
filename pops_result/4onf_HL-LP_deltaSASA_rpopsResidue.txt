@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4onf_HL-LP_L-4onf_HL-LP_P.31" "ASP" "L" 31 "-" 1.21 6.61 7.82
+"4onf_HL-LP_L-4onf_HL-LP_P.33" "ASP" "L" 33 "-" 1.05 3.23 4.28
+"4onf_HL-LP_L-4onf_HL-LP_P.37" "TYR" "L" 37 "-" 13.92 6.13 20.05
+"4onf_HL-LP_L-4onf_HL-LP_P.39" "ASN" "L" 39 "-" 0.01 0.72 0.73
+"4onf_HL-LP_L-4onf_HL-LP_P.94" "TRP" "L" 94 "-" 2.75 0.81 3.56
+"4onf_HL-LP_L-4onf_HL-LP_P.95" "GLN" "L" 95 "-" 0.03 0.34 0.37
+"4onf_HL-LP_L-4onf_HL-LP_P.96" "GLY" "L" 96 "-" 7.97 11.14 19.09
+"4onf_HL-LP_L-4onf_HL-LP_P.97" "THR" "L" 97 "-" 1.59 5.51 7.1
+"4onf_HL-LP_L-4onf_HL-LP_P.98" "HIS" "L" 98 "-" 1.29 1.14 2.44
+"4onf_HL-LP_L-4onf_HL-LP_P.99" "PHE" "L" 99 "-" 33.11 0.98 34.09
+"4onf_HL-LP_L-4onf_HL-LP_P.100" "PRO" "L" 100 "-" 0.2 0 0.2
+"4onf_HL-LP_L-4onf_HL-LP_P.101" "ARG" "L" 101 "-" 17.8 62.45 80.25
+"4onf_HL-LP_L-4onf_HL-LP_P.219" "ASP" "P" 1 "-" 32 52.01 84.03
+"4onf_HL-LP_L-4onf_HL-LP_P.220" "ALA" "P" 2 "-" 41.39 2.83 44.22
+"4onf_HL-LP_L-4onf_HL-LP_P.221" "GLU" "P" 3 "-" 11.36 11.36 22.73
+"4onf_HL-LP_L-4onf_HL-LP_P.222" "PHE" "P" 4 "-" 6.69 0 6.68
+"4onf_HL-LP_L-4onf_HL-LP_P.223" "ARG" "P" 5 "-" 31.69 62.52 94.21

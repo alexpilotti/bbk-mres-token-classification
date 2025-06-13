@@ -1,0 +1,21 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4rx4_HL-LG_G-4rx4_HL-LG_L.53" "LYS" "G" 97 "-" 0 0.48 0.48
+"4rx4_HL-LG_G-4rx4_HL-LG_L.152" "ASN" "G" 276 "-" 0.09 4.3 4.4
+"4rx4_HL-LG_G-4rx4_HL-LG_L.154" "THR" "G" 278 "-" 7.9 7.3 15.2
+"4rx4_HL-LG_G-4rx4_HL-LG_L.155" "ASN" "G" 279 "-" 5.05 21.34 26.39
+"4rx4_HL-LG_G-4rx4_HL-LG_L.156" "ASN" "G" 280 "-" 3.93 23.71 27.64
+"4rx4_HL-LG_G-4rx4_HL-LG_L.157" "ALA" "G" 281 "-" 15.23 0.45 15.68
+"4rx4_HL-LG_G-4rx4_HL-LG_L.158" "LYS" "G" 282 "-" 0.23 0 0.23
+"4rx4_HL-LG_G-4rx4_HL-LG_L.289" "ARG" "G" 456 "-" 0 0.26 0.26
+"4rx4_HL-LG_G-4rx4_HL-LG_L.290" "ASP" "G" 457 "-" 0.03 0.89 0.92
+"4rx4_HL-LG_G-4rx4_HL-LG_L.291" "GLY" "G" 458 "-" 0.61 0.15 0.76
+"4rx4_HL-LG_G-4rx4_HL-LG_L.292" "GLY" "G" 459 "-" 16.49 6.9 23.39
+"4rx4_HL-LG_G-4rx4_HL-LG_L.293" "ASN" "G" 460 "-" 0 0.02 0.03
+"4rx4_HL-LG_G-4rx4_HL-LG_L.354" "ASN" "L" 31 "-" 0.36 4.14 4.5
+"4rx4_HL-LG_G-4rx4_HL-LG_L.374" "PRO" "L" 51 "-" 0.21 0 0.21
+"4rx4_HL-LG_G-4rx4_HL-LG_L.414" "TYR" "L" 91 "-" 0.86 3.53 4.4
+"4rx4_HL-LG_G-4rx4_HL-LG_L.415" "SER" "L" 92 "-" 3.93 17.8 21.73
+"4rx4_HL-LG_G-4rx4_HL-LG_L.416" "SER" "L" 93 "-" 23.62 5.15 28.77
+"4rx4_HL-LG_G-4rx4_HL-LG_L.417" "THR" "L" 94 "-" 14.85 26.66 41.52
+"4rx4_HL-LG_G-4rx4_HL-LG_L.418" "PRO" "L" 95 "-" 9.15 0.18 9.33
+"4rx4_HL-LG_G-4rx4_HL-LG_L.419" "TYR" "L" 96 "-" 3.36 11.02 14.38

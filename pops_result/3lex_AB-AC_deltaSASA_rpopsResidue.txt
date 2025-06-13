@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3lex_AB-AC_A-3lex_AB-AC_C.32" "ASP" "A" 32 "-" 0.01 0.61 0.63
+"3lex_AB-AC_A-3lex_AB-AC_C.33" "TYR" "A" 33 "-" 8.82 16.87 25.68
+"3lex_AB-AC_A-3lex_AB-AC_C.51" "TYR" "A" 50 "-" 1.1 3.64 4.74
+"3lex_AB-AC_A-3lex_AB-AC_C.98" "TYR" "A" 94 "-" 2.06 1.13 3.19
+"3lex_AB-AC_A-3lex_AB-AC_C.99" "GLY" "A" 95 "-" 1.19 0.29 1.48
+"3lex_AB-AC_A-3lex_AB-AC_C.100" "ASN" "A" 96 "-" 15.07 47.47 62.54
+"3lex_AB-AC_A-3lex_AB-AC_C.101" "TYR" "A" 97 "-" 23.51 8.61 32.12
+"3lex_AB-AC_A-3lex_AB-AC_C.102" "LEU" "A" 98 "-" 72.2 1.64 73.84
+"3lex_AB-AC_A-3lex_AB-AC_C.104" "ALA" "A" 100 "-" 7.4 0.1 7.5
+"3lex_AB-AC_A-3lex_AB-AC_C.105" "TYR" "A" 101 "-" 6.27 2.7 8.97
+"3lex_AB-AC_A-3lex_AB-AC_C.213" "LEU" "C" 660 "-" 5.17 0.62 5.79
+"3lex_AB-AC_A-3lex_AB-AC_C.214" "LEU" "C" 661 "-" 139.25 12.87 152.14
+"3lex_AB-AC_A-3lex_AB-AC_C.215" "GLU" "C" 662 "-" 2.52 8.25 10.77
+"3lex_AB-AC_A-3lex_AB-AC_C.216" "LEU" "C" 663 "-" 37.65 2.16 39.82
+"3lex_AB-AC_A-3lex_AB-AC_C.217" "ASP" "C" 664 "-" 16.5 33.46 49.96
+"3lex_AB-AC_A-3lex_AB-AC_C.218" "LYS" "C" 665 "-" 0.28 0.07 0.33
+"3lex_AB-AC_A-3lex_AB-AC_C.219" "TRP" "C" 666 "-" 25.38 19.25 44.62
+"3lex_AB-AC_A-3lex_AB-AC_C.220" "ALA" "C" 667 "-" 30.06 15.48 45.56

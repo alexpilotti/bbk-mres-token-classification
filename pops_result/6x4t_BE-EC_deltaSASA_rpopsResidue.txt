@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6x4t_BE-EC_C-6x4t_BE-EC_E.32" "TYR" "C" 51 "-" 0.01 0.63 0.63
+"6x4t_BE-EC_C-6x4t_BE-EC_E.48" "ILE" "C" 67 "-" 2.23 0 2.23
+"6x4t_BE-EC_C-6x4t_BE-EC_E.50" "GLN" "C" 69 "-" 15.47 53.24 68.71
+"6x4t_BE-EC_C-6x4t_BE-EC_E.51" "ASN" "C" 70 "-" 2.18 2.56 4.74
+"6x4t_BE-EC_C-6x4t_BE-EC_E.99" "GLN" "C" 118 "-" 4.91 22.81 27.72
+"6x4t_BE-EC_C-6x4t_BE-EC_E.100" "SER" "C" 119 "-" 0 0.03 0.03
+"6x4t_BE-EC_C-6x4t_BE-EC_E.102" "GLY" "C" 121 "-" 0.54 0.01 0.56
+"6x4t_BE-EC_C-6x4t_BE-EC_E.103" "PHE" "C" 122 "-" 17.38 0 17.38
+"6x4t_BE-EC_C-6x4t_BE-EC_E.238" "ASN" "E" 31 "-" 0.85 0.09 0.94
+"6x4t_BE-EC_C-6x4t_BE-EC_E.239" "TRP" "E" 32 "-" 30.85 4.63 35.48
+"6x4t_BE-EC_C-6x4t_BE-EC_E.256" "TYR" "E" 49 "-" 19.08 20.37 39.46
+"6x4t_BE-EC_C-6x4t_BE-EC_E.257" "ALA" "E" 50 "-" 2.68 0 2.68
+"6x4t_BE-EC_C-6x4t_BE-EC_E.260" "SER" "E" 53 "-" 0.94 1.23 2.16
+"6x4t_BE-EC_C-6x4t_BE-EC_E.262" "GLN" "E" 55 "-" 0.12 2.28 2.41
+"6x4t_BE-EC_C-6x4t_BE-EC_E.263" "SER" "E" 56 "-" 1.16 0 1.16
+"6x4t_BE-EC_C-6x4t_BE-EC_E.298" "TYR" "E" 91 "-" 0.25 0.05 0.3

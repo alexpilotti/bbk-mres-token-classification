@@ -1,0 +1,10 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mes_HL-LA_A-5mes_HL-LA_L.136" "VAL" "A" 307 "-" 0.74 0 0.74
+"5mes_HL-LA_A-5mes_HL-LA_L.137" "LYS" "A" 308 "-" 53.14 43.61 96.75
+"5mes_HL-LA_A-5mes_HL-LA_L.139" "ARG" "A" 310 "-" 6.48 60.04 66.52
+"5mes_HL-LA_A-5mes_HL-LA_L.181" "SER" "L" 31 "-" 1.44 3.05 4.49
+"5mes_HL-LA_A-5mes_HL-LA_L.182" "ASN" "L" 32 "-" 1.06 6.05 7.11
+"5mes_HL-LA_A-5mes_HL-LA_L.242" "TRP" "L" 92 "-" 10.95 1.26 12.21
+"5mes_HL-LA_A-5mes_HL-LA_L.244" "ASP" "L" 94 "-" 5.66 12.47 18.12
+"5mes_HL-LA_A-5mes_HL-LA_L.247" "ASN" "L" 97 "-" 0 0.8 0.8
+"5mes_HL-LA_A-5mes_HL-LA_L.249" "TRP" "L" 99 "-" 1.96 0.77 2.73

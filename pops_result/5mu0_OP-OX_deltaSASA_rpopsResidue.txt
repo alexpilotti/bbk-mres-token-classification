@@ -1,0 +1,20 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mu0_OP-OX_O-5mu0_OP-OX_X.30" "ASP" "O" 31 "-" 8.46 9.22 17.68
+"5mu0_OP-OX_O-5mu0_OP-OX_X.31" "ALA" "O" 32 "-" 1.92 0.68 2.6
+"5mu0_OP-OX_O-5mu0_OP-OX_X.32" "TRP" "O" 33 "-" 28.41 2.49 30.91
+"5mu0_OP-OX_O-5mu0_OP-OX_X.51" "ARG" "O" 52 "-" 0.05 1.21 1.26
+"5mu0_OP-OX_O-5mu0_OP-OX_X.52" "ASN" "O" 53 "-" 0.23 3.67 3.9
+"5mu0_OP-OX_O-5mu0_OP-OX_X.55" "ASN" "O" 56 "-" 0 0.16 0.16
+"5mu0_OP-OX_O-5mu0_OP-OX_X.99" "GLY" "O" 100 "-" 0 0.02 0.01
+"5mu0_OP-OX_O-5mu0_OP-OX_X.100" "LEU" "O" 101 "-" 26.97 2.95 29.92
+"5mu0_OP-OX_O-5mu0_OP-OX_X.101" "THR" "O" 102 "-" 16.36 9.53 25.9
+"5mu0_OP-OX_O-5mu0_OP-OX_X.102" "PHE" "O" 103 "-" 10.59 3.24 13.83
+"5mu0_OP-OX_O-5mu0_OP-OX_X.103" "ASP" "O" 104 "-" 8.08 35.02 43.1
+"5mu0_OP-OX_O-5mu0_OP-OX_X.104" "TYR" "O" 105 "-" 0 0.5 0.5
+"5mu0_OP-OX_O-5mu0_OP-OX_X.212" "GLY" "X" 4 "-" 3.87 10.94 14.8
+"5mu0_OP-OX_O-5mu0_OP-OX_X.213" "ALA" "X" 5 "-" 62.46 26.64 89.1
+"5mu0_OP-OX_O-5mu0_OP-OX_X.214" "ARG" "X" 6 "-" 52.01 64.28 116.29
+"5mu0_OP-OX_O-5mu0_OP-OX_X.215" "GLY" "X" 7 "-" 13.56 4.09 17.65
+"5mu0_OP-OX_O-5mu0_OP-OX_X.216" "LEU" "X" 8 "-" 38.41 3.76 42.18
+"5mu0_OP-OX_O-5mu0_OP-OX_X.217" "THR" "X" 9 "-" 72.76 43.97 116.73
+"5mu0_OP-OX_O-5mu0_OP-OX_X.218" "GLY" "X" 10 "-" 15.68 5.31 20.98

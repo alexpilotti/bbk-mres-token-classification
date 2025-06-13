@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8fan_EF-ER_E-8fan_EF-ER_R.30" "SER" "E" 30 "-" 0.02 0.37 0.39
+"8fan_EF-ER_E-8fan_EF-ER_R.31" "ASN" "E" 31 "-" 3.14 10.98 14.12
+"8fan_EF-ER_E-8fan_EF-ER_R.32" "PHE" "E" 32 "-" 7.9 0.7 8.6
+"8fan_EF-ER_E-8fan_EF-ER_R.33" "GLY" "E" 33 "-" 5.03 2.63 7.66
+"8fan_EF-ER_E-8fan_EF-ER_R.34" "MET" "E" 34 "-" 0 0.03 0.03
+"8fan_EF-ER_E-8fan_EF-ER_R.35" "HIS" "E" 35 "-" 0.19 0.34 0.53
+"8fan_EF-ER_E-8fan_EF-ER_R.50" "ILE" "E" 50 "-" 3.92 0 3.92
+"8fan_EF-ER_E-8fan_EF-ER_R.51" "ILE" "E" 51 "-" 0.02 0.23 0.24
+"8fan_EF-ER_E-8fan_EF-ER_R.52" "TRP" "E" 52 "-" 37.15 4.08 41.24
+"8fan_EF-ER_E-8fan_EF-ER_R.53" "PHE" "E" 52 "A" 28.8 0.28 29.08
+"8fan_EF-ER_E-8fan_EF-ER_R.54" "ASP" "E" 53 "-" 0 0.02 0.01
+"8fan_EF-ER_E-8fan_EF-ER_R.59" "PHE" "E" 58 "-" 0.37 0 0.37
+"8fan_EF-ER_E-8fan_EF-ER_R.99" "SER" "E" 95 "-" 5.25 5.19 10.44
+"8fan_EF-ER_E-8fan_EF-ER_R.100" "PHE" "E" 96 "-" 0.44 0.41 0.86
+"8fan_EF-ER_E-8fan_EF-ER_R.101" "TYR" "E" 97 "-" 32.88 10.76 43.64
+"8fan_EF-ER_E-8fan_EF-ER_R.106" "GLY" "E" 100 "B" 0.73 0 0.73
+"8fan_EF-ER_E-8fan_EF-ER_R.107" "SER" "E" 100 "C" 19.45 11.03 30.48
+"8fan_EF-ER_E-8fan_EF-ER_R.218" "ASN" "R" 7 "-" 19.19 21.96 41.16
+"8fan_EF-ER_E-8fan_EF-ER_R.219" "PRO" "R" 8 "-" 35.56 7.42 42.98
+"8fan_EF-ER_E-8fan_EF-ER_R.220" "ASP" "R" 9 "-" 27.59 30.44 58.03
+"8fan_EF-ER_E-8fan_EF-ER_R.221" "PRO" "R" 10 "-" 67.42 21.31 88.74
+"8fan_EF-ER_E-8fan_EF-ER_R.222" "ASN" "R" 11 "-" 22.22 58.75 80.98
+"8fan_EF-ER_E-8fan_EF-ER_R.223" "ALA" "R" 12 "-" 65.6 10.01 75.62
+"8fan_EF-ER_E-8fan_EF-ER_R.224" "ASN" "R" 13 "-" 0 1.57 1.57

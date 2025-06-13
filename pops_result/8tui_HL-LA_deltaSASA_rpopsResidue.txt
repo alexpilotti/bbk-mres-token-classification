@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8tui_HL-LA_L-8tui_HL-LA_A.2" "ILE" "L" 2 "-" 0.37 0 0.37
+"8tui_HL-LA_L-8tui_HL-LA_A.27" "GLN" "L" 27 "-" 0.02 0 0.03
+"8tui_HL-LA_L-8tui_HL-LA_A.28" "SER" "L" 28 "-" 9.29 11.69 20.99
+"8tui_HL-LA_L-8tui_HL-LA_A.29" "VAL" "L" 29 "-" 1.75 2.05 3.79
+"8tui_HL-LA_L-8tui_HL-LA_A.30" "SER" "L" 30 "-" 15.93 17.03 32.97
+"8tui_HL-LA_L-8tui_HL-LA_A.31" "SER" "L" 31 "-" 0.08 0.16 0.24
+"8tui_HL-LA_L-8tui_HL-LA_A.32" "TYR" "L" 32 "-" 32.47 39.63 72.1
+"8tui_HL-LA_L-8tui_HL-LA_A.92" "SER" "L" 92 "-" 2.96 1.25 4.21
+"8tui_HL-LA_L-8tui_HL-LA_A.93" "ASN" "L" 93 "-" 22.36 61.56 83.91
+"8tui_HL-LA_L-8tui_HL-LA_A.94" "TRP" "L" 94 "-" 70.34 6.2 76.53
+"8tui_HL-LA_L-8tui_HL-LA_A.248" "HIS" "A" 40 "-" 4.18 2.4 6.58
+"8tui_HL-LA_L-8tui_HL-LA_A.249" "ARG" "A" 41 "-" 0.06 4.39 4.44
+"8tui_HL-LA_L-8tui_HL-LA_A.250" "GLU" "A" 42 "-" 0.02 0.98 1
+"8tui_HL-LA_L-8tui_HL-LA_A.251" "GLY" "A" 43 "-" 0.1 1.77 1.87
+"8tui_HL-LA_L-8tui_HL-LA_A.252" "LYS" "A" 44 "-" 1.11 3.92 5.03
+"8tui_HL-LA_L-8tui_HL-LA_A.253" "PHE" "A" 45 "-" 68.03 1.88 69.9
+"8tui_HL-LA_L-8tui_HL-LA_A.254" "LYS" "A" 46 "-" 62.17 32.79 94.96
+"8tui_HL-LA_L-8tui_HL-LA_A.255" "ASP" "A" 47 "-" 8.03 13.92 21.95
+"8tui_HL-LA_L-8tui_HL-LA_A.256" "THR" "A" 48 "-" 0.09 2.47 2.55
+"8tui_HL-LA_L-8tui_HL-LA_A.278" "MET" "A" 70 "-" 1.4 0 1.41
+"8tui_HL-LA_L-8tui_HL-LA_A.280" "ASP" "A" 72 "-" 3.79 9.19 12.98
+"8tui_HL-LA_L-8tui_HL-LA_A.281" "LEU" "A" 73 "-" 0.35 0 0.35

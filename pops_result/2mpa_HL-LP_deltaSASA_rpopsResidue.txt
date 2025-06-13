@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"2mpa_HL-LP_L-2mpa_HL-LP_P.31" "HIS" "L" 31 "-" 12.41 10.63 23.04
+"2mpa_HL-LP_L-2mpa_HL-LP_P.32" "SER" "L" 32 "-" 0.02 0.19 0.22
+"2mpa_HL-LP_L-2mpa_HL-LP_P.33" "ASN" "L" 33 "-" 5.11 6.93 12.04
+"2mpa_HL-LP_L-2mpa_HL-LP_P.37" "TYR" "L" 37 "-" 10.81 7.17 17.98
+"2mpa_HL-LP_L-2mpa_HL-LP_P.95" "GLN" "L" 95 "-" 0 0.02 0.02
+"2mpa_HL-LP_L-2mpa_HL-LP_P.96" "SER" "L" 96 "-" 6.58 9.31 15.9
+"2mpa_HL-LP_L-2mpa_HL-LP_P.97" "THR" "L" 97 "-" 0.8 2 2.79
+"2mpa_HL-LP_L-2mpa_HL-LP_P.98" "HIS" "L" 98 "-" 0.74 1.37 2.11
+"2mpa_HL-LP_L-2mpa_HL-LP_P.99" "VAL" "L" 99 "-" 46 0.62 46.62
+"2mpa_HL-LP_L-2mpa_HL-LP_P.100" "PRO" "L" 100 "-" 0.34 0.03 0.37
+"2mpa_HL-LP_L-2mpa_HL-LP_P.101" "ARG" "L" 101 "-" 4.57 1.08 5.65
+"2mpa_HL-LP_L-2mpa_HL-LP_P.221" "ASP" "P" 3 "-" 2.38 12.13 14.5
+"2mpa_HL-LP_L-2mpa_HL-LP_P.222" "THR" "P" 4 "-" 18.87 10.06 28.93
+"2mpa_HL-LP_L-2mpa_HL-LP_P.223" "ASN" "P" 5 "-" 12.77 50.39 63.16
+"2mpa_HL-LP_L-2mpa_HL-LP_P.224" "ASN" "P" 6 "-" 0 0.04 0.05
+"2mpa_HL-LP_L-2mpa_HL-LP_P.225" "ASN" "P" 7 "-" 15.18 39.39 54.58
+"2mpa_HL-LP_L-2mpa_HL-LP_P.226" "LEU" "P" 8 "-" 12.09 23.65 35.74

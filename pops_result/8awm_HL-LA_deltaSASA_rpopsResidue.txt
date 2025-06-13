@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8awm_HL-LA_L-8awm_HL-LA_A.28" "GLU" "L" 29 "-" 0.01 1.09 1.11
+"8awm_HL-LA_L-8awm_HL-LA_A.29" "SER" "L" 36 "-" 5.54 8.3 13.85
+"8awm_HL-LA_L-8awm_HL-LA_A.30" "LYS" "L" 37 "-" 0.18 0.16 0.34
+"8awm_HL-LA_L-8awm_HL-LA_A.31" "TYR" "L" 38 "-" 15.07 20.03 35.1
+"8awm_HL-LA_L-8awm_HL-LA_A.48" "TYR" "L" 55 "-" 1.23 0.26 1.49
+"8awm_HL-LA_L-8awm_HL-LA_A.49" "GLU" "L" 56 "-" 3.25 17.63 20.88
+"8awm_HL-LA_L-8awm_HL-LA_A.50" "ASP" "L" 57 "-" 0.34 1.22 1.57
+"8awm_HL-LA_L-8awm_HL-LA_A.51" "SER" "L" 65 "-" 0 0.4 0.4
+"8awm_HL-LA_L-8awm_HL-LA_A.65" "ASN" "L" 80 "-" 0 0.56 0.56
+"8awm_HL-LA_L-8awm_HL-LA_A.92" "THR" "L" 109 "-" 2.66 0 2.66
+"8awm_HL-LA_L-8awm_HL-LA_A.227" "GLY" "A" 171 "-" 0.3 0.99 1.29
+"8awm_HL-LA_L-8awm_HL-LA_A.230" "GLN" "A" 174 "-" 0.49 5.79 6.27
+"8awm_HL-LA_L-8awm_HL-LA_A.329" "PRO" "A" 273 "-" 36.11 0.06 36.17
+"8awm_HL-LA_L-8awm_HL-LA_A.330" "LYS" "A" 274 "-" 13.38 6.87 20.26
+"8awm_HL-LA_L-8awm_HL-LA_A.347" "SER" "A" 291 "-" 13.1 11.24 24.34
+"8awm_HL-LA_L-8awm_HL-LA_A.348" "LEU" "A" 292 "-" 0.96 0.49 1.45
+"8awm_HL-LA_L-8awm_HL-LA_A.350" "LYS" "A" 294 "-" 6.76 9.66 16.41

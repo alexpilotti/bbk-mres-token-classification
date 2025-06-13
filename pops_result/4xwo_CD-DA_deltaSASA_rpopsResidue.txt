@@ -1,0 +1,22 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4xwo_CD-DA_A-4xwo_CD-DA_D.198" "GLU" "A" 253 "-" 3.4 8.18 11.59
+"4xwo_CD-DA_A-4xwo_CD-DA_D.201" "ILE" "A" 256 "-" 3.68 0.07 3.75
+"4xwo_CD-DA_A-4xwo_CD-DA_D.202" "GLN" "A" 257 "-" 7.03 29.16 36.19
+"4xwo_CD-DA_A-4xwo_CD-DA_D.205" "ILE" "A" 260 "-" 12.72 0 12.71
+"4xwo_CD-DA_A-4xwo_CD-DA_D.211" "VAL" "A" 266 "-" 0.07 0 0.07
+"4xwo_CD-DA_A-4xwo_CD-DA_D.247" "GLU" "A" 304 "-" 13.96 38.61 52.57
+"4xwo_CD-DA_A-4xwo_CD-DA_D.248" "LEU" "A" 305 "-" 22.51 3.12 25.63
+"4xwo_CD-DA_A-4xwo_CD-DA_D.249" "TYR" "A" 306 "-" 4.72 1.17 5.88
+"4xwo_CD-DA_A-4xwo_CD-DA_D.250" "GLU" "A" 307 "-" 16.16 57.42 73.58
+"4xwo_CD-DA_A-4xwo_CD-DA_D.251" "ASP" "A" 308 "-" 6 20.89 26.89
+"4xwo_CD-DA_A-4xwo_CD-DA_D.252" "PHE" "A" 309 "-" 6.64 0 6.64
+"4xwo_CD-DA_A-4xwo_CD-DA_D.322" "VAL" "D" 30 "-" 0.04 0.37 0.41
+"4xwo_CD-DA_A-4xwo_CD-DA_D.323" "SER" "D" 31 "-" 16.61 16.64 33.25
+"4xwo_CD-DA_A-4xwo_CD-DA_D.324" "SER" "D" 32 "-" 7.36 6.53 13.89
+"4xwo_CD-DA_A-4xwo_CD-DA_D.325" "ALA" "D" 33 "-" 0.78 0.4 1.18
+"4xwo_CD-DA_A-4xwo_CD-DA_D.342" "TYR" "D" 50 "-" 8.3 1.27 9.58
+"4xwo_CD-DA_A-4xwo_CD-DA_D.343" "SER" "D" 51 "-" 3.27 4.09 7.36
+"4xwo_CD-DA_A-4xwo_CD-DA_D.359" "ARG" "D" 67 "-" 0 1.38 1.38
+"4xwo_CD-DA_A-4xwo_CD-DA_D.384" "TYR" "D" 92 "-" 0.46 0.24 0.69
+"4xwo_CD-DA_A-4xwo_CD-DA_D.386" "TYR" "D" 94 "-" 118.72 49.08 167.8
+"4xwo_CD-DA_A-4xwo_CD-DA_D.387" "TYR" "D" 95 "-" 1.16 0.31 1.47

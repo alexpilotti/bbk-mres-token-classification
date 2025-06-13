@@ -1,0 +1,10 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4ene_EF-FB_B-4ene_EF-FB_F.234" "ASN" "B" 250 "-" 0.09 0 0.09
+"4ene_EF-FB_B-4ene_EF-FB_F.364" "PRO" "B" 380 "-" 29.08 2.02 31.1
+"4ene_EF-FB_B-4ene_EF-FB_F.365" "GLN" "B" 381 "-" 19.77 7.08 26.86
+"4ene_EF-FB_B-4ene_EF-FB_F.367" "HIS" "B" 383 "-" 25.67 17.64 43.31
+"4ene_EF-FB_B-4ene_EF-FB_F.473" "TYR" "FALSE" 31 "-" 0.11 0 0.1
+"4ene_EF-FB_B-4ene_EF-FB_F.532" "TRP" "FALSE" 90 "-" 22.91 5.23 28.14
+"4ene_EF-FB_B-4ene_EF-FB_F.533" "SER" "FALSE" 91 "-" 1.9 8.39 10.29
+"4ene_EF-FB_B-4ene_EF-FB_F.534" "SER" "FALSE" 92 "-" 1.56 0.56 2.11
+"4ene_EF-FB_B-4ene_EF-FB_F.535" "HIS" "FALSE" 93 "-" 27.14 8.92 36.05

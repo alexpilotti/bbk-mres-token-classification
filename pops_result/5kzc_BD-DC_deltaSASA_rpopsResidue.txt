@@ -1,0 +1,19 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5kzc_BD-DC_C-5kzc_BD-DC_D.26" "ARG" "C" 26 "-" 0 0.51 0.51
+"5kzc_BD-DC_C-5kzc_BD-DC_D.27" "ASP" "C" 27 "-" 0.09 0.36 0.45
+"5kzc_BD-DC_C-5kzc_BD-DC_D.28" "GLY" "C" 28 "-" 13.56 2.6 16.16
+"5kzc_BD-DC_C-5kzc_BD-DC_D.29" "GLY" "C" 29 "-" 28.71 17.06 45.78
+"5kzc_BD-DC_C-5kzc_BD-DC_D.30" "ASN" "C" 30 "-" 31.77 48.46 80.23
+"5kzc_BD-DC_C-5kzc_BD-DC_D.77" "ASN" "C" 79 "-" 1.64 7.86 9.5
+"5kzc_BD-DC_C-5kzc_BD-DC_D.79" "THR" "C" 81 "-" 32.79 17.33 50.12
+"5kzc_BD-DC_C-5kzc_BD-DC_D.80" "ASP" "C" 82 "-" 6.41 7.09 13.5
+"5kzc_BD-DC_C-5kzc_BD-DC_D.81" "ASN" "C" 83 "-" 2.17 14.99 17.16
+"5kzc_BD-DC_C-5kzc_BD-DC_D.129" "LYS" "C" 131 "-" 0 0.16 0.17
+"5kzc_BD-DC_C-5kzc_BD-DC_D.171" "ILE" "D" 2 "-" 4.01 13.93 17.94
+"5kzc_BD-DC_C-5kzc_BD-DC_D.172" "VAL" "D" 3 "-" 8.64 0.34 8.98
+"5kzc_BD-DC_C-5kzc_BD-DC_D.196" "GLN" "D" 27 "-" 4.44 18.9 23.34
+"5kzc_BD-DC_C-5kzc_BD-DC_D.197" "TYR" "D" 28 "-" 0.38 1.3 1.68
+"5kzc_BD-DC_C-5kzc_BD-DC_D.198" "GLY" "D" 29 "-" 0.26 0 0.27
+"5kzc_BD-DC_C-5kzc_BD-DC_D.258" "TYR" "D" 91 "-" 39.8 17.43 57.23
+"5kzc_BD-DC_C-5kzc_BD-DC_D.259" "GLU" "D" 96 "-" 11.4 18.38 29.78
+"5kzc_BD-DC_C-5kzc_BD-DC_D.260" "PHE" "D" 97 "-" 28.24 0 28.24

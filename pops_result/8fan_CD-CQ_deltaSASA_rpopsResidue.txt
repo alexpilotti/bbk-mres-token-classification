@@ -1,0 +1,24 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.30" "SER" "C" 30 "-" 0 0.1 0.11
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.31" "ASN" "C" 31 "-" 2.72 8.77 11.48
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.32" "PHE" "C" 32 "-" 8.13 0.71 8.84
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.33" "GLY" "C" 33 "-" 5.17 2.68 7.85
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.34" "MET" "C" 34 "-" 0 0.1 0.1
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.35" "HIS" "C" 35 "-" 0.2 0.33 0.53
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.50" "ILE" "C" 50 "-" 4.29 0 4.29
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.51" "ILE" "C" 51 "-" 0.03 0.4 0.44
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.52" "TRP" "C" 52 "-" 35.45 4.18 39.63
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.53" "PHE" "C" 52 "A" 28.26 0.23 28.49
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.54" "ASP" "C" 53 "-" 0 0.02 0.02
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.59" "PHE" "C" 58 "-" 1.32 0 1.32
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.99" "SER" "C" 95 "-" 4.8 5.17 9.97
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.100" "PHE" "C" 96 "-" 0.68 0.3 0.98
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.101" "TYR" "C" 97 "-" 36.15 9.8 45.93
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.106" "GLY" "C" 100 "B" 0.78 0 0.78
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.107" "SER" "C" 100 "C" 18.44 8.87 27.31
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.210" "ASN" "Q" 7 "-" 22.77 27.31 50.08
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.211" "PRO" "Q" 8 "-" 45.45 8.5 53.94
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.212" "ASP" "Q" 9 "-" 27.8 28.28 56.08
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.213" "PRO" "Q" 10 "-" 69.56 21.49 91.05
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.214" "ASN" "Q" 11 "-" 24.44 62.8 87.24
+"8fan_CD-CQ_C-8fan_CD-CQ_Q.215" "ALA" "Q" 12 "-" 74.01 10.86 84.86

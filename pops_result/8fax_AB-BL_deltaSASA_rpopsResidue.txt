@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8fax_AB-BL_B-8fax_AB-BL_L.29" "ARG" "B" 30 "-" 0.05 2.64 2.7
+"8fax_AB-BL_B-8fax_AB-BL_L.31" "SER" "B" 32 "-" 0.36 0 0.35
+"8fax_AB-BL_B-8fax_AB-BL_L.32" "TYR" "B" 33 "-" 17.52 15.57 33.09
+"8fax_AB-BL_B-8fax_AB-BL_L.91" "TYR" "B" 92 "-" 7.57 1.36 8.94
+"8fax_AB-BL_B-8fax_AB-BL_L.92" "GLY" "B" 93 "-" 6.73 3.76 10.5
+"8fax_AB-BL_B-8fax_AB-BL_L.93" "SER" "B" 94 "-" 42.5 30.67 73.18
+"8fax_AB-BL_B-8fax_AB-BL_L.94" "SER" "B" 95 "-" 15.67 2.88 18.55
+"8fax_AB-BL_B-8fax_AB-BL_L.95" "PRO" "B" 96 "-" 22.11 0.82 22.94
+"8fax_AB-BL_B-8fax_AB-BL_L.96" "PRO" "B" 97 "-" 53.66 0.37 54.02
+"8fax_AB-BL_B-8fax_AB-BL_L.97" "ARG" "B" 98 "-" 0.02 0.45 0.47
+"8fax_AB-BL_B-8fax_AB-BL_L.98" "TYR" "B" 99 "-" 10.21 13.2 23.41
+"8fax_AB-BL_B-8fax_AB-BL_L.214" "ASP" "L" 1230 "-" 0.21 1.13 1.35
+"8fax_AB-BL_B-8fax_AB-BL_L.215" "PHE" "L" 1231 "-" 65.14 0.15 65.29
+"8fax_AB-BL_B-8fax_AB-BL_L.218" "GLU" "L" 1234 "-" 11.17 32.03 43.2
+"8fax_AB-BL_B-8fax_AB-BL_L.219" "LEU" "L" 1235 "-" 22.74 0.16 22.91
+"8fax_AB-BL_B-8fax_AB-BL_L.222" "PHE" "L" 1238 "-" 65.43 0.03 65.46
+"8fax_AB-BL_B-8fax_AB-BL_L.223" "PHE" "L" 1239 "-" 12.1 0 12.1

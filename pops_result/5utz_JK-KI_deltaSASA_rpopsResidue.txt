@@ -1,0 +1,25 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5utz_JK-KI_K-5utz_JK-KI_I.29" "ILE" "K" 29 "-" 0.08 0.66 0.74
+"5utz_JK-KI_K-5utz_JK-KI_I.30" "ALA" "K" 30 "-" 7.15 11.87 19.03
+"5utz_JK-KI_K-5utz_JK-KI_I.31" "SER" "K" 31 "-" 4.21 13.7 17.92
+"5utz_JK-KI_K-5utz_JK-KI_I.32" "ASN" "K" 32 "-" 1.25 4.92 6.16
+"5utz_JK-KI_K-5utz_JK-KI_I.33" "TYR" "K" 33 "-" 32.82 24.97 57.8
+"5utz_JK-KI_K-5utz_JK-KI_I.34" "VAL" "K" 34 "-" 0.2 0.03 0.23
+"5utz_JK-KI_K-5utz_JK-KI_I.52" "ASP" "K" 52 "-" 1.48 5.94 7.42
+"5utz_JK-KI_K-5utz_JK-KI_I.67" "ILE" "K" 67 "-" 5.92 0 5.92
+"5utz_JK-KI_K-5utz_JK-KI_I.94" "TYR" "K" 94 "-" 17.48 4.23 21.71
+"5utz_JK-KI_K-5utz_JK-KI_I.95" "ASP" "K" 95 "-" 1.69 7.72 9.42
+"5utz_JK-KI_K-5utz_JK-KI_I.96" "SER" "K" 96 "-" 25.23 36.08 61.3
+"5utz_JK-KI_K-5utz_JK-KI_I.97" "SER" "K" 97 "-" 3.39 10.37 13.76
+"5utz_JK-KI_K-5utz_JK-KI_I.98" "ASN" "K" 98 "-" 5.03 1.8 6.84
+"5utz_JK-KI_K-5utz_JK-KI_I.99" "VAL" "K" 99 "-" 12.67 1.32 13.99
+"5utz_JK-KI_K-5utz_JK-KI_I.283" "ASN" "I" 71 "-" 0.14 2.27 2.41
+"5utz_JK-KI_K-5utz_JK-KI_I.286" "GLN" "I" 74 "-" 1.01 1.75 2.75
+"5utz_JK-KI_K-5utz_JK-KI_I.287" "SER" "I" 75 "-" 0.93 1.01 1.94
+"5utz_JK-KI_K-5utz_JK-KI_I.288" "LYS" "I" 76 "-" 135.88 60.89 196.77
+"5utz_JK-KI_K-5utz_JK-KI_I.289" "ASN" "I" 77 "-" 6.14 16.89 23.03
+"5utz_JK-KI_K-5utz_JK-KI_I.291" "HIS" "I" 79 "-" 39.14 18.22 57.36
+"5utz_JK-KI_K-5utz_JK-KI_I.293" "ARG" "I" 81 "-" 26.19 80.23 106.42
+"5utz_JK-KI_K-5utz_JK-KI_I.294" "PRO" "I" 82 "-" 1.69 0.04 1.73
+"5utz_JK-KI_K-5utz_JK-KI_I.295" "ARG" "I" 83 "-" 0.31 0 0.3
+"5utz_JK-KI_K-5utz_JK-KI_I.296" "ASP" "I" 84 "-" 0.89 6.6 7.48

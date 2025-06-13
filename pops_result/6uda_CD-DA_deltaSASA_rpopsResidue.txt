@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6uda_CD-DA_A-6uda_CD-DA_D.237" "ILE" "A" 277 "-" 21.33 10.48 31.82
+"6uda_CD-DA_A-6uda_CD-DA_D.238" "THR" "A" 278 "-" 48.67 4.95 53.62
+"6uda_CD-DA_A-6uda_CD-DA_D.239" "LYS" "A" 279 "-" 33.46 3.75 37.21
+"6uda_CD-DA_A-6uda_CD-DA_D.240" "ASN" "A" 280 "-" 25.13 70.42 95.56
+"6uda_CD-DA_A-6uda_CD-DA_D.404" "ARG" "A" 456 "-" 11.44 22.56 33.99
+"6uda_CD-DA_A-6uda_CD-DA_D.405" "ASP" "A" 457 "-" 3.94 5.37 9.31
+"6uda_CD-DA_A-6uda_CD-DA_D.406" "TYR" "A" 458 "-" 102.34 42.1 144.45
+"6uda_CD-DA_A-6uda_CD-DA_D.412" "GLU" "A" 464 "-" 0 0.3 0.29
+"6uda_CD-DA_A-6uda_CD-DA_D.413" "THR" "A" 465 "-" 0 0 0.01
+"6uda_CD-DA_A-6uda_CD-DA_D.483" "SER" "D" 31 "-" 12.38 8.16 20.54
+"6uda_CD-DA_A-6uda_CD-DA_D.484" "ASN" "D" 32 "-" 1.58 12.52 14.1
+"6uda_CD-DA_A-6uda_CD-DA_D.542" "GLN" "D" 90 "-" 0 0.07 0.06
+"6uda_CD-DA_A-6uda_CD-DA_D.543" "TYR" "D" 91 "-" 4.41 9.61 14.03
+"6uda_CD-DA_A-6uda_CD-DA_D.544" "ASN" "D" 92 "-" 9.53 32.52 42.06
+"6uda_CD-DA_A-6uda_CD-DA_D.545" "ASN" "D" 93 "-" 8.22 16.25 24.46
+"6uda_CD-DA_A-6uda_CD-DA_D.546" "TRP" "D" 94 "-" 115.97 11.15 127.13
+"6uda_CD-DA_A-6uda_CD-DA_D.547" "TRP" "D" 96 "-" 33.91 2.63 36.54

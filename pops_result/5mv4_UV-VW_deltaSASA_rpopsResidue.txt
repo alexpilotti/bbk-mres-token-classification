@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5mv4_UV-VW_V-5mv4_UV-VW_W.32" "TYR" "V" 32 "-" 61.84 15.84 77.67
+"5mv4_UV-VW_V-5mv4_UV-VW_W.36" "SER" "V" 36 "-" 0.83 1.87 2.7
+"5mv4_UV-VW_V-5mv4_UV-VW_W.38" "ASN" "V" 38 "-" 1.47 10.3 11.76
+"5mv4_UV-VW_V-5mv4_UV-VW_W.40" "PHE" "V" 40 "-" 2.83 0 2.83
+"5mv4_UV-VW_V-5mv4_UV-VW_W.50" "PHE" "V" 50 "-" 17.75 0 17.76
+"5mv4_UV-VW_V-5mv4_UV-VW_W.52" "ILE" "V" 52 "-" 0.01 0.15 0.15
+"5mv4_UV-VW_V-5mv4_UV-VW_W.53" "TYR" "V" 53 "-" 20.84 8.85 29.69
+"5mv4_UV-VW_V-5mv4_UV-VW_W.54" "ALA" "V" 54 "-" 0.27 0.07 0.34
+"5mv4_UV-VW_V-5mv4_UV-VW_W.58" "GLN" "V" 58 "-" 0.03 0.86 0.88
+"5mv4_UV-VW_V-5mv4_UV-VW_W.59" "GLY" "V" 59 "-" 1.63 0.02 1.65
+"5mv4_UV-VW_V-5mv4_UV-VW_W.60" "SER" "V" 60 "-" 12.96 2.71 15.68
+"5mv4_UV-VW_V-5mv4_UV-VW_W.93" "GLN" "V" 93 "-" 0.04 1.36 1.4
+"5mv4_UV-VW_V-5mv4_UV-VW_W.95" "SER" "V" 95 "-" 11.15 12.72 23.88
+"5mv4_UV-VW_V-5mv4_UV-VW_W.96" "LYS" "V" 96 "-" 0.71 3.72 4.44
+"5mv4_UV-VW_V-5mv4_UV-VW_W.97" "GLY" "V" 97 "-" 0.97 0.27 1.25
+"5mv4_UV-VW_V-5mv4_UV-VW_W.100" "TYR" "V" 100 "-" 9.37 15.1 24.48
+"5mv4_UV-VW_V-5mv4_UV-VW_W.223" "GLU" "W" 26 "-" 77.19 85.17 162.35
+"5mv4_UV-VW_V-5mv4_UV-VW_W.224" "THR" "W" 27 "-" 77.59 29 106.58
+"5mv4_UV-VW_V-5mv4_UV-VW_W.225" "GLY" "W" 28 "-" 5.62 7.63 13.25
+"5mv4_UV-VW_V-5mv4_UV-VW_W.226" "PRO" "W" 29 "-" 64.26 1.11 65.36
+"5mv4_UV-VW_V-5mv4_UV-VW_W.227" "GLY" "W" 31 "-" 23.98 25.46 49.43
+"5mv4_UV-VW_V-5mv4_UV-VW_W.228" "PRO" "W" 32 "-" 73.86 2.11 75.97

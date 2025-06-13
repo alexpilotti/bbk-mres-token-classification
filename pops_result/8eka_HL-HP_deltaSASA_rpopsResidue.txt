@@ -1,0 +1,14 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8eka_HL-HP_P-8eka_HL-HP_H.12" "PRO" "P" 12 "-" 13.75 9.08 22.82
+"8eka_HL-HP_P-8eka_HL-HP_H.13" "ASN" "P" 13 "-" 15.5 38.41 53.91
+"8eka_HL-HP_P-8eka_HL-HP_H.14" "VAL" "P" 14 "-" 31.35 1.59 32.94
+"8eka_HL-HP_P-8eka_HL-HP_H.15" "ASP" "P" 15 "-" 20.68 15.56 36.24
+"8eka_HL-HP_P-8eka_HL-HP_H.17" "ASN" "P" 17 "-" 0 1.04 1.04
+"8eka_HL-HP_P-8eka_HL-HP_H.59" "TYR" "H" 32 "-" 9.92 13.56 23.48
+"8eka_HL-HP_P-8eka_HL-HP_H.62" "HIS" "H" 35 "-" 0.72 0.5 1.22
+"8eka_HL-HP_P-8eka_HL-HP_H.79" "TRP" "H" 52 "-" 14.78 0 14.78
+"8eka_HL-HP_P-8eka_HL-HP_H.126" "ASN" "H" 99 "-" 0.16 2.92 3.09
+"8eka_HL-HP_P-8eka_HL-HP_H.127" "PHE" "H" 100 "-" 2.78 0.14 2.93
+"8eka_HL-HP_P-8eka_HL-HP_H.128" "TYR" "H" 101 "-" 26.77 14.02 40.79
+"8eka_HL-HP_P-8eka_HL-HP_H.129" "ASP" "H" 102 "-" 5.75 11.28 17.03
+"8eka_HL-HP_P-8eka_HL-HP_H.130" "GLY" "H" 103 "-" 2 1.39 3.39

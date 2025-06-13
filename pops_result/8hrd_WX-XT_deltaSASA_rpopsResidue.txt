@@ -1,0 +1,23 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"8hrd_WX-XT_T-8hrd_WX-XT_X.20" "ALA" "TRUE" 352 "-" 0.09 0 0.09
+"8hrd_WX-XT_T-8hrd_WX-XT_X.21" "TRP" "TRUE" 353 "-" 0.03 0.11 0.15
+"8hrd_WX-XT_T-8hrd_WX-XT_X.22" "ASN" "TRUE" 354 "-" 0.26 0.72 0.99
+"8hrd_WX-XT_T-8hrd_WX-XT_X.23" "ARG" "TRUE" 355 "-" 12.63 16.6 29.24
+"8hrd_WX-XT_T-8hrd_WX-XT_X.24" "LYS" "TRUE" 356 "-" 20.11 9.23 29.35
+"8hrd_WX-XT_T-8hrd_WX-XT_X.25" "ARG" "TRUE" 357 "-" 28.4 46 74.4
+"8hrd_WX-XT_T-8hrd_WX-XT_X.26" "ILE" "TRUE" 358 "-" 0.08 0.05 0.13
+"8hrd_WX-XT_T-8hrd_WX-XT_X.27" "SER" "TRUE" 359 "-" 0.26 1.23 1.49
+"8hrd_WX-XT_T-8hrd_WX-XT_X.62" "ASN" "TRUE" 394 "-" 0 0.02 0.01
+"8hrd_WX-XT_T-8hrd_WX-XT_X.64" "TYR" "TRUE" 396 "-" 4.72 1.04 5.76
+"8hrd_WX-XT_T-8hrd_WX-XT_X.134" "ARG" "TRUE" 466 "-" 1.59 21.41 22.99
+"8hrd_WX-XT_T-8hrd_WX-XT_X.136" "ILE" "TRUE" 468 "-" 34.94 0 34.94
+"8hrd_WX-XT_T-8hrd_WX-XT_X.225" "GLY" "X" 30 "-" 0.12 4.58 4.69
+"8hrd_WX-XT_T-8hrd_WX-XT_X.226" "ALA" "X" 31 "-" 8.51 18.09 26.6
+"8hrd_WX-XT_T-8hrd_WX-XT_X.227" "GLY" "X" 32 "-" 12.6 13.81 26.41
+"8hrd_WX-XT_T-8hrd_WX-XT_X.228" "TYR" "X" 33 "-" 20.7 11.33 32.03
+"8hrd_WX-XT_T-8hrd_WX-XT_X.229" "ASP" "X" 34 "-" 4.13 15.29 19.41
+"8hrd_WX-XT_T-8hrd_WX-XT_X.263" "LYS" "X" 68 "-" 0.06 0.1 0.15
+"8hrd_WX-XT_T-8hrd_WX-XT_X.288" "TYR" "X" 93 "-" 0.32 0.69 1.02
+"8hrd_WX-XT_T-8hrd_WX-XT_X.290" "ASN" "X" 95 "-" 6.82 24.68 31.49
+"8hrd_WX-XT_T-8hrd_WX-XT_X.291" "ASP" "X" 96 "-" 13.56 33.91 47.46
+"8hrd_WX-XT_T-8hrd_WX-XT_X.292" "LEU" "X" 97 "-" 0.65 0.01 0.67

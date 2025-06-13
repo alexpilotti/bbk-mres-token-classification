@@ -1,0 +1,10 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7v05_Aa-AX_a-7v05_Aa-AX_X.91" "TYR" "a" 91 "-" 1.16 2.53 3.68
+"7v05_Aa-AX_a-7v05_Aa-AX_X.92" "SER" "a" 92 "-" 2.12 10.74 12.85
+"7v05_Aa-AX_a-7v05_Aa-AX_X.93" "SER" "a" 93 "-" 5.57 2.83 8.38
+"7v05_Aa-AX_a-7v05_Aa-AX_X.94" "TYR" "a" 94 "-" 33.2 14.35 47.55
+"7v05_Aa-AX_a-7v05_Aa-AX_X.95" "TRP" "a" 95 "-" 26.01 0.76 26.77
+"7v05_Aa-AX_a-7v05_Aa-AX_X.316" "ASN" "X" 107 "-" 0.21 2.72 2.93
+"7v05_Aa-AX_a-7v05_Aa-AX_X.317" "PRO" "X" 108 "-" 41.78 1.59 43.36
+"7v05_Aa-AX_a-7v05_Aa-AX_X.318" "ASN" "X" 109 "-" 22.62 41 63.62
+"7v05_Aa-AX_a-7v05_Aa-AX_X.319" "ALA" "X" 110 "-" 0 0.1 0.1

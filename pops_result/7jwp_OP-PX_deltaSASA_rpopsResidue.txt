@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7jwp_OP-PX_P-7jwp_OP-PX_X.30" "ALA" "P" 30 "-" 2.59 0.07 2.66
+"7jwp_OP-PX_P-7jwp_OP-PX_X.31" "ASN" "P" 31 "-" 2.19 9.67 11.87
+"7jwp_OP-PX_P-7jwp_OP-PX_X.34" "TYR" "P" 34 "-" 23.3 26.49 49.79
+"7jwp_OP-PX_P-7jwp_OP-PX_X.93" "TYR" "P" 93 "-" 12.07 9.01 21.09
+"7jwp_OP-PX_P-7jwp_OP-PX_X.94" "PHE" "P" 94 "-" 0.03 0.12 0.16
+"7jwp_OP-PX_P-7jwp_OP-PX_X.95" "ASN" "P" 95 "-" 5.46 9.3 14.76
+"7jwp_OP-PX_P-7jwp_OP-PX_X.96" "ASN" "P" 96 "-" 0.09 0.12 0.21
+"7jwp_OP-PX_P-7jwp_OP-PX_X.97" "ASN" "P" 97 "-" 7.72 43.38 51.09
+"7jwp_OP-PX_P-7jwp_OP-PX_X.216" "GLY" "X" 30 "-" 3.11 5.92 9.03
+"7jwp_OP-PX_P-7jwp_OP-PX_X.217" "ASP" "X" 31 "-" 2.17 5.6 7.76
+"7jwp_OP-PX_P-7jwp_OP-PX_X.218" "LEU" "X" 32 "-" 117.92 3.09 121.01
+"7jwp_OP-PX_P-7jwp_OP-PX_X.219" "GLU" "X" 33 "-" 30.07 11.43 41.49
+"7jwp_OP-PX_P-7jwp_OP-PX_X.220" "SER" "X" 34 "-" 36.02 26.2 62.22
+"7jwp_OP-PX_P-7jwp_OP-PX_X.221" "ASP" "X" 35 "-" 13.14 22.11 35.24

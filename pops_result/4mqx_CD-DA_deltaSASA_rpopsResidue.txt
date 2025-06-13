@@ -1,0 +1,9 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4mqx_CD-DA_A-4mqx_CD-DA_D.364" "PRO" "A" 380 "-" 26.81 1.84 28.65
+"4mqx_CD-DA_A-4mqx_CD-DA_D.365" "GLN" "A" 381 "-" 18.3 8.66 26.95
+"4mqx_CD-DA_A-4mqx_CD-DA_D.366" "TYR" "A" 382 "-" 0.14 0 0.13
+"4mqx_CD-DA_A-4mqx_CD-DA_D.367" "HIS" "A" 383 "-" 24.26 16.73 40.99
+"4mqx_CD-DA_A-4mqx_CD-DA_D.534" "TRP" "D" 90 "-" 26.7 5.43 32.14
+"4mqx_CD-DA_A-4mqx_CD-DA_D.535" "SER" "D" 91 "-" 1.89 9.72 11.61
+"4mqx_CD-DA_A-4mqx_CD-DA_D.536" "SER" "D" 92 "-" 1.92 0.65 2.55
+"4mqx_CD-DA_A-4mqx_CD-DA_D.537" "HIS" "D" 93 "-" 33.63 10.13 43.76

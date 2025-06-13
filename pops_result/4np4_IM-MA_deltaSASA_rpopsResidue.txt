@@ -1,0 +1,18 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"4np4_IM-MA_A-4np4_IM-MA_M.69" "GLU" "A" 1902 "-" 31.51 59.33 90.84
+"4np4_IM-MA_A-4np4_IM-MA_M.70" "ASP" "A" 1903 "-" 7.98 30.02 38
+"4np4_IM-MA_A-4np4_IM-MA_M.71" "GLY" "A" 1904 "-" 0.24 0.2 0.45
+"4np4_IM-MA_A-4np4_IM-MA_M.106" "ASP" "A" 1939 "-" 0 0.21 0.2
+"4np4_IM-MA_A-4np4_IM-MA_M.108" "ASN" "A" 1941 "-" 9.72 19.86 29.59
+"4np4_IM-MA_A-4np4_IM-MA_M.110" "ARG" "A" 1943 "-" 1.4 0.5 1.89
+"4np4_IM-MA_A-4np4_IM-MA_M.113" "VAL" "A" 1946 "-" 0.39 0 0.38
+"4np4_IM-MA_A-4np4_IM-MA_M.114" "GLU" "A" 1947 "-" 1.38 9.08 10.46
+"4np4_IM-MA_A-4np4_IM-MA_M.301" "SER" "M" 30 "-" 0.62 1.58 2.19
+"4np4_IM-MA_A-4np4_IM-MA_M.303" "SER" "M" 32 "-" 6.41 8.93 15.35
+"4np4_IM-MA_A-4np4_IM-MA_M.304" "TYR" "M" 33 "-" 19.5 32.5 52
+"4np4_IM-MA_A-4np4_IM-MA_M.321" "TYR" "M" 50 "-" 1.69 6.41 8.1
+"4np4_IM-MA_A-4np4_IM-MA_M.328" "THR" "M" 57 "-" 0 2.51 2.51
+"4np4_IM-MA_A-4np4_IM-MA_M.363" "TYR" "M" 92 "-" 8.27 12.08 20.35
+"4np4_IM-MA_A-4np4_IM-MA_M.366" "SER" "M" 95 "-" 11.76 12.05 23.82
+"4np4_IM-MA_A-4np4_IM-MA_M.367" "THR" "M" 96 "-" 0 0.01 0.01
+"4np4_IM-MA_A-4np4_IM-MA_M.368" "TRP" "M" 97 "-" 11.47 0 11.47

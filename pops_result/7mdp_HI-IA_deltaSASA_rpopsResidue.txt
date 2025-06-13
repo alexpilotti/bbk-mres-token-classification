@@ -1,0 +1,8 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7mdp_HI-IA_A-7mdp_HI-IA_I.65" "SER" "A" 65 "-" 0.44 1.07 1.5
+"7mdp_HI-IA_A-7mdp_HI-IA_I.67" "MET" "A" 67 "-" 64.35 0.32 64.67
+"7mdp_HI-IA_A-7mdp_HI-IA_I.70" "GLN" "A" 70 "-" 0.49 3.56 4.05
+"7mdp_HI-IA_A-7mdp_HI-IA_I.216" "TYR" "I" 49 "-" 1.82 8.13 9.95
+"7mdp_HI-IA_A-7mdp_HI-IA_I.221" "ARG" "I" 54 "-" 0.26 2.65 2.91
+"7mdp_HI-IA_A-7mdp_HI-IA_I.222" "PRO" "I" 55 "-" 4.49 0.53 5.02
+"7mdp_HI-IA_A-7mdp_HI-IA_I.223" "SER" "I" 56 "-" 20.56 25.83 46.37

@@ -1,0 +1,17 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"7lm8_MN-NA_A-7lm8_MN-NA_N.40" "SER" "A" 373 "-" 0.09 0 0.09
+"7lm8_MN-NA_A-7lm8_MN-NA_N.106" "ASN" "A" 439 "-" 0.07 0.44 0.52
+"7lm8_MN-NA_A-7lm8_MN-NA_N.107" "ASN" "A" 440 "-" 29.19 59.28 88.47
+"7lm8_MN-NA_A-7lm8_MN-NA_N.108" "LEU" "A" 441 "-" 0.65 0.31 0.96
+"7lm8_MN-NA_A-7lm8_MN-NA_N.110" "SER" "A" 443 "-" 0.23 2.25 2.46
+"7lm8_MN-NA_A-7lm8_MN-NA_N.111" "LYS" "A" 444 "-" 0.78 0.03 0.82
+"7lm8_MN-NA_A-7lm8_MN-NA_N.112" "VAL" "A" 445 "-" 45.88 0.21 46.09
+"7lm8_MN-NA_A-7lm8_MN-NA_N.166" "PRO" "A" 499 "-" 2.61 0 2.62
+"7lm8_MN-NA_A-7lm8_MN-NA_N.228" "TYR" "N" 32 "-" 0.19 0.25 0.44
+"7lm8_MN-NA_A-7lm8_MN-NA_N.287" "SER" "N" 91 "-" 0 0.03 0.03
+"7lm8_MN-NA_A-7lm8_MN-NA_N.288" "TYR" "N" 92 "-" 6.13 8.97 15.12
+"7lm8_MN-NA_A-7lm8_MN-NA_N.289" "SER" "N" 93 "-" 2.23 1.53 3.76
+"7lm8_MN-NA_A-7lm8_MN-NA_N.290" "THR" "N" 94 "-" 45.27 2.61 47.88
+"7lm8_MN-NA_A-7lm8_MN-NA_N.291" "PRO" "N" 95 "-" 2.49 0.02 2.51
+"7lm8_MN-NA_A-7lm8_MN-NA_N.292" "ARG" "N" 95 "A" 18.89 27.95 46.84
+"7lm8_MN-NA_A-7lm8_MN-NA_N.293" "GLN" "N" 95 "B" 0 0.21 0.2

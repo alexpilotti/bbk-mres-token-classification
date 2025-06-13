@@ -1,0 +1,26 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5hi4_CD-CB_B-5hi4_CD-CB_C.39" "LEU" "B" 74 "-" 47.44 0 47.44
+"5hi4_CD-CB_B-5hi4_CD-CB_C.50" "TYR" "B" 85 "-" 0.67 4.32 4.99
+"5hi4_CD-CB_B-5hi4_CD-CB_C.51" "HIS" "B" 86 "-" 2.25 2.97 5.22
+"5hi4_CD-CB_B-5hi4_CD-CB_C.52" "MET" "B" 87 "-" 0.92 1.43 2.36
+"5hi4_CD-CB_B-5hi4_CD-CB_C.53" "ASN" "B" 88 "-" 5.85 29.76 35.62
+"5hi4_CD-CB_B-5hi4_CD-CB_C.55" "VAL" "B" 90 "-" 0.22 0 0.22
+"5hi4_CD-CB_B-5hi4_CD-CB_C.56" "PRO" "B" 91 "-" 7.65 0 7.66
+"5hi4_CD-CB_B-5hi4_CD-CB_C.58" "GLN" "B" 93 "-" 0.8 10.5 11.3
+"5hi4_CD-CB_B-5hi4_CD-CB_C.78" "LEU" "B" 116 "-" 1.19 0 1.19
+"5hi4_CD-CB_B-5hi4_CD-CB_C.86" "VAL" "B" 124 "-" 5.71 0.76 6.46
+"5hi4_CD-CB_B-5hi4_CD-CB_C.87" "THR" "B" 125 "-" 2.69 3.01 5.7
+"5hi4_CD-CB_B-5hi4_CD-CB_C.88" "PRO" "B" 126 "-" 56.51 7.34 63.85
+"5hi4_CD-CB_B-5hi4_CD-CB_C.89" "ILE" "B" 127 "-" 0.05 0.12 0.17
+"5hi4_CD-CB_B-5hi4_CD-CB_C.121" "SER" "C" 30 "-" 0.54 0.06 0.6
+"5hi4_CD-CB_B-5hi4_CD-CB_C.122" "SER" "C" 31 "-" 0 0.27 0.27
+"5hi4_CD-CB_B-5hi4_CD-CB_C.124" "ALA" "C" 33 "-" 0.35 0 0.35
+"5hi4_CD-CB_B-5hi4_CD-CB_C.143" "SER" "C" 52 "-" 0.07 0 0.07
+"5hi4_CD-CB_B-5hi4_CD-CB_C.145" "SER" "C" 53 "-" 16.14 4.33 20.49
+"5hi4_CD-CB_B-5hi4_CD-CB_C.148" "SER" "C" 56 "-" 0.29 0 0.29
+"5hi4_CD-CB_B-5hi4_CD-CB_C.150" "TYR" "C" 58 "-" 6.25 9.89 16.14
+"5hi4_CD-CB_B-5hi4_CD-CB_C.165" "ASN" "C" 73 "-" 0.17 0.18 0.35
+"5hi4_CD-CB_B-5hi4_CD-CB_C.191" "LEU" "C" 96 "-" 22.44 5.87 28.31
+"5hi4_CD-CB_B-5hi4_CD-CB_C.192" "ILE" "C" 97 "-" 90.62 0.59 91.21
+"5hi4_CD-CB_B-5hi4_CD-CB_C.193" "HIS" "C" 98 "-" 23.86 7.95 31.82
+"5hi4_CD-CB_B-5hi4_CD-CB_C.195" "VAL" "C" 100 "-" 12.17 0.02 12.19

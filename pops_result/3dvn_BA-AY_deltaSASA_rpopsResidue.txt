@@ -1,0 +1,7 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"3dvn_BA-AY_A-3dvn_BA-AY_Y.28" "ALA" "A" 32 "-" 0.39 0 0.39
+"3dvn_BA-AY_A-3dvn_BA-AY_Y.87" "TYR" "A" 91 "-" 8.42 10.5 18.92
+"3dvn_BA-AY_A-3dvn_BA-AY_Y.92" "SER" "A" 96 "-" 2.25 3.17 5.42
+"3dvn_BA-AY_A-3dvn_BA-AY_Y.94" "PHE" "A" 98 "-" 10.48 0 10.48
+"3dvn_BA-AY_A-3dvn_BA-AY_Y.286" "ARG" "Y" 74 "-" 31.41 76.22 107.64
+"3dvn_BA-AY_A-3dvn_BA-AY_Y.288" "GLY" "Y" 76 "-" 1.61 0 1.61

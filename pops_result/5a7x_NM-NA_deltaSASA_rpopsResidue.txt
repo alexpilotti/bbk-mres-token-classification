@@ -1,0 +1,7 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"5a7x_NM-NA_A-5a7x_NM-NA_N.5" "THR" "A" 90 "-" 10.71 2.4 13.11
+"5a7x_NM-NA_A-5a7x_NM-NA_N.7" "ASN" "A" 92 "-" 0 0.03 0.03
+"5a7x_NM-NA_A-5a7x_NM-NA_N.89" "PRO" "A" 238 "-" 3.2 0 3.21
+"5a7x_NM-NA_A-5a7x_NM-NA_N.334" "ASN" "N" 28 "-" 0.04 4.35 4.38
+"5a7x_NM-NA_A-5a7x_NM-NA_N.338" "LEU" "N" 32 "-" 0.16 0 0.17
+"5a7x_NM-NA_A-5a7x_NM-NA_N.411" "TYR" "N" 98 "-" 5.28 8.21 13.51

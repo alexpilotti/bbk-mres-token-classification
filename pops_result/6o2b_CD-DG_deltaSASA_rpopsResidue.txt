@@ -1,0 +1,15 @@
+"ResidNe" "Chain" "ResidNr" "iCode" "D_Phob.A.2" "D_Phil.A.2" "D_SASA.A.2"
+"6o2b_CD-DG_D-6o2b_CD-DG_G.30" "SER" "D" 29 "-" 0.29 0 0.29
+"6o2b_CD-DG_D-6o2b_CD-DG_G.33" "TYR" "D" 32 "-" 10.41 13.5 23.91
+"6o2b_CD-DG_D-6o2b_CD-DG_G.92" "TYR" "D" 91 "-" 0.41 2.96 3.38
+"6o2b_CD-DG_D-6o2b_CD-DG_G.93" "GLY" "D" 92 "-" 4.72 17.13 21.86
+"6o2b_CD-DG_D-6o2b_CD-DG_G.94" "SER" "D" 93 "-" 5.18 2.43 7.59
+"6o2b_CD-DG_D-6o2b_CD-DG_G.95" "SER" "D" 94 "-" 25.58 12.11 37.69
+"6o2b_CD-DG_D-6o2b_CD-DG_G.97" "TRP" "D" 96 "-" 32.74 2.6 35.35
+"6o2b_CD-DG_D-6o2b_CD-DG_G.215" "ASN" "G" 1 "-" 0 0.44 0.44
+"6o2b_CD-DG_D-6o2b_CD-DG_G.216" "VAL" "G" 2 "-" 54.27 0.09 54.36
+"6o2b_CD-DG_D-6o2b_CD-DG_G.217" "ASP" "G" 3 "-" 6.64 7.71 14.34
+"6o2b_CD-DG_D-6o2b_CD-DG_G.219" "ASN" "G" 5 "-" 4.29 5.83 10.12
+"6o2b_CD-DG_D-6o2b_CD-DG_G.220" "ALA" "G" 6 "-" 34.49 12.15 46.64
+"6o2b_CD-DG_D-6o2b_CD-DG_G.221" "ASN" "G" 7 "-" 0.53 0.25 0.78
+"6o2b_CD-DG_D-6o2b_CD-DG_G.222" "PRO" "G" 8 "-" 26.06 0.2 26.26
