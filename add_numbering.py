@@ -30,7 +30,7 @@ def _get_adj_sequence_numbering(sequence, scheme):
             (pos, ins), r2 = numbering[j]
             if ins != ' ' or r1 == r2:
                 ins = ins.strip()
-                adj_seq_numbering.append((pos - 1, ins if len(ins) else None))
+                adj_seq_numbering.append((pos, ins if len(ins) else None))
                 j += 1
                 break
             elif r2 != "-":
@@ -53,7 +53,7 @@ with engine.connect() as conn:
     conn.execute(sqlalchemy.text("update mapping set anarci_pos = NULL"))
     conn.commit()
 
-    update_cmd = sqlalchemy.text("update mapping set anarci_pos = :anarci_pos where iden_code = :iden_code and chain = :chain and text_numbering = :seq_pos")
+    update_cmd = sqlalchemy.text("update mapping set anarci_pos = :anarci_pos, anarci_ins = :anarci_ins where iden_code = :iden_code and chain = :chain and text_numbering = :seq_pos")
     result = conn.execute(sqlalchemy.text("select iden_code, hv_seq, lv_seq, h_seq, l_seq from vcab order by iden_code"))
     for row in result:
         for chain in ["H", "L"]:
