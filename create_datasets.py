@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO)
 # https://www.imgt.org/IMGTScientificChart/Nomenclature/IMGT-FRCDRdefinition.html
 CDR3_range = [105, 117]
 
-insert_missing_residues = False
+insert_missing_residues = True
 
 engine = sqlalchemy.create_engine('sqlite:///vcab.db', echo=False)
 with engine.connect() as conn:
@@ -37,7 +37,7 @@ max_pos = df["anarci_pos"].max()
 #max_pos = df["anarci_pos"].apply(
 #    lambda x: x if isinstance(x, int) else int(x[:-1])).max()
 
-full_range = pd.Series(range(0, max_pos + 1), name='anarci_pos')
+full_range = pd.Series(range(1, max_pos + 1), name='anarci_pos')
 
 if insert_missing_residues:
     df3 = pd.DataFrame()
@@ -95,6 +95,9 @@ pivoted_df = pivoted_df.reset_index()
 df = pivoted_df
 
 logger.info(f"Initial sequences: {len(df)}")
+
+# TODO: find a clean way to remove improbable sequences
+df = df[~df["positions_H"].str.contains("O", na=False)]
 
 # Remove cases where either chain H or L is missing
 missing_a_chain = df["sequence_H"].isna() | df["sequence_L"].isna()
