@@ -62,8 +62,10 @@ if insert_missing_residues:
         df2 = pd.DataFrame(missing_pos)
         df2["residue"] = "X"
         df2["if_interface_res"] = -100
-        for c in [c for c in df1.columns if c not in df2.columns]:
+        for c in ['iden_code', 'Species', 'chain', 'dataset']:
             df2[c] = first_row[c]
+        for c in [c for c in df1.columns if c not in df2.columns]:
+            df2[c] = None
         logger.info(f"{row.iden_code} {row.chain} inserting "
                     f"missing positions: {len(df2)}")
         df3 = pd.concat([df3, df2])
