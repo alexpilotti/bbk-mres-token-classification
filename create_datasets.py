@@ -19,12 +19,15 @@ engine = sqlalchemy.create_engine('sqlite:///vcab.db', echo=False)
 with engine.connect() as conn:
     df = pd.read_sql(
         "select m.iden_code, v.species, m.chain, m.anarci_pos, m.anarci_ins, "
-        "m.residue, cast(m.if_interface_res as integer) as if_interface_res "
-        "from mapping m join vcab v on m.iden_code = v.iden_code "
-        "where m.anarci_pos is not null "
+        "m.residue, m.pdb_numbering, cast(m.if_interface_res as integer) as "
+        "if_interface_res from mapping m join vcab v on m.iden_code = "
+        "v.iden_code where m.anarci_pos is not null "
         #f"and m.anarci_pos >= {CDR3_range[0] - 1} "
         #f"and m.anarci_pos <= {CDR3_range[1] - 1} "
         "order by m.iden_code, m.chain, m.anarci_pos, m.anarci_ins", conn)
+
+# Used for test
+#df = df[df.iden_code == "1a3r_HL"]
 
 df["dataset"] = df["Species"].apply(
     lambda x: "train" if x == "Homo_Sapiens" else "test")
@@ -74,12 +77,15 @@ if insert_missing_residues:
 df["anarci_pos_ins"] = (df["anarci_pos"].astype(str) +
                         df["anarci_ins"].fillna(""))
 
+df["pdb_numbering"] = df["pdb_numbering"].fillna("")
+
 # group_keys to retain sorting
 df = df.groupby(
         ["iden_code", "Species", "dataset", "chain"], group_keys=False).agg({
     'anarci_pos_ins': lambda x: ','.join(map(str, x)),
     'residue': lambda x: ''.join(x),
-    'if_interface_res': lambda x: ','.join(map(str, x))
+    'if_interface_res': lambda x: ','.join(map(str, x)),
+    'pdb_numbering': lambda x: ','.join(map(str, x))
 }).reset_index()
 
 df = df.rename(columns={
@@ -89,7 +95,7 @@ df = df.rename(columns={
 
 pivoted_df = df.pivot(index=['iden_code', 'Species', 'dataset'],
                       columns='chain',
-                      values=['positions', 'sequence', 'labels'])
+                      values=['positions', 'pdb_numbering', 'sequence', 'labels'])
 pivoted_df.columns = [f"{col[0]}_{col[1]}" for col in pivoted_df.columns]
 pivoted_df = pivoted_df.reset_index()
 df = pivoted_df
