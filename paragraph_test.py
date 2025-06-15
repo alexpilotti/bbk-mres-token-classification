@@ -209,7 +209,7 @@ def _process_paragraph_output(data, chain):
                         if paragraph_res == vcab_res:
                             # Label is 1 if part of the L-H interface and
                             # predicted by Paragraph as part of the paratope
-                            if labels[idx] == 1 and row_pred.label == 1:
+                            if labels[idx2] == 1 and row_pred.label == 1:
                                 pred_label = 1
                             else:
                                 pred_label = 0
