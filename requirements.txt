@@ -1,0 +1,9 @@
+biopython
+pandas
+numpy
+SQLAlchemy
+pyarrow
+requests
+scikit-learn
+# ANARCI
+git+https://github.com/oxpig/Paragraph
