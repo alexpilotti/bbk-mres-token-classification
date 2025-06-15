@@ -191,17 +191,17 @@ def _process_paragraph_output(data, chain):
                 continue
 
             df = df_pred[(df_pred.pdb == row.pdb) &
-                        (df_pred.chain_type == chain) &
+                        (df_pred.chain_type == c) &
                         (df_pred.chain_id == chain_id)]
 
-            pdb_numbering = row[f"pdb_numbering_{chain}"].split(",")
+            pdb_numbering = row[f"pdb_numbering_{c}"].split(",")
             for idx2, pos in enumerate(pdb_numbering):
                 label = -100
                 if pos != "":
                     df_pos = df[df.IMGT == pos]
                     if len(df_pos):
                         row_pred = df_pos.iloc[0]
-                        assert A3TO1[row_pred.AA] == row[f"sequence_{chain}"][idx2]
+                        assert A3TO1[row_pred.AA] == row[f"sequence_{c}"][idx2]
                         label = row_pred.label
                 pred_labels.append(label)
 
