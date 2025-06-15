@@ -52,4 +52,4 @@ def get_tokens(species):
 
 if __name__ == "__main__":
     df_out = get_tokens("Homo_Sapiens")
-    df_out.to_parquet("toekn_classification_data.parquet")
+    df_out.to_parquet("token_classification_data.parquet")
