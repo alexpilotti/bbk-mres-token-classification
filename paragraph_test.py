@@ -208,7 +208,8 @@ def _process_paragraph_output(data, chain):
                         if paragraph_res == vcab_res:
                             label = row_pred.label
                         else:
-                            print(f"WARNING: mismatch, VCAb {vcab_res}, Paragraph: {paragraph_res}")
+                            print(f"WARNING: {row.pdb} {pos} mismatch, VCAb "
+                                  f"{vcab_res}, Paragraph: {paragraph_res}")
                             label = -100
                 pred_labels.append(label)
 
