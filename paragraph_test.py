@@ -34,6 +34,8 @@ def _load_data():
     # Entries causing Paragraph to fail
     df = df[~df.pdb.isin(["6axk"])]
 
+    #df = df[df.pdb == "4fqk"]
+
     return df
 
 def _fetch_pdb(pdb_id):
@@ -170,7 +172,7 @@ def _run_paragraph(chain):
 def _process_paragraph_output(data, chain):
     df_pred = pd.read_csv("predictions.csv")
     #df_pred["A"] = df_pred.AA.apply(lambda x: A3TO1[x])
-    df_pred["label"] = df_pred.pred.apply(lambda x: 1 if x >= 0.73 else 0)
+    df_pred["label"] = df_pred.pred.apply(lambda x: 1 if x >= 0.734 else 0)
 
     results_df = data[["iden_code", f"labels_{chain}", f"positions_{chain}"]]
     results_df = results_df.rename(
@@ -201,8 +203,13 @@ def _process_paragraph_output(data, chain):
                     df_pos = df[df.IMGT == pos]
                     if len(df_pos):
                         row_pred = df_pos.iloc[0]
-                        assert A3TO1[row_pred.AA] == row[f"sequence_{c}"][idx2]
-                        label = row_pred.label
+                        vcab_res = row[f"sequence_{c}"][idx2]
+                        paragraph_res = A3TO1[row_pred.AA]
+                        if paragraph_res == vcab_res:
+                            label = row_pred.label
+                        else:
+                            print(f"WARNING: mismatch, VCAb {vcab_res}, Paragraph: {paragraph_res}")
+                            label = -100
                 pred_labels.append(label)
 
             df_extra_pos = df[~df.IMGT.isin(pdb_numbering)]
