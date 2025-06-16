@@ -197,7 +197,9 @@ def _process_paragraph_output(data, chain):
                         (df_pred.chain_id == chain_id)]
 
             pdb_numbering = row[f"pdb_numbering_{c}"].split(",")
-            labels = row[f"labels_{c}"].split(",")
+            labels = list(map(int, row[f"labels_{c}"].split(",")))
+            assert len(pdb_numbering) == len(labels)
+
             for idx2, pos in enumerate(pdb_numbering):
                 pred_label = -100
                 if pos != "":
@@ -207,12 +209,14 @@ def _process_paragraph_output(data, chain):
                         vcab_res = row[f"sequence_{c}"][idx2]
                         paragraph_res = A3TO1[row_pred.AA]
                         if paragraph_res == vcab_res:
-                            # Label is 1 if part of the L-H interface and
-                            # predicted by Paragraph as part of the paratope
-                            if labels[idx2] == 1 and row_pred.label == 1:
-                                pred_label = 1
-                            else:
+                            if labels[idx2] != row_pred.label:
+                                pred_label = labels[idx2]
+                            elif labels[idx2] == 1 and row_pred.label == 1:
                                 pred_label = 0
+                            elif labels[idx2] == 0 and row_pred.label == 0:
+                                # Ignore cases when Paragraph predicts no
+                                # paratope and it's outside the H-L interface
+                                pred_label = -100
                             #pred_label = row_pred.label
                         else:
                             print(f"WARNING: {row.pdb} {pos} mismatch, VCAb "
