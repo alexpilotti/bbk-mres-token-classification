@@ -209,15 +209,7 @@ def _process_paragraph_output(data, chain):
                         vcab_res = row[f"sequence_{c}"][idx2]
                         paragraph_res = A3TO1[row_pred.AA]
                         if paragraph_res == vcab_res:
-                            if labels[idx2] != row_pred.label:
-                                pred_label = labels[idx2]
-                            elif labels[idx2] == 1 and row_pred.label == 1:
-                                pred_label = 0
-                            elif labels[idx2] == 0 and row_pred.label == 0:
-                                # Ignore cases when Paragraph predicts no
-                                # paratope and it's outside the H-L interface
-                                pred_label = -100
-                            #pred_label = row_pred.label
+                            pred_label = row_pred.label
                         else:
                             print(f"WARNING: {row.pdb} {pos} mismatch, VCAb "
                                   f"{vcab_res}, Paragraph: {paragraph_res}")
@@ -242,6 +234,7 @@ def _compute_metrics(df):
         lambda l: list(map(int, l)))
     p_list = df.predicted_labels.str.split(",").apply(
         lambda l: list(map(int, l)))
+
     df1 = pd.concat(
         {"label": l_list, "pred": p_list}, axis=1).apply(
             pd.Series.explode).reset_index(drop=True)
