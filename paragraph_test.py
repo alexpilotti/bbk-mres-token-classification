@@ -343,6 +343,9 @@ def _compute_metrics(df):
         output_dict=True
     )
 
+    report["balanced_accuracy"] = metrics.balanced_accuracy_score(
+        labels, predictions)
+
     return report
 
 
