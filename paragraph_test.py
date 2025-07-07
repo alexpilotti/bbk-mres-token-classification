@@ -2,22 +2,82 @@ import concurrent
 import gzip
 import io
 import json
+import logging
 import os
 import time
 
+import numpy as np
 import pandas as pd
 import Paragraph
-from Paragraph.dataset import ParagraphDataset
+from Paragraph import dataset
 from Paragraph.model import EGNN_Model
 from Paragraph.predict import get_dataloader, evaluate_model
+from Paragraph import utils
 import requests
 from sklearn import metrics
 import torch
+from torch.utils import data as torch_data
+
+LOG = logging.getLogger(__name__)
+
 
 A3TO1 = {'CYS': 'C', 'ASP': 'D', 'SER': 'S', 'GLN': 'Q', 'LYS': 'K',
          'ILE': 'I', 'PRO': 'P', 'THR': 'T', 'PHE': 'F', 'ASN': 'N',
          'GLY': 'G', 'HIS': 'H', 'LEU': 'L', 'ARG': 'R', 'TRP': 'W',
          'ALA': 'A', 'VAL':'V', 'GLU': 'E', 'TYR': 'Y', 'MET': 'M'}
+
+
+REGIONS = {
+    "FR1": [1, 26],
+    "CDR1": [27, 38],
+    "FR2": [39, 55],
+    "CDR2": [56, 65],
+    "FR3": [66, 104],
+    "CDR3": [105, 117],
+    "FR4": [118, 129]
+    }
+
+
+def _filter_list(l, exclude_idxs):
+    return [item for i, item in enumerate(l) if i not in exclude_idxs]
+
+
+class IMGTParagraphDataset(dataset.ParagraphDataset):
+    def __init__(self, pdb_H_L_csv, pdb_folder_path, search_area, data):
+        super().__init__(pdb_H_L_csv, pdb_folder_path, search_area)
+        self._data = data
+
+
+    def _load_pdb_data(self, index):
+
+        # read in data from csv
+        pdb_code = self.df_key.iloc[index]["pdb_code"]
+        H_id = self.df_key.iloc[index]["H_id"]
+        L_id = self.df_key.iloc[index]["L_id"]
+
+        # read in and process imgt numbered pdb file - keep all atoms
+        pdb_path = os.path.join(self.pdb_folder_path, pdb_code + ".pdb")
+        df = utils.format_pdb(pdb_path)
+
+        # TODO: fix for both chains
+        chain_type = "H"
+        row = self._data[(self._data.pdb == pdb_code) & (self._data.heavy == H_id)].iloc[0]
+        pdb_numbering = row[f"pdb_numbering_{chain_type}"].split(",")
+        IMGT_numbering = row[f"positions_{chain_type}"].split(",")
+        pdb_numbering_map = {val: idx for idx, val in enumerate(pdb_numbering)}
+
+        def _get_imgt(pos):
+            idx = pdb_numbering_map.get(pos)
+            if idx:
+                return IMGT_numbering[idx]
+            else:
+                print(f"Missing PDB residue position in VCAb data: {pos}")
+
+        df.Res_Num = df.Res_Num.apply(lambda x: _get_imgt(x))
+        # Remove all rows with no IMGT position
+        df = df[~df.Res_Num.isna()]
+
+        return df
 
 
 def _load_data():
@@ -69,7 +129,7 @@ def _save_csv(data, csv_path, chain):
         data.light = ""
     data[["pdb", "heavy", "light"]].to_csv(csv_path, index=False, header=False)
 
-def _run_paragraph(chain):
+def _run_paragraph(chain, data):
     src_path = os.path.dirname(Paragraph.__file__)
     base_dir = os.getcwd()
 
@@ -98,7 +158,9 @@ def _run_paragraph(chain):
 
     # examine dataset object contents
 
-    ds = ParagraphDataset(pdb_H_L_csv=pdb_H_L_csv, pdb_folder_path=pdb_folder_path)
+    search_area = "IMGT_CDRplus2"
+
+    ds = IMGTParagraphDataset(pdb_H_L_csv, pdb_folder_path, search_area, data)
 
     (feats, coors, edges), (pdb_code, AAs, AtomNum, chain, chain_type, IMGT, x, y, z) = ds.__getitem__(0)
     print(pdb_code)
@@ -146,7 +208,11 @@ def _run_paragraph(chain):
     # weights and predictions paths
 
 
-    dl = get_dataloader(pdb_H_L_csv, pdb_folder_path)
+    #dl = get_dataloader(pdb_H_L_csv, pdb_folder_path)
+
+    batch_size = 1
+    ds = IMGTParagraphDataset(pdb_H_L_csv, pdb_folder_path, search_area, data)
+    dl = torch_data.DataLoader(dataset=ds, batch_size=batch_size)
 
     saved_net = EGNN_Model(num_feats = num_feats,
                         graph_hidden_layer_output_dims = graph_hidden_layer_output_dims,
@@ -169,7 +235,20 @@ def _run_paragraph(chain):
     print("Total time to evaluate against test-set {:.3f}s".format(time.time()-start_time))
 
 
-def _process_paragraph_output(data, chain):
+def _get_num_pos(pos):
+    """Needed for positions with insertion codes, e.g. 110A."""
+    return int("".join(c for c in pos if c.isdigit()))
+
+
+def _get_all_fr_positions():
+    fr_positions = []
+    for i in range(1, 5):
+        fr_min, fr_max = REGIONS[f"FR{i}"]
+        fr_positions += list(range(fr_min, fr_max + 1))
+    return fr_positions
+
+
+def _process_paragraph_output(data, chain, zero_fr_positions):
     df_pred = pd.read_csv("predictions.csv")
     #df_pred["A"] = df_pred.AA.apply(lambda x: A3TO1[x])
     df_pred["label"] = df_pred.pred.apply(lambda x: 1 if x >= 0.734 else 0)
@@ -180,8 +259,12 @@ def _process_paragraph_output(data, chain):
                  f"positions_{chain}":  "positions"})
     results_df["predicted_labels"] = ""
 
+    fr_positions = _get_all_fr_positions()
+
     for idx in data.index:
         row = data.loc[idx]
+        print(f"Processing PDB: {row.pdb}")
+
         pred_labels = []
 
         chain_columns = {"H": "heavy", "L": "light"}
@@ -196,11 +279,11 @@ def _process_paragraph_output(data, chain):
                         (df_pred.chain_type == c) &
                         (df_pred.chain_id == chain_id)]
 
-            pdb_numbering = row[f"pdb_numbering_{c}"].split(",")
+            imgt_numbering = row[f"positions_{c}"].split(",")
             labels = list(map(int, row[f"labels_{c}"].split(",")))
-            assert len(pdb_numbering) == len(labels)
+            assert len(imgt_numbering) == len(labels)
 
-            for idx2, pos in enumerate(pdb_numbering):
+            for idx2, pos in enumerate(imgt_numbering):
                 pred_label = -100
                 if pos != "":
                     df_pos = df[df.IMGT == pos]
@@ -214,9 +297,15 @@ def _process_paragraph_output(data, chain):
                             print(f"WARNING: {row.pdb} {pos} mismatch, VCAb "
                                   f"{vcab_res}, Paragraph: {paragraph_res}")
                             pred_label = -100
+                    elif zero_fr_positions:
+                        # Set 0 for all missing FR positions
+                        if _get_num_pos(pos) in fr_positions:
+                            pred_label = 0
+
+
                 pred_labels.append(pred_label)
 
-            df_extra_pos = df[~df.IMGT.isin(pdb_numbering)]
+            df_extra_pos = df[~df.IMGT.isin(imgt_numbering)]
             if len(df_extra_pos):
                 print(f"Extra predicted positions not in data: {df_extra_pos}")
 
@@ -239,8 +328,10 @@ def _compute_metrics(df):
         {"label": l_list, "pred": p_list}, axis=1).apply(
             pd.Series.explode).reset_index(drop=True)
 
-    # Skip all cases where either the labels or the predictions are missing
-    df1 = df1[(df1.label != - 100) & (df1.pred != - 100)]
+    ## Skip all cases where either the labels or the predictions are missing
+    #df1 = df1[(df1.label != - 100) & (df1.pred != - 100)]
+    # Skip all cases where the labels are missing
+    df1 = df1[(df1.label != - 100)]
     labels = df1.label.tolist()
     predictions = df1.pred.tolist()
 
@@ -255,14 +346,57 @@ def _compute_metrics(df):
     return report
 
 
-if __name__ == "__main__":
-    chain = "H"
+def _filter_region_data(data, region):
+    if region not in REGIONS:
+        raise Exception(f'Invalid region name: "{region}". '
+                        f'Valid options are: {", ".join(REGIONS.keys())}')
 
-    data = _load_data()
-    _fetch_pdbs(data)
-    _save_csv(data, "data.csv", chain)
-    _run_paragraph(chain)
-    df = _process_paragraph_output(data, chain)
+    region_range = range(*REGIONS[region])
+
+    LOG.info(f"Retrieving residues in region {region}, "
+             f"between positions: {region_range[0]}-{region_range[-1]}")
+
+    data["positions_num"] = data["positions"].apply(
+        lambda x: list(map(_get_num_pos, x.split(","))))
+
+    data.labels = df.labels.str.split(",").apply(
+        lambda l: list(map(int, l)))
+    data.predicted_labels = df.predicted_labels.str.split(",").apply(
+        lambda l: list(map(int, l)))
+
+    #data["sequence"] = data.apply(
+    #    lambda row: "".join(
+    #        row["sequence"][i] for i, pos in enumerate(row["positions_num"])
+    #        if pos in region_range),
+    #    axis=1)
+
+    data["labels"] = data.apply(
+        lambda row:
+            ",".join([str(row["labels"][i]) for i, pos in enumerate(row["positions_num"])
+             if pos in region_range]),
+        axis=1)
+
+    data["predicted_labels"] = data.apply(
+        lambda row:
+            ",".join([str(row["predicted_labels"][i]) for i, pos in enumerate(row["positions_num"])
+             if pos in region_range]),
+        axis=1)
+
+    data["positions"] = data["positions"].apply(
+        lambda x: ",".join(
+            [pos for pos in x.split(",")
+             if _get_num_pos(pos) in region_range]))
+
+    data = data.drop('positions_num', axis=1)
+
+    return data
+
+
+def _save_metrics(df, region, report_path):
+
+    if region != "FULL":
+        df = _filter_region_data(df.copy(), region)
+
     report = _compute_metrics(df)
 
     report['model_name'] = "Paragraph"
@@ -270,9 +404,24 @@ if __name__ == "__main__":
     report['num_parameters'] = 0
     report['test_loss'] = 0
 
-    report_path = f"prediction_metrics_Paragraph_{chain}.json"
     with open(report_path, 'w') as f:
         json.dump(report, f, indent=4)
 
-    df.to_parquet(
-        f"token_prediction_Paragraph_{chain}.parquet", index=False)
+
+if __name__ == "__main__":
+    chain = "H"
+
+    zero_fr_positions = True
+
+    data = _load_data()
+    _fetch_pdbs(data)
+    _save_csv(data, "data.csv", chain)
+    _run_paragraph(chain, data)
+    out_data_path = f"token_prediction_Paragraph_{chain}.parquet"
+    df = _process_paragraph_output(data, chain, zero_fr_positions)
+    df.to_parquet(out_data_path, index=False)
+
+    df = pd.read_parquet(out_data_path)
+    for region in list(REGIONS.keys()) + ["FULL"]:
+        report_path = f"token_predict_metrics_Paragraph_{chain}_FULL_{region}_PT.json"
+        _save_metrics(df, region, report_path)
