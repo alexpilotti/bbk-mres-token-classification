@@ -258,6 +258,7 @@ def _process_paragraph_output(data, chain, zero_fr_positions):
         columns={f"labels_{chain}": "labels",
                  f"positions_{chain}":  "positions"})
     results_df["predicted_labels"] = ""
+    results_df["probs"] = ""
 
     fr_positions = _get_all_fr_positions()
 
@@ -266,6 +267,7 @@ def _process_paragraph_output(data, chain, zero_fr_positions):
         print(f"Processing PDB: {row.pdb}")
 
         pred_labels = []
+        probs = []
 
         chain_columns = {"H": "heavy", "L": "light"}
 
@@ -285,6 +287,7 @@ def _process_paragraph_output(data, chain, zero_fr_positions):
 
             for idx2, pos in enumerate(imgt_numbering):
                 pred_label = -100
+                prob = 0
                 if pos != "":
                     df_pos = df[df.IMGT == pos]
                     if len(df_pos):
@@ -293,6 +296,7 @@ def _process_paragraph_output(data, chain, zero_fr_positions):
                         paragraph_res = A3TO1[row_pred.AA]
                         if paragraph_res == vcab_res:
                             pred_label = row_pred.label
+                            prob = row_pred.pred
                         else:
                             print(f"WARNING: {row.pdb} {pos} mismatch, VCAb "
                                   f"{vcab_res}, Paragraph: {paragraph_res}")
@@ -302,7 +306,7 @@ def _process_paragraph_output(data, chain, zero_fr_positions):
                         if _get_num_pos(pos) in fr_positions:
                             pred_label = 0
 
-
+                probs.append(prob)
                 pred_labels.append(pred_label)
 
             df_extra_pos = df[~df.IMGT.isin(imgt_numbering)]
@@ -311,6 +315,8 @@ def _process_paragraph_output(data, chain, zero_fr_positions):
 
         results_df.loc[idx, "predicted_labels"] = ",".join(
             str(l) for l in pred_labels)
+        results_df.loc[idx, "probs"] = ",".join(
+            str(l) for l in probs)
 
     return results_df
 
@@ -319,13 +325,15 @@ def _compute_metrics(df):
     labels = []
     predictions = []
 
-    l_list = df.labels.str.split(",").apply(
+    labs = df.labels.str.split(",").apply(
         lambda l: list(map(int, l)))
-    p_list = df.predicted_labels.str.split(",").apply(
+    preds = df.predicted_labels.str.split(",").apply(
         lambda l: list(map(int, l)))
+    probs = df.probs.str.split(",").apply(
+        lambda l: list(map(float, l)))
 
     df1 = pd.concat(
-        {"label": l_list, "pred": p_list}, axis=1).apply(
+        {"label": labs, "pred": preds, "prob": probs}, axis=1).apply(
             pd.Series.explode).reset_index(drop=True)
 
     ## Skip all cases where either the labels or the predictions are missing
@@ -334,6 +342,7 @@ def _compute_metrics(df):
     df1 = df1[(df1.label != - 100)]
     labels = df1.label.tolist()
     predictions = df1.pred.tolist()
+    probs = df1.prob.tolist()
 
     report = metrics.classification_report(
         y_true=labels,
@@ -343,8 +352,18 @@ def _compute_metrics(df):
         output_dict=True
     )
 
+    if len(set(labels)) > 1:
+        # AUC is undefined if there's a single class
+        auc = metrics.roc_auc_score(labels, probs)
+    else:
+        auc = 0
+
+    report["apr"] = metrics.average_precision_score(
+        labels, probs, pos_label=1)
     report["balanced_accuracy"] = metrics.balanced_accuracy_score(
         labels, predictions)
+    report["auc"] = auc
+    report["mcc"] = metrics.matthews_corrcoef(labels, predictions)
 
     return report
 
@@ -366,6 +385,8 @@ def _filter_region_data(data, region):
         lambda l: list(map(int, l)))
     data.predicted_labels = df.predicted_labels.str.split(",").apply(
         lambda l: list(map(int, l)))
+    data.probs = df.probs.str.split(",").apply(
+        lambda l: list(map(float, l)))
 
     #data["sequence"] = data.apply(
     #    lambda row: "".join(
@@ -382,6 +403,12 @@ def _filter_region_data(data, region):
     data["predicted_labels"] = data.apply(
         lambda row:
             ",".join([str(row["predicted_labels"][i]) for i, pos in enumerate(row["positions_num"])
+             if pos in region_range]),
+        axis=1)
+
+    data["probs"] = data.apply(
+        lambda row:
+            ",".join([str(row["probs"][i]) for i, pos in enumerate(row["positions_num"])
              if pos in region_range]),
         axis=1)
 
