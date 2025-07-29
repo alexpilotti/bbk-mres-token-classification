@@ -321,6 +321,12 @@ def _process_paragraph_output(data, chain, zero_fr_positions):
     return results_df
 
 
+def _false_positive_rate(y_true, y_pred):
+    tn, fp, _, _ = metrics.confusion_matrix(
+        y_true, y_pred, labels=[0, 1]).ravel()
+    return fp / (fp + tn)
+
+
 def _compute_metrics(df):
     labels = []
     predictions = []
@@ -364,6 +370,7 @@ def _compute_metrics(df):
         labels, predictions)
     report["auc"] = auc
     report["mcc"] = metrics.matthews_corrcoef(labels, predictions)
+    report["fpr"] = _false_positive_rate(labels, predictions)
 
     return report
 
