@@ -371,6 +371,8 @@ def _compute_metrics(df):
     report["auc"] = auc
     report["mcc"] = metrics.matthews_corrcoef(labels, predictions)
     report["fpr"] = _false_positive_rate(labels, predictions)
+    report["f1_weighted"] = metrics.f1_score(
+        labels, predictions, average="weighted")
 
     return report
 
