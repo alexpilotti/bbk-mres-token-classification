@@ -81,10 +81,26 @@ def _get_paratope_residues_per_region(data, dataset, chain):
     return {"totals": paratope_totals, "perc_in_region": paratope_perc}
 
 
+def _get_labels_count(data):
+    data = data.copy()
+
+    data.labels = data.labels_HL.apply(lambda x: list(map(int, x.split(","))))
+    data.labels_0 = data.labels.apply(lambda x: x.count(0))
+    data.labels_1 = data.labels.apply(lambda x: x.count(1))
+    data.labels_unk = data.labels.apply(lambda x: x.count(-100))
+
+    return {0: data.labels_0.sum(),
+            1: data.labels_1.sum(),
+            -100: data.labels_unk.sum()}
+
+
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
 
     data = pd.read_parquet('tokens_data.parquet')
+
+    label_counts = _get_labels_count(data)
+    LOG.info(f"Total residue labels: {label_counts}")
 
     paratope_totals = {}
 
