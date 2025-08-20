@@ -27,7 +27,7 @@ def _filter_region_data(data, region):
         raise Exception(f'Invalid region name: "{region}". '
                         f'Valid options are: {", ".join(REGIONS.keys())}')
 
-    region_range = range(*REGIONS[region])
+    region_range = range(REGIONS[region][0], REGIONS[region][1] + 1)
 
     LOG.info(f"Retrieving residues in region {region}, "
              f"between positions: {region_range[0]}-{region_range[-1]}")
@@ -113,6 +113,14 @@ if __name__ == "__main__":
                     data, dataset, chain)
 
     LOG.info(paratope_totals)
+
+    totals = 0
+    for ds in paratope_totals.keys():
+        for c in paratope_totals[ds].keys():
+            totals += sum(
+                list(paratope_totals[ds][c]["totals"].values()))
+
+    assert totals == label_counts[1]
 
     with open("paratope_residues_per_region.json", "w") as f:
         json.dump(paratope_totals, f)
