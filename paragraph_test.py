@@ -4,6 +4,7 @@ import io
 import json
 import logging
 import os
+import sys
 import time
 
 import numpy as np
@@ -38,32 +39,35 @@ REGIONS = {
     }
 
 
+CHAIN_COLUMNS = {"H": "heavy", "L": "light"}
+
+
 def _filter_list(l, exclude_idxs):
     return [item for i, item in enumerate(l) if i not in exclude_idxs]
 
 
 class IMGTParagraphDataset(dataset.ParagraphDataset):
-    def __init__(self, pdb_H_L_csv, pdb_folder_path, search_area, data):
+    def __init__(self, pdb_H_L_csv, pdb_folder_path, search_area, data, chain):
         super().__init__(pdb_H_L_csv, pdb_folder_path, search_area)
         self._data = data
+        self._chain = chain
 
 
     def _load_pdb_data(self, index):
 
         # read in data from csv
         pdb_code = self.df_key.iloc[index]["pdb_code"]
-        H_id = self.df_key.iloc[index]["H_id"]
-        L_id = self.df_key.iloc[index]["L_id"]
 
         # read in and process imgt numbered pdb file - keep all atoms
         pdb_path = os.path.join(self.pdb_folder_path, pdb_code + ".pdb")
         df = utils.format_pdb(pdb_path)
 
-        # TODO: fix for both chains
-        chain_type = "H"
-        row = self._data[(self._data.pdb == pdb_code) & (self._data.heavy == H_id)].iloc[0]
-        pdb_numbering = row[f"pdb_numbering_{chain_type}"].split(",")
-        IMGT_numbering = row[f"positions_{chain_type}"].split(",")
+        chain_id = self.df_key.iloc[index][f"{self._chain}_id"]
+
+        row = self._data[(self._data.pdb == pdb_code) & (
+            self._data[CHAIN_COLUMNS[self._chain]] == chain_id)].iloc[0]
+        pdb_numbering = row[f"pdb_numbering_{self._chain}"].split(",")
+        IMGT_numbering = row[f"positions_{self._chain}"].split(",")
         pdb_numbering_map = {val: idx for idx, val in enumerate(pdb_numbering)}
 
         def _get_imgt(pos):
@@ -129,9 +133,9 @@ def _save_csv(data, csv_path, chain):
         data.light = ""
     data[["pdb", "heavy", "light"]].to_csv(csv_path, index=False, header=False)
 
-def _run_paragraph(chain, data):
+def _run_paragraph(chain, data, pdb_folder_path, pdb_H_L_csv,
+                   predictions_output_path):
     src_path = os.path.dirname(Paragraph.__file__)
-    base_dir = os.getcwd()
 
     trained_model_path = os.path.join(src_path, "trained_model")
 
@@ -143,10 +147,6 @@ def _run_paragraph(chain, data):
         model_file = "pretrained_weights.pt"
 
     saved_model_path = os.path.join(trained_model_path, model_file)
-
-    pdb_folder_path = os.path.join(base_dir, "pdbs")
-    pdb_H_L_csv = os.path.join(base_dir, "data.csv")
-    predictions_output_path = os.path.join(base_dir, "predictions.csv")
 
     # fix seed
     seed = 42
@@ -160,9 +160,10 @@ def _run_paragraph(chain, data):
 
     search_area = "IMGT_CDRplus2"
 
-    ds = IMGTParagraphDataset(pdb_H_L_csv, pdb_folder_path, search_area, data)
+    ds = IMGTParagraphDataset(pdb_H_L_csv, pdb_folder_path, search_area, data,
+                              chain)
 
-    (feats, coors, edges), (pdb_code, AAs, AtomNum, chain, chain_type, IMGT, x, y, z) = ds.__getitem__(0)
+    (feats, coors, edges), (pdb_code, AAs, AtomNum, chains, chain_types, IMGT, x, y, z) = ds.__getitem__(0)
     print(pdb_code)
     print("Co-ordinate dimensions: \t{}".format(coors.shape))
     print("Node feature dimensions: \t{}".format(feats.shape))
@@ -211,7 +212,8 @@ def _run_paragraph(chain, data):
     #dl = get_dataloader(pdb_H_L_csv, pdb_folder_path)
 
     batch_size = 1
-    ds = IMGTParagraphDataset(pdb_H_L_csv, pdb_folder_path, search_area, data)
+    ds = IMGTParagraphDataset(pdb_H_L_csv, pdb_folder_path, search_area, data,
+                              chain)
     dl = torch_data.DataLoader(dataset=ds, batch_size=batch_size)
 
     saved_net = EGNN_Model(num_feats = num_feats,
@@ -248,8 +250,9 @@ def _get_all_fr_positions():
     return fr_positions
 
 
-def _process_paragraph_output(data, chain, zero_fr_positions):
-    df_pred = pd.read_csv("predictions.csv")
+def _process_paragraph_output(data, chain, zero_fr_positions,
+                              predictions_output_path):
+    df_pred = pd.read_csv(predictions_output_path)
     #df_pred["A"] = df_pred.AA.apply(lambda x: A3TO1[x])
     df_pred["label"] = df_pred.pred.apply(lambda x: 1 if x >= 0.734 else 0)
 
@@ -269,11 +272,10 @@ def _process_paragraph_output(data, chain, zero_fr_positions):
         pred_labels = []
         probs = []
 
-        chain_columns = {"H": "heavy", "L": "light"}
 
-        for c in chain_columns.keys():
+        for c in CHAIN_COLUMNS.keys():
             if c in chain :
-                chain_id = row[chain_columns[c]]
+                chain_id = row[CHAIN_COLUMNS[c]]
             else:
                 continue
 
@@ -448,16 +450,23 @@ def _save_metrics(df, region, report_path):
 
 
 if __name__ == "__main__":
-    chain = "H"
+    chain = sys.argv[1] if len(sys.argv) > 1 else "H"
 
     zero_fr_positions = True
 
+    base_dir = os.getcwd()
+    pdb_folder_path = os.path.join(base_dir, "pdbs")
+    pdb_H_L_csv = os.path.join(base_dir, f"data_{chain}.csv")
+    predictions_output_path = os.path.join(base_dir, f"predictions_{chain}.csv")
+
     data = _load_data()
     _fetch_pdbs(data)
-    _save_csv(data, "data.csv", chain)
-    _run_paragraph(chain, data)
+    _save_csv(data, pdb_H_L_csv, chain)
+    _run_paragraph(chain, data, pdb_folder_path, pdb_H_L_csv,
+                   predictions_output_path)
     out_data_path = f"token_prediction_Paragraph_{chain}.parquet"
-    df = _process_paragraph_output(data, chain, zero_fr_positions)
+    df = _process_paragraph_output(data, chain, zero_fr_positions,
+                                   predictions_output_path)
     df.to_parquet(out_data_path, index=False)
 
     df = pd.read_parquet(out_data_path)
