@@ -366,7 +366,7 @@ def _compute_metrics(df):
     else:
         auc = 0
 
-    report["apr"] = metrics.average_precision_score(
+    report["ap"] = metrics.average_precision_score(
         labels, probs, pos_label=1)
     report["balanced_accuracy"] = metrics.balanced_accuracy_score(
         labels, predictions)
